@@ -1,0 +1,12 @@
+
+EveryQuestDB = nil
+EQ2DB = {
+	["profileKeys"] = {
+		["Itirae - Single Player Project"] = "global",
+	},
+	["profiles"] = {
+		["global"] = {
+			["querytime"] = 1508705799,
+		},
+	},
+}

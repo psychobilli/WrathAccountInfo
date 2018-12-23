@@ -1,0 +1,8 @@
+Version: 1
+Frame: LootFrame
+FrameLevel: 4
+Anchor: BOTTOM
+X: 26
+Y: 136
+W: 256
+H: 256

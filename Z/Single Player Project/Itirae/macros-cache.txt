@@ -1,0 +1,5 @@
+MACRO 16777217 "Follow Orick" Ability_SteelMelee
+/target Orick
+/follow Orick
+/assist Orick
+END

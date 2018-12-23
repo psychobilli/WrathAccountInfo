@@ -1,0 +1,145 @@
+
+EveryQuestDBPC = nil
+EQ2DBPC = {
+	["profileKeys"] = {
+		["Orick - Single Player Project"] = "global",
+	},
+	["profiles"] = {
+		["global"] = {
+			["posx"] = 291.0815815315062,
+			["zonegroup"] = "Eastern Kingdoms",
+			["posy"] = 847.9407744622353,
+			["dbversion"] = 4,
+			["zoneid"] = 1,
+			["history"] = {
+				[315] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[420] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[313] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[3364] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[412] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[3361] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[291] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[384] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[317] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[179] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[170] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[310] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[287] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[182] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[318] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[311] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[319] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[5541] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[233] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[3365] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[320] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[2160] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[218] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[282] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[403] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[183] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[234] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[314] = {
+					["status"] = 0,
+				},
+				[415] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[3106] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[400] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[308] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+			},
+		},
+	},
+}

@@ -1,0 +1,4 @@
+MACRO 16777217 "Follow Ashia" Ability_SteelMelee
+/target Ashia
+/follow Ashia
+END

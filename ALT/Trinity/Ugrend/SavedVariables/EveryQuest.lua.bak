@@ -1,0 +1,94 @@
+
+EveryQuestDBPC = nil
+EQ2DBPC = {
+	["profileKeys"] = {
+		["Ugrend - Trinity"] = "global",
+	},
+	["profiles"] = {
+		["global"] = {
+			["history"] = {
+				[-372] = {
+					[12706] = {
+						["status"] = 2,
+						["completed"] = 1533522661,
+					},
+					[12714] = {
+						["status"] = 0,
+					},
+					[12700] = {
+						["status"] = 2,
+						["completed"] = 1533522099,
+					},
+					[12848] = {
+						["status"] = 2,
+						["completed"] = 1533520116,
+					},
+					[12670] = {
+						["status"] = 2,
+						["completed"] = 1533520590,
+					},
+					[12678] = {
+						["status"] = 2,
+						["completed"] = 1533521287,
+					},
+					[12593] = {
+						["status"] = 2,
+						["completed"] = 1533519961,
+					},
+					[12733] = {
+						["status"] = 2,
+						["completed"] = 1533521369,
+					},
+					[12679] = {
+						["status"] = 2,
+						["completed"] = 1533521340,
+					},
+					[12842] = {
+						["status"] = 2,
+						["completed"] = 1533520033,
+					},
+					[12850] = {
+						["status"] = 2,
+						["completed"] = 1533520558,
+					},
+					[12641] = {
+						["status"] = 2,
+						["completed"] = 1533520506,
+					},
+					[12680] = {
+						["status"] = 2,
+						["completed"] = 1533521280,
+					},
+					[12657] = {
+						["status"] = 2,
+						["completed"] = 1533520536,
+					},
+					[12619] = {
+						["status"] = 2,
+						["completed"] = 1533520003,
+					},
+					[12697] = {
+						["status"] = 2,
+						["completed"] = 1533521589,
+					},
+					[12701] = {
+						["status"] = 2,
+						["completed"] = 1533522580,
+					},
+					[12698] = {
+						["status"] = 2,
+						["completed"] = 1533522079,
+					},
+					[12636] = {
+						["status"] = 2,
+						["completed"] = 1533520146,
+					},
+					[12687] = {
+						["status"] = 2,
+						["completed"] = 1533521551,
+					},
+				},
+			},
+		},
+	},
+}

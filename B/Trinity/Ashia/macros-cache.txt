@@ -1,0 +1,7 @@
+MACRO 16777217 "Follow Taktoo" Ability_SteelMelee
+/follow Taktoo
+/assist Taktoo
+END
+MACRO 16777219 "Summon Mats" Spell_Holy_Chastise
+.add 21877 4
+END

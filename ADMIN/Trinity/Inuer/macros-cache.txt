@@ -1,0 +1,19 @@
+MACRO 16777218 "Add Primals" Spell_Shaman_BlessingOfTheEternals
+.add 22451
+.add 22452
+.add 21885
+.add 21884
+.add 22457
+END
+MACRO 16777217 "Follow Ashia" Ability_SteelMelee
+/target Ashia
+/follow Ashia
+END
+MACRO 16777220 "lua test" Ability_Creature_Cursed_01
+/run function getHP() local mhp = UnitHealthMax("player") end 
+.modify hp ( getHP()  )
+END
+MACRO 16777219 "Unit Health" Ability_Creature_Cursed_04
+/run print((UnitHealthMax("player")))
+.modify hp %(UnitHealthMax("player"))
+END

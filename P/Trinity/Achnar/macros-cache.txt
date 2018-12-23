@@ -1,0 +1,4 @@
+MACRO 16777217 "Follow Irrae" Ability_SteelMelee
+/target Irrae
+/follow Irrae
+END

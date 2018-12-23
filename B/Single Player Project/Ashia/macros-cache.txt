@@ -1,0 +1,8 @@
+MACRO 16777218 "Attack" INV_Misc_QuestionMark
+/castsequence Curse of Agony, Corruption, Immolate, Shadow Bolt
+END
+MACRO 16777217 "Follow Ashia" Ability_SteelMelee
+/target Taktoo
+/follow Taktoo
+/assist Taktoo
+END

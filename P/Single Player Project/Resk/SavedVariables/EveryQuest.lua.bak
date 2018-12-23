@@ -1,0 +1,11 @@
+
+EveryQuestDBPC = nil
+EQ2DBPC = {
+	["profileKeys"] = {
+		["Resk - Single Player Project"] = "global",
+	},
+	["profiles"] = {
+		["global"] = {
+		},
+	},
+}

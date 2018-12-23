@@ -1,0 +1,8 @@
+MACRO 16777217 "Follow Orick" Ability_SteelMelee
+/target Itirae
+/follow Itirae
+END
+MACRO 16777218 "Full Rage" Ability_BullRush
+.revive
+.modify rage 100
+END

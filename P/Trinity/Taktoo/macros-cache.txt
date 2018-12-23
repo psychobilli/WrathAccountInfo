@@ -1,0 +1,14 @@
+MACRO 16777218 "Add Primals" Spell_Shaman_BlessingOfTheEternals
+.add 22451
+.add 22452
+.add 21885
+.add 21884
+.add 22457
+END
+MACRO 16777217 "Follow Ashia" Ability_SteelMelee
+/follow Ashia
+/assist Ashia
+END
+MACRO 16777219 "Set Rage" Ability_Racial_BloodRage
+.modify rage 100
+END

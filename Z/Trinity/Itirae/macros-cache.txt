@@ -1,0 +1,8 @@
+MACRO 16777217 "Follow Orick" Ability_SteelMelee
+/follow Orick
+/assist Orick
+END
+MACRO 16777218 "heal target" Ability_Druid_Flourish
+/tar Weegli
+/cast Flash Heal
+END

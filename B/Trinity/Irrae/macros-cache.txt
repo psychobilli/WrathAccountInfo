@@ -1,0 +1,8 @@
+MACRO 16777217 "Follow Achnar" Ability_SteelMelee
+/target Achnar
+/follow Achnar
+/assist Achnar
+END
+MACRO 16777219 "Summon Mats" Spell_Holy_Chastise
+.add 21877 4
+END

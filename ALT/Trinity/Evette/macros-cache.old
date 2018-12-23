@@ -1,0 +1,3 @@
+MACRO 16777217 "Follow" Ability_SteelMelee
+/follow inuer
+END

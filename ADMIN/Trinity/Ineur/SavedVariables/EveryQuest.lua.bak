@@ -1,0 +1,11 @@
+
+EveryQuestDBPC = nil
+EQ2DBPC = {
+	["profileKeys"] = {
+		["Ineur - Trinity"] = "global",
+	},
+	["profiles"] = {
+		["global"] = {
+		},
+	},
+}

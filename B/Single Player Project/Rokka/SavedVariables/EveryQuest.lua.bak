@@ -1,0 +1,253 @@
+
+EveryQuestDBPC = nil
+EQ2DBPC = {
+	["profileKeys"] = {
+		["Ashia - Single Player Project"] = "global",
+	},
+	["profiles"] = {
+		["global"] = {
+			["zoneid"] = 85,
+			["history"] = {
+				[215] = {
+					[757] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[3376] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[763] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[780] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[767] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[753] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1656] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[750] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[752] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[24857] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[755] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[747] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+				},
+				[1497] = {
+					[357] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+				},
+				[-61] = {
+					[1478] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1473] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1471] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[3099] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+				},
+				[85] = {
+					[354] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[355] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[356] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[3901] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[358] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[359] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[360] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[361] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[362] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[426] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[364] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[365] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[492] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[367] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[368] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[369] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[370] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[371] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[372] = {
+						["status"] = 1,
+					},
+					[374] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[375] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[376] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[380] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[381] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[382] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[383] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[8] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[5481] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[398] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[6395] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[5482] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[404] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[405] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[407] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[408] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[409] = {
+						["status"] = 2,
+						["completed"] = 1508719694,
+					},
+					[411] = {
+						["status"] = 1,
+					},
+					[366] = {
+						["status"] = 2,
+						["completed"] = 1508719568,
+					},
+					[363] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[427] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[3902] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+				},
+			},
+			["zonegroup"] = "Eastern Kingdoms",
+		},
+	},
+}

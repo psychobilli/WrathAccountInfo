@@ -1,0 +1,112 @@
+MACRO 15 "Blasted Lands Q1" Ability_Hunter_RapidKilling
+.quest complete 2601
+.quest complete 2603
+.quest complete 2583
+.quest complete 2581
+.quest complete 2585
+END
+MACRO 13 "Broken Dailies" Ability_Warrior_Shockwave
+.quest complete 13003
+.quest complete 13046
+.quest complete 12760
+.quest complete 12703
+.quest complete 12759
+.quest complete 12734
+.quest complete 12704
+.quest complete 12761
+.quest complete 12762
+.quest complete 12705
+END
+MACRO 24 "Broken Dailies" Ability_Warrior_Sunder
+.quest complete 13809
+.quest complete 13811
+END
+MACRO 21 "Coilfang Gate" Ability_Mage_ShatterShield
+.gobject activate 32708
+END
+MACRO 10 "Cooking: Jabbey" Ability_Druid_BalanceofPower
+.add 16767
+END
+MACRO 8 "Cooking:Super-Se" Ability_Druid_BalanceofPower
+.add 4609
+.add 12227
+.add 12229
+.add 12233
+END
+MACRO 7 "Cooking:Vendor-T" Ability_Druid_BalanceofPower
+.add 5489
+.add 12231
+.add 12228
+.add 12232
+.add 12240
+END
+MACRO 20 "Dire Maul Cryst" Spell_Holy_BlessedLife
+.gobject activate 29742
+.gobject activate 29743
+.gobject activate 29744
+.gobject activate 29745
+.gobject activate 29746
+.gobject activate 29747
+END
+MACRO 22 "Drak Smn Kurzel" Spell_unused2
+.cast 49952
+END
+MACRO 12 "Full Heal" Ability_Druid_Flourish
+.revive
+END
+MACRO 17 "Grim Guzzler" Spell_Shadow_GhostKey
+.gobject activate 15298
+END
+MACRO 11 "Kill" Ability_Druid_FerociousBite
+.damage 1000000
+END
+MACRO 23 "Kiss" Spell_Holy_Silence
+/target Lake Frog
+/target Sara
+/kiss
+END
+MACRO 1 "Orgrimmar" Spell_Arcane_PortalOrgrimmar
+.tele 703
+END
+MACRO 16 "Ring of Law Gate" Spell_Nature_MoonKey
+.gobject activate 18280
+.gobject activate 15332
+.gobject activate 15295
+.gobject activate 15309
+END
+MACRO 5 "Set Level" Ability_Creature_Cursed_02
+.npc set level 10
+END
+MACRO 18 "Shadowforge Lock" Spell_Shadow_GrimWard
+.gobject activate 15351
+END
+MACRO 4 "Silvermoon" Spell_Arcane_PortalSilvermoon
+.tele 869
+END
+MACRO 9 "Statistics" Ability_Druid_ManaTree
+/run print("Fish Caught: ",GetStatistic(1456))
+/run print("Quests Done: ",GetStatistic(98) - GetStatistic(97))
+/run print("Total Gold acquired: ",GetStatistic(328))
+/run print("Gold looted: ",GetStatistic(333))
+END
+MACRO 6 "Target" Ability_Creature_Cursed_04
+/tar nobo
+END
+MACRO 2 "Thunder Bluff" Spell_Arcane_PortalThunderBluff
+.tele 1212
+END
+MACRO 14 "Tnris Itm Quests" Ability_Spy
+.add 9250
+.add 9251
+.add 9252
+.add 9253
+END
+MACRO 19 "UBRS Portcullis" Spell_Fire_SealOfFire
+.gobject activate 87844
+.gobject activate 87845
+.gobject activate 87854
+.gobject activate 87855
+END
+MACRO 3 "Under City" Spell_Arcane_PortalUnderCity
+.tele 1263
+END

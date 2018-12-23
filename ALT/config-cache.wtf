@@ -1,0 +1,7 @@
+SET autoLootDefault "1"
+SET flaggedTutorials "v##M##%##&##$##Z##1##:##9##I##D##0##J##V##K##X##6##[##(##)##\##5##A##B##+##Y##C##<##7##,##^##W##F##;##E##3##8##=##U##*##.##/##O##Q##]"
+SET lockActionBars "0"
+SET cameraDistanceMaxFactor "1"
+SET showNewbieTips "0"
+SET showTutorials "0"
+SET talentFrameShown "1"

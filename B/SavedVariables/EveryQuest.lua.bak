@@ -1,0 +1,12 @@
+
+EveryQuestDB = nil
+EQ2DB = {
+	["profileKeys"] = {
+		["Ashia - Single Player Project"] = "global",
+	},
+	["profiles"] = {
+		["global"] = {
+			["querytime"] = 1508719306,
+		},
+	},
+}

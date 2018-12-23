@@ -1,0 +1,5 @@
+MACRO 16777217 "Follow Ineur" Ability_SteelMelee
+/follow ineur
+/target ineur
+/assist ineur
+END

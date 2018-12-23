@@ -1,0 +1,3 @@
+MACRO 16777217 "info" Ability_CheapShot
+.npc info
+END

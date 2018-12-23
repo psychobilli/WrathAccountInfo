@@ -1,0 +1,9 @@
+MACRO 16777217 "Follow Sereta" Ability_SteelMelee
+/target Sereta
+/follow Sereta
+/assist Sereta
+END
+MACRO 16777218 "heal target" Ability_Druid_Flourish
+/tar Weegli
+/cast Flash Heal
+END
