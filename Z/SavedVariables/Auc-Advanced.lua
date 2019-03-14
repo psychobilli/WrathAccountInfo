@@ -7,11 +7,11 @@ AucAdvancedConfig = {
 			"BeanCount", -- [2]
 		},
 		["util.mover.anchors"] = {
-			"TOPLEFT", -- [1]
+			"LEFT", -- [1]
 			nil, -- [2]
-			"TOPLEFT", -- [3]
-			89.3480224564546, -- [4]
-			-101.4827155013561, -- [5]
+			"LEFT", -- [3]
+			86.97767040373296, -- [4]
+			94.97143622298371, -- [5]
 		},
 		["stat.sales.ignoredsigs"] = {
 		},
@@ -24,15 +24,15 @@ AucAdvancedData = {
 	["Stats"] = {
 	},
 	["UtilSearchUiData"] = {
-		["Global"] = {
-			["configator.left"] = 308.518546243212,
-			["configator.top"] = 676.6666686271009,
-		},
+		["Version"] = 1,
 		["Current"] = {
 			["snatch.itemsList"] = {
 			},
 		},
-		["Version"] = 1,
+		["Global"] = {
+			["configator.left"] = 308.518546243212,
+			["configator.top"] = 676.6666686271009,
+		},
 		["SavedSearches"] = {
 		},
 	},

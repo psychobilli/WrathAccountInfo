@@ -18,12 +18,5 @@ FrameLevel: 1
 Anchor: TOPRIGHT
 X: -296
 Y: -87
-W: 270
-H: 170
-Frame: AuctionFrame
-FrameLevel: 16
-Anchor: TOPLEFT
-X: 17
-Y: -58
-W: 832
-H: 447
+W: 128
+H: 64
