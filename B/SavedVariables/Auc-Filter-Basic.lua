@@ -2,11 +2,11 @@
 AucAdvancedFilterBasic = {
 }
 AucAdvancedFilterBasic_IgnoreList = {
-	["Single Player Project"] = {
+	["Trinity"] = {
 		["Horde"] = {
 		},
 	},
-	["Trinity"] = {
+	["Single Player Project"] = {
 		["Horde"] = {
 		},
 	},

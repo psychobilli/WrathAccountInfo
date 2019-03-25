@@ -140,7 +140,7 @@ BeanCounterDB = {
 			},
 			["completedAuctions"] = {
 			},
-			["wealth"] = 23143605,
+			["wealth"] = 23143510,
 			["postedAuctions"] = {
 			},
 			["completedBidsBuyoutsNeutral"] = {
