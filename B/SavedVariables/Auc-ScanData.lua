@@ -17,10 +17,10 @@ AucScanData = {
 							["qryinfo"] = {
 								["serverKey"] = "Single Player Project-Horde",
 								["finished"] = true,
-								["id"] = 0,
+								["sig"] = "#######",
 								["scanSize"] = "Full",
 								["page"] = 17,
-								["sig"] = "#######",
+								["id"] = 0,
 							},
 						},
 						["startTime"] = 1509308512,

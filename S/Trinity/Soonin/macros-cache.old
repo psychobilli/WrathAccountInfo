@@ -1,0 +1,8 @@
+MACRO 16777217 "Follow Ninsa" Ability_SteelMelee
+/target Ninsa
+/follow Ninsa
+END
+MACRO 16777218 "Full Rage" Ability_BullRush
+.revive
+.modify rage 100
+END
