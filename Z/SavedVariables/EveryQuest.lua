@@ -2,8 +2,8 @@
 EveryQuestDB = nil
 EQ2DB = {
 	["profileKeys"] = {
-		["Itirae - Trinity"] = "global",
 		["Merton - Trinity"] = "global",
+		["Itirae - Trinity"] = "global",
 		["Ninsa - Trinity"] = "global",
 		["Itirae - Single Player Project"] = "global",
 	},

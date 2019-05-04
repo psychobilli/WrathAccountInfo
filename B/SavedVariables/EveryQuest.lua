@@ -4,9 +4,9 @@ EQ2DB = {
 	["profileKeys"] = {
 		["Rokka - Single Player Project"] = "global",
 		["Rokka - Trinity"] = "global",
-		["Irrae - Trinity"] = "global",
-		["Ashia - Single Player Project"] = "global",
 		["Ashia - Trinity"] = "global",
+		["Ashia - Single Player Project"] = "global",
+		["Irrae - Trinity"] = "global",
 	},
 	["profiles"] = {
 		["global"] = {
