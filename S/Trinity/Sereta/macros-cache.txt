@@ -6,3 +6,6 @@ MACRO 16777218 "Full Rage" Ability_BullRush
 .revive
 .modify rage 100
 END
+MACRO 16777219 "invite" Ability_Druid_LunarGuidance
+/invite Merton
+END

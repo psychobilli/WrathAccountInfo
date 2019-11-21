@@ -2,3 +2,6 @@ MACRO 16777217 "Follow Ashia" Ability_SteelMelee
 /target Rokka
 /follow Rokka
 END
+MACRO 16777218 "spawn lockbox" Spell_Nature_MoonKey
+.add 13875
+END

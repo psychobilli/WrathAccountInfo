@@ -12,6 +12,15 @@ AucScanData = {
 					"return {}", -- [1]
 				},
 			},
+			["Alliance"] = {
+				["scanstats"] = {
+					["ImageUpdated"] = 1556505818,
+				},
+				["image"] = "rope",
+				["ropes"] = {
+					"return {}", -- [1]
+				},
+			},
 		},
 	},
 }

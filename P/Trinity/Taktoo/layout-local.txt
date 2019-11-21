@@ -1,9 +1,9 @@
 Version: 1
 Frame: LootFrame
 FrameLevel: 9
-Anchor: CENTER
-X: 308
-Y: -4
+Anchor: TOP
+X: 81
+Y: -137
 W: 256
 H: 256
 Frame: WorldMapScreenAnchor

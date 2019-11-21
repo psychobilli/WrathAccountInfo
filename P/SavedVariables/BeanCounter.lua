@@ -303,9 +303,9 @@ BeanCounterDB = {
 						"1;36842;0;720;1842;1509668842;", -- [1]
 					},
 				},
-				["14183"] = {
-					["item:14183:0:0:0:0:0:1024:0:80"] = {
-						"1;5130;0;720;255;1509325665;", -- [1]
+				["6587"] = {
+					["item:6587:0:0:0:0:0:848:0:80"] = {
+						"1;3438;0;720;171;1509505318;", -- [1]
 					},
 				},
 				["15130"] = {
@@ -343,9 +343,9 @@ BeanCounterDB = {
 						"1;5024;0;720;249;1509505327;", -- [2]
 					},
 				},
-				["6587"] = {
-					["item:6587:0:0:0:0:0:848:0:80"] = {
-						"1;3438;0;720;171;1509505318;", -- [1]
+				["14183"] = {
+					["item:14183:0:0:0:0:0:1024:0:80"] = {
+						"1;5130;0;720;255;1509325665;", -- [1]
 					},
 				},
 				["886"] = {
@@ -417,9 +417,9 @@ BeanCounterDB = {
 			},
 			["failedBids"] = {
 			},
+			["version"] = 2.12,
 			["failedBidsNeutral"] = {
 			},
-			["version"] = 2.12,
 			["faction"] = "Horde",
 			["completedBidsBuyouts"] = {
 			},
@@ -429,202 +429,202 @@ BeanCounterDB = {
 			},
 			["mailbox"] = {
 				{
-					["time"] = 29.75057792663574,
-					["sender"] = "Horde Auction House",
 					["subject"] = "Auction successful: Sage's Robe",
 					["read"] = 2,
+					["time"] = 29.75057792663574,
+					["sender"] = "Horde Auction House",
 				}, -- [1]
 				{
-					["time"] = 29.75057792663574,
-					["sender"] = "Horde Auction House",
 					["subject"] = "Auction successful: Mail Combat Belt",
 					["read"] = 1,
+					["time"] = 29.75057792663574,
+					["sender"] = "Horde Auction House",
 				}, -- [2]
 				{
-					["time"] = 29.75057792663574,
-					["sender"] = "Horde Auction House",
 					["subject"] = "Auction successful: Raincaller Mitts",
 					["read"] = 1,
-				}, -- [3]
-				{
 					["time"] = 29.75057792663574,
 					["sender"] = "Horde Auction House",
+				}, -- [3]
+				{
 					["subject"] = "Auction successful: Scaled Leather Belt",
 					["read"] = 1,
+					["time"] = 29.75057792663574,
+					["sender"] = "Horde Auction House",
 				}, -- [4]
 				{
-					["time"] = 29.6964111328125,
-					["sender"] = "Horde Auction House",
 					["subject"] = "Auction successful: Short Ash Bow",
 					["read"] = 1,
+					["time"] = 29.6964111328125,
+					["sender"] = "Horde Auction House",
 				}, -- [5]
 				{
-					["time"] = 29.69571685791016,
-					["sender"] = "Horde Auction House",
 					["subject"] = "Auction successful: Elder's Robe",
 					["read"] = 1,
+					["time"] = 29.69571685791016,
+					["sender"] = "Horde Auction House",
 				}, -- [6]
 				{
+					["subject"] = "Auction successful: Cabalist Bracers",
+					["read"] = 1,
 					["time"] = 29.68530082702637,
 					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Cabalist Bracers",
-					["read"] = 1,
 				}, -- [7]
 				{
-					["time"] = 29.68460655212402,
-					["sender"] = "Horde Auction House",
 					["subject"] = "Auction successful: Aurora Mantle",
 					["read"] = 1,
-				}, -- [8]
-				{
 					["time"] = 29.68460655212402,
 					["sender"] = "Horde Auction House",
+				}, -- [8]
+				{
 					["subject"] = "Auction successful: Chief Brigadier Coif",
 					["read"] = 1,
+					["time"] = 29.68460655212402,
+					["sender"] = "Horde Auction House",
 				}, -- [9]
 				{
-					["time"] = 29.68391227722168,
-					["sender"] = "Horde Auction House",
 					["subject"] = "Auction successful: Viscous Hammer",
 					["read"] = 1,
+					["time"] = 29.68391227722168,
+					["sender"] = "Horde Auction House",
 				}, -- [10]
 				{
-					["time"] = 29.68391227722168,
-					["sender"] = "Horde Auction House",
 					["subject"] = "Auction successful: Infiltrator Buckler",
 					["read"] = 1,
-				}, -- [11]
-				{
 					["time"] = 29.68391227722168,
 					["sender"] = "Horde Auction House",
+				}, -- [11]
+				{
 					["subject"] = "Auction successful: Brigade Boots",
 					["read"] = 1,
+					["time"] = 29.68391227722168,
+					["sender"] = "Horde Auction House",
 				}, -- [12]
 				{
-					["time"] = 29.68321800231934,
-					["sender"] = "Horde Auction House",
 					["subject"] = "Auction successful: Archaic Defender",
 					["read"] = 1,
+					["time"] = 29.68321800231934,
+					["sender"] = "Horde Auction House",
 				}, -- [13]
 				{
-					["time"] = 29.68321800231934,
-					["sender"] = "Horde Auction House",
 					["subject"] = "Auction successful: Trickster's Cloak",
 					["read"] = 1,
-				}, -- [14]
-				{
 					["time"] = 29.68321800231934,
 					["sender"] = "Horde Auction House",
+				}, -- [14]
+				{
 					["subject"] = "Auction successful: Deadwood Sledge",
 					["read"] = 1,
+					["time"] = 29.68321800231934,
+					["sender"] = "Horde Auction House",
 				}, -- [15]
 				{
+					["subject"] = "Learn to Ride in Mulgore",
+					["read"] = 1,
 					["time"] = 21.17136573791504,
 					["sender"] = "Kar Stormsinger",
-					["subject"] = "Learn to Ride in Mulgore",
-					["read"] = 1,
 				}, -- [16]
 				{
+					["subject"] = "",
+					["read"] = 1,
 					["time"] = 20.48229217529297,
 					["sender"] = "Turak Runetotem",
-					["subject"] = "",
-					["read"] = 1,
 				}, -- [17]
 				{
+					["subject"] = "",
+					["read"] = 1,
 					["time"] = 17.47788238525391,
 					["sender"] = "Turak Runetotem",
-					["subject"] = "",
-					["read"] = 1,
 				}, -- [18]
 				{
-					["time"] = 29.6655216217041,
-					["sender"] = "Horde Auction House",
 					["subject"] = "Auction successful: Embossed Plate Boots",
 					["read"] = 2,
+					["time"] = 29.6655216217041,
+					["sender"] = "Horde Auction House",
 				}, -- [19]
 				{
-					["time"] = 29.66482543945313,
-					["sender"] = "Horde Auction House",
 					["subject"] = "Auction successful: Dense Triangle Mace",
 					["read"] = 2,
+					["time"] = 29.66482543945313,
+					["sender"] = "Horde Auction House",
 				}, -- [20]
 				{
-					["time"] = 29.66482543945313,
-					["sender"] = "Horde Auction House",
 					["subject"] = "Auction successful: Cabalist Bracers",
 					["read"] = 2,
+					["time"] = 29.66482543945313,
+					["sender"] = "Horde Auction House",
 				}, -- [21]
 				{
-					["time"] = 29.66482543945313,
-					["sender"] = "Horde Auction House",
 					["subject"] = "Auction successful: Nightsky Armor",
 					["read"] = 1,
-				}, -- [22]
-				{
 					["time"] = 29.66482543945313,
 					["sender"] = "Horde Auction House",
+				}, -- [22]
+				{
 					["subject"] = "Auction successful: Raincaller Mantle",
 					["read"] = 1,
+					["time"] = 29.66482543945313,
+					["sender"] = "Horde Auction House",
 				}, -- [23]
 				{
-					["time"] = 29.62246513366699,
-					["sender"] = "Horde Auction House",
 					["subject"] = "Auction expired: Short Ash Bow",
 					["read"] = 1,
+					["time"] = 29.62246513366699,
+					["sender"] = "Horde Auction House",
 				}, -- [24]
 				{
-					["time"] = 29.66413116455078,
-					["sender"] = "Horde Auction House",
 					["subject"] = "Auction successful: Glimmering Mail Coif",
 					["read"] = 1,
+					["time"] = 29.66413116455078,
+					["sender"] = "Horde Auction House",
 				}, -- [25]
 				{
-					["time"] = 29.66343688964844,
-					["sender"] = "Horde Auction House",
 					["subject"] = "Auction successful: Cutthroat's Vest",
 					["read"] = 1,
+					["time"] = 29.66343688964844,
+					["sender"] = "Horde Auction House",
 				}, -- [26]
 				{
-					["time"] = 29.62177085876465,
-					["sender"] = "Horde Auction House",
 					["subject"] = "Auction expired: Elder's Robe",
 					["read"] = 1,
+					["time"] = 29.62177085876465,
+					["sender"] = "Horde Auction House",
 				}, -- [27]
 				{
-					["time"] = 29.66343688964844,
-					["sender"] = "Horde Auction House",
 					["subject"] = "Auction successful: Nightsky Cloak",
 					["read"] = 1,
+					["time"] = 29.66343688964844,
+					["sender"] = "Horde Auction House",
 				}, -- [28]
 				{
-					["time"] = 29.66343688964844,
-					["sender"] = "Horde Auction House",
 					["subject"] = "Auction successful: Nightsky Cloak",
 					["read"] = 1,
-				}, -- [29]
-				{
 					["time"] = 29.66343688964844,
 					["sender"] = "Horde Auction House",
+				}, -- [29]
+				{
 					["subject"] = "Auction successful: Scouting Trousers",
 					["read"] = 1,
+					["time"] = 29.66343688964844,
+					["sender"] = "Horde Auction House",
 				}, -- [30]
 				{
-					["time"] = 23.04385375976563,
-					["sender"] = "Kar Stormsinger",
 					["subject"] = "Learn to Ride in Mulgore",
 					["read"] = 1,
+					["time"] = 23.04385375976563,
+					["sender"] = "Kar Stormsinger",
 				}, -- [31]
 				{
+					["subject"] = "",
+					["read"] = 1,
 					["time"] = 22.35478019714356,
 					["sender"] = "Turak Runetotem",
-					["subject"] = "",
-					["read"] = 1,
 				}, -- [32]
 				{
-					["time"] = 19.35037040710449,
-					["sender"] = "Turak Runetotem",
 					["subject"] = "",
 					["read"] = 1,
+					["time"] = 19.35037040710449,
+					["sender"] = "Turak Runetotem",
 				}, -- [33]
 			},
 		},
@@ -648,10 +648,10 @@ BeanCounterDB = {
 			},
 			["completedBidsBuyouts"] = {
 			},
-			["version"] = 2.12,
-			["faction"] = "Horde",
 			["failedBidsNeutral"] = {
 			},
+			["faction"] = "Horde",
+			["version"] = 2.12,
 			["failedAuctionsNeutral"] = {
 			},
 			["completedAuctionsNeutral"] = {
@@ -661,821 +661,1241 @@ BeanCounterDB = {
 		},
 	},
 	["ItemIDArray"] = {
-		["10232:1044"] = "cff1eff00;Engraved Gauntlets of the Whale",
-		["13003:0"] = "cff0070dd;Lord Alexander's Battle Axe",
-		["8283:0"] = "cff1eff00;Arcane Armor",
-		["14970:1226"] = "cff1eff00;Glorious Legplates of the Bear",
-		["36471:-6"] = "cff1eff00;Ice Crystal of the Eagle",
-		["36268:-5"] = "cff1eff00;Ulduar Greaves of the Monkey",
-		["45493:0"] = "cffa335ee;Asimov's Drape",
-		["36271:-27"] = "cff1eff00;Ulduar Helm of Defense",
+		["12057:0"] = "cff1eff00;Dragonscale Band",
+		["9826:1812"] = "cff1eff00;Durable Robe of Arcane Wrath",
 		["25219:-6"] = "cff1eff00;Rending Claw of the Eagle",
-		["36043:-19"] = "cff1eff00;Crystalsong Sash of Intellect",
-		["7909:0"] = "cff1eff00;Aquamarine",
+		["14680:0"] = "cff1eff00;Indomitable Vest",
+		["790:585"] = "cff1eff00;Forester's Axe of the Monkey",
 		["15678:535"] = "cff1eff00;Triumphant Sabatons of the Wolf",
 		["12055:0"] = "cff1eff00;Stardust Band",
 		["6660:0"] = "cff0070dd;Julie's Dagger",
 		["10279:1224"] = "cff1eff00;Emerald Helm of the Bear",
-		["36554:-39"] = "cff1eff00;Cursed Staff of the Invoker",
 		["25048:-44"] = "cff1eff00;Smoky Quartz Ring of the Elder",
-		["36162:-14"] = "cff1eff00;Wendigo Bands of the Tiger",
-		["7990:0"] = "cff1eff00;Plans: Heavy Mithril Helm",
-		["15253:708"] = "cff1eff00;Beheading Blade of the Tiger",
-		["24900:-33"] = "cff1eff00;Sundered Spaulders of Frost Protection",
-		["32737:0"] = "cffa335ee;Plans: Swiftsteel Shoulders",
-		["36296:-67"] = "cff1eff00;Westguard Legplates of the Seer",
-		["8256:0"] = "cff1eff00;Serpentskin Boots",
-		["36387:-20"] = "cff1eff00;Revenant Belt of Power",
-		["1721:0"] = "cff0070dd;Viking Warhammer",
+		["39717:0"] = "cffa335ee;Inexorable Sabatons",
+		["2406:0"] = "cff1eff00;Pattern: Fine Leather Boots",
+		["24727:-33"] = "cff1eff00;Dementia Vest of Frost Protection",
+		["13118:0"] = "cff0070dd;Serpentine Sash",
+		["24670:-38"] = "cff1eff00;Eldr'naan Boots of the Prophet",
 		["40206:0"] = "cffa335ee;Iron-Spring Jumpers",
 		["24859:-40"] = "cff1eff00;Marshcreeper Leggings of the Bandit",
-		["36457:-44"] = "cff1eff00;Ivory Shield of the Elder",
+		["2951:0"] = "cff0070dd;Ring of the Underwood",
 		["24645:-39"] = "cff1eff00;Astralaan Belt of the Invoker",
 		["36281:-14"] = "cff1eff00;Spiderlord Spaulders of the Tiger",
-		["23203:0"] = "cff0070dd;Libram of Fervor",
+		["36365:-9"] = "cff1eff00;Magnataur Breastplate of the Owl",
 		["45709:0"] = "cffa335ee;Nimble Climber's Belt",
-		["24966:-19"] = "cff1eff00;Talonguard Girdle of Intellect",
-		["36277:-44"] = "cff1eff00;Spiderlord Chestpiece of the Elder",
+		["13004:0"] = "cff0070dd;Torch of Austen",
 		["10257:620"] = "cff1eff00;Adventurer's Boots of the Monkey",
-		["36052:-36"] = "cff1eff00;Vizier Slippers of the Sorcerer",
-		["14496:0"] = "cff1eff00;Pattern: Felcloth Hood",
+		["24196:0"] = "cff0070dd;Design: Runed Living Ruby",
+		["9385:0"] = "cff0070dd;Archaic Defender",
 		["44681:-75"] = "cff0070dd;Titanium Brain-Gear of the Champion",
 		["36317:-32"] = "cff1eff00;Wyrmskull Breastplate of Fire Protection",
 		["2245:0"] = "cffa335ee;Helm of Narv",
 		["25248:-6"] = "cff1eff00;Talbuk Hunting Bow of the Eagle",
+		["24716:-42"] = "cff1eff00;Vengeance Bands of the Hierophant",
 		["16857:0"] = "cffa335ee;Lawbringer Bracers",
-		["23197:0"] = "cff0070dd;Idol of the Moon",
+		["15114:504"] = "cff1eff00;Rigid Cape of the Wolf",
+		["10193:366"] = "cff1eff00;Crusader's Armor of Agility",
 		["14977:1212"] = "cff1eff00;Exalted Girdle of the Bear",
-		["36030:-16"] = "cff1eff00;Oracle Gloves of Stamina",
+		["24681:-38"] = "cff1eff00;Archmage Headpiece of the Prophet",
+		["6393:0"] = "cff1eff00;Silver-thread Gloves",
+		["10192:614"] = "cff1eff00;Crusader's Boots of the Monkey",
 		["36165:-33"] = "cff1eff00;Webspinner Vest of Frost Protection",
 		["7519:1044"] = "cff1eff00;Gossamer Pants of the Whale",
 		["24676:-8"] = "cff1eff00;Eldr'naan Bracelets of the Whale",
-		["14980:1227"] = "cff1eff00;Exalted Legplates of the Bear",
-		["36273:-8"] = "cff1eff00;Ulduar Shoulderguards of the Whale",
+		["1265:0"] = "cff0070dd;Scorpion Sting",
+		["24852:-19"] = "cff1eff00;Fenclaw Mantle of Intellect",
+		["9896:1192"] = "cff1eff00;Jazeraint Bracers of the Bear",
 		["25117:-45"] = "cff1eff00;Flanged Battle Mace of the Champion",
 		["1206:0"] = "cff1eff00;Moss Agate",
 		["36270:-15"] = "cff1eff00;Ulduar Gauntlets of Spirit",
-		["36626:-8"] = "cff1eff00;Military Compound Bow of the Whale",
-		["36486:-6"] = "cff1eff00;Ornate Pugio of the Eagle",
+		["7285:0"] = "cff1eff00;Nimble Leather Gloves",
+		["25042:-41"] = "cff1eff00;Nether Cloak of the Beast",
+		["24586:-6"] = "cff1eff00;Outlander's Leggings of the Eagle",
+		["13059:0"] = "cff0070dd;Stoneraven",
 		["36371:-10"] = "cff1eff00;Kraken Girdle of the Gorilla",
-		["36386:-15"] = "cff1eff00;Golem Vambraces of Spirit",
-		["13091:0"] = "cff0070dd;Medallion of Grand Marshal Morris",
-		["36611:-14"] = "cff1eff00;Bleak Scythe of the Tiger",
+		["31201:-40"] = "cff0070dd;Illidari Cloak of the Bandit",
+		["10095:412"] = "cff1eff00;Councillor's Boots of Spirit",
 		["13070:0"] = "cff0070dd;Sapphiron's Scale Boots",
 		["31255:0"] = "cff0070dd;Cloak of the Craft",
 		["32751:0"] = "cffa335ee;Pattern: Living Earth Shoulders",
-		["10199:1568"] = "cff1eff00;Crusader's Leggings of Power",
-		["15282:179"] = "cff1eff00;Dragon Finger of Spirit",
-		["36270:-9"] = "cff1eff00;Ulduar Gauntlets of the Owl",
-		["36708:-41"] = "cff1eff00;Snow Blossom Staff of the Beast",
+		["4293:0"] = "cff1eff00;Pattern: Hillman's Leather Vest",
+		["12711:0"] = "cff0070dd;Plans: Whitesoul Helm",
+		["10064:795"] = "cff1eff00;Duskwoven Pants of the Owl",
 		["15670:548"] = "cff1eff00;Magnificent Helmet of the Wolf",
+		["28542:-17"] = "cff1eff00;Heartseeker Knives of Strength",
 		["15189:957"] = "cff1eff00;Grand Boots of the Gorilla",
-		["36035:-26"] = "cff1eff00;Condor Belt of Spell Power",
-		["31501:0"] = "cff0070dd;Tome of Conjure Food VIII",
+		["24895:-39"] = "cff1eff00;Sundered Footwraps of the Invoker",
 		["10158:333"] = "cff1eff00;Mercurial Guard of Stamina",
-		["4717:0"] = "cff1eff00;Mail Combat Belt",
 		["37771:0"] = "cff0070dd;Wristguards of Verdant Recovery",
 		["14191:1882"] = "cff1eff00;Raincaller Mitts of Fiery Wrath",
-		["14916:693"] = "cff1eff00;Jade Deflector of the Tiger",
-		["9818:186"] = "cff1eff00;Fortified Chain of Stamina",
-		["36682:-44"] = "cff1eff00;Seduced Blade of the Elder",
-		["36281:-67"] = "cff1eff00;Spiderlord Spaulders of the Seer",
+		["2409:0"] = "cff1eff00;Pattern: Dark Leather Tunic",
+		["13111:0"] = "cff0070dd;Sandals of the Insurgent",
+		["7444:774"] = "cff1eff00;Sentinel Boots of the Owl",
+		["25126:-44"] = "cff1eff00;Anvilmar Hammer of the Elder",
 		["13133:0"] = "cff0070dd;Drakesfire Epaulets",
+		["3845:0"] = "cff1eff00;Golden Scale Cuirass",
 		["25139:-44"] = "cff1eff00;Algaz Battle Hammer of the Elder",
 		["13053:0"] = "cff0070dd;Doombringer",
-		["14506:0"] = "cff1eff00;Pattern: Felcloth Robe",
-		["24669:-39"] = "cff1eff00;Eldr'naan Belt of the Invoker",
+		["15668:1458"] = "cff1eff00;Magnificent Bracers of Shadow Resistance",
 		["24778:-16"] = "cff1eff00;Boneshredder Britches of Stamina",
-		["36190:-20"] = "cff1eff00;Njord Gauntlets of Power",
+		["7753:0"] = "cff0070dd;Bloodspiller",
 		["24909:-10"] = "cff1eff00;Talhide Lined-Bracers of the Gorilla",
-		["36048:-39"] = "cff1eff00;Crystalsong Leggings of the Invoker",
+		["1529:0"] = "cff1eff00;Jade",
 		["6587:848"] = "cff1eff00;Scouting Trousers of the Eagle",
-		["36268:-20"] = "cff1eff00;Ulduar Greaves of Power",
+		["6342:0"] = "cff1eff00;Formula: Enchant Chest - Minor Mana",
+		["6382:0"] = "cff1eff00;Forest Leather Belt",
 		["16684:0"] = "cff0070dd;Magister's Gloves",
-		["11611:0"] = "cff0070dd;Plans: Dark Iron Sunderer",
+		["3873:0"] = "cff1eff00;Plans: Golden Scale Cuirass",
 		["36508:-39"] = "cff1eff00;Cumbersome Sledgehammer of the Invoker",
 		["36296:-37"] = "cff1eff00;Westguard Legplates of the Physician",
-		["36441:-43"] = "cff1eff00;Pearl Woven Choker of the Soldier",
-		["25038:-5"] = "cff1eff00;Forest Shroud of the Monkey",
+		["2314:0"] = "cff0070dd;Toughened Leather Armor",
+		["15989:1039"] = "cff1eff00;Eternal Rod of the Whale",
+		["36277:-20"] = "cff1eff00;Spiderlord Chestpiece of Power",
 		["15429:792"] = "cff1eff00;Peerless Gloves of the Owl",
 		["21802:0"] = "cff0070dd;The Lost Kris of Zedd",
-		["24668:-16"] = "cff1eff00;Shadow Council Bracer of Stamina",
-		["15228:2038"] = "cff1eff00;Smashing Star of Healing",
-		["15394:364"] = "cff1eff00;Jadefire Pants of Agility",
-		["10190:1041"] = "cff1eff00;Swashbuckler's Belt of the Whale",
+		["13005:0"] = "cff0070dd;Amy's Blanket",
+		["7434:187"] = "cff1eff00;Twilight Boots of Stamina",
+		["7976:0"] = "cff0070dd;Plans: Mithril Shield Spike",
 		["15666:875"] = "cff1eff00;Impenetrable Pauldrons of the Eagle",
-		["4729:0"] = "cff1eff00;Aurora Mantle",
-		["44313:0"] = "cffa335ee;Zom's Crackling Bulwark",
+		["7734:0"] = "cff0070dd;Six Demon Bag",
+		["36377:-13"] = "cff1eff00;Kraken Epaulets of the Wolf",
+		["9968:605"] = "cff1eff00;Embossed Plate Girdle of the Monkey",
+		["24901:-40"] = "cff1eff00;Tortured Bracer of the Bandit",
 		["17683:0"] = "cff0070dd;Book: Gift of the Wild II",
-		["36441:-36"] = "cff1eff00;Pearl Woven Choker of the Sorcerer",
-		["13101:0"] = "cff0070dd;Wolfrunner Shoes",
+		["19278:0"] = "cff0070dd;Two of Portals",
+		["5773:0"] = "cff1eff00;Pattern: Robes of Arcana",
 		["818:0"] = "cff1eff00;Tigerseye",
-		["24747:-42"] = "cff1eff00;Ranger Pauldrons of the Hierophant",
-		["37780:0"] = "cff0070dd;Condor-Bone Chestguard",
-		["10176:784"] = "cff1eff00;Mystical Gloves of the Owl",
-		["36695:-44"] = "cff1eff00;Dogmatic Scepter of the Elder",
-		["3864:0"] = "cff1eff00;Citrine",
-		["25253:-10"] = "cff1eff00;Windspear Longbow of the Gorilla",
-		["8287:0"] = "cff1eff00;Arcane Gloves",
-		["24896:-40"] = "cff1eff00;Sundered Chestpiece of the Bandit",
-		["14686:0"] = "cff1eff00;Indomitable Headdress",
-		["25183:-41"] = "cff1eff00;Voodoo Hex-Staff of the Beast",
+		["25283:-38"] = "cff1eff00;Crystallized Ebony Wand of the Prophet",
+		["10601:0"] = "cff1eff00;Schematic: Bright-Eye Goggles",
+		["6420:0"] = "cff1eff00;Glyphed Boots",
+		["25049:-37"] = "cff1eff00;Scheelite Ring of the Physician",
+		["24677:-8"] = "cff1eff00;Archmage Belt of the Whale",
+		["12982:0"] = "cff0070dd;Silver-linked Footguards",
 		["14785:0"] = "cff1eff00;Khan's Helmet",
+		["24797:-41"] = "cff1eff00;Expedition Bracers of the Beast",
 		["14302:784"] = "cff1eff00;Bonecaster's Gloves of the Owl",
-		["36278:-9"] = "cff1eff00;Spiderlord Gauntlets of the Owl",
-		["16671:0"] = "cff0070dd;Bindings of Elements",
+		["24801:-13"] = "cff1eff00;Dragonhawk Gloves of the Wolf",
+		["6271:0"] = "cff1eff00;Pattern: Red Linen Vest",
 		["8271:0"] = "cff1eff00;Ebonhold Leggings",
 		["10137:792"] = "cff1eff00;High Councillor's Boots of the Owl",
 		["31168:-19"] = "cff0070dd;Demon-Forged Chestguard of Intellect",
 		["36036:-36"] = "cff1eff00;Condor Sandals of the Sorcerer",
-		["24784:-39"] = "cff1eff00;Murkblood Chestpiece of the Invoker",
-		["14685:0"] = "cff1eff00;Indomitable Gauntlets",
-		["15193:1228"] = "cff1eff00;Grand Crown of the Bear",
-		["14321:218"] = "cff1eff00;Resplendent Cloak of Stamina",
+		["4785:0"] = "cff1eff00;Brimstone Belt",
+		["4409:0"] = "cff1eff00;Schematic: Small Seaforium Charge",
+		["24683:-21"] = "cff1eff00;Archmage Mantle of Spell Power",
+		["18337:0"] = "cff1eff00;Orphic Bracers",
+		["9896:937"] = "cff1eff00;Jazeraint Bracers of the Gorilla",
 		["25265:-13"] = "cff1eff00;Barreled Crossbow of the Wolf",
-		["24976:-10"] = "cff1eff00;Reaver Armor of the Gorilla",
-		["14186:174"] = "cff1eff00;Raincaller Mantle of Intellect",
-		["25042:-38"] = "cff1eff00;Nether Cloak of the Prophet",
+		["24671:-15"] = "cff1eff00;Eldr'naan Jerkin of Spirit",
+		["24587:-38"] = "cff1eff00;Outlander's Pauldrons of the Prophet",
 		["36399:-37"] = "cff1eff00;Necropolis Helm of the Physician",
-		["44697:-36"] = "cff0070dd;Val'kyr Vestments of the Sorcerer",
-		["32749:0"] = "cffa335ee;Pattern: Shoulders of Lightning Reflexes",
-		["41784:0"] = "cff0070dd;Design: Sovereign Twilight Opal",
+		["25154:-40"] = "cff1eff00;Blood Groove Blade of the Bandit",
 		["13001:0"] = "cff0070dd;Maiden's Circle",
 		["41778:0"] = "cff0070dd;Design: Resolute Monarch Topaz",
 		["8279:0"] = "cff1eff00;Valorous Helm",
 		["14319:1042"] = "cff1eff00;Resplendent Boots of the Whale",
-		["15677:792"] = "cff1eff00;Magnificent Shoulders of the Owl",
+		["24903:-13"] = "cff1eff00;Talhide Lined-Boots of the Wolf",
 		["14290:783"] = "cff1eff00;Arachnidian Footpads of the Owl",
-		["14298:1816"] = "cff1eff00;Bonecaster's Spaulders of Arcane Wrath",
+		["7993:0"] = "cff1eff00;Plans: Dazzling Mithril Rapier",
 		["13035:0"] = "cff0070dd;Serpent Slicer",
-		["23624:0"] = "cffa335ee;Plans: Helm of the Stalwart Defender",
+		["25007:-44"] = "cff1eff00;Conqueror's Greaves of the Elder",
 		["36379:-12"] = "cff1eff00;Golem Girdle of the Boar",
-		["36525:-13"] = "cff1eff00;Craggy Machete of the Wolf",
-		["24663:-36"] = "cff1eff00;Shadow Council Tunic of the Sorcerer",
+		["14930:691"] = "cff1eff00;Lofty Shield of the Tiger",
 		["1973:0"] = "cff0070dd;Orb of Deception",
-		["36042:-36"] = "cff1eff00;Condor Bindings of the Sorcerer",
-		["36147:-33"] = "cff1eff00;Pygmy Belt of Frost Protection",
-		["15669:1573"] = "cff1eff00;Magnificent Breastplate of Power",
+		["13073:0"] = "cff0070dd;Mugthol's Helm",
+		["9792:237"] = "cff1eff00;Ivycloth Boots of the Falcon",
 		["936:0"] = "cff0070dd;Midnight Mace",
 		["24833:-9"] = "cff1eff00;Nexus-Strider Gloves of the Owl",
-		["25288:-19"] = "cff1eff00;Conjurer's Wand of Intellect",
+		["28541:-14"] = "cff1eff00;Sawshrike of the Tiger",
 		["36582:-10"] = "cff1eff00;Ice Pick of the Gorilla",
-		["14299:784"] = "cff1eff00;Bonecaster's Boots of the Owl",
-		["36143:-37"] = "cff1eff00;Ghrino Cover of the Physician",
+		["9789:1185"] = "cff1eff00;Raider's Legguards of the Bear",
+		["14321:216"] = "cff1eff00;Resplendent Cloak of Spirit",
 		["36063:-6"] = "cff1eff00;Coldwraith Cowl of the Eagle",
 		["37822:0"] = "cff0070dd;Twisted Puzzle-Ring",
-		["36270:-27"] = "cff1eff00;Ulduar Gauntlets of Defense",
-		["36270:-5"] = "cff1eff00;Ulduar Gauntlets of the Monkey",
-		["4072:0"] = "cff1eff00;Glimmering Mail Gauntlets",
-		["36147:-6"] = "cff1eff00;Pygmy Belt of the Eagle",
-		["10177:1898"] = "cff1eff00;Mystical Leggings of Fiery Wrath",
+		["36273:-12"] = "cff1eff00;Ulduar Shoulderguards of the Boar",
+		["4239:0"] = "cff1eff00;Embossed Leather Gloves",
 		["9794:112"] = "cff1eff00;Ivycloth Cloak of Intellect",
 		["36402:-17"] = "cff1eff00;Necropolis Vambraces of Strength",
+		["14977:1215"] = "cff1eff00;Exalted Girdle of the Bear",
 		["36043:-39"] = "cff1eff00;Crystalsong Sash of the Invoker",
-		["36271:-37"] = "cff1eff00;Ulduar Helm of the Physician",
+		["14929:334"] = "cff1eff00;Lofty Shoulder Pads of Stamina",
 		["16051:0"] = "cff1eff00;Schematic: Thorium Shells",
-		["15986:1033"] = "cff1eff00;Bonecaster's Star of the Whale",
-		["24803:-13"] = "cff1eff00;Dragonhawk Pants of the Wolf",
-		["45322:0"] = "cffa335ee;Cloak of the Iron Council",
-		["37115:0"] = "cff0070dd;Crusader's Square Pauldrons",
-		["10371:0"] = "cff1eff00;Imbued Plate Greaves",
-		["10153:623"] = "cff1eff00;Mighty Spaulders of the Monkey",
-		["24883:-43"] = "cff1eff00;Der'izu Legguards of the Soldier",
-		["37767:0"] = "cff0070dd;Ryft's Deathgaze",
+		["15338:1106"] = "cff1eff00;Wrangler's Mantle of the Boar",
+		["14166:757"] = "cff1eff00;Buccaneer's Bracers of the Owl",
+		["36455:-45"] = "cff1eff00;Plated Bulwark of the Champion",
 		["9926:608"] = "cff1eff00;Brigade Boots of the Monkey",
-		["9973:188"] = "cff1eff00;Embossed Plate Boots of Stamina",
-		["10219:1056"] = "cff1eff00;Elegant Circlet of the Whale",
+		["24632:-37"] = "cff1eff00;Feralfen Hand of the Physician",
+		["14962:623"] = "cff1eff00;High Chief's Legguards of the Monkey",
 		["25007:-5"] = "cff1eff00;Conqueror's Greaves of the Monkey",
-		["7521:409"] = "cff1eff00;Gossamer Gloves of Spirit",
 		["36457:-41"] = "cff1eff00;Ivory Shield of the Beast",
-		["14553:0"] = "cffa335ee;Sash of Mercy",
+		["14484:0"] = "cff1eff00;Pattern: Brightcloth Cloak",
+		["25031:-39"] = "cff1eff00;Silvermoon Royal Cloak of the Invoker",
 		["9827:511"] = "cff1eff00;Scaled Leather Belt of the Wolf",
-		["24790:-32"] = "cff1eff00;Expedition Girdle of Fire Protection",
-		["35580:0"] = "cff0070dd;Skein Woven Mantle",
-		["36273:-37"] = "cff1eff00;Ulduar Shoulderguards of the Physician",
+		["45480:0"] = "cffa335ee;Nymph Heart Charm",
+		["4259:0"] = "cff1eff00;Green Leather Bracers",
 		["36428:-17"] = "cff1eff00;Bouquet Ring of Strength",
-		["15119:0"] = "cff1eff00;Highborne Pants",
+		["7554:757"] = "cff1eff00;Willow Branch of the Owl",
 		["3039:0"] = "cff1eff00;Short Ash Bow",
 		["25236:-17"] = "cff1eff00;Grim Scythe of Strength",
 		["13002:0"] = "cff0070dd;Lady Alizabeth's Pendant",
-		["7437:174"] = "cff1eff00;Twilight Cuffs of Intellect",
-		["36653:-40"] = "cff1eff00;Precipice Longrifle of the Bandit",
-		["36388:-11"] = "cff1eff00;Revenant Greaves of the Falcon",
+		["14376:0"] = "cff1eff00;Sanguine Cape",
+		["14435:0"] = "cff1eff00;Windchaser Cinch",
 		["24907:-40"] = "cff1eff00;Talhide Lined-Leggings of the Bandit",
-		["4719:0"] = "cff1eff00;Nightsky Cloak",
+		["10606:0"] = "cff1eff00;Schematic: Parachute Cloak",
 		["36052:-39"] = "cff1eff00;Vizier Slippers of the Invoker",
+		["28533:-40"] = "cff1eff00;Wooden Boomerang of the Bandit",
+		["6584:1555"] = "cff1eff00;Scouting Tunic of Power",
 		["14297:1861"] = "cff1eff00;Arachnidian Robes of Shadow Wrath",
 		["10258:1033"] = "cff1eff00;Adventurer's Cape of the Whale",
 		["10151:636"] = "cff1eff00;Mighty Tunic of the Monkey",
-		["36383:-27"] = "cff1eff00;Golem Helmet of Defense",
-		["35640:0"] = "cff0070dd;Darkweb Bindings",
 		["44688:-91"] = "cff0070dd;Loque'Nahak's Severed Fang of the Marksman",
-		["10259:792"] = "cff1eff00;Adventurer's Belt of the Owl",
-		["15388:784"] = "cff1eff00;Jadefire Belt of the Owl",
-		["15388:617"] = "cff1eff00;Jadefire Belt of the Monkey",
-		["10209:1122"] = "cff1eff00;Overlord's Spaulders of the Boar",
+		["24804:-21"] = "cff1eff00;Dragonhawk Shoulderguards of Spell Power",
 		["10204:1203"] = "cff1eff00;Heavy Lamellar Shield of the Bear",
-		["36055:-37"] = "cff1eff00;Vizier Hood of the Physician",
-		["10164:1055"] = "cff1eff00;Templar Chestplate of the Whale",
+		["7354:1021"] = "cff1eff00;Elder's Boots of the Whale",
 		["13492:0"] = "cff1eff00;Recipe: Purification Potion",
-		["12549:0"] = "cff0070dd;Braincage",
-		["36160:-17"] = "cff1eff00;Wendigo Legguards of Strength",
 		["36467:-39"] = "cff1eff00;Reflecting Sphere of the Invoker",
+		["24604:-8"] = "cff1eff00;Starfire Wristwraps of the Whale",
 		["25163:-41"] = "cff1eff00;Elexorien Blade of the Beast",
-		["9796:1022"] = "cff1eff00;Ivycloth Mantle of the Whale",
 		["21804:0"] = "cff0070dd;Coif of Elemental Fury",
-		["24737:-7"] = "cff1eff00;Sunroc Mask of the Bear",
-		["15239:1197"] = "cff1eff00;Felstone Reaver of the Bear",
+		["25293:-38"] = "cff1eff00;Draenethyst Wand of the Prophet",
 		["9945:781"] = "cff1eff00;Abjurer's Sash of the Owl",
-		["36389:-13"] = "cff1eff00;Revenant Armor of the Wolf",
-		["14850:0"] = "cff1eff00;Sunscale Legplates",
-		["24637:-36"] = "cff1eff00;Mistyreed Belt of the Sorcerer",
+		["15394:1569"] = "cff1eff00;Jadefire Pants of Power",
+		["24840:-39"] = "cff1eff00;Wrathfin Armor of the Invoker",
+		["28542:-16"] = "cff1eff00;Heartseeker Knives of Stamina",
+		["3313:0"] = "cff1eff00;Ceremonial Leather Harness",
 		["24788:-6"] = "cff1eff00;Murkblood Shoulderguards of the Eagle",
-		["15266:1574"] = "cff1eff00;Fierce Mauler of Power",
-		["24765:-8"] = "cff1eff00;Clefthoof Belt of the Whale",
-		["24654:-9"] = "cff1eff00;Consortium Boot of the Owl",
-		["16802:0"] = "cffa335ee;Arcanist Belt",
+		["15547:136"] = "cff1eff00;Thick Scale Cloak of Strength",
+		["25307:-16"] = "cff1eff00;Shadow Dagger of Stamina",
+		["24792:-16"] = "cff1eff00;Expedition Tunic of Stamina",
 		["15986:1035"] = "cff1eff00;Bonecaster's Star of the Whale",
-		["25276:-10"] = "cff1eff00;Tauren Runed Musket of the Gorilla",
-		["8317:0"] = "cff1eff00;Alabaster Plate Helmet",
+		["7436:2033"] = "cff1eff00;Twilight Cape of Healing",
 		["24222:0"] = "cff0070dd;The Shadowfoot Stabber",
-		["18699:0"] = "cff0070dd;Icy Tomb Spaulders",
-		["31247:-16"] = "cff0070dd;Bog Pauldrons of Stamina",
-		["43102:0"] = "cff0070dd;Frozen Orb",
-		["18337:0"] = "cff1eff00;Orphic Bracers",
-		["13123:0"] = "cff0070dd;Dreamwalker Armor",
-		["15513:1105"] = "cff1eff00;Grunt's Pauldrons of the Boar",
-		["36267:-37"] = "cff1eff00;Ulduar Girdle of the Physician",
-		["7539:790"] = "cff1eff00;Champion's Leggings of the Owl",
-		["13022:0"] = "cff0070dd;Gryphonwing Long Bow",
-		["36442:-33"] = "cff1eff00;Silken Cord Amulet of Frost Protection",
+		["10282:218"] = "cff1eff00;Emerald Vambraces of Stamina",
+		["10170:1621"] = "cff1eff00;Templar Pauldrons of Defense",
+		["24897:-40"] = "cff1eff00;Sundered Gauntlets of the Bandit",
+		["9777:757"] = "cff1eff00;Bandit Bracers of the Owl",
 		["7369:213"] = "cff1eff00;Elder's Robe of Intellect",
-		["12026:218"] = "cff1eff00;Quicksilver Pendant of Stamina",
-		["7993:0"] = "cff1eff00;Plans: Dazzling Mithril Rapier",
-		["14307:545"] = "cff1eff00;Bonecaster's Crown of the Wolf",
-		["15192:532"] = "cff1eff00;Grand Gauntlets of the Wolf",
+		["36267:-37"] = "cff1eff00;Ulduar Girdle of the Physician",
 		["13122:0"] = "cff0070dd;Dark Phantom Cape",
-		["10369:0"] = "cff1eff00;Imbued Plate Gauntlets",
-		["25018:-9"] = "cff1eff00;Shattered Hand Helmet of the Owl",
-		["36513:-39"] = "cff1eff00;Lode-Headed Hammer of the Invoker",
-		["10155:454"] = "cff1eff00;Mercurial Greaves of the Falcon",
+		["25069:-32"] = "cff1eff00;Epidote Stone Necklace of Fire Protection",
 		["36426:-39"] = "cff1eff00;Stirrup Ring of the Invoker",
-		["13030:0"] = "cff0070dd;Basilisk Bone",
-		["8294:0"] = "cff1eff00;Traveler's Boots",
+		["36038:-37"] = "cff1eff00;Condor Gloves of the Physician",
 		["24824:-40"] = "cff1eff00;Netherstalker Armor of the Bandit",
-		["32745:0"] = "cffa335ee;Pattern: Shoulderpads of Renewed Life",
-		["24763:-11"] = "cff1eff00;Umbrafen Shoulderguards of the Falcon",
-		["45274:0"] = "cffa335ee;Leggings of the Stoneweaver",
-		["17413:0"] = "cff0070dd;Codex: Prayer of Fortitude",
-		["36163:-20"] = "cff1eff00;Webspinner Cord of Power",
-		["13004:0"] = "cff0070dd;Torch of Austen",
-		["10095:412"] = "cff1eff00;Councillor's Boots of Spirit",
-		["36043:-33"] = "cff1eff00;Crystalsong Sash of Frost Protection",
-		["19278:0"] = "cff0070dd;Two of Portals",
-		["36265:-13"] = "cff1eff00;Cormorant Mantle of the Wolf",
+		["25111:-44"] = "cff1eff00;Lionhead Dagger of the Elder",
+		["3474:0"] = "cff1eff00;Gemmed Copper Gauntlets",
+		["24916:-40"] = "cff1eff00;Netherstorm Shoulderguards of the Bandit",
 		["36274:-19"] = "cff1eff00;Ulduar Bracers of Intellect",
-		["12711:0"] = "cff0070dd;Plans: Whitesoul Helm",
-		["24774:-40"] = "cff1eff00;Boneshredder Boots of the Bandit",
 		["32228:0"] = "cffa335ee;Empyrean Sapphire",
-		["24889:-10"] = "cff1eff00;Skettis Gauntlets of the Gorilla",
-		["36063:-37"] = "cff1eff00;Coldwraith Cowl of the Physician",
-		["14969:1618"] = "cff1eff00;Glorious Headdress of Defense",
-		["25163:-44"] = "cff1eff00;Elexorien Blade of the Elder",
-		["29550:0"] = "cff0070dd;Tome of Conjure Water IX",
+		["35998:-39"] = "cff1eff00;Voldrune Gloves of the Invoker",
 		["14499:0"] = "cff1eff00;Pattern: Mooncloth Bag",
-		["12992:0"] = "cff0070dd;Searing Blade",
-		["36267:-7"] = "cff1eff00;Ulduar Girdle of the Bear",
-		["36043:-21"] = "cff1eff00;Crystalsong Sash of Spell Power",
-		["8190:0"] = "cff0070dd;Hanzo Sword",
+		["15304:589"] = "cff1eff00;Grizzly Jerkin of the Monkey",
 		["9810:1190"] = "cff1eff00;Fortified Boots of the Bear",
-		["16806:0"] = "cffa335ee;Felheart Belt",
-		["36002:-9"] = "cff1eff00;Voldrune Bracelets of the Owl",
-		["25060:-37"] = "cff1eff00;Sunstone Necklace of the Physician",
-		["13075:0"] = "cff0070dd;Direwing Legguards",
-		["36051:-8"] = "cff1eff00;Vizier Sash of the Whale",
-		["14504:0"] = "cff1eff00;Pattern: Runecloth Shoulders",
-		["31175:0"] = "cff0070dd;Blade Dancer's Wristguards",
-		["36512:-45"] = "cff1eff00;Onerous Mallet of the Champion",
-		["15427:178"] = "cff1eff00;Peerless Cloak of Intellect",
-		["36143:-18"] = "cff1eff00;Ghrino Cover of Agility",
+		["25326:-16"] = "cff1eff00;Primal Lore-Staff of Stamina",
+		["13144:0"] = "cff0070dd;Serenity Belt",
 		["14804:0"] = "cff1eff00;Bloodlust Helm",
-		["12017:1209"] = "cff1eff00;Prismatic Band of the Bear",
-		["10274:389"] = "cff1eff00;Masterwork Pauldrons of Intellect",
+		["25117:-44"] = "cff1eff00;Flanged Battle Mace of the Elder",
+		["25031:-12"] = "cff1eff00;Silvermoon Royal Cloak of the Boar",
 		["36050:-33"] = "cff1eff00;Crystalsong Bracelets of Frost Protection",
-		["14307:1055"] = "cff1eff00;Bonecaster's Crown of the Whale",
-		["15752:0"] = "cff0070dd;Pattern: Living Leggings",
 		["15236:684"] = "cff1eff00;Moon Cleaver of the Tiger",
 		["37770:0"] = "cff0070dd;Bulge-Concealing Breastplate",
-		["15737:0"] = "cff1eff00;Pattern: Chimeric Boots",
-		["15989:1039"] = "cff1eff00;Eternal Rod of the Whale",
-		["10282:1203"] = "cff1eff00;Emerald Vambraces of the Bear",
-		["15645:881"] = "cff1eff00;Ironhide Helmet of the Eagle",
-		["36166:-9"] = "cff1eff00;Webspinner Gloves of the Owl",
 		["41780:0"] = "cff0070dd;Design: Champion's Monarch Topaz",
-		["15435:620"] = "cff1eff00;Supreme Shoes of the Monkey",
-		["36485:-45"] = "cff1eff00;Sinuous Keris of the Champion",
-		["24662:-36"] = "cff1eff00;Shadow Council Boots of the Sorcerer",
+		["15645:881"] = "cff1eff00;Ironhide Helmet of the Eagle",
+		["24715:-19"] = "cff1eff00;Vengeance Pauldrons of Intellect",
 		["36569:-40"] = "cff1eff00;Savage Talons of the Bandit",
-		["14929:334"] = "cff1eff00;Lofty Shoulder Pads of Stamina",
-		["25082:-44"] = "cff1eff00;Fel-Iron Shield of the Elder",
 		["36652:-14"] = "cff1eff00;Stocky Shotgun of the Tiger",
-		["15930:0"] = "cff1eff00;Imperial Red Scepter",
-		["36272:-19"] = "cff1eff00;Ulduar Legguards of Intellect",
-		["40338:0"] = "cffa335ee;Bindings of Yearning",
+		["24601:-6"] = "cff1eff00;Starfire Circlet of the Eagle",
 		["36443:-5"] = "cff1eff00;Platinum Medallion of the Monkey",
-		["10275:318"] = "cff1eff00;Emerald Breastplate of Strength",
+		["25221:-7"] = "cff1eff00;Ghostly Battle Axe of the Bear",
 		["14982:613"] = "cff1eff00;Exalted Shield of the Monkey",
-		["24712:-8"] = "cff1eff00;Vengeance Gloves of the Whale",
-		["13013:0"] = "cff0070dd;Elder Wizard's Mantle",
-		["14484:0"] = "cff1eff00;Pattern: Brightcloth Cloak",
-		["25209:-11"] = "cff1eff00;Amani Tomahawk of the Falcon",
-		["14962:1221"] = "cff1eff00;High Chief's Legguards of the Bear",
+		["19774:0"] = "cff1eff00;Souldarite",
+		["40338:0"] = "cffa335ee;Bindings of Yearning",
 		["7111:0"] = "cff1eff00;Nightsky Armor",
-		["10210:1969"] = "cff1eff00;Elegant Mantle of Frozen Wrath",
-		["25014:-15"] = "cff1eff00;Shattered Hand Belt of Spirit",
-		["16827:0"] = "cffa335ee;Nightslayer Belt",
-		["13111:0"] = "cff0070dd;Sandals of the Insurgent",
+		["25057:-43"] = "cff1eff00;Amber Band of the Soldier",
 		["15983:178"] = "cff1eff00;Gaea's Scepter of Intellect",
-		["13032:0"] = "cff0070dd;Sword of Corruption",
-		["24932:-45"] = "cff1eff00;Ango'rosh Pauldrons of the Champion",
+		["25024:-41"] = "cff1eff00;Warlord's Iron-Breastplate of the Beast",
+		["25112:-7"] = "cff1eff00;Fel Ripper of the Bear",
 		["15887:1119"] = "cff1eff00;Heroic Guard of the Boar",
-		["36709:-16"] = "cff1eff00;Crystal Woodstaff of Stamina",
-		["13144:0"] = "cff0070dd;Serenity Belt",
-		["31288:0"] = "cff0070dd;The Master's Treads",
-		["7534:1556"] = "cff1eff00;Cabalist Bracers of Power",
-		["13014:0"] = "cff0070dd;Axe of Rin'ji",
-		["1529:0"] = "cff1eff00;Jade",
+		["9790:1097"] = "cff1eff00;Raider's Shield of the Boar",
 		["35615:0"] = "cff0070dd;Glowworm Cavern Bindings",
-		["36404:-45"] = "cff1eff00;Suede Cloak of the Champion",
-		["36263:-40"] = "cff1eff00;Cormorant Helm of the Bandit",
-		["31284:0"] = "cff0070dd;Bracers of Recklessness",
 		["10185:178"] = "cff1eff00;Swashbuckler's Cape of Intellect",
 		["10134:1039"] = "cff1eff00;Revenant Shoulders of the Whale",
-		["15394:1569"] = "cff1eff00;Jadefire Pants of Power",
-		["15288:1711"] = "cff1eff00;Blasthorn Bow of Marksmanship",
 		["36160:-14"] = "cff1eff00;Wendigo Legguards of the Tiger",
-		["31305:0"] = "cff0070dd;Ced's Carver",
-		["36511:-10"] = "cff1eff00;Arctic War Hammer of the Gorilla",
-		["24908:-44"] = "cff1eff00;Talhide Shoulderguards of the Elder",
-		["45480:0"] = "cffa335ee;Nymph Heart Charm",
-		["36028:-34"] = "cff1eff00;Oracle Slippers of Nature Protection",
-		["37760:0"] = "cff0070dd;Cracklefire Wristguards",
-		["25307:-16"] = "cff1eff00;Shadow Dagger of Stamina",
+		["25242:-6"] = "cff1eff00;Telaari Longbow of the Eagle",
+		["2978:0"] = "cff1eff00;Veteran Leggings",
 		["12685:0"] = "cff1eff00;Plans: Radiant Belt",
-		["15646:1571"] = "cff1eff00;Ironhide Legguards of Power",
 		["14813:0"] = "cff1eff00;Warstrike Cape",
-		["15130:213"] = "cff1eff00;Cutthroat's Vest of Intellect",
-		["36365:-9"] = "cff1eff00;Magnataur Breastplate of the Owl",
-		["13036:0"] = "cff0070dd;Assassination Blade",
-		["25007:-44"] = "cff1eff00;Conqueror's Greaves of the Elder",
+		["24811:-40"] = "cff1eff00;Unyielding Leggings of the Bandit",
 		["36385:-45"] = "cff1eff00;Golem Pauldrons of the Champion",
-		["833:0"] = "cffa335ee;Lifestone",
+		["14855:0"] = "cff1eff00;Vanguard Gauntlets",
 		["36513:-7"] = "cff1eff00;Lode-Headed Hammer of the Bear",
-		["14333:790"] = "cff1eff00;Eternal Gloves of the Owl",
-		["24785:-40"] = "cff1eff00;Murkblood Gloves of the Bandit",
-		["10236:545"] = "cff1eff00;Engraved Leggings of the Wolf",
 		["14467:0"] = "cff1eff00;Pattern: Frostweave Robe",
-		["45316:0"] = "cffa335ee;Armbraces of the Vibrant Flame",
-		["35652:0"] = "cff0070dd;Incessant Torch",
-		["15426:618"] = "cff1eff00;Peerless Boots of the Monkey",
 		["15633:1031"] = "cff1eff00;Formidable Crest of the Whale",
-		["36060:-8"] = "cff1eff00;Coldwraith Boots of the Whale",
-		["15745:0"] = "cff1eff00;Pattern: Runic Leather Belt",
-		["36035:-6"] = "cff1eff00;Condor Belt of the Eagle",
-		["36542:-36"] = "cff1eff00;Invasion Blade of the Sorcerer",
-		["13099:0"] = "cff0070dd;Moccasins of the White Hare",
-		["36272:-6"] = "cff1eff00;Ulduar Legguards of the Eagle",
-		["36680:-44"] = "cff1eff00;Mystic Fang of the Elder",
+		["15345:766"] = "cff1eff00;Pathfinder Shoulder Pads of the Owl",
+		["24678:-39"] = "cff1eff00;Archmage Slippers of the Invoker",
+		["14730:0"] = "cff1eff00;War Paint Chestpiece",
 		["36425:-40"] = "cff1eff00;Gold Twisted Ring of the Bandit",
-		["36273:-12"] = "cff1eff00;Ulduar Shoulderguards of the Boar",
-		["1263:0"] = "cffa335ee;Brain Hacker",
 		["36285:-67"] = "cff1eff00;Spectral Armor of the Seer",
-		["24783:-15"] = "cff1eff00;Murkblood Boots of Spirit",
 		["4089:848"] = "cff1eff00;Ricochet Blunderbuss of the Eagle",
 		["36271:-11"] = "cff1eff00;Ulduar Helm of the Falcon",
-		["24823:-44"] = "cff1eff00;Netherstalker Greaves of the Elder",
-		["15668:1458"] = "cff1eff00;Magnificent Bracers of Shadow Resistance",
-		["24895:-14"] = "cff1eff00;Sundered Footwraps of the Tiger",
 		["36058:-8"] = "cff1eff00;Vizier Bracelets of the Whale",
 		["36051:-19"] = "cff1eff00;Vizier Sash of Intellect",
-		["14962:1051"] = "cff1eff00;High Chief's Legguards of the Whale",
-		["15667:1965"] = "cff1eff00;Impenetrable Wall of Frozen Wrath",
-		["9958:1198"] = "cff1eff00;Warmonger's Buckler of the Bear",
-		["19233:0"] = "cff0070dd;Five of Beasts",
-		["36568:-6"] = "cff1eff00;Hollowed Bone Knuckles of the Eagle",
-		["24884:-11"] = "cff1eff00;Der'izu Spaulders of the Falcon",
-		["24645:-37"] = "cff1eff00;Astralaan Belt of the Physician",
-		["36350:-11"] = "cff1eff00;Jormungar Gauntlets of the Falcon",
-		["36053:-19"] = "cff1eff00;Vizier Robe of Intellect",
-		["10268:620"] = "cff1eff00;Masterwork Gauntlets of the Monkey",
+		["14907:1127"] = "cff1eff00;Brutish Helmet of the Boar",
+		["15017:760"] = "cff1eff00;Lupine Leggings of the Owl",
 		["14197:762"] = "cff1eff00;Thistlefur Bands of the Owl",
-		["10166:1212"] = "cff1eff00;Templar Girdle of the Bear",
-		["36276:-9"] = "cff1eff00;Spiderlord Boots of the Owl",
 		["1705:0"] = "cff1eff00;Lesser Moonstone",
-		["36540:-16"] = "cff1eff00;Petrified Sword of Stamina",
-		["8307:0"] = "cff1eff00;Hero's Boots",
-		["36278:-6"] = "cff1eff00;Spiderlord Gauntlets of the Eagle",
-		["37824:0"] = "cff0070dd;Gwyneth's Runed Dragonwand",
-		["14930:691"] = "cff1eff00;Lofty Shield of the Tiger",
-		["39235:0"] = "cffa335ee;Bone-Framed Bracers",
-		["36707:-41"] = "cff1eff00;Cascading Water Staff of the Beast",
-		["36681:-19"] = "cff1eff00;Wisdom Carver of Intellect",
+		["15987:778"] = "cff1eff00;Astral Orb of the Owl",
+		["32428:0"] = "cff0070dd;Heart of Darkness",
 		["3203:0"] = "cff0070dd;Dense Triangle Mace",
 		["44308:0"] = "cffa335ee;Signet of Edward the Odd",
-		["21805:0"] = "cff0070dd;Polished Obsidian Pauldrons",
-		["25020:-45"] = "cff1eff00;Shattered Hand Epaulets of the Champion",
-		["7534:171"] = "cff1eff00;Cabalist Bracers of Agility",
-		["41781:0"] = "cff0070dd;Design: Misty Forest Emerald",
-		["886:0"] = "cff1eff00;Black Metal Shortsword",
-		["25123:-9"] = "cff1eff00;Boneshredder Mace of the Owl",
-		["14680:0"] = "cff1eff00;Indomitable Vest",
+		["14498:0"] = "cff1eff00;Pattern: Runecloth Headband",
+		["20520:0"] = "cff1eff00;Dark Rune",
+		["24842:-40"] = "cff1eff00;Wrathfin Helmet of the Bandit",
 		["15755:0"] = "cff1eff00;Pattern: Chimeric Vest",
-		["14508:0"] = "cff1eff00;Pattern: Felcloth Shoulders",
-		["16714:0"] = "cff0070dd;Wildheart Bracers",
-		["13488:0"] = "cff1eff00;Recipe: Transmute Life to Earth",
-		["13085:0"] = "cff0070dd;Horizon Choker",
-		["12057:0"] = "cff1eff00;Dragonscale Band",
-		["19726:0"] = "cff1eff00;Bloodvine",
+		["36256:-37"] = "cff1eff00;Wolvar Legguards of the Physician",
+		["4297:0"] = "cff1eff00;Pattern: Barbaric Gloves",
 		["2098:0"] = "cff0070dd;Double-barreled Shotgun",
-		["15693:618"] = "cff1eff00;Grand Shoulders of the Monkey",
-		["25210:-44"] = "cff1eff00;Double-Bladed Axe of the Elder",
-		["36176:-33"] = "cff1eff00;Geist Legguards of Frost Protection",
-		["10152:632"] = "cff1eff00;Mighty Leggings of the Monkey",
 		["23199:0"] = "cff0070dd;Totem of the Storm",
-		["13060:0"] = "cff0070dd;The Needler",
-		["15239:604"] = "cff1eff00;Felstone Reaver of the Monkey",
-		["36470:-39"] = "cff1eff00;Gilded Scepter of the Invoker",
+		["10152:632"] = "cff1eff00;Mighty Leggings of the Monkey",
 		["14277:1049"] = "cff1eff00;Gaea's Tunic of the Whale",
-		["24801:-13"] = "cff1eff00;Dragonhawk Gloves of the Wolf",
-		["25227:-40"] = "cff1eff00;Sha'tari Longspear of the Bandit",
 		["15623:620"] = "cff1eff00;Gryphon Mail Crown of the Monkey",
 		["37793:0"] = "cff0070dd;Skullcage of Eternal Terror",
-		["15623:1048"] = "cff1eff00;Gryphon Mail Crown of the Whale",
 		["15388:1209"] = "cff1eff00;Jadefire Belt of the Bear",
-		["14930:606"] = "cff1eff00;Lofty Shield of the Monkey",
-		["32230:0"] = "cffa335ee;Shadowsong Amethyst",
-		["24797:-27"] = "cff1eff00;Expedition Bracers of Defense",
+		["36256:-40"] = "cff1eff00;Wolvar Legguards of the Bandit",
+		["11098:0"] = "cff1eff00;Formula: Enchant Cloak - Lesser Shadow Resistance",
 		["31183:-44"] = "cff0070dd;Legion Coif of the Elder",
-		["36620:-5"] = "cff1eff00;Tracking Bow of the Monkey",
-		["31190:0"] = "cff0070dd;The Dreamer's Shoulderpads",
+		["14930:606"] = "cff1eff00;Lofty Shield of the Monkey",
 		["36162:-37"] = "cff1eff00;Wendigo Bands of the Physician",
 		["36272:-11"] = "cff1eff00;Ulduar Legguards of the Falcon",
-		["15743:0"] = "cff1eff00;Pattern: Heavy Scorpid Belt",
-		["40558:0"] = "cffa335ee;Arcanic Tramplers",
-		["11978:1418"] = "cff1eff00;Jasper Link of Fire Resistance",
-		["36056:-16"] = "cff1eff00;Vizier Leggings of Stamina",
-		["10215:345"] = "cff1eff00;Elegant Robes of Stamina",
-		["10251:877"] = "cff1eff00;Master's Gloves of the Eagle",
-		["16043:0"] = "cff1eff00;Schematic: Thorium Rifle",
-		["15265:1142"] = "cff1eff00;Painbringer of the Boar",
-		["14323:415"] = "cff1eff00;Resplendent Gauntlets of Spirit",
-		["12982:0"] = "cff0070dd;Silver-linked Footguards",
-		["4696:0"] = "cff0070dd;Lapidis Tankard of Tidesippe",
-		["14219:153"] = "cff1eff00;Geomancer's Cloak of Spirit",
-		["13066:0"] = "cff0070dd;Wyrmslayer Spaulders",
-		["14855:0"] = "cff1eff00;Vanguard Gauntlets",
-		["36051:-6"] = "cff1eff00;Vizier Sash of the Eagle",
-		["36377:-13"] = "cff1eff00;Kraken Epaulets of the Wolf",
+		["11987:1027"] = "cff1eff00;Iridium Circle of the Whale",
+		["14192:773"] = "cff1eff00;Raincaller Robes of the Owl",
+		["15224:590"] = "cff1eff00;Battlesmasher of the Monkey",
 		["12045:607"] = "cff1eff00;Swamp Pendant of the Monkey",
-		["15384:339"] = "cff1eff00;Rageclaw Helm of Stamina",
-		["16681:0"] = "cff0070dd;Beaststalker's Bindings",
-		["36166:-37"] = "cff1eff00;Webspinner Gloves of the Physician",
-		["35593:0"] = "cff0070dd;Steel Bear Trap Bracers",
+		["12261:0"] = "cff1eff00;Plans: Searing Golden Blade",
 		["36157:-40"] = "cff1eff00;Wendigo Chestpiece of the Bandit",
 		["14286:782"] = "cff1eff00;Opulent Belt of the Owl",
-		["14973:287"] = "cff1eff00;Glorious Shield of Stamina",
-		["13089:0"] = "cff0070dd;Skibi's Pendant",
+		["15493:1187"] = "cff1eff00;Bloodspattered Loincloth of the Bear",
 		["31258:0"] = "cff0070dd;Band of Sorrow",
-		["14334:1902"] = "cff1eff00;Eternal Sarong of Fiery Wrath",
-		["7076:0"] = "cff1eff00;Essence of Earth",
-		["13139:0"] = "cff0070dd;Guttbuster",
-		["36049:-36"] = "cff1eff00;Crystalsong Mantle of the Sorcerer",
-		["36277:-6"] = "cff1eff00;Spiderlord Chestpiece of the Eagle",
-		["24680:-38"] = "cff1eff00;Archmage Gloves of the Prophet",
-		["12808:0"] = "cff1eff00;Essence of Undeath",
-		["9809:172"] = "cff1eff00;Superior Tunic of Agility",
-		["14555:0"] = "cffa335ee;Alcor's Sunrazor",
+		["25151:-12"] = "cff1eff00;Assassins' Short Blade of the Boar",
 		["10378:1228"] = "cff1eff00;Commander's Armor of the Bear",
-		["16255:0"] = "cff1eff00;Formula: Enchant 2H Weapon - Major Spirit",
-		["36383:-6"] = "cff1eff00;Golem Helmet of the Eagle",
 		["19273:0"] = "cff0070dd;Six of Elementals",
 		["811:0"] = "cffa335ee;Axe of the Deep Woods",
-		["15430:1825"] = "cff1eff00;Peerless Headband of Arcane Wrath",
+		["25087:-33"] = "cff1eff00;Bleeding Eye of Frost Protection",
 		["12689:0"] = "cff1eff00;Plans: Radiant Breastplate",
-		["36256:-37"] = "cff1eff00;Wolvar Legguards of the Physician",
-		["15140:772"] = "cff1eff00;Cutthroat's Mantle of the Owl",
-		["36268:-12"] = "cff1eff00;Ulduar Greaves of the Boar",
-		["14668:0"] = "cff1eff00;Keeper's Woolies",
-		["14856:0"] = "cff1eff00;Vanguard Girdle",
+		["36166:-42"] = "cff1eff00;Webspinner Gloves of the Hierophant",
 		["36400:-67"] = "cff1eff00;Necropolis Legplates of the Seer",
-		["36485:-18"] = "cff1eff00;Sinuous Keris of Agility",
-		["36525:-40"] = "cff1eff00;Craggy Machete of the Bandit",
+		["36268:-12"] = "cff1eff00;Ulduar Greaves of the Boar",
 		["25179:-40"] = "cff1eff00;Nguni Stick of the Bandit",
-		["16736:0"] = "cff0070dd;Belt of Valor",
-		["24655:-38"] = "cff1eff00;Consortium Robe of the Prophet",
 		["15641:869"] = "cff1eff00;Ironhide Belt of the Eagle",
 		["13120:0"] = "cff0070dd;Deepfury Bracers",
-		["14665:0"] = "cff1eff00;Keeper's Cloak",
-		["11754:0"] = "cff1eff00;Black Diamond",
-		["36153:-18"] = "cff1eff00;Pygmy Shoulders of Agility",
-		["36272:-35"] = "cff1eff00;Ulduar Legguards of Shadow Protection",
-		["36390:-35"] = "cff1eff00;Revenant Gauntlets of Shadow Protection",
-		["36704:-41"] = "cff1eff00;Hive Comb Staff of the Beast",
-		["36287:-6"] = "cff1eff00;Spectral Helmet of the Eagle",
+		["15278:1054"] = "cff1eff00;Solstice Staff of the Whale",
 		["25004:-41"] = "cff1eff00;Bloodfist Epaulets of the Beast",
-		["24910:-44"] = "cff1eff00;Netherstorm Belt of the Elder",
-		["13007:0"] = "cff0070dd;Mageflame Cloak",
-		["39717:0"] = "cffa335ee;Inexorable Sabatons",
-		["10375:0"] = "cff1eff00;Imbued Plate Vambraces",
+		["14365:0"] = "cff1eff00;Mystic's Cape",
 		["14306:1976"] = "cff1eff00;Bonecaster's Vest of Frozen Wrath",
-		["37761:0"] = "cff0070dd;Shimmerthread Girdle",
 		["44695:-41"] = "cff0070dd;Corroded Faceguard of the Beast",
 		["36638:-6"] = "cff1eff00;Bloody Crossbow of the Eagle",
-		["12691:0"] = "cff1eff00;Plans: Wildthorn Mail",
 		["24640:-6"] = "cff1eff00;Mistyreed Gloves of the Eagle",
-		["10078:1202"] = "cff1eff00;Lord's Crest of the Bear",
 		["25295:-8"] = "cff1eff00;Flawless Wand of the Whale",
 		["15660:464"] = "cff1eff00;Impenetrable Breastplate of the Falcon",
-		["24738:-39"] = "cff1eff00;Sunroc Pants of the Invoker",
 		["36274:-6"] = "cff1eff00;Ulduar Bracers of the Eagle",
-		["14859:0"] = "cff1eff00;Vanguard Legplates",
-		["11302:0"] = "cff0070dd;Uther's Strength",
-		["14682:0"] = "cff1eff00;Indomitable Armguards",
-		["9385:0"] = "cff0070dd;Archaic Defender",
-		["25261:-5"] = "cff1eff00;Mighty Crossbow of the Monkey",
-		["25195:-8"] = "cff1eff00;Diamond Tipped Claws of the Whale",
-		["24906:-8"] = "cff1eff00;Talhide Helmet of the Whale",
-		["10184:860"] = "cff1eff00;Swashbuckler's Bracers of the Eagle",
-		["13052:0"] = "cff0070dd;Warmonger",
-		["14183:1024"] = "cff1eff00;Watcher's Leggings of the Whale",
-		["45099:0"] = "cffa335ee;Pattern: Footpads of Silence",
-		["32229:0"] = "cffa335ee;Lionseye",
-		["36277:-20"] = "cff1eff00;Spiderlord Chestpiece of Power",
-		["39472:0"] = "cffa335ee;Chain of Latent Energies",
-		["36274:-40"] = "cff1eff00;Ulduar Bracers of the Bandit",
-		["36051:-31"] = "cff1eff00;Vizier Sash of Arcane Protection",
-		["20261:0"] = "cff0070dd;Shadow Panther Hide Belt",
+		["24707:-40"] = "cff1eff00;Haal'eshi Pauldrons of the Bandit",
+		["31308:0"] = "cff0070dd;The Bringer of Death",
+		["13110:0"] = "cff0070dd;Wolffear Harness",
 		["15615:620"] = "cff1eff00;Bonelink Helmet of the Monkey",
 		["36273:-40"] = "cff1eff00;Ulduar Shoulderguards of the Bandit",
-		["13130:0"] = "cff0070dd;Windrunner Legguards",
-		["36159:-31"] = "cff1eff00;Wendigo Hood of Arcane Protection",
-		["11733:0"] = "cff1eff00;Libram of Constitution",
-		["35616:0"] = "cff0070dd;Spored Tendrils Spaulders",
-		["7910:0"] = "cff1eff00;Star Ruby",
-		["11976:1415"] = "cff1eff00;Sardonyx Knuckle of Fire Resistance",
-		["36037:-16"] = "cff1eff00;Condor Robe of Stamina",
-		["36556:-39"] = "cff1eff00;Apocalyptic Staff of the Invoker",
-		["16838:0"] = "cffa335ee;Earthfury Belt",
 		["14849:0"] = "cff1eff00;Sunscale Helmet",
-		["13045:0"] = "cff0070dd;Viscous Hammer",
+		["5011:0"] = "cff1eff00;Welken Ring",
+		["37794:0"] = "cff0070dd;Torta's Oversized Choker",
+		["35654:0"] = "cff0070dd;Bindings of the Bastille",
+		["31203:-14"] = "cff0070dd;Arcane Loop of the Tiger",
 		["41782:0"] = "cff0070dd;Design: Shining Forest Emerald",
-		["13072:0"] = "cff0070dd;Stonegrip Gauntlets",
-		["36539:-18"] = "cff1eff00;Chilled Warblade of Agility",
-		["32231:0"] = "cffa335ee;Pyrestone",
 		["14851:0"] = "cff1eff00;Sunscale Spaulders",
-		["36626:-17"] = "cff1eff00;Military Compound Bow of Strength",
-		["45101:0"] = "cffa335ee;Pattern: Boots of Wintry Endurance",
-		["14551:0"] = "cffa335ee;Edgemaster's Handguards",
+		["32231:0"] = "cffa335ee;Pyrestone",
 		["5498:0"] = "cff1eff00;Small Lustrous Pearl",
-		["14982:1209"] = "cff1eff00;Exalted Shield of the Bear",
-		["36653:-45"] = "cff1eff00;Precipice Longrifle of the Champion",
 		["41779:0"] = "cff0070dd;Design: Stalwart Monarch Topaz",
-		["45237:0"] = "cffa335ee;Phaelia's Vestments of the Sprouting Seed",
-		["36065:-39"] = "cff1eff00;Coldwraith Mantle of the Invoker",
-		["15931:0"] = "cff1eff00;Arcane Star",
-		["14976:877"] = "cff1eff00;Exalted Gauntlets of the Eagle",
-		["7330:679"] = "cff1eff00;Infiltrator Buckler of the Tiger",
-		["25252:-41"] = "cff1eff00;Dream Catcher Bow of the Beast",
-		["24595:-6"] = "cff1eff00;Fireheart Shoulderpads of the Eagle",
-		["24756:-8"] = "cff1eff00;Daggerfen Bindings of the Whale",
-		["36582:-13"] = "cff1eff00;Ice Pick of the Wolf",
-		["32227:0"] = "cffa335ee;Crimson Spinel",
-		["24667:-6"] = "cff1eff00;Shadow Council Mantle of the Eagle",
-		["6600:764"] = "cff1eff00;Dervish Belt of the Owl",
+		["2911:0"] = "cff0070dd;Keller's Girdle",
+		["24894:-44"] = "cff1eff00;Sundered Waistband of the Elder",
+		["7078:0"] = "cff1eff00;Essence of Fire",
 		["4078:0"] = "cff1eff00;Chief Brigadier Coif",
-		["14554:0"] = "cffa335ee;Cloudkeeper Legplates",
-		["14671:0"] = "cff1eff00;Pridelord Boots",
-		["45107:0"] = "cffa335ee;Iron Riveted War Helm",
-		["36268:-44"] = "cff1eff00;Ulduar Greaves of the Elder",
-		["36279:-40"] = "cff1eff00;Spiderlord Helm of the Bandit",
+		["18661:0"] = "cff1eff00;Schematic: World Enlarger",
 		["15221:1200"] = "cff1eff00;Holy War Sword of the Bear",
-		["24842:-39"] = "cff1eff00;Wrathfin Helmet of the Invoker",
-		["36386:-18"] = "cff1eff00;Golem Vambraces of Agility",
-		["13096:0"] = "cff0070dd;Band of the Hierophant",
-		["2989:0"] = "cff1eff00;Burnished Tunic",
-		["9876:1030"] = "cff1eff00;Sorcerer Slippers of the Whale",
-		["36391:-26"] = "cff1eff00;Revenant Helmet of Spell Power",
-		["14978:1217"] = "cff1eff00;Exalted Sabatons of the Bear",
-		["8299:0"] = "cff1eff00;Traveler's Helm",
-		["14459:0"] = "cff1eff00;Elunarian Cloak",
-		["36037:-9"] = "cff1eff00;Condor Robe of the Owl",
-		["10197:385"] = "cff1eff00;Crusader's Belt of Intellect",
-		["24869:-13"] = "cff1eff00;Blood Knight Bracers of the Wolf",
-		["12682:0"] = "cff1eff00;Plans: Thorium Armor",
-		["24903:-11"] = "cff1eff00;Talhide Lined-Boots of the Falcon",
-		["19262:0"] = "cff0070dd;Five of Warlords",
-		["10073:879"] = "cff1eff00;Righteous Helmet of the Eagle",
-		["36428:-39"] = "cff1eff00;Bouquet Ring of the Invoker",
-		["25136:-12"] = "cff1eff00;Blood Stained Hammer of the Boar",
+		["9889:612"] = "cff1eff00;Huntsman's Cap of the Monkey",
+		["36059:-35"] = "cff1eff00;Coldwraith Sash of Shadow Protection",
+		["24596:-37"] = "cff1eff00;Fireheart Bracers of the Physician",
+		["36267:-67"] = "cff1eff00;Ulduar Girdle of the Seer",
 		["44683:-88"] = "cff0070dd;King's Eyesocket of the Foreseer",
-		["36468:-38"] = "cff1eff00;Glistening Star of the Prophet",
-		["13125:0"] = "cff0070dd;Elven Chain Boots",
-		["5071:0"] = "cff1eff00;Shadow Wand",
-		["4071:0"] = "cff1eff00;Glimmering Mail Breastplate",
 		["15248:847"] = "cff1eff00;Gleaming Claymore of the Eagle",
-		["14474:0"] = "cff1eff00;Pattern: Frostweave Gloves",
-		["13040:0"] = "cff0070dd;Heartseeking Crossbow",
-		["8289:0"] = "cff1eff00;Arcane Leggings",
-		["36568:-8"] = "cff1eff00;Hollowed Bone Knuckles of the Whale",
-		["15364:249"] = "cff1eff00;Trickster's Cloak of the Falcon",
-		["14456:0"] = "cff1eff00;Elunarian Vest",
+		["19262:0"] = "cff0070dd;Five of Warlords",
+		["24869:-13"] = "cff1eff00;Blood Knight Bracers of the Wolf",
+		["13125:0"] = "cff0070dd;Elven Chain Boots",
+		["935:0"] = "cff0070dd;Night Watch Shortsword",
+		["13037:0"] = "cff0070dd;Crystalpine Stinger",
 		["36269:-12"] = "cff1eff00;Ulduar Breastplate of the Boar",
 		["36039:-36"] = "cff1eff00;Condor Headpiece of the Sorcerer",
-		["13073:0"] = "cff0070dd;Mugthol's Helm",
-		["36296:-45"] = "cff1eff00;Westguard Legplates of the Champion",
-		["10119:529"] = "cff1eff00;Ornate Greaves of the Wolf",
-		["35964:-32"] = "cff1eff00;Bloodspore Sandals of Fire Protection",
+		["7417:1197"] = "cff1eff00;Phalanx Boots of the Bear",
 		["21803:0"] = "cff0070dd;Helm of the Holy Avenger",
-		["10154:793"] = "cff1eff00;Mercurial Girdle of the Owl",
 		["36269:-44"] = "cff1eff00;Ulduar Breastplate of the Elder",
-		["24676:-37"] = "cff1eff00;Eldr'naan Bracelets of the Physician",
 		["8130:0"] = "cff1eff00;Myrmidon's Greaves",
 		["44732:-42"] = "cff0070dd;Azure Dragonleather Helm of the Hierophant",
-		["37781:0"] = "cff0070dd;Grips of the Warming Heart",
-		["36665:-6"] = "cff1eff00;Wasteland Wand of the Eagle",
-		["15573:308"] = "cff1eff00;Marauder's Leggings of Strength",
-		["36267:-67"] = "cff1eff00;Ulduar Girdle of the Seer",
 		["10145:788"] = "cff1eff00;Mighty Girdle of the Owl",
-		["36441:-14"] = "cff1eff00;Pearl Woven Choker of the Tiger",
 		["15663:784"] = "cff1eff00;Impenetrable Belt of the Owl",
 		["24724:-11"] = "cff1eff00;Dreghood Bands of the Falcon",
-		["36059:-35"] = "cff1eff00;Coldwraith Sash of Shadow Protection",
-		["3020:0"] = "cff0070dd;Enduring Cap",
-		["11208:0"] = "cff1eff00;Formula: Enchant Weapon - Demonslaying",
-		["36166:-42"] = "cff1eff00;Webspinner Gloves of the Hierophant",
-		["28537:-13"] = "cff1eff00;Wildhammer Throwing Axe of the Wolf",
-		["24671:-39"] = "cff1eff00;Eldr'naan Jerkin of the Invoker",
-		["18661:0"] = "cff1eff00;Schematic: World Enlarger",
-		["7078:0"] = "cff1eff00;Essence of Fire",
-		["36455:-45"] = "cff1eff00;Plated Bulwark of the Champion",
-		["31290:0"] = "cff0070dd;Band of Dominion",
-		["31203:-14"] = "cff0070dd;Arcane Loop of the Tiger",
-		["24593:-36"] = "cff1eff00;Fireheart Skullcap of the Sorcerer",
-		["16710:0"] = "cff0070dd;Shadowcraft Bracers",
-		["36679:-9"] = "cff1eff00;Singing Dagger of the Owl",
-		["36455:-43"] = "cff1eff00;Plated Bulwark of the Soldier",
+		["24832:-14"] = "cff1eff00;Nexus-Strider Breastplate of the Tiger",
+		["4038:0"] = "cff1eff00;Nightsky Robe",
+		["10085:1127"] = "cff1eff00;Lord's Pauldrons of the Boar",
+		["32540:0"] = "cffa335ee;Terokk's Might",
+		["36626:-17"] = "cff1eff00;Military Compound Bow of Strength",
 		["4090:0"] = "cff0070dd;Mug O' Hurt",
-		["14669:0"] = "cff1eff00;Keeper's Mantle",
-		["36542:-44"] = "cff1eff00;Invasion Blade of the Elder",
-		["35654:0"] = "cff0070dd;Bindings of the Bastille",
 		["37769:0"] = "cff0070dd;Gnarled Shovelhorn Spaulders",
 		["24948:-35"] = "cff1eff00;Bloodscale Pauldrons of Shadow Protection",
-		["37794:0"] = "cff0070dd;Torta's Oversized Choker",
-		["13146:0"] = "cff0070dd;Shell Launcher Shotgun",
-		["36679:-44"] = "cff1eff00;Singing Dagger of the Elder",
-		["23625:0"] = "cffa335ee;Plans: Oathkeeper's Helm",
-		["24672:-36"] = "cff1eff00;Eldr'naan Gloves of the Sorcerer",
-		["19774:0"] = "cff1eff00;Souldarite",
-		["36500:-45"] = "cff1eff00;Gargoyle's Mace of the Champion",
+		["7412:1191"] = "cff1eff00;Infiltrator Gloves of the Bear",
+		["20261:0"] = "cff0070dd;Shadow Panther Hide Belt",
+		["25261:-5"] = "cff1eff00;Mighty Crossbow of the Monkey",
 		["12694:0"] = "cff1eff00;Plans: Thorium Helm",
-		["36394:-18"] = "cff1eff00;Revenant Bracers of Agility",
-		["9780:590"] = "cff1eff00;Bandit Gloves of the Monkey",
+		["11302:0"] = "cff0070dd;Uther's Strength",
 		["24740:-14"] = "cff1eff00;Sunroc Armguards of the Tiger",
-		["25196:-9"] = "cff1eff00;Boneshredder Claws of the Owl",
-		["13047:0"] = "cff0070dd;Twig of the World Tree",
-		["29728:0"] = "cffa335ee;Pattern: Windslayer Wraps",
-		["45874:0"] = "cffa335ee;Signet of Winter",
+		["9718:0"] = "cff0070dd;Reforged Blade of Heroes",
 		["15118:596"] = "cff1eff00;Rigid Tunic of the Monkey",
-		["15634:794"] = "cff1eff00;Formidable Circlet of the Owl",
 		["15325:1021"] = "cff1eff00;Sharpshooter Harquebus of the Whale",
 		["6610:213"] = "cff1eff00;Sage's Robe of Intellect",
-		["10270:537"] = "cff1eff00;Masterwork Boots of the Wolf",
-		["36052:-8"] = "cff1eff00;Vizier Slippers of the Whale",
-		["25228:-13"] = "cff1eff00;Halberd Polearm of the Wolf",
 		["15245:683"] = "cff1eff00;Vorpal Dagger of the Tiger",
 		["13126:0"] = "cff0070dd;Battlecaller Gauntlets",
 		["36047:-6"] = "cff1eff00;Crystalsong Crown of the Eagle",
 		["12697:0"] = "cff1eff00;Plans: Radiant Boots",
 		["36380:-37"] = "cff1eff00;Golem Sabatons of the Physician",
-		["14675:0"] = "cff1eff00;Pridelord Gloves",
-		["36513:-41"] = "cff1eff00;Lode-Headed Hammer of the Beast",
-		["13025:0"] = "cff0070dd;Deadwood Sledge",
-		["36036:-37"] = "cff1eff00;Condor Sandals of the Physician",
-		["31201:-40"] = "cff0070dd;Illidari Cloak of the Bandit",
-		["25125:-18"] = "cff1eff00;Retro-Spike Club of Agility",
 		["36272:-67"] = "cff1eff00;Ulduar Legguards of the Seer",
 		["36390:-13"] = "cff1eff00;Revenant Gauntlets of the Wolf",
-		["36256:-40"] = "cff1eff00;Wolvar Legguards of the Bandit",
 		["13039:0"] = "cff0070dd;Skull Splitting Crossbow",
-		["24675:-9"] = "cff1eff00;Eldr'naan Shoulderpads of the Owl",
 		["31221:-44"] = "cff0070dd;Illidari Vambraces of the Elder",
-		["15259:682"] = "cff1eff00;Hefty Battlehammer of the Tiger",
-		["31237:0"] = "cff0070dd;Elekk Hide Leggings",
+		["14183:1024"] = "cff1eff00;Watcher's Leggings of the Whale",
 		["10302:0"] = "cff1eff00;Pattern: Red Mageweave Pants",
 		["36638:-41"] = "cff1eff00;Bloody Crossbow of the Beast",
-		["34664:0"] = "cff0070dd;Sunmote",
-		["36374:-27"] = "cff1eff00;Kraken Gauntlets of Defense",
-		["25049:-37"] = "cff1eff00;Scheelite Ring of the Physician",
-		["14498:0"] = "cff1eff00;Pattern: Runecloth Headband",
-		["25337:-41"] = "cff1eff00;Swarming Sting-Staff of the Beast",
-		["8133:0"] = "cff1eff00;Myrmidon's Pauldrons",
-		["10173:862"] = "cff1eff00;Mystical Bracers of the Eagle",
+		["24683:-6"] = "cff1eff00;Archmage Mantle of the Eagle",
+		["31285:0"] = "cff0070dd;Chestguard of the Talon",
 		["13077:0"] = "cff0070dd;Girdle of Uther",
-		["18742:0"] = "cff0070dd;Stratholme Militia Shoulderguard",
-		["10170:1621"] = "cff1eff00;Templar Pauldrons of Defense",
+		["23077:0"] = "cff1eff00;Blood Garnet",
 		["35579:0"] = "cff0070dd;Vrykul Shackles",
-		["9402:0"] = "cff0070dd;Earthborn Kilt",
-		["15679:778"] = "cff1eff00;Triumphant Bracers of the Owl",
-		["20520:0"] = "cff1eff00;Dark Rune",
-		["1988:0"] = "cff1eff00;Chief Brigadier Gauntlets",
-		["15662:412"] = "cff1eff00;Impenetrable Gauntlets of Spirit",
-		["36161:-12"] = "cff1eff00;Wendigo Pauldrons of the Boar",
-		["36051:-9"] = "cff1eff00;Vizier Sash of the Owl",
-		["15265:632"] = "cff1eff00;Painbringer of the Monkey",
+		["6575:1097"] = "cff1eff00;Defender Cloak of the Boar",
+		["36707:-41"] = "cff1eff00;Cascading Water Staff of the Beast",
 		["25192:-41"] = "cff1eff00;Gutrippers of the Beast",
-		["35998:-39"] = "cff1eff00;Voldrune Gloves of the Invoker",
-		["25002:-12"] = "cff1eff00;Bloodfist Helmet of the Boar",
+		["5500:0"] = "cff1eff00;Iridescent Pearl",
 		["32249:0"] = "cffa335ee;Seaspray Emerald",
-		["31294:0"] = "cff0070dd;Pauldrons of Surging Mana",
 		["25290:-39"] = "cff1eff00;Solitaire Wand of the Invoker",
-		["14907:1127"] = "cff1eff00;Brutish Helmet of the Boar",
-		["10193:366"] = "cff1eff00;Crusader's Armor of Agility",
-		["41785:0"] = "cff0070dd;Design: Tenuous Twilight Opal",
-		["25221:-7"] = "cff1eff00;Ghostly Battle Axe of the Bear",
-		["14922:1125"] = "cff1eff00;Lofty Sabatons of the Boar",
+		["35990:-21"] = "cff1eff00;Bristlepine Handwraps of Spell Power",
 		["36065:-38"] = "cff1eff00;Coldwraith Mantle of the Prophet",
 		["36035:-39"] = "cff1eff00;Condor Belt of the Invoker",
 		["31303:0"] = "cff0070dd;Valanos' Longbow",
-		["10070:1054"] = "cff1eff00;Righteous Armor of the Whale",
-		["13015:0"] = "cff0070dd;Serathil",
-		["16864:0"] = "cffa335ee;Belt of Might",
+		["36680:-44"] = "cff1eff00;Mystic Fang of the Elder",
 		["2164:0"] = "cffa335ee;Gut Ripper",
+		["36035:-6"] = "cff1eff00;Condor Belt of the Eagle",
+		["45316:0"] = "cffa335ee;Armbraces of the Vibrant Flame",
+		["9844:778"] = "cff1eff00;Conjurer's Vest of the Owl",
+		["14494:0"] = "cff1eff00;Pattern: Brightcloth Pants",
+		["4041:0"] = "cff1eff00;Aurora Cowl",
+		["36171:-16"] = "cff1eff00;Geist Belt of Stamina",
+		["2315:0"] = "cff1eff00;Dark Leather Boots",
+		["3058:0"] = "cff1eff00;Forest Leather Gloves",
+		["15640:1052"] = "cff1eff00;Ironhide Breastplate of the Whale",
+		["31284:0"] = "cff0070dd;Bracers of Recklessness",
+		["833:0"] = "cffa335ee;Lifestone",
+		["36456:-18"] = "cff1eff00;Icy Kite Shield of Agility",
+		["41777:0"] = "cff0070dd;Design: Etched Monarch Topaz",
+		["3612:0"] = "cff1eff00;Plans: Green Iron Gauntlets",
+		["36499:-13"] = "cff1eff00;Frigid War-Mace of the Wolf",
+		["24654:-36"] = "cff1eff00;Consortium Boot of the Sorcerer",
+		["6389:0"] = "cff1eff00;Glimmering Mail Coif",
+		["16861:0"] = "cffa335ee;Bracers of Might",
+		["6044:0"] = "cff1eff00;Plans: Iron Shield Spike",
+		["24772:-6"] = "cff1eff00;Clefthoof Bracers of the Eagle",
+		["31306:0"] = "cff0070dd;Leggings of the Sacred Crest",
+		["15187:1209"] = "cff1eff00;Praetorian Pauldrons of the Bear",
+		["25024:-36"] = "cff1eff00;Warlord's Iron-Breastplate of the Sorcerer",
+		["6412:0"] = "cff1eff00;Chief Brigadier Boots",
+		["36580:-10"] = "cff1eff00;Dire Axe of the Gorilla",
+		["14922:1209"] = "cff1eff00;Lofty Sabatons of the Bear",
+		["24169:0"] = "cff0070dd;Design: Eye of the Night",
+		["4043:0"] = "cff1eff00;Aurora Bracers",
+		["9897:613"] = "cff1eff00;Jazeraint Chestguard of the Monkey",
+		["13003:0"] = "cff0070dd;Lord Alexander's Battle Axe",
+		["4243:0"] = "cff1eff00;Fine Leather Tunic",
+		["14970:1226"] = "cff1eff00;Glorious Legplates of the Bear",
+		["13123:0"] = "cff0070dd;Dreamwalker Armor",
+		["45493:0"] = "cffa335ee;Asimov's Drape",
+		["36271:-27"] = "cff1eff00;Ulduar Helm of Defense",
+		["24784:-13"] = "cff1eff00;Murkblood Chestpiece of the Wolf",
+		["36043:-19"] = "cff1eff00;Crystalsong Sash of Intellect",
+		["9805:842"] = "cff1eff00;Superior Cloak of the Eagle",
+		["24897:-11"] = "cff1eff00;Sundered Gauntlets of the Falcon",
+		["1210:0"] = "cff1eff00;Shadowgem",
+		["13048:0"] = "cff0070dd;Looming Gavel",
+		["6426:0"] = "cff1eff00;Blackforge Bracers",
+		["36554:-39"] = "cff1eff00;Cursed Staff of the Invoker",
+		["37817:0"] = "cff0070dd;Branch of Sinful Reprieve",
+		["6548:673"] = "cff1eff00;Soldier's Girdle of the Tiger",
+		["7990:0"] = "cff1eff00;Plans: Heavy Mithril Helm",
+		["15148:856"] = "cff1eff00;Ghostwalker Belt of the Eagle",
+		["15253:708"] = "cff1eff00;Beheading Blade of the Tiger",
+		["5009:0"] = "cff1eff00;Mindbender Loop",
+		["15946:0"] = "cff1eff00;Mystic's Sphere",
+		["32737:0"] = "cffa335ee;Plans: Swiftsteel Shoulders",
+		["11038:0"] = "cff1eff00;Formula: Enchant 2H Weapon - Lesser Spirit",
+		["36296:-67"] = "cff1eff00;Westguard Legplates of the Seer",
+		["36387:-20"] = "cff1eff00;Revenant Belt of Power",
+		["2564:0"] = "cff0070dd;Elven Spirit Claws",
+		["6375:0"] = "cff1eff00;Formula: Enchant Bracer - Lesser Spirit",
+		["13030:0"] = "cff0070dd;Basilisk Bone",
+		["25007:-9"] = "cff1eff00;Conqueror's Greaves of the Owl",
+		["1263:0"] = "cffa335ee;Brain Hacker",
+		["15348:762"] = "cff1eff00;Pathfinder Bracers of the Owl",
+		["25323:-44"] = "cff1eff00;Ascendant's Scepter of the Elder",
+		["6607:251"] = "cff1eff00;Dervish Leggings of the Falcon",
+		["9859:777"] = "cff1eff00;Archer's Cap of the Owl",
+		["24702:-8"] = "cff1eff00;Haal'eshi Boots of the Whale",
+		["24966:-19"] = "cff1eff00;Talonguard Girdle of Intellect",
+		["15737:0"] = "cff1eff00;Pattern: Chimeric Boots",
+		["24895:-35"] = "cff1eff00;Sundered Footwraps of Shadow Protection",
+		["14496:0"] = "cff1eff00;Pattern: Felcloth Hood",
+		["25020:-45"] = "cff1eff00;Shattered Hand Epaulets of the Champion",
+		["4410:0"] = "cff1eff00;Schematic: Shadow Goggles",
+		["9813:1188"] = "cff1eff00;Fortified Gauntlets of the Bear",
+		["6565:847"] = "cff1eff00;Shimmering Gloves of the Eagle",
+		["23572:0"] = "cff0070dd;Primal Nether",
+		["23197:0"] = "cff0070dd;Idol of the Moon",
+		["36030:-16"] = "cff1eff00;Oracle Gloves of Stamina",
+		["14418:0"] = "cff1eff00;Silksand Boots",
+		["25032:-5"] = "cff1eff00;Hellfire Cloak of the Monkey",
+		["36582:-13"] = "cff1eff00;Ice Pick of the Wolf",
+		["13056:0"] = "cff0070dd;Frenzied Striker",
+		["24594:-6"] = "cff1eff00;Fireheart Leggings of the Eagle",
+		["3292:0"] = "cff1eff00;Ancestral Tunic",
+		["15929:0"] = "cff1eff00;Nightsky Orb",
+		["36386:-15"] = "cff1eff00;Golem Vambraces of Spirit",
+		["2310:0"] = "cff1eff00;Embossed Leather Cloak",
+		["13091:0"] = "cff0070dd;Medallion of Grand Marshal Morris",
+		["36611:-14"] = "cff1eff00;Bleak Scythe of the Tiger",
+		["36166:-37"] = "cff1eff00;Webspinner Gloves of the Physician",
+		["16817:0"] = "cffa335ee;Girdle of Prophecy",
+		["10199:1568"] = "cff1eff00;Crusader's Leggings of Power",
+		["15282:179"] = "cff1eff00;Dragon Finger of Spirit",
+		["36052:-8"] = "cff1eff00;Vizier Slippers of the Whale",
+		["36035:-26"] = "cff1eff00;Condor Belt of Spell Power",
+		["31149:0"] = "cff0070dd;Gloves of Pandemonium",
+		["15192:532"] = "cff1eff00;Grand Gauntlets of the Wolf",
+		["4717:0"] = "cff1eff00;Mail Combat Belt",
+		["6350:0"] = "cff1eff00;Rough Bronze Boots",
+		["4350:0"] = "cff1eff00;Pattern: Spider Silk Slippers",
+		["9818:186"] = "cff1eff00;Fortified Chain of Stamina",
+		["15667:1965"] = "cff1eff00;Impenetrable Wall of Frozen Wrath",
+		["36281:-67"] = "cff1eff00;Spiderlord Spaulders of the Seer",
+		["3866:0"] = "cff1eff00;Plans: Jade Serpentblade",
+		["8190:0"] = "cff0070dd;Hanzo Sword",
+		["14506:0"] = "cff1eff00;Pattern: Felcloth Robe",
+		["29728:0"] = "cffa335ee;Pattern: Windslayer Wraps",
+		["3835:0"] = "cff1eff00;Green Iron Bracers",
+		["2989:0"] = "cff1eff00;Burnished Tunic",
+		["11611:0"] = "cff0070dd;Plans: Dark Iron Sunderer",
+		["6379:0"] = "cff1eff00;Inscribed Leather Belt",
+		["7450:0"] = "cff1eff00;Pattern: Green Whelp Armor",
+		["36441:-43"] = "cff1eff00;Pearl Woven Choker of the Soldier",
+		["5964:0"] = "cff1eff00;Barbaric Shoulders",
+		["36391:-26"] = "cff1eff00;Revenant Helmet of Spell Power",
+		["9863:1115"] = "cff1eff00;Archer's Shoulderpads of the Boar",
+		["6663:0"] = "cff1eff00;Recipe: Elixir of Giant Growth",
+		["31305:0"] = "cff0070dd;Ced's Carver",
+		["15228:2038"] = "cff1eff00;Smashing Star of Healing",
+		["15394:364"] = "cff1eff00;Jadefire Pants of Agility",
+		["2775:0"] = "cff1eff00;Silver Ore",
+		["44313:0"] = "cffa335ee;Zom's Crackling Bulwark",
+		["36441:-36"] = "cff1eff00;Pearl Woven Choker of the Sorcerer",
+		["24895:-14"] = "cff1eff00;Sundered Footwraps of the Tiger",
+		["24747:-42"] = "cff1eff00;Ranger Pauldrons of the Hierophant",
+		["16806:0"] = "cffa335ee;Felheart Belt",
+		["25313:-9"] = "cff1eff00;Cold-Iron Scepter of the Owl",
+		["10176:784"] = "cff1eff00;Mystical Gloves of the Owl",
+		["36695:-44"] = "cff1eff00;Dogmatic Scepter of the Elder",
+		["3864:0"] = "cff1eff00;Citrine",
+		["8287:0"] = "cff1eff00;Arcane Gloves",
+		["24896:-40"] = "cff1eff00;Sundered Chestpiece of the Bandit",
+		["14686:0"] = "cff1eff00;Indomitable Headdress",
+		["25183:-41"] = "cff1eff00;Voodoo Hex-Staff of the Beast",
+		["25185:-41"] = "cff1eff00;Thrasher Blades of the Beast",
+		["16671:0"] = "cff0070dd;Bindings of Elements",
+		["25016:-27"] = "cff1eff00;Shattered Hand Breastplate of Defense",
+		["14260:181"] = "cff1eff00;Bloodwoven Bracers of Spirit",
+		["24675:-6"] = "cff1eff00;Eldr'naan Shoulderpads of the Eagle",
+		["24803:-7"] = "cff1eff00;Dragonhawk Pants of the Bear",
+		["13033:0"] = "cff0070dd;Zealot Blade",
+		["1990:611"] = "cff1eff00;Ballast Maul of the Monkey",
+		["24756:-8"] = "cff1eff00;Daggerfen Bindings of the Whale",
+		["14685:0"] = "cff1eff00;Indomitable Gauntlets",
+		["15193:1228"] = "cff1eff00;Grand Crown of the Bear",
+		["14321:218"] = "cff1eff00;Resplendent Cloak of Stamina",
+		["24976:-10"] = "cff1eff00;Reaver Armor of the Gorilla",
+		["14186:174"] = "cff1eff00;Raincaller Mantle of Intellect",
+		["25042:-38"] = "cff1eff00;Nether Cloak of the Prophet",
+		["9879:1357"] = "cff1eff00;Sorcerer Bracelets of Frost Resistance",
+		["14922:1125"] = "cff1eff00;Lofty Sabatons of the Boar",
+		["32749:0"] = "cffa335ee;Pattern: Shoulders of Lightning Reflexes",
+		["41784:0"] = "cff0070dd;Design: Sovereign Twilight Opal",
+		["8317:0"] = "cff1eff00;Alabaster Plate Helmet",
+		["15677:792"] = "cff1eff00;Magnificent Shoulders of the Owl",
+		["10192:787"] = "cff1eff00;Crusader's Boots of the Owl",
+		["28535:-8"] = "cff1eff00;Amani Throwing Axe of the Whale",
+		["24693:-7"] = "cff1eff00;Bonechewer Pelt-Girdle of the Bear",
+		["24663:-36"] = "cff1eff00;Shadow Council Tunic of the Sorcerer",
+		["24830:-8"] = "cff1eff00;Nexus-Strider Belt of the Whale",
+		["36042:-36"] = "cff1eff00;Condor Bindings of the Sorcerer",
+		["36147:-33"] = "cff1eff00;Pygmy Belt of Frost Protection",
+		["32755:0"] = "cffa335ee;Pattern: Mantle of Nimble Thought",
+		["15669:1573"] = "cff1eff00;Magnificent Breastplate of Power",
+		["25111:-40"] = "cff1eff00;Lionhead Dagger of the Bandit",
+		["24783:-10"] = "cff1eff00;Murkblood Boots of the Gorilla",
+		["2983:0"] = "cff1eff00;Seer's Boots",
+		["25288:-19"] = "cff1eff00;Conjurer's Wand of Intellect",
+		["14299:784"] = "cff1eff00;Bonecaster's Boots of the Owl",
+		["36143:-37"] = "cff1eff00;Ghrino Cover of the Physician",
+		["36270:-27"] = "cff1eff00;Ulduar Gauntlets of Defense",
+		["15288:1711"] = "cff1eff00;Blasthorn Bow of Marksmanship",
+		["4072:0"] = "cff1eff00;Glimmering Mail Gauntlets",
+		["36147:-6"] = "cff1eff00;Pygmy Belt of the Eagle",
+		["10177:1898"] = "cff1eff00;Mystical Leggings of Fiery Wrath",
+		["36568:-6"] = "cff1eff00;Hollowed Bone Knuckles of the Eagle",
+		["7919:0"] = "cff1eff00;Heavy Mithril Gauntlet",
+		["24662:-9"] = "cff1eff00;Shadow Council Boots of the Owl",
+		["14848:0"] = "cff1eff00;Sunscale Sabatons",
+		["5069:0"] = "cff1eff00;Fire Wand",
+		["15986:1033"] = "cff1eff00;Bonecaster's Star of the Whale",
+		["14962:1221"] = "cff1eff00;High Chief's Legguards of the Bear",
+		["45322:0"] = "cffa335ee;Cloak of the Iron Council",
+		["10210:1969"] = "cff1eff00;Elegant Mantle of Frozen Wrath",
+		["10371:0"] = "cff1eff00;Imbued Plate Greaves",
+		["24883:-43"] = "cff1eff00;Der'izu Legguards of the Soldier",
+		["37767:0"] = "cff0070dd;Ryft's Deathgaze",
+		["25225:-13"] = "cff1eff00;Deepforge Broadaxe of the Wolf",
+		["9973:188"] = "cff1eff00;Embossed Plate Boots of Stamina",
+		["24947:-41"] = "cff1eff00;Bloodscale Legguards of the Beast",
+		["10239:605"] = "cff1eff00;Heavy Lamellar Vambraces of the Monkey",
+		["7521:409"] = "cff1eff00;Gossamer Gloves of Spirit",
+		["14553:0"] = "cffa335ee;Sash of Mercy",
+		["14755:0"] = "cff1eff00;Slayer's Sash",
+		["24830:-44"] = "cff1eff00;Nexus-Strider Belt of the Elder",
+		["35580:0"] = "cff0070dd;Skein Woven Mantle",
+		["36273:-37"] = "cff1eff00;Ulduar Shoulderguards of the Physician",
+		["25223:-40"] = "cff1eff00;Windcaller Hatchet of the Bandit",
+		["15119:0"] = "cff1eff00;Highborne Pants",
+		["7437:174"] = "cff1eff00;Twilight Cuffs of Intellect",
+		["36653:-40"] = "cff1eff00;Precipice Longrifle of the Bandit",
+		["36388:-11"] = "cff1eff00;Revenant Greaves of the Falcon",
+		["4719:0"] = "cff1eff00;Nightsky Cloak",
+		["36394:-27"] = "cff1eff00;Revenant Bracers of Defense",
+		["24822:-44"] = "cff1eff00;Netherstalker Belt of the Elder",
+		["36383:-27"] = "cff1eff00;Golem Helmet of Defense",
+		["35640:0"] = "cff0070dd;Darkweb Bindings",
+		["10259:792"] = "cff1eff00;Adventurer's Belt of the Owl",
+		["15388:784"] = "cff1eff00;Jadefire Belt of the Owl",
+		["15388:617"] = "cff1eff00;Jadefire Belt of the Monkey",
+		["10209:1122"] = "cff1eff00;Overlord's Spaulders of the Boar",
+		["14366:0"] = "cff1eff00;Mystic's Bracelets",
+		["7429:411"] = "cff1eff00;Twilight Armor of Spirit",
+		["25002:-12"] = "cff1eff00;Bloodfist Helmet of the Boar",
+		["10164:1055"] = "cff1eff00;Templar Chestplate of the Whale",
+		["24682:-26"] = "cff1eff00;Archmage Pants of Spell Power",
+		["12549:0"] = "cff0070dd;Braincage",
+		["36160:-17"] = "cff1eff00;Wendigo Legguards of Strength",
+		["2992:0"] = "cff1eff00;Burnished Gloves",
+		["13015:0"] = "cff0070dd;Serathil",
+		["6511:0"] = "cff1eff00;Journeyman's Robe",
+		["3577:0"] = "cff1eff00;Gold Bar",
+		["15265:632"] = "cff1eff00;Painbringer of the Monkey",
+		["15239:1197"] = "cff1eff00;Felstone Reaver of the Bear",
+		["36389:-13"] = "cff1eff00;Revenant Armor of the Wolf",
+		["14850:0"] = "cff1eff00;Sunscale Legplates",
+		["24637:-36"] = "cff1eff00;Mistyreed Belt of the Sorcerer",
+		["10085:1620"] = "cff1eff00;Lord's Pauldrons of Defense",
+		["15266:1574"] = "cff1eff00;Fierce Mauler of Power",
+		["9780:590"] = "cff1eff00;Bandit Gloves of the Monkey",
+		["24654:-9"] = "cff1eff00;Consortium Boot of the Owl",
+		["5425:0"] = "cff0070dd;Runescale Girdle",
+		["25276:-10"] = "cff1eff00;Tauren Runed Musket of the Gorilla",
+		["25238:-44"] = "cff1eff00;Hellfire War Spear of the Elder",
+		["24598:-37"] = "cff1eff00;Starfire Sandals of the Physician",
+		["3472:0"] = "cff1eff00;Runed Copper Gauntlets",
+		["18699:0"] = "cff0070dd;Icy Tomb Spaulders",
+		["31247:-16"] = "cff0070dd;Bog Pauldrons of Stamina",
+		["43102:0"] = "cff0070dd;Frozen Orb",
+		["24606:-39"] = "cff1eff00;Laughing Skull Boot of the Invoker",
+		["28534:-40"] = "cff1eff00;Fel Tipped Dart of the Bandit",
+		["24770:-41"] = "cff1eff00;Clefthoof Britches of the Beast",
+		["24693:-6"] = "cff1eff00;Bonechewer Pelt-Girdle of the Eagle",
+		["7539:790"] = "cff1eff00;Champion's Leggings of the Owl",
+		["13022:0"] = "cff0070dd;Gryphonwing Long Bow",
+		["14165:181"] = "cff1eff00;Pagan Britches of Spirit",
+		["24711:-7"] = "cff1eff00;Vengeance Chestpiece of the Bear",
+		["12026:218"] = "cff1eff00;Quicksilver Pendant of Stamina",
+		["24737:-7"] = "cff1eff00;Sunroc Mask of the Bear",
+		["14307:545"] = "cff1eff00;Bonecaster's Crown of the Wolf",
+		["25211:-39"] = "cff1eff00;Rockbiter Cutter of the Invoker",
+		["13013:0"] = "cff0070dd;Elder Wizard's Mantle",
+		["25172:-41"] = "cff1eff00;Jinbali Warp-Staff of the Beast",
+		["36500:-45"] = "cff1eff00;Gargoyle's Mace of the Champion",
+		["36513:-39"] = "cff1eff00;Lode-Headed Hammer of the Invoker",
+		["24803:-13"] = "cff1eff00;Dragonhawk Pants of the Wolf",
+		["14723:0"] = "cff1eff00;War Paint Bindings",
+		["9294:0"] = "cff1eff00;Recipe: Wildvine Potion",
+		["8294:0"] = "cff1eff00;Traveler's Boots",
+		["15117:179"] = "cff1eff00;Rigid Leggings of Spirit",
+		["24676:-38"] = "cff1eff00;Eldr'naan Bracelets of the Prophet",
+		["24763:-11"] = "cff1eff00;Umbrafen Shoulderguards of the Falcon",
+		["45274:0"] = "cffa335ee;Leggings of the Stoneweaver",
+		["25117:-13"] = "cff1eff00;Flanged Battle Mace of the Wolf",
+		["36163:-20"] = "cff1eff00;Webspinner Cord of Power",
+		["36511:-10"] = "cff1eff00;Arctic War Hammer of the Gorilla",
+		["24813:-8"] = "cff1eff00;Unyielding Bindings of the Whale",
+		["25227:-40"] = "cff1eff00;Sha'tari Longspear of the Bandit",
+		["13075:0"] = "cff0070dd;Direwing Legguards",
+		["24669:-8"] = "cff1eff00;Eldr'naan Belt of the Whale",
+		["25229:-40"] = "cff1eff00;Partisan Polearm of the Bandit",
+		["24714:-19"] = "cff1eff00;Vengeance Legguards of Intellect",
+		["24304:0"] = "cffa335ee;Pattern: Black Belt of Knowledge",
+		["25073:-24"] = "cff1eff00;Emperor Shield of Spell Power",
+		["24889:-10"] = "cff1eff00;Skettis Gauntlets of the Gorilla",
+		["36063:-37"] = "cff1eff00;Coldwraith Cowl of the Physician",
+		["21885:0"] = "cff1eff00;Primal Water",
+		["10274:389"] = "cff1eff00;Masterwork Pauldrons of Intellect",
+		["25301:-44"] = "cff1eff00;Shattering Dagger of the Elder",
+		["36002:-9"] = "cff1eff00;Voldrune Bracelets of the Owl",
+		["12992:0"] = "cff0070dd;Searing Blade",
+		["36267:-7"] = "cff1eff00;Ulduar Girdle of the Bear",
+		["36043:-21"] = "cff1eff00;Crystalsong Sash of Spell Power",
+		["25055:-9"] = "cff1eff00;Alexandrite Ring of the Owl",
+		["24918:-45"] = "cff1eff00;Grimscale Belt of the Champion",
+		["25284:-15"] = "cff1eff00;Purpleheart Wand of Spirit",
+		["24936:-41"] = "cff1eff00;Darkcrest Breastplate of the Beast",
+		["14307:1055"] = "cff1eff00;Bonecaster's Crown of the Whale",
+		["24610:-8"] = "cff1eff00;Laughing Skull Pants of the Whale",
+		["36679:-44"] = "cff1eff00;Singing Dagger of the Elder",
+		["14504:0"] = "cff1eff00;Pattern: Runecloth Shoulders",
+		["9790:24"] = "cff1eff00;Raider's Shield of Strength",
+		["15646:1571"] = "cff1eff00;Ironhide Legguards of Power",
+		["15427:178"] = "cff1eff00;Peerless Cloak of Intellect",
+		["36143:-18"] = "cff1eff00;Ghrino Cover of Agility",
+		["31175:0"] = "cff0070dd;Blade Dancer's Wristguards",
+		["31304:0"] = "cff0070dd;The Essence Focuser",
+		["31289:0"] = "cff0070dd;Staff of Divine Infusion",
+		["24598:-15"] = "cff1eff00;Starfire Sandals of Spirit",
+		["25076:-43"] = "cff1eff00;Screaming Shield of the Soldier",
+		["31291:0"] = "cff0070dd;Crystalforged War Axe",
+		["24732:-5"] = "cff1eff00;Dementia Armguards of the Monkey",
+		["24654:-39"] = "cff1eff00;Consortium Boot of the Invoker",
+		["24675:-8"] = "cff1eff00;Eldr'naan Shoulderpads of the Whale",
+		["24674:-34"] = "cff1eff00;Eldr'naan Pants of Nature Protection",
+		["10282:1203"] = "cff1eff00;Emerald Vambraces of the Bear",
+		["24907:-33"] = "cff1eff00;Talhide Lined-Leggings of Frost Protection",
+		["24888:-40"] = "cff1eff00;Skettis Chestpiece of the Bandit",
+		["25267:-12"] = "cff1eff00;Rampant Crossbow of the Boar",
+		["15435:620"] = "cff1eff00;Supreme Shoes of the Monkey",
+		["36485:-45"] = "cff1eff00;Sinuous Keris of the Champion",
+		["24662:-36"] = "cff1eff00;Shadow Council Boots of the Sorcerer",
+		["4561:15"] = "cff1eff00;Scalping Tomahawk of Stamina",
+		["24932:-45"] = "cff1eff00;Ango'rosh Pauldrons of the Champion",
+		["25082:-44"] = "cff1eff00;Fel-Iron Shield of the Elder",
+		["36709:-16"] = "cff1eff00;Crystal Woodstaff of Stamina",
+		["24887:-43"] = "cff1eff00;Skettis Footwraps of the Soldier",
+		["36272:-19"] = "cff1eff00;Ulduar Legguards of Intellect",
+		["25060:-8"] = "cff1eff00;Sunstone Necklace of the Whale",
+		["37780:0"] = "cff0070dd;Condor-Bone Chestguard",
+		["25125:-18"] = "cff1eff00;Retro-Spike Club of Agility",
+		["25018:-27"] = "cff1eff00;Shattered Hand Helmet of Defense",
+		["25209:-11"] = "cff1eff00;Amani Tomahawk of the Falcon",
+		["36404:-45"] = "cff1eff00;Suede Cloak of the Champion",
+		["29729:0"] = "cffa335ee;Pattern: Living Dragonscale Helm",
+		["24767:-32"] = "cff1eff00;Clefthoof Hidemantle of Fire Protection",
+		["14168:1013"] = "cff1eff00;Buccaneer's Gloves of the Whale",
+		["25266:-40"] = "cff1eff00;Well-Balanced Crossbow of the Bandit",
+		["25308:-44"] = "cff1eff00;Thunder Spike of the Elder",
+		["25014:-15"] = "cff1eff00;Shattered Hand Belt of Spirit",
+		["16827:0"] = "cffa335ee;Nightslayer Belt",
+		["24794:-33"] = "cff1eff00;Expedition Hood of Frost Protection",
+		["13113:0"] = "cff0070dd;Feathermoon Headdress",
+		["13032:0"] = "cff0070dd;Sword of Corruption",
+		["36268:-5"] = "cff1eff00;Ulduar Greaves of the Monkey",
+		["24844:-43"] = "cff1eff00;Wrathfin Mantle of the Soldier",
+		["25017:-44"] = "cff1eff00;Shattered Hand Gauntlets of the Elder",
+		["7483:769"] = "cff1eff00;Ranger Cloak of the Owl",
+		["31288:0"] = "cff0070dd;The Master's Treads",
+		["7534:1556"] = "cff1eff00;Cabalist Bracers of Power",
+		["13014:0"] = "cff0070dd;Axe of Rin'ji",
+		["25193:-41"] = "cff1eff00;Deathclaw Talons of the Beast",
+		["36471:-6"] = "cff1eff00;Ice Crystal of the Eagle",
+		["7558:845"] = "cff1eff00;Shimmering Stave of the Eagle",
+		["36263:-40"] = "cff1eff00;Cormorant Helm of the Bandit",
+		["24676:-37"] = "cff1eff00;Eldr'naan Bracelets of the Physician",
+		["10119:529"] = "cff1eff00;Ornate Greaves of the Wolf",
+		["8108:0"] = "cff1eff00;Hibernal Bracers",
+		["25180:-45"] = "cff1eff00;Calenda Fighting Stick of the Champion",
+		["36708:-41"] = "cff1eff00;Snow Blossom Staff of the Beast",
+		["6267:754"] = "cff1eff00;Disciple's Pants of the Owl",
+		["15765:0"] = "cff1eff00;Pattern: Runic Leather Pants",
+		["24926:-6"] = "cff1eff00;Ango'rosh Belt of the Eagle",
+		["24908:-44"] = "cff1eff00;Talhide Shoulderguards of the Elder",
+		["13130:0"] = "cff0070dd;Windrunner Legguards",
+		["36028:-34"] = "cff1eff00;Oracle Slippers of Nature Protection",
+		["36277:-44"] = "cff1eff00;Spiderlord Chestpiece of the Elder",
+		["36162:-14"] = "cff1eff00;Wendigo Bands of the Tiger",
+		["24941:-41"] = "cff1eff00;Darkcrest Bracers of the Beast",
+		["14221:1019"] = "cff1eff00;Geomancer's Bracers of the Whale",
+		["24900:-33"] = "cff1eff00;Sundered Spaulders of Frost Protection",
+		["8283:0"] = "cff1eff00;Arcane Armor",
+		["11997:190"] = "cff1eff00;Greenstone Circle of Strength",
+		["36055:-37"] = "cff1eff00;Vizier Hood of the Physician",
+		["14978:1217"] = "cff1eff00;Exalted Sabatons of the Bear",
+		["25228:-13"] = "cff1eff00;Halberd Polearm of the Wolf",
+		["23203:0"] = "cff0070dd;Libram of Fervor",
+		["36526:-8"] = "cff1eff00;Sleeted Longsword of the Whale",
+		["14333:790"] = "cff1eff00;Eternal Gloves of the Owl",
+		["24785:-40"] = "cff1eff00;Murkblood Gloves of the Bandit",
+		["10236:545"] = "cff1eff00;Engraved Leggings of the Wolf",
+		["19726:0"] = "cff1eff00;Bloodvine",
+		["36270:-9"] = "cff1eff00;Ulduar Gauntlets of the Owl",
+		["35652:0"] = "cff0070dd;Incessant Torch",
+		["15426:618"] = "cff1eff00;Peerless Boots of the Monkey",
+		["25337:-41"] = "cff1eff00;Swarming Sting-Staff of the Beast",
+		["14980:1227"] = "cff1eff00;Exalted Legplates of the Bear",
+		["14976:877"] = "cff1eff00;Exalted Gauntlets of the Eagle",
+		["1721:0"] = "cff0070dd;Viking Warhammer",
+		["10232:1044"] = "cff1eff00;Engraved Gauntlets of the Whale",
+		["13099:0"] = "cff0070dd;Moccasins of the White Hare",
+		["36542:-36"] = "cff1eff00;Invasion Blade of the Sorcerer",
+		["14916:693"] = "cff1eff00;Jade Deflector of the Tiger",
+		["15262:618"] = "cff1eff00;Greater Maul of the Monkey",
+		["36457:-44"] = "cff1eff00;Ivory Shield of the Elder",
+		["36455:-43"] = "cff1eff00;Plated Bulwark of the Soldier",
+		["4414:0"] = "cff1eff00;Schematic: Portable Bronze Mortar",
+		["10070:1054"] = "cff1eff00;Righteous Armor of the Whale",
+		["36707:-16"] = "cff1eff00;Cascading Water Staff of Stamina",
+		["15124:108"] = "cff1eff00;Robust Cloak of Defense",
+		["4349:0"] = "cff1eff00;Pattern: Phoenix Pants",
+		["12974:0"] = "cff0070dd;The Black Knight",
+		["36190:-20"] = "cff1eff00;Njord Gauntlets of Power",
+		["14555:0"] = "cffa335ee;Alcor's Sunrazor",
+		["17413:0"] = "cff0070dd;Codex: Prayer of Fortitude",
+		["24809:-39"] = "cff1eff00;Unyielding Fists of the Invoker",
+		["3831:0"] = "cff1eff00;Recipe: Major Troll's Blood Elixir",
+		["3868:0"] = "cff1eff00;Plans: Frost Tiger Blade",
+		["2868:0"] = "cff1eff00;Patterned Bronze Bracers",
+		["2567:0"] = "cff0070dd;Evocator's Blade",
+		["10166:1212"] = "cff1eff00;Templar Girdle of the Bear",
+		["24645:-37"] = "cff1eff00;Astralaan Belt of the Physician",
+		["36350:-11"] = "cff1eff00;Jormungar Gauntlets of the Falcon",
+		["36053:-19"] = "cff1eff00;Vizier Robe of Intellect",
+		["6348:0"] = "cff1eff00;Formula: Enchant Weapon - Minor Beastslayer",
+		["4696:0"] = "cff0070dd;Lapidis Tankard of Tidesippe",
+		["24674:-8"] = "cff1eff00;Eldr'naan Pants of the Whale",
+		["36276:-9"] = "cff1eff00;Spiderlord Boots of the Owl",
+		["4348:0"] = "cff1eff00;Pattern: Phoenix Gloves",
+		["4566:1954"] = "cff1eff00;Sturdy Quarterstaff of Frozen Wrath",
+		["8307:0"] = "cff1eff00;Hero's Boots",
+		["2865:0"] = "cff1eff00;Rough Bronze Leggings",
+		["36626:-8"] = "cff1eff00;Military Compound Bow of the Whale",
+		["1717:0"] = "cff0070dd;Double Link Tunic",
+		["36060:-8"] = "cff1eff00;Coldwraith Boots of the Whale",
+		["10190:1041"] = "cff1eff00;Swashbuckler's Belt of the Whale",
+		["16802:0"] = "cffa335ee;Arcanist Belt",
+		["40558:0"] = "cffa335ee;Arcanic Tramplers",
+		["24668:-16"] = "cff1eff00;Shadow Council Bracer of Stamina",
+		["24671:-33"] = "cff1eff00;Eldr'naan Jerkin of Frost Protection",
+		["36374:-27"] = "cff1eff00;Kraken Gauntlets of Defense",
+		["720:0"] = "cff0070dd;Brawler Gloves",
+		["7534:171"] = "cff1eff00;Cabalist Bracers of Agility",
+		["886:0"] = "cff1eff00;Black Metal Shortsword",
+		["4566:1011"] = "cff1eff00;Sturdy Quarterstaff of the Whale",
+		["14323:415"] = "cff1eff00;Resplendent Gauntlets of Spirit",
+		["9892:1811"] = "cff1eff00;Huntsman's Gloves of Arcane Wrath",
+		["15623:1048"] = "cff1eff00;Gryphon Mail Crown of the Whale",
+		["16714:0"] = "cff0070dd;Wildheart Bracers",
+		["13488:0"] = "cff1eff00;Recipe: Transmute Life to Earth",
+		["13101:0"] = "cff0070dd;Wolfrunner Shoes",
+		["25008:-45"] = "cff1eff00;Conqueror's Breastplate of the Champion",
+		["36665:-6"] = "cff1eff00;Wasteland Wand of the Eagle",
+		["13060:0"] = "cff0070dd;The Needler",
+		["25182:-18"] = "cff1eff00;Crystal-Etched Warstaff of Agility",
+		["15930:0"] = "cff1eff00;Imperial Red Scepter",
+		["25123:-9"] = "cff1eff00;Boneshredder Mace of the Owl",
+		["25253:-10"] = "cff1eff00;Windspear Longbow of the Gorilla",
+		["10155:454"] = "cff1eff00;Mercurial Greaves of the Falcon",
+		["25210:-44"] = "cff1eff00;Double-Bladed Axe of the Elder",
+		["36268:-20"] = "cff1eff00;Ulduar Greaves of Power",
+		["5423:0"] = "cff0070dd;Boahn's Fang",
+		["37760:0"] = "cff0070dd;Cracklefire Wristguards",
+		["2408:0"] = "cff1eff00;Pattern: Fine Leather Gloves",
+		["24880:-12"] = "cff1eff00;Der'izu Chestpiece of the Boar",
+		["31190:0"] = "cff0070dd;The Dreamer's Shoulderpads",
+		["23625:0"] = "cffa335ee;Plans: Oathkeeper's Helm",
+		["32230:0"] = "cffa335ee;Shadowsong Amethyst",
+		["15014:756"] = "cff1eff00;Lupine Buckler of the Owl",
+		["12695:0"] = "cff1eff00;Plans: Radiant Gloves",
+		["15341:853"] = "cff1eff00;Pathfinder Footpads of the Eagle",
+		["24797:-27"] = "cff1eff00;Expedition Bracers of Defense",
+		["24783:-15"] = "cff1eff00;Murkblood Boots of Spirit",
+		["36065:-39"] = "cff1eff00;Coldwraith Mantle of the Invoker",
+		["10374:0"] = "cff1eff00;Imbued Plate Pauldrons",
+		["24953:-44"] = "cff1eff00;Bogslayer Gauntlets of the Elder",
+		["36620:-5"] = "cff1eff00;Tracking Bow of the Monkey",
+		["15265:1142"] = "cff1eff00;Painbringer of the Boar",
+		["10251:877"] = "cff1eff00;Master's Gloves of the Eagle",
+		["4729:0"] = "cff1eff00;Aurora Mantle",
+		["7330:679"] = "cff1eff00;Infiltrator Buckler of the Tiger",
+		["36153:-18"] = "cff1eff00;Pygmy Shoulders of Agility",
+		["8289:0"] = "cff1eff00;Arcane Leggings",
+		["16043:0"] = "cff1eff00;Schematic: Thorium Rifle",
+		["24675:-9"] = "cff1eff00;Eldr'naan Shoulderpads of the Owl",
+		["13007:0"] = "cff0070dd;Mageflame Cloak",
+		["24659:-34"] = "cff1eff00;Consortium Mantle of Nature Protection",
+		["24784:-39"] = "cff1eff00;Murkblood Chestpiece of the Invoker",
+		["14219:153"] = "cff1eff00;Geomancer's Cloak of Spirit",
+		["24844:-35"] = "cff1eff00;Wrathfin Mantle of Shadow Protection",
+		["10210:873"] = "cff1eff00;Elegant Mantle of the Eagle",
+		["24789:-40"] = "cff1eff00;Murkblood Bracers of the Bandit",
+		["13066:0"] = "cff0070dd;Wyrmslayer Spaulders",
+		["36278:-9"] = "cff1eff00;Spiderlord Gauntlets of the Owl",
+		["36513:-41"] = "cff1eff00;Lode-Headed Hammer of the Beast",
+		["16681:0"] = "cff0070dd;Beaststalker's Bindings",
+		["36394:-18"] = "cff1eff00;Revenant Bracers of Agility",
+		["13089:0"] = "cff0070dd;Skibi's Pendant",
+		["36265:-13"] = "cff1eff00;Cormorant Mantle of the Wolf",
+		["7728:0"] = "cff0070dd;Beguiler Robes",
+		["9958:1198"] = "cff1eff00;Warmonger's Buckler of the Bear",
+		["14973:287"] = "cff1eff00;Glorious Shield of Stamina",
+		["14675:0"] = "cff1eff00;Pridelord Gloves",
+		["16255:0"] = "cff1eff00;Formula: Enchant 2H Weapon - Major Spirit",
+		["36525:-13"] = "cff1eff00;Craggy Machete of the Wolf",
+		["13139:0"] = "cff0070dd;Guttbuster",
+		["36049:-36"] = "cff1eff00;Crystalsong Mantle of the Sorcerer",
+		["36277:-6"] = "cff1eff00;Spiderlord Chestpiece of the Eagle",
+		["9871:1121"] = "cff1eff00;Renegade Leggings of the Boar",
+		["14668:0"] = "cff1eff00;Keeper's Woolies",
+		["24664:-38"] = "cff1eff00;Shadow Council Gloves of the Prophet",
+		["25294:-37"] = "cff1eff00;Dragonscale Wand of the Physician",
+		["13088:0"] = "cff0070dd;Gazlowe's Charm",
+		["12808:0"] = "cff1eff00;Essence of Undeath",
+		["36383:-6"] = "cff1eff00;Golem Helmet of the Eagle",
+		["15932:754"] = "cff1eff00;Disciple's Stein of the Owl",
+		["10270:537"] = "cff1eff00;Masterwork Boots of the Wolf",
+		["15430:1825"] = "cff1eff00;Peerless Headband of Arcane Wrath",
+		["12691:0"] = "cff1eff00;Plans: Wildthorn Mail",
+		["2854:0"] = "cff1eff00;Runed Copper Bracers",
+		["15140:772"] = "cff1eff00;Cutthroat's Mantle of the Owl",
+		["16804:0"] = "cffa335ee;Felheart Bracers",
+		["24785:-34"] = "cff1eff00;Murkblood Gloves of Nature Protection",
+		["14856:0"] = "cff1eff00;Vanguard Girdle",
+		["10375:0"] = "cff1eff00;Imbued Plate Vambraces",
+		["36485:-18"] = "cff1eff00;Sinuous Keris of Agility",
+		["36525:-40"] = "cff1eff00;Craggy Machete of the Bandit",
+		["36272:-35"] = "cff1eff00;Ulduar Legguards of Shadow Protection",
+		["16736:0"] = "cff0070dd;Belt of Valor",
+		["24655:-38"] = "cff1eff00;Consortium Robe of the Prophet",
+		["14669:0"] = "cff1eff00;Keeper's Mantle",
+		["12017:1209"] = "cff1eff00;Prismatic Band of the Bear",
+		["14665:0"] = "cff1eff00;Keeper's Cloak",
+		["6428:0"] = "cff1eff00;Mistscape Gloves",
+		["31297:0"] = "cff0070dd;Robe of the Crimson Order",
+		["11754:0"] = "cff1eff00;Black Diamond",
+		["36390:-35"] = "cff1eff00;Revenant Gauntlets of Shadow Protection",
+		["7910:0"] = "cff1eff00;Star Ruby",
+		["36287:-6"] = "cff1eff00;Spectral Helmet of the Eagle",
+		["13085:0"] = "cff0070dd;Horizon Choker",
+		["24910:-44"] = "cff1eff00;Netherstorm Belt of the Elder",
+		["8299:0"] = "cff1eff00;Traveler's Helm",
+		["13025:0"] = "cff0070dd;Deadwood Sledge",
+		["4707:0"] = "cff1eff00;Lambent Scale Girdle",
+		["16825:0"] = "cffa335ee;Nightslayer Bracelets",
+		["37761:0"] = "cff0070dd;Shimmerthread Girdle",
+		["24612:-16"] = "cff1eff00;Laughing Skull Bracelets of Stamina",
+		["24993:-16"] = "cff1eff00;Warmaul Gloves of Stamina",
+		["36512:-45"] = "cff1eff00;Onerous Mallet of the Champion",
+		["36296:-45"] = "cff1eff00;Westguard Legplates of the Champion",
+		["10078:1202"] = "cff1eff00;Lord's Crest of the Bear",
+		["11208:0"] = "cff1eff00;Formula: Enchant Weapon - Demonslaying",
+		["25196:-9"] = "cff1eff00;Boneshredder Claws of the Owl",
+		["14284:797"] = "cff1eff00;Opulent Robes of the Owl",
+		["36166:-9"] = "cff1eff00;Webspinner Gloves of the Owl",
+		["4566:586"] = "cff1eff00;Sturdy Quarterstaff of the Monkey",
+		["29550:0"] = "cff0070dd;Tome of Conjure Water IX",
+		["36542:-44"] = "cff1eff00;Invasion Blade of the Elder",
+		["24694:-40"] = "cff1eff00;Bonechewer Shredboots of the Bandit",
+		["32229:0"] = "cffa335ee;Lionseye",
+		["25195:-8"] = "cff1eff00;Diamond Tipped Claws of the Whale",
+		["24712:-8"] = "cff1eff00;Vengeance Gloves of the Whale",
+		["10184:860"] = "cff1eff00;Swashbuckler's Bracers of the Eagle",
+		["13052:0"] = "cff0070dd;Warmonger",
+		["36051:-31"] = "cff1eff00;Vizier Sash of Arcane Protection",
+		["45099:0"] = "cffa335ee;Pattern: Footpads of Silence",
+		["24927:-36"] = "cff1eff00;Ango'rosh Sabatons of the Sorcerer",
+		["31294:0"] = "cff0070dd;Pauldrons of Surging Mana",
+		["39472:0"] = "cffa335ee;Chain of Latent Energies",
+		["36274:-40"] = "cff1eff00;Ulduar Bracers of the Bandit",
+		["15230:502"] = "cff1eff00;Ridge Cleaver of the Wolf",
+		["16850:0"] = "cffa335ee;Giantstalker's Bracers",
+		["24903:-11"] = "cff1eff00;Talhide Lined-Boots of the Falcon",
+		["11976:1415"] = "cff1eff00;Sardonyx Knuckle of Fire Resistance",
+		["36037:-16"] = "cff1eff00;Condor Robe of Stamina",
+		["9794:1803"] = "cff1eff00;Ivycloth Cloak of Arcane Wrath",
+		["25252:-41"] = "cff1eff00;Dream Catcher Bow of the Beast",
+		["14969:1618"] = "cff1eff00;Glorious Headdress of Defense",
+		["24220:0"] = "cff0070dd;Design: Jagged Talasite",
+		["25098:-8"] = "cff1eff00;Tuurik Torch of the Whale",
+		["36386:-18"] = "cff1eff00;Golem Vambraces of Agility",
+		["15918:1883"] = "cff1eff00;Conjurer's Sphere of Fiery Wrath",
+		["36556:-39"] = "cff1eff00;Apocalyptic Staff of the Invoker",
+		["36270:-5"] = "cff1eff00;Ulduar Gauntlets of the Monkey",
+		["32745:0"] = "cffa335ee;Pattern: Shoulderpads of Renewed Life",
+		["4042:0"] = "cff1eff00;Aurora Gloves",
+		["13072:0"] = "cff0070dd;Stonegrip Gauntlets",
+		["5267:0"] = "cff0070dd;Scarlet Kris",
+		["934:0"] = "cff0070dd;Stalvan's Reaper",
+		["14982:1209"] = "cff1eff00;Exalted Shield of the Bear",
+		["13016:0"] = "cff0070dd;Killmaim",
+		["45101:0"] = "cffa335ee;Pattern: Boots of Wintry Endurance",
+		["14551:0"] = "cffa335ee;Edgemaster's Handguards",
+		["24957:-33"] = "cff1eff00;Bogslayer Bracers of Frost Protection",
+		["24786:-15"] = "cff1eff00;Murkblood Cover of Spirit",
+		["36653:-45"] = "cff1eff00;Precipice Longrifle of the Champion",
+		["11733:0"] = "cff1eff00;Libram of Constitution",
+		["45237:0"] = "cffa335ee;Phaelia's Vestments of the Sprouting Seed",
+		["10153:623"] = "cff1eff00;Mighty Spaulders of the Monkey",
+		["15931:0"] = "cff1eff00;Arcane Star",
+		["25321:-9"] = "cff1eff00;Divine Hammer of the Owl",
+		["24715:-14"] = "cff1eff00;Vengeance Pauldrons of the Tiger",
+		["32227:0"] = "cffa335ee;Crimson Spinel",
+		["24595:-6"] = "cff1eff00;Fireheart Shoulderpads of the Eagle",
+		["25091:-39"] = "cff1eff00;Mistyreed Torch of the Invoker",
+		["24756:-14"] = "cff1eff00;Daggerfen Bindings of the Tiger",
+		["45107:0"] = "cffa335ee;Iron Riveted War Helm",
+		["24667:-6"] = "cff1eff00;Shadow Council Mantle of the Eagle",
+		["6600:764"] = "cff1eff00;Dervish Belt of the Owl",
+		["24906:-8"] = "cff1eff00;Talhide Helmet of the Whale",
+		["14554:0"] = "cffa335ee;Cloudkeeper Legplates",
+		["14671:0"] = "cff1eff00;Pridelord Boots",
+		["24671:-39"] = "cff1eff00;Eldr'naan Jerkin of the Invoker",
+		["36268:-44"] = "cff1eff00;Ulduar Greaves of the Elder",
+		["24593:-39"] = "cff1eff00;Fireheart Skullcap of the Invoker",
+		["24842:-39"] = "cff1eff00;Wrathfin Helmet of the Invoker",
+		["15364:249"] = "cff1eff00;Trickster's Cloak of the Falcon",
+		["36468:-38"] = "cff1eff00;Glistening Star of the Prophet",
+		["13096:0"] = "cff0070dd;Band of the Hierophant",
+		["36470:-39"] = "cff1eff00;Gilded Scepter of the Invoker",
+		["24599:-22"] = "cff1eff00;Starfire Vest of Spell Power",
+		["36043:-33"] = "cff1eff00;Crystalsong Sash of Frost Protection",
+		["3719:0"] = "cff1eff00;Hillman's Cloak",
+		["36681:-19"] = "cff1eff00;Wisdom Carver of Intellect",
+		["35593:0"] = "cff0070dd;Steel Bear Trap Bracers",
+		["36037:-9"] = "cff1eff00;Condor Robe of the Owl",
+		["10197:385"] = "cff1eff00;Crusader's Belt of Intellect",
+		["15384:339"] = "cff1eff00;Rageclaw Helm of Stamina",
+		["12682:0"] = "cff1eff00;Plans: Thorium Armor",
+		["15693:618"] = "cff1eff00;Grand Shoulders of the Monkey",
+		["24587:-8"] = "cff1eff00;Outlander's Pauldrons of the Whale",
+		["36441:-14"] = "cff1eff00;Pearl Woven Choker of the Tiger",
+		["36428:-39"] = "cff1eff00;Bouquet Ring of the Invoker",
+		["25136:-12"] = "cff1eff00;Blood Stained Hammer of the Boar",
+		["10073:879"] = "cff1eff00;Righteous Helmet of the Eagle",
+		["11978:1418"] = "cff1eff00;Jasper Link of Fire Resistance",
+		["19233:0"] = "cff0070dd;Five of Beasts",
+		["5071:0"] = "cff1eff00;Shadow Wand",
+		["4071:0"] = "cff1eff00;Glimmering Mail Breastplate",
+		["24680:-9"] = "cff1eff00;Archmage Gloves of the Owl",
+		["15573:308"] = "cff1eff00;Marauder's Leggings of Strength",
+		["13040:0"] = "cff0070dd;Heartseeking Crossbow",
+		["9876:1030"] = "cff1eff00;Sorcerer Slippers of the Whale",
+		["24738:-39"] = "cff1eff00;Sunroc Pants of the Invoker",
+		["15513:1105"] = "cff1eff00;Grunt's Pauldrons of the Boar",
+		["14456:0"] = "cff1eff00;Elunarian Vest",
+		["24675:-36"] = "cff1eff00;Eldr'naan Shoulderpads of the Sorcerer",
+		["14489:0"] = "cff1eff00;Pattern: Frostweave Pants",
+		["7457:857"] = "cff1eff00;Knight's Gauntlets of the Eagle",
+		["39235:0"] = "cffa335ee;Bone-Framed Bracers",
+		["15662:412"] = "cff1eff00;Impenetrable Gauntlets of Spirit",
+		["35964:-32"] = "cff1eff00;Bloodspore Sandals of Fire Protection",
+		["14334:1902"] = "cff1eff00;Eternal Sarong of Fiery Wrath",
+		["10154:793"] = "cff1eff00;Mercurial Girdle of the Owl",
+		["36159:-31"] = "cff1eff00;Wendigo Hood of Arcane Protection",
+		["10215:345"] = "cff1eff00;Elegant Robes of Stamina",
+		["25018:-9"] = "cff1eff00;Shattered Hand Helmet of the Owl",
+		["36539:-18"] = "cff1eff00;Chilled Warblade of Agility",
+		["37781:0"] = "cff0070dd;Grips of the Warming Heart",
+		["14859:0"] = "cff1eff00;Vanguard Legplates",
+		["36051:-8"] = "cff1eff00;Vizier Sash of the Whale",
+		["16838:0"] = "cffa335ee;Earthfury Belt",
+		["12987:0"] = "cff0070dd;Darkweave Breeches",
+		["14429:0"] = "cff1eff00;Windchaser Cuffs",
+		["14459:0"] = "cff1eff00;Elunarian Cloak",
+		["15743:0"] = "cff1eff00;Pattern: Heavy Scorpid Belt",
+		["15752:0"] = "cff0070dd;Pattern: Living Leggings",
+		["3020:0"] = "cff0070dd;Enduring Cap",
+		["32411:0"] = "cff0070dd;Design: Thundering Skyfire Diamond",
+		["6381:0"] = "cff1eff00;Bright Cloak",
+		["28537:-13"] = "cff1eff00;Wildhammer Throwing Axe of the Wolf",
+		["23624:0"] = "cffa335ee;Plans: Helm of the Stalwart Defender",
+		["4060:0"] = "cff1eff00;Glyphed Leggings",
+		["24790:-32"] = "cff1eff00;Expedition Girdle of Fire Protection",
+		["36279:-40"] = "cff1eff00;Spiderlord Helm of the Bandit",
+		["7080:0"] = "cff1eff00;Essence of Water",
+		["37115:0"] = "cff0070dd;Crusader's Square Pauldrons",
+		["24593:-36"] = "cff1eff00;Fireheart Skullcap of the Sorcerer",
+		["16710:0"] = "cff0070dd;Shadowcraft Bracers",
+		["36679:-9"] = "cff1eff00;Singing Dagger of the Owl",
+		["6040:0"] = "cff1eff00;Golden Scale Bracers",
+		["14474:0"] = "cff1eff00;Pattern: Frostweave Gloves",
+		["25202:-6"] = "cff1eff00;Kingly Axe of the Eagle",
+		["25144:-6"] = "cff1eff00;Skettis Curved Blade of the Eagle",
+		["13116:0"] = "cff0070dd;Spaulders of the Unseen",
+		["3040:0"] = "cff1eff00;Hunter's Muzzle Loader",
+		["10219:1056"] = "cff1eff00;Elegant Circlet of the Whale",
+		["12976:0"] = "cff0070dd;Ironpatch Blade",
+		["13146:0"] = "cff0070dd;Shell Launcher Shotgun",
+		["10369:0"] = "cff1eff00;Imbued Plate Gauntlets",
+		["2078:22"] = "cff1eff00;Northern Shortsword of Stamina",
+		["24672:-36"] = "cff1eff00;Eldr'naan Gloves of the Sorcerer",
+		["10275:318"] = "cff1eff00;Emerald Breastplate of Strength",
+		["36036:-37"] = "cff1eff00;Condor Sandals of the Physician",
+		["14682:0"] = "cff1eff00;Indomitable Armguards",
+		["24911:-33"] = "cff1eff00;Netherstorm Greaves of Frost Protection",
+		["31290:0"] = "cff0070dd;Band of Dominion",
+		["24602:-8"] = "cff1eff00;Starfire Trousers of the Whale",
+		["36540:-16"] = "cff1eff00;Petrified Sword of Stamina",
+		["13047:0"] = "cff0070dd;Twig of the World Tree",
+		["31237:0"] = "cff0070dd;Elekk Hide Leggings",
+		["45874:0"] = "cffa335ee;Signet of Winter",
+		["24777:-14"] = "cff1eff00;Boneshredder Skullcap of the Tiger",
+		["15634:794"] = "cff1eff00;Formidable Circlet of the Owl",
+		["36271:-37"] = "cff1eff00;Ulduar Helm of the Physician",
+		["15309:839"] = "cff1eff00;Feral Cloak of the Eagle",
+		["4242:0"] = "cff1eff00;Embossed Leather Pants",
+		["36056:-16"] = "cff1eff00;Vizier Leggings of Stamina",
+		["44697:-36"] = "cff0070dd;Val'kyr Vestments of the Sorcerer",
+		["9809:172"] = "cff1eff00;Superior Tunic of Agility",
+		["22456:0"] = "cff1eff00;Primal Shadow",
+		["24823:-44"] = "cff1eff00;Netherstalker Greaves of the Elder",
+		["14124:1013"] = "cff1eff00;Ritual Gloves of the Whale",
+		["14962:1051"] = "cff1eff00;High Chief's Legguards of the Whale",
+		["14298:1816"] = "cff1eff00;Bonecaster's Spaulders of Arcane Wrath",
+		["6564:1012"] = "cff1eff00;Shimmering Cloak of the Whale",
+		["15745:0"] = "cff1eff00;Pattern: Runic Leather Belt",
+		["36176:-33"] = "cff1eff00;Geist Legguards of Frost Protection",
+		["15130:213"] = "cff1eff00;Cutthroat's Vest of Intellect",
+		["774:0"] = "cff1eff00;Malachite",
+		["15516:135"] = "cff1eff00;Spiked Chain Slippers of Stamina",
+		["8153:0"] = "cff1eff00;Wildvine",
+		["25184:-7"] = "cff1eff00;Ravager Claws of the Bear",
+		["7076:0"] = "cff1eff00;Essence of Earth",
+		["24884:-11"] = "cff1eff00;Der'izu Spaulders of the Falcon",
+		["41781:0"] = "cff0070dd;Design: Misty Forest Emerald",
+		["14508:0"] = "cff1eff00;Pattern: Felcloth Shoulders",
+		["24672:-37"] = "cff1eff00;Eldr'naan Gloves of the Physician",
+		["25142:-40"] = "cff1eff00;Telaari Longblade of the Bandit",
+		["1076:0"] = "cff1eff00;Defias Renegade Ring",
+		["34664:0"] = "cff0070dd;Sunmote",
+		["36048:-39"] = "cff1eff00;Crystalsong Leggings of the Invoker",
+		["15746:0"] = "cff1eff00;Pattern: Chimeric Leggings",
+		["25060:-37"] = "cff1eff00;Sunstone Necklace of the Physician",
+		["36682:-44"] = "cff1eff00;Seduced Blade of the Elder",
+		["8133:0"] = "cff1eff00;Myrmidon's Pauldrons",
+		["10173:862"] = "cff1eff00;Mystical Bracers of the Eagle",
+		["24732:-14"] = "cff1eff00;Dementia Armguards of the Tiger",
+		["18742:0"] = "cff0070dd;Stratholme Militia Shoulderguard",
+		["21805:0"] = "cff0070dd;Polished Obsidian Pauldrons",
+		["24904:-40"] = "cff1eff00;Talhide Chestpiece of the Bandit",
+		["9402:0"] = "cff0070dd;Earthborn Kilt",
+		["15679:778"] = "cff1eff00;Triumphant Bracers of the Owl",
+		["2988:0"] = "cff1eff00;Inscribed Leather Gloves",
+		["1988:0"] = "cff1eff00;Chief Brigadier Gauntlets",
+		["9848:1027"] = "cff1eff00;Conjurer's Gloves of the Whale",
+		["36161:-12"] = "cff1eff00;Wendigo Pauldrons of the Boar",
+		["36051:-9"] = "cff1eff00;Vizier Sash of the Owl",
+		["36704:-41"] = "cff1eff00;Hive Comb Staff of the Beast",
+		["15239:604"] = "cff1eff00;Felstone Reaver of the Monkey",
+		["24823:-40"] = "cff1eff00;Netherstalker Greaves of the Bandit",
+		["13045:0"] = "cff0070dd;Viscous Hammer",
+		["24206:0"] = "cff0070dd;Design: Gleaming Dawnstone",
+		["25038:-5"] = "cff1eff00;Forest Shroud of the Monkey",
+		["10268:620"] = "cff1eff00;Masterwork Gauntlets of the Monkey",
+		["21886:0"] = "cff1eff00;Primal Life",
+		["12024:860"] = "cff1eff00;Vanadium Talisman of the Eagle",
+		["41785:0"] = "cff0070dd;Design: Tenuous Twilight Opal",
+		["31501:0"] = "cff0070dd;Tome of Conjure Food VIII",
+		["24194:0"] = "cff0070dd;Design: Delicate Living Ruby",
+		["24680:-38"] = "cff1eff00;Archmage Gloves of the Prophet",
+		["8265:0"] = "cff1eff00;Ebonhold Armor",
+		["36272:-6"] = "cff1eff00;Ulduar Legguards of the Eagle",
+		["36146:-31"] = "cff1eff00;Ghrino Bracers of Arcane Protection",
+		["35616:0"] = "cff0070dd;Spored Tendrils Spaulders",
+		["16864:0"] = "cffa335ee;Belt of Might",
+		["4699:0"] = "cff1eff00;Seer's Belt",
 		["14983:1412"] = "cff1eff00;Exalted Armsplints of Fire Resistance",
-		["14730:0"] = "cff1eff00;War Paint Chestpiece",
+		["7921:0"] = "cff1eff00;Heavy Mithril Pants",
 		["15390:627"] = "cff1eff00;Jadefire Chestguard of the Monkey",
 		["41787:0"] = "cff0070dd;Design: Thundering Skyflare Diamond",
-		["14848:0"] = "cff1eff00;Sunscale Sabatons",
-		["36394:-27"] = "cff1eff00;Revenant Bracers of Defense",
+		["36273:-8"] = "cff1eff00;Ulduar Shoulderguards of the Whale",
+		["36051:-6"] = "cff1eff00;Vizier Sash of the Eagle",
 		["36270:-7"] = "cff1eff00;Ulduar Gauntlets of the Bear",
-		["14494:0"] = "cff1eff00;Pattern: Brightcloth Pants",
-		["10210:873"] = "cff1eff00;Elegant Mantle of the Eagle",
-		["10239:605"] = "cff1eff00;Heavy Lamellar Vambraces of the Monkey",
-		["13118:0"] = "cff0070dd;Serpentine Sash",
-		["14489:0"] = "cff1eff00;Pattern: Frostweave Pants",
-		["36171:-16"] = "cff1eff00;Geist Belt of Stamina",
+		["13036:0"] = "cff0070dd;Assassination Blade",
+		["7909:0"] = "cff1eff00;Aquamarine",
+		["8256:0"] = "cff1eff00;Serpentskin Boots",
+		["4353:0"] = "cff1eff00;Pattern: Spider Belt",
+		["16722:0"] = "cff0070dd;Lightforge Bracers",
+		["15259:682"] = "cff1eff00;Hefty Battlehammer of the Tiger",
 		["12713:0"] = "cff1eff00;Plans: Radiant Leggings",
 		["14966:1566"] = "cff1eff00;Glorious Breastplate of Power",
 		["31277:0"] = "cff0070dd;Pathfinder's Band",
-		["15640:1052"] = "cff1eff00;Ironhide Breastplate of the Whale",
+		["9796:1022"] = "cff1eff00;Ivycloth Mantle of the Whale",
 		["25183:-13"] = "cff1eff00;Voodoo Hex-Staff of the Wolf",
 		["36268:-17"] = "cff1eff00;Ulduar Greaves of Strength",
-		["8108:0"] = "cff1eff00;Hibernal Bracers",
+		["24882:-14"] = "cff1eff00;Der'izu Helm of the Tiger",
 		["24743:-40"] = "cff1eff00;Ranger Jerkin of the Bandit",
-		["13056:0"] = "cff0070dd;Frenzied Striker",
-		["37817:0"] = "cff0070dd;Branch of Sinful Reprieve",
+		["24669:-16"] = "cff1eff00;Eldr'naan Belt of Stamina",
+		["24638:-38"] = "cff1eff00;Mistyreed Boots of the Prophet",
 		["13020:0"] = "cff0070dd;Skystriker Bow",
-		["36456:-18"] = "cff1eff00;Icy Kite Shield of Agility",
-		["15746:0"] = "cff1eff00;Pattern: Chimeric Leggings",
-		["41777:0"] = "cff0070dd;Design: Etched Monarch Topaz",
+		["25012:-45"] = "cff1eff00;Conqueror's Epaulets of the Champion",
 		["36055:-8"] = "cff1eff00;Vizier Hood of the Whale",
-		["36499:-13"] = "cff1eff00;Frigid War-Mace of the Wolf",
-		["14321:216"] = "cff1eff00;Resplendent Cloak of Spirit",
-		["5773:0"] = "cff1eff00;Pattern: Robes of Arcana",
+		["25306:-44"] = "cff1eff00;Permafrost Dagger of the Elder",
+		["36486:-6"] = "cff1eff00;Ornate Pugio of the Eagle",
+		["15136:252"] = "cff1eff00;Cutthroat's Belt of the Falcon",
+		["24997:-41"] = "cff1eff00;Warmaul Vambraces of the Beast",
+		["24657:-37"] = "cff1eff00;Consortium Hood of the Physician",
 		["25321:-8"] = "cff1eff00;Divine Hammer of the Whale",
-		["6389:0"] = "cff1eff00;Glimmering Mail Coif",
+		["25112:-8"] = "cff1eff00;Fel Ripper of the Whale",
 		["36388:-9"] = "cff1eff00;Revenant Greaves of the Owl",
-		["14284:797"] = "cff1eff00;Opulent Robes of the Owl",
-		["16722:0"] = "cff0070dd;Lightforge Bracers",
-		["12695:0"] = "cff1eff00;Plans: Radiant Gloves",
+		["37824:0"] = "cff0070dd;Gwyneth's Runed Dragonwand",
+		["10331:0"] = "cff1eff00;Scarlet Gauntlets",
+		["24684:-39"] = "cff1eff00;Archmage Bracelets of the Invoker",
 		["13083:0"] = "cff0070dd;Garrett Family Crest",
-		["24772:-6"] = "cff1eff00;Clefthoof Bracers of the Eagle",
+		["24669:-39"] = "cff1eff00;Eldr'naan Belt of the Invoker",
 		["15281:1105"] = "cff1eff00;Glowstar Rod of the Boar",
-		["31306:0"] = "cff0070dd;Leggings of the Sacred Crest",
-		["15187:1209"] = "cff1eff00;Praetorian Pauldrons of the Bear",
+		["36278:-6"] = "cff1eff00;Spiderlord Gauntlets of the Eagle",
+		["25241:-6"] = "cff1eff00;Ashenvale Longbow of the Eagle",
 		["14844:0"] = "cff1eff00;Sunscale Chestguard",
-		["24770:-41"] = "cff1eff00;Clefthoof Britches of the Beast",
-		["36526:-8"] = "cff1eff00;Sleeted Longsword of the Whale",
-		["36580:-10"] = "cff1eff00;Dire Axe of the Gorilla",
+		["25057:-40"] = "cff1eff00;Amber Band of the Bandit",
+		["24973:-8"] = "cff1eff00;Talonguard Bracers of the Whale",
+		["25163:-44"] = "cff1eff00;Elexorien Blade of the Elder",
 		["944:0"] = "cffa335ee;Elemental Mage Staff",
-		["14922:1209"] = "cff1eff00;Lofty Sabatons of the Bear",
-		["36038:-37"] = "cff1eff00;Condor Gloves of the Physician",
+		["24774:-40"] = "cff1eff00;Boneshredder Boots of the Bandit",
+		["25157:-40"] = "cff1eff00;Serpentlord Claymore of the Bandit",
 		["44667:-36"] = "cff0070dd;Mammoth-Hair Crown of the Sorcerer",
-		["10085:1620"] = "cff1eff00;Lord's Pauldrons of Defense",
-		["10282:218"] = "cff1eff00;Emerald Vambraces of Stamina",
-		["2564:0"] = "cff0070dd;Elven Spirit Claws",
+		["24701:-39"] = "cff1eff00;Haal'eshi Cord of the Invoker",
+		["24721:-41"] = "cff1eff00;Dreghood Cowl of the Beast",
+		["24583:-8"] = "cff1eff00;Outlander's Tunic of the Whale",
 		["36364:-9"] = "cff1eff00;Magnataur Sabatons of the Owl",
-		["1210:0"] = "cff1eff00;Shadowgem",
+		["15114:1991"] = "cff1eff00;Rigid Cape of Nature's Wrath",
 		["36684:-8"] = "cff1eff00;Ambrosial Hammer of the Whale",
-		["14962:623"] = "cff1eff00;High Chief's Legguards of the Monkey",
-		["12024:860"] = "cff1eff00;Vanadium Talisman of the Eagle",
-		["36146:-31"] = "cff1eff00;Ghrino Bracers of Arcane Protection",
+		["36052:-36"] = "cff1eff00;Vizier Slippers of the Sorcerer",
+		["24765:-8"] = "cff1eff00;Clefthoof Belt of the Whale",
+		["25312:-9"] = "cff1eff00;Glorious Scepter of the Owl",
 		["13011:0"] = "cff0070dd;Silver-lined Belt",
 		["13490:0"] = "cff1eff00;Recipe: Greater Stoneshield Potion",
-		["24169:0"] = "cff0070dd;Design: Eye of the Night",
-		["10192:614"] = "cff1eff00;Crusader's Boots of the Monkey",
-		["10192:787"] = "cff1eff00;Crusader's Boots of the Owl",
-		["10064:795"] = "cff1eff00;Duskwoven Pants of the Owl",
-		["8265:0"] = "cff1eff00;Ebonhold Armor",
+		["36442:-33"] = "cff1eff00;Silken Cord Amulet of Frost Protection",
+		["24674:-19"] = "cff1eff00;Eldr'naan Pants of Intellect",
+		["36568:-8"] = "cff1eff00;Hollowed Bone Knuckles of the Whale",
+		["24797:-40"] = "cff1eff00;Expedition Bracers of the Bandit",
+		["25069:-10"] = "cff1eff00;Epidote Stone Necklace of the Gorilla",
 		["36380:-19"] = "cff1eff00;Golem Sabatons of Intellect",
 		["25201:-45"] = "cff1eff00;Reaver's Sickle of the Champion",
 	},
@@ -1492,9 +1912,11 @@ BeanCounterDB = {
 						"1;75672;3612;3792;0;;Allybot;1544018809;;H", -- [2]
 					},
 				},
-				["21803"] = {
-					["item:21803:0:0:0:0:0:0:0:80"] = {
-						"1;87785;4190;4399;0;;Hordebot;1537163501;;H", -- [1]
+				["37793"] = {
+					["item:37793:0:0:0:0:0:0:0:80"] = {
+						"1;204665;9769;10257;0;;Hordebot;1528105435;;H", -- [1]
+						"1;195384;9769;9769;0;;Allybot;1538925036;;H", -- [2]
+						"1;224640;9769;11309;0;;Allybot;1539528435;;H", -- [3]
 					},
 				},
 				["1988"] = {
@@ -1502,64 +1924,31 @@ BeanCounterDB = {
 						"1;8556;427;427;0;;Allybot;1544413747;;H", -- [1]
 					},
 				},
-				["1973"] = {
-					["item:1973:0:0:0:0:0:0:0:80"] = {
-						"1;15202;692;763;0;;Allybot;1544336996;;H", -- [1]
-						"1;14511;692;727;0;;Hordebot;1544336996;;H", -- [2]
-						"1;15202;692;763;0;;Allybot;1544336996;;H", -- [3]
-						"1;12500;692;621;0;;Hordebot;1553269222;;H", -- [4]
-					},
-				},
 				["44308"] = {
 					["item:44308:0:0:0:0:0:0:0:80"] = {
 						"1;223885;10686;11221;0;;Allybot;1539271174;;H", -- [1]
 					},
 				},
-				["12713"] = {
-					["item:12713:0:0:0:0:0:0:0:80"] = {
-						"1;32922;1500;1653;0;;Hordebot;1543849445;;H", -- [1]
-					},
-				},
-				["44313"] = {
-					["item:44313:0:0:0:0:0:0:0:80"] = {
-						"1;396617;18071;19923;0;;Hordebot;1539271174;;H", -- [1]
-					},
-				},
 				["31294"] = {
 					["item:31294:0:0:0:0:0:0:0:80"] = {
 						"1;126839;6054;6357;0;;Hordebot;1526483776;;H", -- [1]
+						"1;95278;6054;4695;0;;Hordebot;1557628129;;H", -- [2]
+						"1;109339;6054;5436;0;;Allybot;1559532440;;H", -- [3]
 					},
 				},
-				["13066"] = {
-					["item:13066:0:0:0:0:0:0:0:80"] = {
-						"1;38832;2357;1919;0;;Hordebot;1554002861;;H", -- [1]
+				["8294"] = {
+					["item:8294:0:0:0:0:0:0:0:80"] = {
+						"1;35886;1897;1788;0;;Allybot;1554002921;;H", -- [1]
 					},
 				},
-				["21805"] = {
-					["item:21805:0:0:0:0:0:0:0:80"] = {
-						"1;88451;4222;4433;0;;Hordebot;1543233583;;H", -- [1]
+				["45101"] = {
+					["item:45101:0:0:0:0:0:0:0:80"] = {
+						"1;78563;3750;3937;0;;Hordebot;1543127442;;H", -- [1]
 					},
 				},
-				["13007"] = {
-					["item:13007:0:0:0:0:0:0:0:80"] = {
-						"1;40754;2037;2037;0;;Allybot;1543416943;;H", -- [1]
-					},
-				},
-				["24169"] = {
-					["item:24169:0:0:0:0:0:0:0:80"] = {
-						"1;94275;4500;4725;0;;Hordebot;1538147439;;H", -- [1]
-					},
-				},
-				["41779"] = {
-					["item:41779:0:0:0:0:0:0:0:80"] = {
-						"1;137970;6000;6945;0;;Hordebot;1538924976;;H", -- [1]
-					},
-				},
-				["13490"] = {
-					["item:13490:0:0:0:0:0:0:0:80"] = {
-						"1;12570;600;630;0;;Allybot;1536681263;;H", -- [1]
-						"1;12570;600;630;0;;Allybot;1543507003;;H", -- [2]
-						"1;10344;600;512;0;;Allybot;1553368463;;H", -- [3]
+				["45274"] = {
+					["item:45274:0:0:0:0:0:0:0:80"] = {
+						"1;435336;20779;21818;0;;Hordebot;1543731663;;H", -- [1]
 					},
 				},
 				["8287"] = {
@@ -1577,14 +1966,14 @@ BeanCounterDB = {
 						"1;30058;1743;1490;0;;Allybot;1553958340;;H", -- [1]
 					},
 				},
-				["15931"] = {
-					["item:15931:0:0:0:0:0:0:0:80"] = {
-						"1;36718;1596;1848;0;;Hordebot;1543233583;;H", -- [1]
+				["45493"] = {
+					["item:45493:0:0:0:0:0:0:0:80"] = {
+						"1;222441;10135;11174;0;;Allybot;1543127443;;H", -- [1]
 					},
 				},
-				["23625"] = {
-					["item:23625:0:0:0:0:0:0:0:80"] = {
-						"1;360000;18000;18000;0;;Hordebot;1537801192;;H", -- [1]
+				["37767"] = {
+					["item:37767:0:0:0:0:0:0:0:80"] = {
+						"1;150819;6871;7576;0;;Hordebot;1527939295;;H", -- [1]
 					},
 				},
 				["14494"] = {
@@ -1598,15 +1987,22 @@ BeanCounterDB = {
 						"1;76922;4669;3802;0;;Hordebot;1553700935;;H", -- [2]
 					},
 				},
-				["8294"] = {
-					["item:8294:0:0:0:0:0:0:0:80"] = {
-						"1;35886;1897;1788;0;;Allybot;1554002921;;H", -- [1]
-					},
-				},
 				["16864"] = {
 					["item:16864:0:0:0:0:0:0:0:80"] = {
 						"1;84265;3839;4232;0;;Hordebot;1537163501;;H", -- [1]
 						"1;72610;3839;3619;0;;Allybot;1553700935;;H", -- [2]
+					},
+				},
+				["15755"] = {
+					["item:15755:0:0:0:0:0:0:0:80"] = {
+						"1;18107;825;909;0;;Allybot;1543589083;;H", -- [1]
+						"1;15597;825;777;0;;Allybot;1554002921;;H", -- [2]
+						"1;15597;825;777;0;;Allybot;1555215130;;H", -- [3]
+					},
+				},
+				["16671"] = {
+					["item:16671:0:0:0:0:0:0:0:80"] = {
+						"1;41329;1887;2075;0;;Allybot;1536681263;;H", -- [1]
 					},
 				},
 				["41780"] = {
@@ -1615,41 +2011,9 @@ BeanCounterDB = {
 						"1;131685;6000;6615;0;;Allybot;1541313568;;H", -- [2]
 					},
 				},
-				["15755"] = {
-					["item:15755:0:0:0:0:0:0:0:80"] = {
-						"1;18107;825;909;0;;Allybot;1543589083;;H", -- [1]
-						"1;15597;825;777;0;;Allybot;1554002921;;H", -- [2]
-					},
-				},
-				["16671"] = {
-					["item:16671:0:0:0:0:0:0:0:80"] = {
-						"1;41329;1887;2075;0;;Allybot;1536681263;;H", -- [1]
-					},
-				},
-				["11733"] = {
-					["item:11733:0:0:0:0:0:0:0:80"] = {
-						"1;564;100;24;0;;Allybot;1553363423;;H", -- [1]
-					},
-				},
-				["16043"] = {
-					["item:16043:0:0:0:0:0:0:0:80"] = {
-						"1;10348;450;520;0;;Hordebot;1543507063;;H", -- [1]
-					},
-				},
-				["12549"] = {
-					["item:12549:0:0:0:0:0:0:0:80"] = {
-						"1;37027;2050;1840;0;;Allybot;1553964340;;H", -- [1]
-						"1;37028;2051;1840;0;;Allybot;1553964340;;H", -- [2]
-					},
-				},
-				["45874"] = {
-					["item:45874:0:0:0:0:0:0:0:80"] = {
-						"1;248958;11343;12506;0;;Allybot;1540743831;;H", -- [1]
-					},
-				},
-				["32751"] = {
-					["item:32751:0:0:0:0:0:0:0:80"] = {
-						"1;37500;1875;1875;0;;Hordebot;1538481993;;H", -- [1]
+				["29729"] = {
+					["item:29729:0:0:0:0:0:0:0:80"] = {
+						"1;155229;9000;7696;0;;Allybot;1557628129;;H", -- [1]
 					},
 				},
 				["35616"] = {
@@ -1657,26 +2021,9 @@ BeanCounterDB = {
 						"1;175478;8376;8794;0;;Hordebot;1527783174;;H", -- [1]
 					},
 				},
-				["37793"] = {
-					["item:37793:0:0:0:0:0:0:0:80"] = {
-						"1;204665;9769;10257;0;;Hordebot;1528105435;;H", -- [1]
-						"1;195384;9769;9769;0;;Allybot;1538925036;;H", -- [2]
-						"1;224640;9769;11309;0;;Allybot;1539528435;;H", -- [3]
-					},
-				},
-				["13001"] = {
-					["item:13001:0:0:0:0:0:0:0:80"] = {
-						"1;31944;1597;1597;0;;Allybot;1543230762;;H", -- [1]
-					},
-				},
-				["9402"] = {
-					["item:9402:0:0:0:0:0:0:0:80"] = {
-						"1;83317;3796;4185;0;;Allybot;1543507182;;H", -- [1]
-					},
-				},
-				["14467"] = {
-					["item:14467:0:0:0:0:0:0:0:80"] = {
-						"1;6764;450;332;0;;Allybot;1553269222;;H", -- [1]
+				["8256"] = {
+					["item:8256:0:0:0:0:0:0:0:80"] = {
+						"1;26542;1539;1315;0;;Hordebot;1553363544;;H", -- [1]
 					},
 				},
 				["18661"] = {
@@ -1689,16 +2036,6 @@ BeanCounterDB = {
 						"1;146360;7318;7318;0;;Allybot;1543849325;;H", -- [1]
 					},
 				},
-				["13039"] = {
-					["item:13039:0:0:0:0:0:0:0:80"] = {
-						"1;42230;2683;2081;0;;Allybot;1554002861;;H", -- [1]
-					},
-				},
-				["14856"] = {
-					["item:14856:0:0:0:0:0:0:0:80"] = {
-						"1;35670;1625;1791;0;;Allybot;1536934419;;H", -- [1]
-					},
-				},
 				["14682"] = {
 					["item:14682:0:0:0:0:0:0:0:80"] = {
 						"1;32610;1485;1638;0;;Hordebot;1544336996;;H", -- [1]
@@ -1707,16 +2044,7 @@ BeanCounterDB = {
 				["14456"] = {
 					["item:14456:0:0:0:0:0:0:0:80"] = {
 						"1;52722;2636;2636;0;;Hordebot;1544336936;;H", -- [1]
-					},
-				},
-				["13040"] = {
-					["item:13040:0:0:0:0:0:0:0:80"] = {
-						"1;72757;4416;3596;0;;Allybot;1553486368;;H", -- [1]
-					},
-				},
-				["12694"] = {
-					["item:12694:0:0:0:0:0:0:0:80"] = {
-						"1;15000;750;750;0;;Allybot;1543230642;;H", -- [1]
+						"1;39633;2636;1947;0;;Hordebot;1556361792;;H", -- [2]
 					},
 				},
 				["37770"] = {
@@ -1725,23 +2053,15 @@ BeanCounterDB = {
 						"1;217616;9915;10931;0;;Allybot;1539528494;;H", -- [2]
 					},
 				},
-				["15746"] = {
-					["item:15746:0:0:0:0:0:0:0:80"] = {
-						"1;12930;750;641;0;;Hordebot;1553486308;;H", -- [1]
-						"1;13539;750;673;0;;Allybot;1553700935;;H", -- [2]
+				["12694"] = {
+					["item:12694:0:0:0:0:0:0:0:80"] = {
+						"1;15000;750;750;0;;Allybot;1543230642;;H", -- [1]
 					},
 				},
-				["23624"] = {
-					["item:23624:0:0:0:0:0:0:0:80"] = {
-						"1;377100;18000;18900;0;;Hordebot;1537886971;;H", -- [1]
-					},
-				},
-				["13133"] = {
-					["item:13133:0:0:0:0:0:0:0:80"] = {
-						"1;66872;3343;3343;0;;Allybot;1536681323;;H", -- [1]
-						"1;66872;3343;3343;0;;Hordebot;1536934300;;H", -- [2]
-						"1;76884;3343;3870;0;;Allybot;1544336996;;H", -- [3]
-						"1;55080;3343;2722;0;;Hordebot;1553486368;;H", -- [4]
+				["15737"] = {
+					["item:15737:0:0:0:0:0:0:0:80"] = {
+						"1;9880;600;488;0;;Hordebot;1553269222;;H", -- [1]
+						"1;10344;600;512;0;;Hordebot;1553964340;;H", -- [2]
 					},
 				},
 				["13488"] = {
@@ -1754,19 +2074,9 @@ BeanCounterDB = {
 						"1;27931;1619;1384;0;;Allybot;1553363544;;H", -- [1]
 					},
 				},
-				["45274"] = {
-					["item:45274:0:0:0:0:0:0:0:80"] = {
-						"1;435336;20779;21818;0;;Hordebot;1543731663;;H", -- [1]
-					},
-				},
-				["8190"] = {
-					["item:8190:0:0:0:0:0:0:0:80"] = {
-						"1;101006;5592;5021;0;;Allybot;1553363544;;H", -- [1]
-					},
-				},
-				["12057"] = {
-					["item:12057:0:0:0:0:0:0:0:80"] = {
-						"1;21662;1256;1073;0;;Allybot;1553363423;;H", -- [1]
+				["31304"] = {
+					["item:31304:0:0:0:0:0:0:0:80"] = {
+						"1;202752;12883;9993;0;;Allybot;1567476274;;H", -- [1]
 					},
 				},
 				["41787"] = {
@@ -1777,20 +2087,13 @@ BeanCounterDB = {
 						"1;251400;12000;12600;0;;Hordebot;1543199203;;H", -- [4]
 					},
 				},
-				["13030"] = {
-					["item:13030:0:0:0:0:0:0:0:80"] = {
-						"1;33919;1966;1681;0;;Allybot;1553363544;;H", -- [1]
-					},
-				},
-				["39235"] = {
-					["item:39235:0:0:0:0:0:0:0:80"] = {
-						"1;198618;9930;9930;0;;Allybot;1536550382;;H", -- [1]
-					},
-				},
-				["37760"] = {
-					["item:37760:0:0:0:0:0:0:0:80"] = {
-						"1;88003;3827;4430;0;;Allybot;1528105256;;H", -- [1]
-						"1;83995;3827;4219;0;;Allybot;1543731723;;H", -- [2]
+				["16051"] = {
+					["item:16051:0:0:0:0:0:0:0:80"] = {
+						"1;17245;750;868;0;;Hordebot;1543230702;;H", -- [1]
+						"1;15713;750;787;0;;Hordebot;1543507063;;H", -- [2]
+						"1;11799;750;581;0;;Allybot;1553486368;;H", -- [3]
+						"1;12351;750;610;0;;Hordebot;1553486368;;H", -- [4]
+						"1;11799;750;581;0;;Hordebot;1557032689;;H", -- [5]
 					},
 				},
 				["5773"] = {
@@ -1805,78 +2108,15 @@ BeanCounterDB = {
 						"1;83686;4852;4149;0;;Hordebot;1553486428;;H", -- [3]
 					},
 				},
-				["16714"] = {
-					["item:16714:0:0:0:0:0:0:0:80"] = {
-						"1;36568;1590;1840;0;;Allybot;1536833392;;H", -- [1]
-					},
-				},
-				["13053"] = {
-					["item:13053:0:0:0:0:0:0:0:80"] = {
-						"1;185991;8877;9321;0;;Allybot;1543849385;;H", -- [1]
-						"1;194846;8877;9787;0;;Hordebot;1544930261;;H", -- [2]
-					},
-				},
-				["833"] = {
-					["item:833:0:0:0:0:0:0:0:80"] = {
-						"1;69190;4200;3420;0;;Hordebot;1553368403;;H", -- [1]
+				["16710"] = {
+					["item:16710:0:0:0:0:0:0:0:80"] = {
+						"1;27019;1566;1339;0;;Allybot;1553486368;;H", -- [1]
 					},
 				},
 				["21802"] = {
 					["item:21802:0:0:0:0:0:0:0:80"] = {
 						"1;166888;7966;8364;0;;Allybot;1543233523;;H", -- [1]
 						"1;183177;7966;9221;0;;Allybot;1544336936;;H", -- [2]
-					},
-				},
-				["16051"] = {
-					["item:16051:0:0:0:0:0:0:0:80"] = {
-						"1;17245;750;868;0;;Hordebot;1543230702;;H", -- [1]
-						"1;15713;750;787;0;;Hordebot;1543507063;;H", -- [2]
-						"1;11799;750;581;0;;Allybot;1553486368;;H", -- [3]
-						"1;12351;750;610;0;;Hordebot;1553486368;;H", -- [4]
-					},
-				},
-				["12695"] = {
-					["item:12695:0:0:0:0:0:0:0:80"] = {
-						"1;12930;750;641;0;;Hordebot;1553486368;;H", -- [1]
-					},
-				},
-				["13118"] = {
-					["item:13118:0:0:0:0:0:0:0:80"] = {
-						"1;28712;1590;1427;0;;Allybot;1553363603;;H", -- [1]
-						"1;31491;1590;1573;0;;Allybot;1553363603;;H", -- [2]
-					},
-				},
-				["31190"] = {
-					["item:31190:0:0:0:0:0:0:0:80"] = {
-						"1;84817;4048;4251;0;;Hordebot;1526659121;;H", -- [1]
-					},
-				},
-				["37824"] = {
-					["item:37824:0:0:0:0:0:0:0:80"] = {
-						"1;289269;13807;14497;0;;Allybot;1538924976;;H", -- [1]
-					},
-				},
-				["35580"] = {
-					["item:35580:0:0:0:0:0:0:0:80"] = {
-						"1;105276;5263;5263;0;;Allybot;1527783114;;H", -- [1]
-					},
-				},
-				["15737"] = {
-					["item:15737:0:0:0:0:0:0:0:80"] = {
-						"1;9880;600;488;0;;Hordebot;1553269222;;H", -- [1]
-						"1;10344;600;512;0;;Hordebot;1553964340;;H", -- [2]
-					},
-				},
-				["31277"] = {
-					["item:31277:0:0:0:0:0:0:0:80"] = {
-						"1;125708;6285;6285;0;;Allybot;1526233694;;H", -- [1]
-						"1;137948;6285;6929;0;;Hordebot;1526316978;;H", -- [2]
-					},
-				},
-				["8130"] = {
-					["item:8130:0:0:0:0:0:0:0:80"] = {
-						"1;31137;1418;1564;0;;Allybot;1536681383;;H", -- [1]
-						"1;23369;1418;1155;0;;Hordebot;1554002801;;H", -- [2]
 					},
 				},
 				["13101"] = {
@@ -1889,60 +2129,14 @@ BeanCounterDB = {
 						"1;84947;4054;4257;0;;Allybot;1537071507;;H", -- [1]
 					},
 				},
-				["14668"] = {
-					["item:14668:0:0:0:0:0:0:0:80"] = {
-						"1;36827;2039;1830;0;;Hordebot;1553368403;;H", -- [1]
-					},
-				},
-				["16838"] = {
-					["item:16838:0:0:0:0:0:0:0:80"] = {
-						"1;51322;3115;2537;0;;Hordebot;1553700874;;H", -- [1]
-						"1;51322;3115;2537;0;;Hordebot;1553700874;;H", -- [2]
-					},
-				},
 				["32737"] = {
 					["item:32737:0:0:0:0:0:0:0:80"] = {
 						"1;23569;1125;1181;0;;Allybot;1538562453;;H", -- [1]
 					},
 				},
-				["31258"] = {
-					["item:31258:0:0:0:0:0:0:0:80"] = {
-						"1;181180;8255;9101;0;;Allybot;1526316978;;H", -- [1]
-					},
-				},
-				["23203"] = {
-					["item:23203:0:0:0:0:0:0:0:80"] = {
-						"1;48128;2406;2406;0;;Allybot;1536683423;;H", -- [1]
-						"1;55334;2406;2785;0;;Allybot;1543230522;;H", -- [2]
-						"1;41500;2406;2057;0;;Allybot;1553700935;;H", -- [3]
-					},
-				},
 				["18337"] = {
 					["item:18337:0:0:0:0:0:0:0:80"] = {
 						"1;26675;1215;1339;0;;Hordebot;1543849445;;H", -- [1]
-					},
-				},
-				["12685"] = {
-					["item:12685:0:0:0:0:0:0:0:80"] = {
-						"1;9428;450;472;0;;Hordebot;1543507003;;H", -- [1]
-						"1;8506;450;423;0;;Hordebot;1553964400;;H", -- [2]
-					},
-				},
-				["8271"] = {
-					["item:8271:0:0:0:0:0:0:0:80"] = {
-						"1;52663;3053;2611;0;;Hordebot;1553964400;;H", -- [1]
-					},
-				},
-				["13047"] = {
-					["item:13047:0:0:0:0:0:0:0:80"] = {
-						"1;153296;8488;7621;0;;Hordebot;1553269222;;H", -- [1]
-						"1;146401;8488;7258;0;;Allybot;1553363603;;H", -- [2]
-					},
-				},
-				["17413"] = {
-					["item:17413:0:0:0:0:0:0:0:80"] = {
-						"1;18289;1162;901;0;;Allybot;1554002801;;H", -- [1]
-						"1;17475;1163;858;0;;Allybot;1554002801;;H", -- [2]
 					},
 				},
 				["41782"] = {
@@ -1952,59 +2146,15 @@ BeanCounterDB = {
 						"1;125700;6000;6300;0;;Hordebot;1540743831;;H", -- [3]
 					},
 				},
-				["13022"] = {
-					["item:13022:0:0:0:0:0:0:0:80"] = {
-						"1;66071;4198;3256;0;;Hordebot;1553269222;;H", -- [1]
-					},
-				},
 				["14680"] = {
 					["item:14680:0:0:0:0:0:0:0:80"] = {
 						"1;71783;3270;3605;0;;Hordebot;1536681263;;H", -- [1]
-					},
-				},
-				["29728"] = {
-					["item:29728:0:0:0:0:0:0:0:80"] = {
-						"1;197528;9000;9922;0;;Allybot;1537801133;;H", -- [1]
-					},
-				},
-				["10369"] = {
-					["item:10369:0:0:0:0:0:0:0:80"] = {
-						"1;35167;1947;1748;0;;Allybot;1553363544;;H", -- [1]
-					},
-				},
-				["12682"] = {
-					["item:12682:0:0:0:0:0:0:0:80"] = {
-						"1;9876;450;496;0;;Hordebot;1543230522;;H", -- [1]
-						"1;9000;450;450;0;;Hordebot;1543230522;;H", -- [2]
-						"1;9876;450;496;0;;Allybot;1543849445;;H", -- [3]
 					},
 				},
 				["14498"] = {
 					["item:14498:0:0:0:0:0:0:0:80"] = {
 						"1;20575;937;1033;0;;Allybot;1543586983;;H", -- [1]
 						"1;16925;937;841;0;;Allybot;1553269222;;H", -- [2]
-					},
-				},
-				["13013"] = {
-					["item:13013:0:0:0:0:0:0:0:80"] = {
-						"1;30524;1853;1509;0;;Hordebot;1553363603;;H", -- [1]
-					},
-				},
-				["14844"] = {
-					["item:14844:0:0:0:0:0:0:0:80"] = {
-						"1;49601;3011;2452;0;;Hordebot;1553964400;;H", -- [1]
-					},
-				},
-				["35652"] = {
-					["item:35652:0:0:0:0:0:0:0:80"] = {
-						"1;297785;14690;14899;0;;Allybot;1531924841;;H", -- [1]
-					},
-				},
-				["4696"] = {
-					["item:4696:0:0:0:0:0:0:0:80"] = {
-						"1;18227;830;915;0;;Allybot;1543507063;;H", -- [1]
-						"1;17398;830;872;0;;Allybot;1543507063;;H", -- [2]
-						"1;13066;830;643;0;;Allybot;1553964400;;H", -- [3]
 					},
 				},
 				["37781"] = {
@@ -2017,28 +2167,14 @@ BeanCounterDB = {
 				["32749"] = {
 					["item:32749:0:0:0:0:0:0:0:80"] = {
 						"1;37500;1875;1875;0;;Hordebot;1538664456;;H", -- [1]
+						"1;30886;1875;1526;0;;Hordebot;1558926539;;H", -- [2]
+						"1;33858;1875;1683;0;;Allybot;1559532440;;H", -- [3]
 					},
 				},
-				["13014"] = {
-					["item:13014:0:0:0:0:0:0:0:80"] = {
-						"1;94010;5205;4673;0;;Allybot;1553964400;;H", -- [1]
-					},
-				},
-				["12055"] = {
-					["item:12055:0:0:0:0:0:0:0:80"] = {
-						"1;24875;1256;1243;0;;Hordebot;1553964340;;H", -- [1]
-					},
-				},
-				["12697"] = {
-					["item:12697:0:0:0:0:0:0:0:80"] = {
-						"1;16405;825;820;0;;Allybot;1531924901;;H", -- [1]
-						"1;19878;825;1002;0;;Hordebot;1543849505;;H", -- [2]
-						"1;12980;825;639;0;;Hordebot;1553368463;;H", -- [3]
-					},
-				},
-				["10375"] = {
-					["item:10375:0:0:0:0:0:0:0:80"] = {
-						"1;32396;1878;1606;0;;Allybot;1553363484;;H", -- [1]
+				["15765"] = {
+					["item:15765:0:0:0:0:0:0:0:80"] = {
+						"1;18529;1125;915;0;;Hordebot;1554612765;;H", -- [1]
+						"1;18529;1125;915;0;;Allybot;1555215130;;H", -- [2]
 					},
 				},
 				["45237"] = {
@@ -2046,70 +2182,47 @@ BeanCounterDB = {
 						"1;347868;15850;17474;0;;Allybot;1543127382;;H", -- [1]
 					},
 				},
-				["13144"] = {
-					["item:13144:0:0:0:0:0:0:0:80"] = {
-						"1;17752;1029;880;0;;Allybot;1553363423;;H", -- [1]
-					},
-				},
 				["40338"] = {
 					["item:40338:0:0:0:0:0:0:0:80"] = {
 						"1;135280;6289;6789;0;;Allybot;1538328991;;H", -- [1]
 					},
 				},
-				["8307"] = {
-					["item:8307:0:0:0:0:0:0:0:80"] = {
-						"1;61616;2807;3095;0;;Hordebot;1543230582;;H", -- [1]
+				["17413"] = {
+					["item:17413:0:0:0:0:0:0:0:80"] = {
+						"1;18289;1162;901;0;;Allybot;1554002801;;H", -- [1]
+						"1;17475;1163;858;0;;Allybot;1554002801;;H", -- [2]
+						"1;20044;1162;993;0;;Hordebot;1555821548;;H", -- [3]
 					},
 				},
-				["13492"] = {
-					["item:13492:0:0:0:0:0:0:0:80"] = {
-						"1;17245;750;868;0;;Allybot;1543849385;;H", -- [1]
+				["12682"] = {
+					["item:12682:0:0:0:0:0:0:0:80"] = {
+						"1;9876;450;496;0;;Hordebot;1543230522;;H", -- [1]
+						"1;9000;450;450;0;;Hordebot;1543230522;;H", -- [2]
+						"1;9876;450;496;0;;Allybot;1543849445;;H", -- [3]
 					},
 				},
-				["35593"] = {
-					["item:35593:0:0:0:0:0:0:0:80"] = {
-						"1;144241;6885;7229;0;;Allybot;1531924841;;H", -- [1]
+				["13013"] = {
+					["item:13013:0:0:0:0:0:0:0:80"] = {
+						"1;30524;1853;1509;0;;Hordebot;1553363603;;H", -- [1]
+						"1;31958;1853;1584;0;;Hordebot;1555821548;;H", -- [2]
 					},
 				},
-				["13020"] = {
-					["item:13020:0:0:0:0:0:0:0:80"] = {
-						"1;27951;1347;1400;0;;Hordebot;1553958340;;H", -- [1]
-					},
-				},
-				["7993"] = {
-					["item:7993:0:0:0:0:0:0:0:80"] = {
-						"1;6765;375;336;0;;Allybot;1553964340;;H", -- [1]
-					},
-				},
-				["41777"] = {
-					["item:41777:0:0:0:0:0:0:0:80"] = {
-						"1;120000;6000;6000;0;;Hordebot;1537071447;;H", -- [1]
-						"1;120000;6000;6000;0;;Hordebot;1544337056;;H", -- [2]
-					},
-				},
-				["35654"] = {
-					["item:35654:0:0:0:0:0:0:0:80"] = {
-						"1;82662;3945;4142;0;;Allybot;1531924841;;H", -- [1]
-					},
-				},
-				["37822"] = {
-					["item:37822:0:0:0:0:0:0:0:80"] = {
-						"1;150965;6878;7583;0;;Allybot;1538328991;;H", -- [1]
+				["13144"] = {
+					["item:13144:0:0:0:0:0:0:0:80"] = {
+						"1;17752;1029;880;0;;Allybot;1553363423;;H", -- [1]
 					},
 				},
 				["31306"] = {
 					["item:31306:0:0:0:0:0:0:0:80"] = {
 						"1;105474;5034;5286;0;;Hordebot;1526483716;;H", -- [1]
+						"1;82937;5034;4100;0;;Allybot;1557739488;;H", -- [2]
+						"1;90922;5034;4520;0;;Hordebot;1558926479;;H", -- [3]
+						"1;90922;5034;4520;0;;Hordebot;1567476274;;H", -- [4]
 					},
 				},
 				["8317"] = {
 					["item:8317:0:0:0:0:0:0:0:80"] = {
 						"1;37093;2251;1833;0;;Hordebot;1554002921;;H", -- [1]
-					},
-				},
-				["15930"] = {
-					["item:15930:0:0:0:0:0:0:0:80"] = {
-						"1;22596;1371;1117;0;;Hordebot;1553363423;;H", -- [1]
 					},
 				},
 				["37780"] = {
@@ -2123,21 +2236,15 @@ BeanCounterDB = {
 						"1;83005;5038;4103;0;;Allybot;1553700935;;H", -- [2]
 					},
 				},
-				["37794"] = {
-					["item:37794:0:0:0:0:0:0:0:80"] = {
-						"1;147279;7030;7381;0;;Hordebot;1532522943;;H", -- [1]
-						"1;147279;7030;7381;0;;Hordebot;1543127383;;H", -- [2]
+				["13113"] = {
+					["item:13113:0:0:0:0:0:0:0:80"] = {
+						"1;47836;2773;2371;0;;Allybot;1555821488;;H", -- [1]
 					},
 				},
-				["41785"] = {
-					["item:41785:0:0:0:0:0:0:0:80"] = {
-						"1;120000;6000;6000;0;;Allybot;1537710799;;H", -- [1]
-						"1;120000;6000;6000;0;;Hordebot;1539528495;;H", -- [2]
-					},
-				},
-				["13139"] = {
-					["item:13139:0:0:0:0:0:0:0:80"] = {
-						"1;47424;3154;2329;0;;Hordebot;1553363603;;H", -- [1]
+				["41777"] = {
+					["item:41777:0:0:0:0:0:0:0:80"] = {
+						"1;120000;6000;6000;0;;Hordebot;1537071447;;H", -- [1]
+						"1;120000;6000;6000;0;;Hordebot;1544337056;;H", -- [2]
 					},
 				},
 				["14484"] = {
@@ -2152,79 +2259,16 @@ BeanCounterDB = {
 						"1;88499;5372;4375;0;;Hordebot;1553363423;;H", -- [2]
 					},
 				},
-				["35640"] = {
-					["item:35640:0:0:0:0:0:0:0:80"] = {
-						"1;123992;5918;6214;0;;Allybot;1527821813;;H", -- [1]
+				["41778"] = {
+					["item:41778:0:0:0:0:0:0:0:80"] = {
+						"1;125700;6000;6300;0;;Hordebot;1537710978;;H", -- [1]
+						"1;131685;6000;6615;0;;Hordebot;1539528494;;H", -- [2]
+						"1;137970;6000;6945;0;;Hordebot;1543731603;;H", -- [3]
 					},
 				},
-				["13036"] = {
-					["item:13036:0:0:0:0:0:0:0:80"] = {
-						"1;106040;6148;5257;0;;Allybot;1553269163;;H", -- [1]
-					},
-				},
-				["12691"] = {
-					["item:12691:0:0:0:0:0:0:0:80"] = {
-						"1;12000;600;600;0;;Allybot;1536934360;;H", -- [1]
-					},
-				},
-				["37769"] = {
-					["item:37769:0:0:0:0:0:0:0:80"] = {
-						"1;144938;7246;7246;0;;Hordebot;1528105315;;H", -- [1]
-					},
-				},
-				["45493"] = {
-					["item:45493:0:0:0:0:0:0:0:80"] = {
-						"1;222441;10135;11174;0;;Allybot;1543127443;;H", -- [1]
-					},
-				},
-				["13002"] = {
-					["item:13002:0:0:0:0:0:0:0:80"] = {
-						"1;50415;2192;2538;0;;Hordebot;1536681323;;H", -- [1]
-						"1;43850;2192;2192;0;;Allybot;1544018869;;H", -- [2]
-						"1;36117;2192;1785;0;;Hordebot;1554002921;;H", -- [3]
-					},
-				},
-				["31305"] = {
-					["item:31305:0:0:0:0:0:0:0:80"] = {
-						"1;283834;12932;14257;0;;Hordebot;1538571453;;H", -- [1]
-					},
-				},
-				["16255"] = {
-					["item:16255:0:0:0:0:0:0:0:80"] = {
-						"1;22500;1125;1125;0;;Hordebot;1536681202;;H", -- [1]
-					},
-				},
-				["31288"] = {
-					["item:31288:0:0:0:0:0:0:0:80"] = {
-						"1;94195;4496;4721;0;;Hordebot;1538476473;;H", -- [1]
-					},
-				},
-				["41781"] = {
-					["item:41781:0:0:0:0:0:0:0:80"] = {
-						"1;125700;6000;6300;0;;Allybot;1540743831;;H", -- [1]
-					},
-				},
-				["41784"] = {
-					["item:41784:0:0:0:0:0:0:0:80"] = {
-						"1;144567;6000;7293;0;;Hordebot;1538328931;;H", -- [1]
-						"1;125700;6000;6300;0;;Hordebot;1538925036;;H", -- [2]
-						"1;120000;6000;6000;0;;Allybot;1544336996;;H", -- [3]
-						"1;120000;6000;6000;0;;Allybot;1544336996;;H", -- [4]
-					},
-				},
-				["37817"] = {
-					["item:37817:0:0:0:0:0:0:0:80"] = {
-						"1;125055;5969;6267;0;;Allybot;1527867234;;H", -- [1]
-					},
-				},
-				["18742"] = {
-					["item:18742:0:0:0:0:0:0:0:80"] = {
-						"1;74081;3375;3721;0;;Hordebot;1536681383;;H", -- [1]
-					},
-				},
-				["31284"] = {
-					["item:31284:0:0:0:0:0:0:0:80"] = {
-						"1;86418;4320;4320;0;;Allybot;1527006314;;H", -- [1]
+				["37771"] = {
+					["item:37771:0:0:0:0:0:0:0:80"] = {
+						"1;103782;4728;5213;0;;Hordebot;1541313568;;H", -- [1]
 					},
 				},
 				["12689"] = {
@@ -2232,16 +2276,10 @@ BeanCounterDB = {
 						"1;10999;525;551;0;;Hordebot;1543507242;;H", -- [1]
 					},
 				},
-				["45322"] = {
-					["item:45322:0:0:0:0:0:0:0:80"] = {
-						"1;230069;9656;11600;0;;Hordebot;1540803397;;H", -- [1]
-					},
-				},
-				["13091"] = {
-					["item:13091:0:0:0:0:0:0:0:80"] = {
-						"1;26279;1595;1299;0;;Hordebot;1553368403;;H", -- [1]
-						"1;25104;1595;1237;0;;Allybot;1553368403;;H", -- [2]
-						"1;26279;1595;1299;0;;Allybot;1553486368;;H", -- [3]
+				["16861"] = {
+					["item:16861:0:0:0:0:0:0:0:80"] = {
+						"1;57096;3797;2805;0;;Allybot;1555821488;;H", -- [1]
+						"1;62559;3797;3092;0;;Allybot;1555821488;;H", -- [2]
 					},
 				},
 				["13085"] = {
@@ -2249,36 +2287,9 @@ BeanCounterDB = {
 						"1;27410;1370;1370;0;;Hordebot;1532362562;;H", -- [1]
 					},
 				},
-				["14489"] = {
-					["item:14489:0:0:0:0:0:0:0:80"] = {
-						"1;16461;750;826;0;;Allybot;1543849325;;H", -- [1]
-					},
-				},
-				["13070"] = {
-					["item:13070:0:0:0:0:0:0:0:80"] = {
-						"1;81004;3690;4069;0;;Hordebot;1543507063;;H", -- [1]
-						"1;63654;3690;3156;0;;Allybot;1553363544;;H", -- [2]
-						"1;63654;3690;3156;0;;Allybot;1553486308;;H", -- [3]
-					},
-				},
-				["45480"] = {
-					["item:45480:0:0:0:0:0:0:0:80"] = {
-						"1;260839;11343;13131;0;;Hordebot;1544337056;;H", -- [1]
-					},
-				},
-				["13125"] = {
-					["item:13125:0:0:0:0:0:0:0:80"] = {
-						"1;42646;1943;2142;0;;Hordebot;1531924901;;H", -- [1]
-					},
-				},
 				["1263"] = {
 					["item:1263:0:0:0:0:0:0:0:80"] = {
 						"1;260287;11859;13075;0;;Allybot;1543507123;;H", -- [1]
-					},
-				},
-				["35579"] = {
-					["item:35579:0:0:0:0:0:0:0:80"] = {
-						"1;95918;4370;4818;0;;Hordebot;1527783114;;H", -- [1]
 					},
 				},
 				["11208"] = {
@@ -2286,14 +2297,9 @@ BeanCounterDB = {
 						"1;4050;202;202;0;;Allybot;1531924901;;H", -- [1]
 					},
 				},
-				["15745"] = {
-					["item:15745:0:0:0:0:0:0:0:80"] = {
-						"1;13539;750;673;0;;Hordebot;1553363484;;H", -- [1]
-					},
-				},
-				["811"] = {
-					["item:811:0:0:0:0:0:0:0:80"] = {
-						"1;146617;8118;7289;0;;Allybot;1554002861;;H", -- [1]
+				["31284"] = {
+					["item:31284:0:0:0:0:0:0:0:80"] = {
+						"1;86418;4320;4320;0;;Allybot;1527006314;;H", -- [1]
 					},
 				},
 				["45107"] = {
@@ -2302,9 +2308,9 @@ BeanCounterDB = {
 						"1;352056;16804;17644;0;;Hordebot;1543199143;;H", -- [2]
 					},
 				},
-				["14553"] = {
-					["item:14553:0:0:0:0:0:0:0:80"] = {
-						"1;51374;2568;2568;0;;Hordebot;1536683423;;H", -- [1]
+				["41781"] = {
+					["item:41781:0:0:0:0:0:0:0:80"] = {
+						"1;125700;6000;6300;0;;Allybot;1540743831;;H", -- [1]
 					},
 				},
 				["31290"] = {
@@ -2322,25 +2328,9 @@ BeanCounterDB = {
 						"1;40289;1923;2019;0;;Allybot;1543230702;;H", -- [1]
 					},
 				},
-				["14850"] = {
-					["item:14850:0:0:0:0:0:0:0:80"] = {
-						"1;45155;2741;2232;0;;Allybot;1553964400;;H", -- [1]
-					},
-				},
-				["8299"] = {
-					["item:8299:0:0:0:0:0:0:0:80"] = {
-						"1;43062;2153;2153;0;;Hordebot;1543507182;;H", -- [1]
-						"1;47255;2153;2373;0;;Allybot;1543507182;;H", -- [2]
-					},
-				},
-				["14804"] = {
-					["item:14804:0:0:0:0:0:0:0:80"] = {
-						"1;48888;2444;2444;0;;Hordebot;1544336996;;H", -- [1]
-					},
-				},
-				["31303"] = {
-					["item:31303:0:0:0:0:0:0:0:80"] = {
-						"1;192540;9627;9627;0;;Allybot;1526833781;;H", -- [1]
+				["31308"] = {
+					["item:31308:0:0:0:0:0:0:0:80"] = {
+						"1;259190;15733;12813;0;;Allybot;1558926539;;H", -- [1]
 					},
 				},
 				["12711"] = {
@@ -2348,49 +2338,14 @@ BeanCounterDB = {
 						"1;25867;1500;1282;0;;Hordebot;1553964400;;H", -- [1]
 					},
 				},
-				["16736"] = {
-					["item:16736:0:0:0:0:0:0:0:80"] = {
-						"1;51406;2453;2576;0;;Allybot;1536833392;;H", -- [1]
-					},
-				},
-				["14855"] = {
-					["item:14855:0:0:0:0:0:0:0:80"] = {
-						"1;34332;1716;1716;0;;Allybot;1543327122;;H", -- [1]
-					},
-				},
 				["13077"] = {
 					["item:13077:0:0:0:0:0:0:0:80"] = {
 						"1;37451;2171;1856;0;;Allybot;1553368403;;H", -- [1]
 					},
 				},
-				["14859"] = {
-					["item:14859:0:0:0:0:0:0:0:80"] = {
-						"1;70256;3890;3492;0;;Allybot;1553368463;;H", -- [1]
-					},
-				},
-				["14499"] = {
-					["item:14499:0:0:0:0:0:0:0:80"] = {
-						"1;23569;1125;1181;0;;Hordebot;1543849325;;H", -- [1]
-					},
-				},
 				["14669"] = {
 					["item:14669:0:0:0:0:0:0:0:80"] = {
 						"1;23854;1448;1179;0;;Hordebot;1553363603;;H", -- [1]
-					},
-				},
-				["31255"] = {
-					["item:31255:0:0:0:0:0:0:0:80"] = {
-						"1;83918;3644;4224;0;;Hordebot;1526316978;;H", -- [1]
-					},
-				},
-				["14496"] = {
-					["item:14496:0:0:0:0:0:0:0:80"] = {
-						"1;13587;825;671;0;;Hordebot;1553363484;;H", -- [1]
-					},
-				},
-				["14665"] = {
-					["item:14665:0:0:0:0:0:0:0:80"] = {
-						"1;15351;932;758;0;;Allybot;1553958400;;H", -- [1]
 					},
 				},
 				["13130"] = {
@@ -2403,33 +2358,6 @@ BeanCounterDB = {
 						"1;20502;1363;1007;0;;Hordebot;1553486308;;H", -- [1]
 						"1;21459;1363;1057;0;;Allybot;1553486308;;H", -- [2]
 						"1;25788;1363;1285;0;;Hordebot;1553486368;;H", -- [3]
-					},
-				},
-				["31175"] = {
-					["item:31175:0:0:0:0:0:0:0:80"] = {
-						"1;54981;2624;2755;0;;Hordebot;1526142614;;H", -- [1]
-					},
-				},
-				["14474"] = {
-					["item:14474:0:0:0:0:0:0:0:80"] = {
-						"1;9876;450;496;0;;Hordebot;1536934360;;H", -- [1]
-					},
-				},
-				["13122"] = {
-					["item:13122:0:0:0:0:0:0:0:80"] = {
-						"1;28384;1723;1403;0;;Allybot;1553269222;;H", -- [1]
-						"1;27115;1723;1336;0;;Hordebot;1553363544;;H", -- [2]
-					},
-				},
-				["13146"] = {
-					["item:13146:0:0:0:0:0:0:0:80"] = {
-						"1;104112;5205;5205;0;;Allybot;1544930261;;H", -- [1]
-						"1;98447;5205;4907;0;;Hordebot;1553363603;;H", -- [2]
-					},
-				},
-				["13089"] = {
-					["item:13089:0:0:0:0:0:0:0:80"] = {
-						"1;18970;1205;935;0;;Hordebot;1553964340;;H", -- [1]
 					},
 				},
 				["15752"] = {
@@ -2447,44 +2375,24 @@ BeanCounterDB = {
 						"1;12351;750;610;0;;Hordebot;1553363423;;H", -- [11]
 					},
 				},
-				["37115"] = {
-					["item:37115:0:0:0:0:0:0:0:80"] = {
-						"1;213680;10684;10684;0;;Hordebot;1531924841;;H", -- [1]
+				["14859"] = {
+					["item:14859:0:0:0:0:0:0:0:80"] = {
+						"1;70256;3890;3492;0;;Allybot;1553368463;;H", -- [1]
 					},
 				},
-				["13015"] = {
-					["item:13015:0:0:0:0:0:0:0:80"] = {
-						"1;156318;7815;7815;0;;Hordebot;1544534767;;H", -- [1]
+				["31255"] = {
+					["item:31255:0:0:0:0:0:0:0:80"] = {
+						"1;83918;3644;4224;0;;Hordebot;1526316978;;H", -- [1]
 					},
 				},
-				["39472"] = {
-					["item:39472:0:0:0:0:0:0:0:80"] = {
-						"1;257491;10686;12989;0;;Allybot;1537711038;;H", -- [1]
+				["14474"] = {
+					["item:14474:0:0:0:0:0:0:0:80"] = {
+						"1;9876;450;496;0;;Hordebot;1536934360;;H", -- [1]
 					},
 				},
-				["16857"] = {
-					["item:16857:0:0:0:0:0:0:0:80"] = {
-						"1;76283;3641;3823;0;;Allybot;1537163501;;H", -- [1]
-					},
-				},
-				["39717"] = {
-					["item:39717:0:0:0:0:0:0:0:80"] = {
-						"1;334484;16724;16724;0;;Allybot;1538924976;;H", -- [1]
-					},
-				},
-				["13120"] = {
-					["item:13120:0:0:0:0:0:0:0:80"] = {
-						"1;31289;1425;1571;0;;Allybot;1532522943;;H", -- [1]
-					},
-				},
-				["13073"] = {
-					["item:13073:0:0:0:0:0:0:0:80"] = {
-						"1;49842;2379;2498;0;;Allybot;1532264660;;H", -- [1]
-					},
-				},
-				["16806"] = {
-					["item:16806:0:0:0:0:0:0:0:80"] = {
-						"1;36926;2141;1830;0;;Allybot;1553700935;;H", -- [1]
+				["16736"] = {
+					["item:16736:0:0:0:0:0:0:0:80"] = {
+						"1;51406;2453;2576;0;;Allybot;1536833392;;H", -- [1]
 					},
 				},
 				["45099"] = {
@@ -2498,14 +2406,14 @@ BeanCounterDB = {
 						"1;28483;1577;1416;0;;Allybot;1553363603;;H", -- [1]
 					},
 				},
-				["29550"] = {
-					["item:29550:0:0:0:0:0:0:0:80"] = {
-						"1;31425;1500;1575;0;;Allybot;1537963035;;H", -- [1]
+				["39472"] = {
+					["item:39472:0:0:0:0:0:0:0:80"] = {
+						"1;257491;10686;12989;0;;Allybot;1537711038;;H", -- [1]
 					},
 				},
-				["11611"] = {
-					["item:11611:0:0:0:0:0:0:0:80"] = {
-						"1;7080;450;348;0;;Allybot;1554002861;;H", -- [1]
+				["13116"] = {
+					["item:13116:0:0:0:0:0:0:0:80"] = {
+						"1;46215;2805;2284;0;;Hordebot;1556361792;;H", -- [1]
 					},
 				},
 				["14851"] = {
@@ -2529,31 +2437,11 @@ BeanCounterDB = {
 						"1;24864;1186;1246;0;;Allybot;1543507182;;H", -- [2]
 					},
 				},
-				["45316"] = {
-					["item:45316:0:0:0:0:0:0:0:80"] = {
-						"1;207274;9444;10412;0;;Hordebot;1540743771;;H", -- [1]
-					},
-				},
 				["13003"] = {
 					["item:13003:0:0:0:0:0:0:0:80"] = {
 						"1;128426;7446;6367;0;;Hordebot;1553269163;;H", -- [1]
 						"1;117179;7446;5775;0;;Hordebot;1553363423;;H", -- [2]
 						"1;128426;7446;6367;0;;Hordebot;1553363423;;H", -- [3]
-					},
-				},
-				["10371"] = {
-					["item:10371:0:0:0:0:0:0:0:80"] = {
-						"1;58422;2921;2921;0;;Hordebot;1536681142;;H", -- [1]
-					},
-				},
-				["13035"] = {
-					["item:13035:0:0:0:0:0:0:0:80"] = {
-						"1;79005;3771;3959;0;;Allybot;1531924901;;H", -- [1]
-					},
-				},
-				["15119"] = {
-					["item:15119:0:0:0:0:0:0:0:80"] = {
-						"1;38810;2052;1934;0;;Allybot;1553269222;;H", -- [1]
 					},
 				},
 				["2245"] = {
@@ -2577,25 +2465,9 @@ BeanCounterDB = {
 						"1;25020;1590;1233;0;;Allybot;1553368403;;H", -- [1]
 					},
 				},
-				["35615"] = {
-					["item:35615:0:0:0:0:0:0:0:80"] = {
-						"1;110784;5539;5539;0;;Allybot;1527783174;;H", -- [1]
-					},
-				},
 				["13126"] = {
 					["item:13126:0:0:0:0:0:0:0:80"] = {
 						"1;29423;1556;1466;0;;Allybot;1554002861;;H", -- [1]
-					},
-				},
-				["14848"] = {
-					["item:14848:0:0:0:0:0:0:0:80"] = {
-						"1;25796;1795;1263;0;;Allybot;1553363484;;H", -- [1]
-						"1;32425;1795;1612;0;;Hordebot;1553363484;;H", -- [2]
-					},
-				},
-				["18699"] = {
-					["item:18699:0:0:0:0:0:0:0:80"] = {
-						"1;38003;2307;1878;0;;Hordebot;1553486368;;H", -- [1]
 					},
 				},
 				["13111"] = {
@@ -2603,26 +2475,9 @@ BeanCounterDB = {
 						"1;39689;2098;1978;0;;Hordebot;1553269163;;H", -- [1]
 					},
 				},
-				["16681"] = {
-					["item:16681:0:0:0:0:0:0:0:80"] = {
-						"1;41024;1958;2056;0;;Allybot;1536681323;;H", -- [1]
-					},
-				},
-				["37771"] = {
-					["item:37771:0:0:0:0:0:0:0:80"] = {
-						"1;103782;4728;5213;0;;Hordebot;1541313568;;H", -- [1]
-					},
-				},
-				["41778"] = {
-					["item:41778:0:0:0:0:0:0:0:80"] = {
-						"1;125700;6000;6300;0;;Hordebot;1537710978;;H", -- [1]
-						"1;131685;6000;6615;0;;Hordebot;1539528494;;H", -- [2]
-						"1;137970;6000;6945;0;;Hordebot;1543731603;;H", -- [3]
-					},
-				},
-				["8108"] = {
-					["item:8108:0:0:0:0:0:0:0:80"] = {
-						"1;8481;539;418;0;;Hordebot;1553368463;;H", -- [1]
+				["16255"] = {
+					["item:16255:0:0:0:0:0:0:0:80"] = {
+						"1;22500;1125;1125;0;;Hordebot;1536681202;;H", -- [1]
 					},
 				},
 				["16722"] = {
@@ -2630,28 +2485,9 @@ BeanCounterDB = {
 						"1;42381;2139;2117;0;;Hordebot;1553486368;;H", -- [1]
 					},
 				},
-				["31501"] = {
-					["item:31501:0:0:0:0:0:0:0:80"] = {
-						"1;300000;15000;15000;0;;Hordebot;1537886971;;H", -- [1]
-						"1;314250;15000;15750;0;;Allybot;1537886971;;H", -- [2]
-					},
-				},
 				["17683"] = {
 					["item:17683:0:0:0:0:0:0:0:80"] = {
 						"1;38155;2212;1891;0;;Hordebot;1553486368;;H", -- [1]
-					},
-				},
-				["14504"] = {
-					["item:14504:0:0:0:0:0:0:0:80"] = {
-						"1;32922;1500;1653;0;;Allybot;1536934419;;H", -- [1]
-						"1;31425;1500;1575;0;;Allybot;1543230642;;H", -- [2]
-						"1;31425;1500;1575;0;;Hordebot;1543230642;;H", -- [3]
-					},
-				},
-				["14685"] = {
-					["item:14685:0:0:0:0:0:0:0:80"] = {
-						"1;37284;1621;1877;0;;Allybot;1543230702;;H", -- [1]
-						"1;28815;1621;1431;0;;Hordebot;1544018869;;H", -- [2]
 					},
 				},
 				["14671"] = {
@@ -2659,95 +2495,22 @@ BeanCounterDB = {
 						"1;40889;1951;2049;0;;Allybot;1543230582;;H", -- [1]
 					},
 				},
-				["45101"] = {
-					["item:45101:0:0:0:0:0:0:0:80"] = {
-						"1;78563;3750;3937;0;;Hordebot;1543127442;;H", -- [1]
-					},
-				},
-				["14849"] = {
-					["item:14849:0:0:0:0:0:0:0:80"] = {
-						"1;47564;2167;2389;0;;Allybot;1532177566;;H", -- [1]
-					},
-				},
 				["2564"] = {
 					["item:2564:0:0:0:0:0:0:0:80"] = {
 						"1;16087;1022;792;0;;Allybot;1553964400;;H", -- [1]
+						"1;17629;1022;874;0;;Hordebot;1555215130;;H", -- [2]
 					},
 				},
 				["32745"] = {
 					["item:32745:0:0:0:0:0:0:0:80"] = {
 						"1;39282;1875;1968;0;;Allybot;1538481993;;H", -- [1]
-					},
-				},
-				["14675"] = {
-					["item:14675:0:0:0:0:0:0:0:80"] = {
-						"1;20214;1227;999;0;;Hordebot;1553964400;;H", -- [1]
-					},
-				},
-				["45709"] = {
-					["item:45709:0:0:0:0:0:0:0:80"] = {
-						"1;161117;7690;8075;0;;Allybot;1541313568;;H", -- [1]
-					},
-				},
-				["31237"] = {
-					["item:31237:0:0:0:0:0:0:0:80"] = {
-						"1;140714;6119;7083;0;;Hordebot;1526204835;;H", -- [1]
-						"1;122388;6119;6119;0;;Allybot;1526316978;;H", -- [2]
-					},
-				},
-				["13052"] = {
-					["item:13052:0:0:0:0:0:0:0:80"] = {
-						"1;112900;6251;5613;0;;Allybot;1553363603;;H", -- [1]
-					},
-				},
-				["8279"] = {
-					["item:8279:0:0:0:0:0:0:0:80"] = {
-						"1;28087;1555;1396;0;;Hordebot;1554002861;;H", -- [1]
-					},
-				},
-				["15743"] = {
-					["item:15743:0:0:0:0:0:0:0:80"] = {
-						"1;12930;750;641;0;;Allybot;1553363603;;H", -- [1]
-					},
-				},
-				["24222"] = {
-					["item:24222:0:0:0:0:0:0:0:80"] = {
-						"1;109245;6631;5400;0;;Allybot;1553363544;;H", -- [1]
-					},
-				},
-				["14506"] = {
-					["item:14506:0:0:0:0:0:0:0:80"] = {
-						"1;31425;1500;1575;0;;Hordebot;1543327122;;H", -- [1]
-					},
-				},
-				["10302"] = {
-					["item:10302:0:0:0:0:0:0:0:80"] = {
-						"1;3227;187;160;0;;Allybot;1554002801;;H", -- [1]
-					},
-				},
-				["944"] = {
-					["item:944:0:0:0:0:0:0:0:80"] = {
-						"1;251878;12022;12624;0;;Hordebot;1543233583;;H", -- [1]
-					},
-				},
-				["8289"] = {
-					["item:8289:0:0:0:0:0:0:0:80"] = {
-						"1;49578;2503;2477;0;;Hordebot;1553368463;;H", -- [1]
-					},
-				},
-				["16710"] = {
-					["item:16710:0:0:0:0:0:0:0:80"] = {
-						"1;27019;1566;1339;0;;Allybot;1553486368;;H", -- [1]
+						"1;33858;1875;1683;0;;Allybot;1557739488;;H", -- [2]
+						"1;29504;1875;1454;0;;Hordebot;1558230129;;H", -- [3]
 					},
 				},
 				["7990"] = {
 					["item:7990:0:0:0:0:0:0:0:80"] = {
 						"1;5634;375;276;0;;Hordebot;1553363484;;H", -- [1]
-					},
-				},
-				["13075"] = {
-					["item:13075:0:0:0:0:0:0:0:80"] = {
-						"1;114548;5219;5754;0;;Hordebot;1537163561;;H", -- [1]
 					},
 				},
 				["13060"] = {
@@ -2769,11 +2532,863 @@ BeanCounterDB = {
 				["8283"] = {
 					["item:8283:0:0:0:0:0:0:0:80"] = {
 						"1;52008;2482;2606;0;;Allybot;1543849325;;H", -- [1]
+						"1;42813;2482;2122;0;;Allybot;1554612705;;H", -- [2]
 					},
 				},
-				["8256"] = {
-					["item:8256:0:0:0:0:0:0:0:80"] = {
-						"1;26542;1539;1315;0;;Hordebot;1553363544;;H", -- [1]
+				["14785"] = {
+					["item:14785:0:0:0:0:0:0:0:80"] = {
+						"1;23612;1433;1167;0;;Hordebot;1554002861;;H", -- [1]
+					},
+				},
+				["11733"] = {
+					["item:11733:0:0:0:0:0:0:0:80"] = {
+						"1;564;100;24;0;;Allybot;1553363423;;H", -- [1]
+					},
+				},
+				["6660"] = {
+					["item:6660:0:0:0:0:0:0:0:80"] = {
+						"1;93539;5423;4637;0;;Hordebot;1553964340;;H", -- [1]
+					},
+				},
+				["21803"] = {
+					["item:21803:0:0:0:0:0:0:0:80"] = {
+						"1;87785;4190;4399;0;;Hordebot;1537163501;;H", -- [1]
+					},
+				},
+				["13030"] = {
+					["item:13030:0:0:0:0:0:0:0:80"] = {
+						"1;33919;1966;1681;0;;Allybot;1553363544;;H", -- [1]
+					},
+				},
+				["1973"] = {
+					["item:1973:0:0:0:0:0:0:0:80"] = {
+						"1;15202;692;763;0;;Allybot;1544336996;;H", -- [1]
+						"1;14511;692;727;0;;Hordebot;1544336996;;H", -- [2]
+						"1;15202;692;763;0;;Allybot;1544336996;;H", -- [3]
+						"1;12500;692;621;0;;Hordebot;1553269222;;H", -- [4]
+						"1;11939;692;591;0;;Hordebot;1555821548;;H", -- [5]
+					},
+				},
+				["37760"] = {
+					["item:37760:0:0:0:0:0:0:0:80"] = {
+						"1;88003;3827;4430;0;;Allybot;1528105256;;H", -- [1]
+						"1;83995;3827;4219;0;;Allybot;1543731723;;H", -- [2]
+					},
+				},
+				["12713"] = {
+					["item:12713:0:0:0:0:0:0:0:80"] = {
+						"1;32922;1500;1653;0;;Hordebot;1543849445;;H", -- [1]
+					},
+				},
+				["44313"] = {
+					["item:44313:0:0:0:0:0:0:0:80"] = {
+						"1;396617;18071;19923;0;;Hordebot;1539271174;;H", -- [1]
+					},
+				},
+				["833"] = {
+					["item:833:0:0:0:0:0:0:0:80"] = {
+						"1;69190;4200;3420;0;;Hordebot;1553368403;;H", -- [1]
+					},
+				},
+				["13066"] = {
+					["item:13066:0:0:0:0:0:0:0:80"] = {
+						"1;38832;2357;1919;0;;Hordebot;1554002861;;H", -- [1]
+					},
+				},
+				["21805"] = {
+					["item:21805:0:0:0:0:0:0:0:80"] = {
+						"1;88451;4222;4433;0;;Hordebot;1543233583;;H", -- [1]
+					},
+				},
+				["13007"] = {
+					["item:13007:0:0:0:0:0:0:0:80"] = {
+						"1;40754;2037;2037;0;;Allybot;1543416943;;H", -- [1]
+					},
+				},
+				["24169"] = {
+					["item:24169:0:0:0:0:0:0:0:80"] = {
+						"1;94275;4500;4725;0;;Hordebot;1538147439;;H", -- [1]
+					},
+				},
+				["13490"] = {
+					["item:13490:0:0:0:0:0:0:0:80"] = {
+						"1;12570;600;630;0;;Allybot;1536681263;;H", -- [1]
+						"1;12570;600;630;0;;Allybot;1543507003;;H", -- [2]
+						"1;10344;600;512;0;;Allybot;1553368463;;H", -- [3]
+					},
+				},
+				["14668"] = {
+					["item:14668:0:0:0:0:0:0:0:80"] = {
+						"1;36827;2039;1830;0;;Hordebot;1553368403;;H", -- [1]
+					},
+				},
+				["15931"] = {
+					["item:15931:0:0:0:0:0:0:0:80"] = {
+						"1;36718;1596;1848;0;;Hordebot;1543233583;;H", -- [1]
+					},
+				},
+				["23625"] = {
+					["item:23625:0:0:0:0:0:0:0:80"] = {
+						"1;360000;18000;18000;0;;Hordebot;1537801192;;H", -- [1]
+					},
+				},
+				["13039"] = {
+					["item:13039:0:0:0:0:0:0:0:80"] = {
+						"1;42230;2683;2081;0;;Allybot;1554002861;;H", -- [1]
+					},
+				},
+				["13040"] = {
+					["item:13040:0:0:0:0:0:0:0:80"] = {
+						"1;72757;4416;3596;0;;Allybot;1553486368;;H", -- [1]
+					},
+				},
+				["12685"] = {
+					["item:12685:0:0:0:0:0:0:0:80"] = {
+						"1;9428;450;472;0;;Hordebot;1543507003;;H", -- [1]
+						"1;8506;450;423;0;;Hordebot;1553964400;;H", -- [2]
+					},
+				},
+				["45874"] = {
+					["item:45874:0:0:0:0:0:0:0:80"] = {
+						"1;248958;11343;12506;0;;Allybot;1540743831;;H", -- [1]
+					},
+				},
+				["13036"] = {
+					["item:13036:0:0:0:0:0:0:0:80"] = {
+						"1;106040;6148;5257;0;;Allybot;1553269163;;H", -- [1]
+						"1;96754;6148;4768;0;;Hordebot;1556361792;;H", -- [2]
+					},
+				},
+				["16802"] = {
+					["item:16802:0:0:0:0:0:0:0:80"] = {
+						"1;36374;2109;1803;0;;Allybot;1554019420;;H", -- [1]
+					},
+				},
+				["9402"] = {
+					["item:9402:0:0:0:0:0:0:0:80"] = {
+						"1;83317;3796;4185;0;;Allybot;1543507182;;H", -- [1]
+					},
+				},
+				["14467"] = {
+					["item:14467:0:0:0:0:0:0:0:80"] = {
+						"1;6764;450;332;0;;Allybot;1553269222;;H", -- [1]
+						"1;7080;450;348;0;;Hordebot;1554019420;;H", -- [2]
+					},
+				},
+				["31149"] = {
+					["item:31149:0:0:0:0:0:0:0:80"] = {
+						"1;33597;2039;1660;0;;Allybot;1569672675;;H", -- [1]
+					},
+				},
+				["8289"] = {
+					["item:8289:0:0:0:0:0:0:0:80"] = {
+						"1;49578;2503;2477;0;;Hordebot;1553368463;;H", -- [1]
+					},
+				},
+				["23624"] = {
+					["item:23624:0:0:0:0:0:0:0:80"] = {
+						"1;377100;18000;18900;0;;Hordebot;1537886971;;H", -- [1]
+					},
+				},
+				["8299"] = {
+					["item:8299:0:0:0:0:0:0:0:80"] = {
+						"1;43062;2153;2153;0;;Hordebot;1543507182;;H", -- [1]
+						"1;47255;2153;2373;0;;Allybot;1543507182;;H", -- [2]
+					},
+				},
+				["12057"] = {
+					["item:12057:0:0:0:0:0:0:0:80"] = {
+						"1;21662;1256;1073;0;;Allybot;1553363423;;H", -- [1]
+					},
+				},
+				["39235"] = {
+					["item:39235:0:0:0:0:0:0:0:80"] = {
+						"1;198618;9930;9930;0;;Allybot;1536550382;;H", -- [1]
+					},
+				},
+				["13053"] = {
+					["item:13053:0:0:0:0:0:0:0:80"] = {
+						"1;185991;8877;9321;0;;Allybot;1543849385;;H", -- [1]
+						"1;194846;8877;9787;0;;Hordebot;1544930261;;H", -- [2]
+					},
+				},
+				["944"] = {
+					["item:944:0:0:0:0:0:0:0:80"] = {
+						"1;251878;12022;12624;0;;Hordebot;1543233583;;H", -- [1]
+					},
+				},
+				["37824"] = {
+					["item:37824:0:0:0:0:0:0:0:80"] = {
+						"1;289269;13807;14497;0;;Allybot;1538924976;;H", -- [1]
+					},
+				},
+				["35580"] = {
+					["item:35580:0:0:0:0:0:0:0:80"] = {
+						"1;105276;5263;5263;0;;Allybot;1527783114;;H", -- [1]
+					},
+				},
+				["31277"] = {
+					["item:31277:0:0:0:0:0:0:0:80"] = {
+						"1;125708;6285;6285;0;;Allybot;1526233694;;H", -- [1]
+						"1;137948;6285;6929;0;;Hordebot;1526316978;;H", -- [2]
+					},
+				},
+				["8130"] = {
+					["item:8130:0:0:0:0:0:0:0:80"] = {
+						"1;31137;1418;1564;0;;Allybot;1536681383;;H", -- [1]
+						"1;23369;1418;1155;0;;Hordebot;1554002801;;H", -- [2]
+					},
+				},
+				["31258"] = {
+					["item:31258:0:0:0:0:0:0:0:80"] = {
+						"1;181180;8255;9101;0;;Allybot;1526316978;;H", -- [1]
+					},
+				},
+				["13047"] = {
+					["item:13047:0:0:0:0:0:0:0:80"] = {
+						"1;153296;8488;7621;0;;Hordebot;1553269222;;H", -- [1]
+						"1;146401;8488;7258;0;;Allybot;1553363603;;H", -- [2]
+					},
+				},
+				["13022"] = {
+					["item:13022:0:0:0:0:0:0:0:80"] = {
+						"1;66071;4198;3256;0;;Hordebot;1553269222;;H", -- [1]
+					},
+				},
+				["15743"] = {
+					["item:15743:0:0:0:0:0:0:0:80"] = {
+						"1;12930;750;641;0;;Allybot;1553363603;;H", -- [1]
+					},
+				},
+				["29728"] = {
+					["item:29728:0:0:0:0:0:0:0:80"] = {
+						"1;197528;9000;9922;0;;Allybot;1537801133;;H", -- [1]
+						"1;148267;9000;7329;0;;Hordebot;1569733935;;H", -- [2]
+					},
+				},
+				["10369"] = {
+					["item:10369:0:0:0:0:0:0:0:80"] = {
+						"1;35167;1947;1748;0;;Allybot;1553363544;;H", -- [1]
+					},
+				},
+				["8279"] = {
+					["item:8279:0:0:0:0:0:0:0:80"] = {
+						"1;28087;1555;1396;0;;Hordebot;1554002861;;H", -- [1]
+					},
+				},
+				["13052"] = {
+					["item:13052:0:0:0:0:0:0:0:80"] = {
+						"1;112900;6251;5613;0;;Allybot;1553363603;;H", -- [1]
+					},
+				},
+				["24222"] = {
+					["item:24222:0:0:0:0:0:0:0:80"] = {
+						"1;109245;6631;5400;0;;Allybot;1553363544;;H", -- [1]
+					},
+				},
+				["10375"] = {
+					["item:10375:0:0:0:0:0:0:0:80"] = {
+						"1;32396;1878;1606;0;;Allybot;1553363484;;H", -- [1]
+					},
+				},
+				["8307"] = {
+					["item:8307:0:0:0:0:0:0:0:80"] = {
+						"1;61616;2807;3095;0;;Hordebot;1543230582;;H", -- [1]
+					},
+				},
+				["7993"] = {
+					["item:7993:0:0:0:0:0:0:0:80"] = {
+						"1;6765;375;336;0;;Allybot;1553964340;;H", -- [1]
+					},
+				},
+				["35654"] = {
+					["item:35654:0:0:0:0:0:0:0:80"] = {
+						"1;82662;3945;4142;0;;Allybot;1531924841;;H", -- [1]
+					},
+				},
+				["37822"] = {
+					["item:37822:0:0:0:0:0:0:0:80"] = {
+						"1;150965;6878;7583;0;;Allybot;1538328991;;H", -- [1]
+					},
+				},
+				["13020"] = {
+					["item:13020:0:0:0:0:0:0:0:80"] = {
+						"1;27951;1347;1400;0;;Hordebot;1553958340;;H", -- [1]
+					},
+				},
+				["5267"] = {
+					["item:5267:0:0:0:0:0:0:0:80"] = {
+						"1;139365;8080;6909;0;;Allybot;1555215130;;H", -- [1]
+						"1;133114;8080;6580;0;;Hordebot;1555821488;;H", -- [2]
+					},
+				},
+				["35640"] = {
+					["item:35640:0:0:0:0:0:0:0:80"] = {
+						"1;123992;5918;6214;0;;Allybot;1527821813;;H", -- [1]
+					},
+				},
+				["12691"] = {
+					["item:12691:0:0:0:0:0:0:0:80"] = {
+						"1;12000;600;600;0;;Allybot;1536934360;;H", -- [1]
+					},
+				},
+				["37769"] = {
+					["item:37769:0:0:0:0:0:0:0:80"] = {
+						"1;144938;7246;7246;0;;Hordebot;1528105315;;H", -- [1]
+					},
+				},
+				["13002"] = {
+					["item:13002:0:0:0:0:0:0:0:80"] = {
+						"1;50415;2192;2538;0;;Hordebot;1536681323;;H", -- [1]
+						"1;43850;2192;2192;0;;Allybot;1544018869;;H", -- [2]
+						"1;36117;2192;1785;0;;Hordebot;1554002921;;H", -- [3]
+					},
+				},
+				["31305"] = {
+					["item:31305:0:0:0:0:0:0:0:80"] = {
+						"1;283834;12932;14257;0;;Hordebot;1538571453;;H", -- [1]
+						"1;223054;12932;11059;0;;Allybot;1557032689;;H", -- [2]
+						"1;223054;12932;11059;0;;Hordebot;1557628789;;H", -- [3]
+						"1;203521;12932;10030;0;;Hordebot;1557739488;;H", -- [4]
+					},
+				},
+				["31285"] = {
+					["item:31285:0:0:0:0:0:0:0:80"] = {
+						"1;116502;6160;5807;0;;Allybot;1559532440;;H", -- [1]
+					},
+				},
+				["41784"] = {
+					["item:41784:0:0:0:0:0:0:0:80"] = {
+						"1;144567;6000;7293;0;;Hordebot;1538328931;;H", -- [1]
+						"1;125700;6000;6300;0;;Hordebot;1538925036;;H", -- [2]
+						"1;120000;6000;6000;0;;Allybot;1544336996;;H", -- [3]
+						"1;120000;6000;6000;0;;Allybot;1544336996;;H", -- [4]
+					},
+				},
+				["10374"] = {
+					["item:10374:0:0:0:0:0:0:0:80"] = {
+						"1;51088;3101;2525;0;;Hordebot;1555215130;;H", -- [1]
+					},
+				},
+				["13091"] = {
+					["item:13091:0:0:0:0:0:0:0:80"] = {
+						"1;26279;1595;1299;0;;Hordebot;1553368403;;H", -- [1]
+						"1;25104;1595;1237;0;;Allybot;1553368403;;H", -- [2]
+						"1;26279;1595;1299;0;;Allybot;1553486368;;H", -- [3]
+					},
+				},
+				["13070"] = {
+					["item:13070:0:0:0:0:0:0:0:80"] = {
+						"1;81004;3690;4069;0;;Hordebot;1543507063;;H", -- [1]
+						"1;63654;3690;3156;0;;Allybot;1553363544;;H", -- [2]
+						"1;63654;3690;3156;0;;Allybot;1553486308;;H", -- [3]
+					},
+				},
+				["45480"] = {
+					["item:45480:0:0:0:0:0:0:0:80"] = {
+						"1;260839;11343;13131;0;;Hordebot;1544337056;;H", -- [1]
+					},
+				},
+				["13125"] = {
+					["item:13125:0:0:0:0:0:0:0:80"] = {
+						"1;42646;1943;2142;0;;Hordebot;1531924901;;H", -- [1]
+					},
+				},
+				["15745"] = {
+					["item:15745:0:0:0:0:0:0:0:80"] = {
+						"1;13539;750;673;0;;Hordebot;1553363484;;H", -- [1]
+					},
+				},
+				["811"] = {
+					["item:811:0:0:0:0:0:0:0:80"] = {
+						"1;146617;8118;7289;0;;Allybot;1554002861;;H", -- [1]
+					},
+				},
+				["31289"] = {
+					["item:31289:0:0:0:0:0:0:0:80"] = {
+						"1;258499;14987;12816;0;;Allybot;1569733935;;H", -- [1]
+					},
+				},
+				["14553"] = {
+					["item:14553:0:0:0:0:0:0:0:80"] = {
+						"1;51374;2568;2568;0;;Hordebot;1536683423;;H", -- [1]
+					},
+				},
+				["41785"] = {
+					["item:41785:0:0:0:0:0:0:0:80"] = {
+						"1;120000;6000;6000;0;;Allybot;1537710799;;H", -- [1]
+						"1;120000;6000;6000;0;;Hordebot;1539528495;;H", -- [2]
+					},
+				},
+				["32411"] = {
+					["item:32411:0:0:0:0:0:0:0:80"] = {
+						"1;74131;4500;3664;0;;Hordebot;1569733935;;H", -- [1]
+					},
+				},
+				["24196"] = {
+					["item:24196:0:0:0:0:0:0:0:80"] = {
+						"1;74131;4500;3664;0;;Allybot;1567476274;;H", -- [1]
+					},
+				},
+				["14850"] = {
+					["item:14850:0:0:0:0:0:0:0:80"] = {
+						"1;45155;2741;2232;0;;Allybot;1553964400;;H", -- [1]
+					},
+				},
+				["32540"] = {
+					["item:32540:0:0:0:0:0:0:0:80"] = {
+						"1;76127;4621;3763;0;;Hordebot;1559016420;;H", -- [1]
+					},
+				},
+				["13056"] = {
+					["item:13056:0:0:0:0:0:0:0:80"] = {
+						"1;130924;7249;6509;0;;Hordebot;1553486428;;H", -- [1]
+					},
+				},
+				["31303"] = {
+					["item:31303:0:0:0:0:0:0:0:80"] = {
+						"1;192540;9627;9627;0;;Allybot;1526833781;;H", -- [1]
+					},
+				},
+				["24220"] = {
+					["item:24220:0:0:0:0:0:0:0:80"] = {
+						"1;77612;4500;3847;0;;Hordebot;1558926539;;H", -- [1]
+					},
+				},
+				["16817"] = {
+					["item:16817:0:0:0:0:0:0:0:80"] = {
+						"1;35687;2069;1769;0;;Allybot;1556361792;;H", -- [1]
+					},
+				},
+				["14855"] = {
+					["item:14855:0:0:0:0:0:0:0:80"] = {
+						"1;34332;1716;1716;0;;Allybot;1543327122;;H", -- [1]
+					},
+				},
+				["16806"] = {
+					["item:16806:0:0:0:0:0:0:0:80"] = {
+						"1;36926;2141;1830;0;;Allybot;1553700935;;H", -- [1]
+						"1;38664;2141;1922;0;;Hordebot;1554019420;;H", -- [2]
+						"1;36926;2141;1830;0;;Hordebot;1555215130;;H", -- [3]
+						"1;36926;2141;1830;0;;Allybot;1555215130;;H", -- [4]
+					},
+				},
+				["7734"] = {
+					["item:7734:0:0:0:0:0:0:0:80"] = {
+						"1;38287;2324;1892;0;;Hordebot;1555821548;;H", -- [1]
+					},
+				},
+				["14499"] = {
+					["item:14499:0:0:0:0:0:0:0:80"] = {
+						"1;23569;1125;1181;0;;Hordebot;1543849325;;H", -- [1]
+					},
+				},
+				["14804"] = {
+					["item:14804:0:0:0:0:0:0:0:80"] = {
+						"1;48888;2444;2444;0;;Hordebot;1544336996;;H", -- [1]
+					},
+				},
+				["35579"] = {
+					["item:35579:0:0:0:0:0:0:0:80"] = {
+						"1;95918;4370;4818;0;;Hordebot;1527783114;;H", -- [1]
+					},
+				},
+				["14496"] = {
+					["item:14496:0:0:0:0:0:0:0:80"] = {
+						"1;13587;825;671;0;;Hordebot;1553363484;;H", -- [1]
+					},
+				},
+				["14665"] = {
+					["item:14665:0:0:0:0:0:0:0:80"] = {
+						"1;15351;932;758;0;;Allybot;1553958400;;H", -- [1]
+					},
+				},
+				["4696"] = {
+					["item:4696:0:0:0:0:0:0:0:80"] = {
+						"1;18227;830;915;0;;Allybot;1543507063;;H", -- [1]
+						"1;17398;830;872;0;;Allybot;1543507063;;H", -- [2]
+						"1;13066;830;643;0;;Allybot;1553964400;;H", -- [3]
+					},
+				},
+				["45322"] = {
+					["item:45322:0:0:0:0:0:0:0:80"] = {
+						"1;230069;9656;11600;0;;Hordebot;1540803397;;H", -- [1]
+					},
+				},
+				["31175"] = {
+					["item:31175:0:0:0:0:0:0:0:80"] = {
+						"1;54981;2624;2755;0;;Hordebot;1526142614;;H", -- [1]
+					},
+				},
+				["41779"] = {
+					["item:41779:0:0:0:0:0:0:0:80"] = {
+						"1;137970;6000;6945;0;;Hordebot;1538924976;;H", -- [1]
+					},
+				},
+				["13122"] = {
+					["item:13122:0:0:0:0:0:0:0:80"] = {
+						"1;28384;1723;1403;0;;Allybot;1553269222;;H", -- [1]
+						"1;27115;1723;1336;0;;Hordebot;1553363544;;H", -- [2]
+					},
+				},
+				["13146"] = {
+					["item:13146:0:0:0:0:0:0:0:80"] = {
+						"1;104112;5205;5205;0;;Allybot;1544930261;;H", -- [1]
+						"1;98447;5205;4907;0;;Hordebot;1553363603;;H", -- [2]
+					},
+				},
+				["35615"] = {
+					["item:35615:0:0:0:0:0:0:0:80"] = {
+						"1;110784;5539;5539;0;;Allybot;1527783174;;H", -- [1]
+					},
+				},
+				["10371"] = {
+					["item:10371:0:0:0:0:0:0:0:80"] = {
+						"1;58422;2921;2921;0;;Hordebot;1536681142;;H", -- [1]
+					},
+				},
+				["31288"] = {
+					["item:31288:0:0:0:0:0:0:0:80"] = {
+						"1;94195;4496;4721;0;;Hordebot;1538476473;;H", -- [1]
+					},
+				},
+				["13015"] = {
+					["item:13015:0:0:0:0:0:0:0:80"] = {
+						"1;156318;7815;7815;0;;Hordebot;1544534767;;H", -- [1]
+					},
+				},
+				["37794"] = {
+					["item:37794:0:0:0:0:0:0:0:80"] = {
+						"1;147279;7030;7381;0;;Hordebot;1532522943;;H", -- [1]
+						"1;147279;7030;7381;0;;Hordebot;1543127383;;H", -- [2]
+					},
+				},
+				["16857"] = {
+					["item:16857:0:0:0:0:0:0:0:80"] = {
+						"1;76283;3641;3823;0;;Allybot;1537163501;;H", -- [1]
+					},
+				},
+				["39717"] = {
+					["item:39717:0:0:0:0:0:0:0:80"] = {
+						"1;334484;16724;16724;0;;Allybot;1538924976;;H", -- [1]
+					},
+				},
+				["35593"] = {
+					["item:35593:0:0:0:0:0:0:0:80"] = {
+						"1;144241;6885;7229;0;;Allybot;1531924841;;H", -- [1]
+					},
+				},
+				["13073"] = {
+					["item:13073:0:0:0:0:0:0:0:80"] = {
+						"1;49842;2379;2498;0;;Allybot;1532264660;;H", -- [1]
+					},
+				},
+				["11611"] = {
+					["item:11611:0:0:0:0:0:0:0:80"] = {
+						"1;7080;450;348;0;;Allybot;1554002861;;H", -- [1]
+					},
+				},
+				["32755"] = {
+					["item:32755:0:0:0:0:0:0:0:80"] = {
+						"1;30886;1875;1526;0;;Allybot;1558926539;;H", -- [1]
+						"1;29504;1875;1454;0;;Allybot;1559532440;;H", -- [2]
+					},
+				},
+				["45316"] = {
+					["item:45316:0:0:0:0:0:0:0:80"] = {
+						"1;207274;9444;10412;0;;Hordebot;1540743771;;H", -- [1]
+					},
+				},
+				["29550"] = {
+					["item:29550:0:0:0:0:0:0:0:80"] = {
+						"1;31425;1500;1575;0;;Allybot;1537963035;;H", -- [1]
+					},
+				},
+				["13035"] = {
+					["item:13035:0:0:0:0:0:0:0:80"] = {
+						"1;79005;3771;3959;0;;Allybot;1531924901;;H", -- [1]
+					},
+				},
+				["32751"] = {
+					["item:32751:0:0:0:0:0:0:0:80"] = {
+						"1;37500;1875;1875;0;;Hordebot;1538481993;;H", -- [1]
+						"1;28190;1875;1384;0;;Allybot;1558230129;;H", -- [2]
+					},
+				},
+				["15930"] = {
+					["item:15930:0:0:0:0:0:0:0:80"] = {
+						"1;22596;1371;1117;0;;Hordebot;1553363423;;H", -- [1]
+					},
+				},
+				["14856"] = {
+					["item:14856:0:0:0:0:0:0:0:80"] = {
+						"1;35670;1625;1791;0;;Allybot;1536934419;;H", -- [1]
+					},
+				},
+				["13089"] = {
+					["item:13089:0:0:0:0:0:0:0:80"] = {
+						"1;18970;1205;935;0;;Hordebot;1553964340;;H", -- [1]
+					},
+				},
+				["16681"] = {
+					["item:16681:0:0:0:0:0:0:0:80"] = {
+						"1;41024;1958;2056;0;;Allybot;1536681323;;H", -- [1]
+					},
+				},
+				["14508"] = {
+					["item:14508:0:0:0:0:0:0:0:80"] = {
+						"1;38804;2250;1923;0;;Hordebot;1554612765;;H", -- [1]
+					},
+				},
+				["24304"] = {
+					["item:24304:0:0:0:0:0:0:0:80"] = {
+						"1;81266;4500;4040;0;;Hordebot;1569733935;;H", -- [1]
+					},
+				},
+				["13492"] = {
+					["item:13492:0:0:0:0:0:0:0:80"] = {
+						"1;17245;750;868;0;;Allybot;1543849385;;H", -- [1]
+					},
+				},
+				["16838"] = {
+					["item:16838:0:0:0:0:0:0:0:80"] = {
+						"1;51322;3115;2537;0;;Hordebot;1553700874;;H", -- [1]
+						"1;51322;3115;2537;0;;Hordebot;1553700874;;H", -- [2]
+					},
+				},
+				["31190"] = {
+					["item:31190:0:0:0:0:0:0:0:80"] = {
+						"1;84817;4048;4251;0;;Hordebot;1526659121;;H", -- [1]
+					},
+				},
+				["14844"] = {
+					["item:14844:0:0:0:0:0:0:0:80"] = {
+						"1;49601;3011;2452;0;;Hordebot;1553964400;;H", -- [1]
+					},
+				},
+				["14506"] = {
+					["item:14506:0:0:0:0:0:0:0:80"] = {
+						"1;31425;1500;1575;0;;Hordebot;1543327122;;H", -- [1]
+						"1;25867;1500;1282;0;;Allybot;1554019420;;H", -- [2]
+						"1;24707;1500;1221;0;;Hordebot;1555215130;;H", -- [3]
+					},
+				},
+				["13014"] = {
+					["item:13014:0:0:0:0:0:0:0:80"] = {
+						"1;94010;5205;4673;0;;Allybot;1553964400;;H", -- [1]
+					},
+				},
+				["14685"] = {
+					["item:14685:0:0:0:0:0:0:0:80"] = {
+						"1;37284;1621;1877;0;;Allybot;1543230702;;H", -- [1]
+						"1;28815;1621;1431;0;;Hordebot;1544018869;;H", -- [2]
+					},
+				},
+				["18742"] = {
+					["item:18742:0:0:0:0:0:0:0:80"] = {
+						"1;74081;3375;3721;0;;Hordebot;1536681383;;H", -- [1]
+					},
+				},
+				["14848"] = {
+					["item:14848:0:0:0:0:0:0:0:80"] = {
+						"1;25796;1795;1263;0;;Allybot;1553363484;;H", -- [1]
+						"1;32425;1795;1612;0;;Hordebot;1553363484;;H", -- [2]
+					},
+				},
+				["18699"] = {
+					["item:18699:0:0:0:0:0:0:0:80"] = {
+						"1;38003;2307;1878;0;;Hordebot;1553486368;;H", -- [1]
+					},
+				},
+				["23203"] = {
+					["item:23203:0:0:0:0:0:0:0:80"] = {
+						"1;48128;2406;2406;0;;Allybot;1536683423;;H", -- [1]
+						"1;55334;2406;2785;0;;Allybot;1543230522;;H", -- [2]
+						"1;41500;2406;2057;0;;Allybot;1553700935;;H", -- [3]
+					},
+				},
+				["37817"] = {
+					["item:37817:0:0:0:0:0:0:0:80"] = {
+						"1;125055;5969;6267;0;;Allybot;1527867234;;H", -- [1]
+					},
+				},
+				["16850"] = {
+					["item:16850:0:0:0:0:0:0:0:80"] = {
+						"1;57674;3344;2859;0;;Hordebot;1554612705;;H", -- [1]
+						"1;57674;3344;2859;0;;Allybot;1555821548;;H", -- [2]
+					},
+				},
+				["12697"] = {
+					["item:12697:0:0:0:0:0:0:0:80"] = {
+						"1;16405;825;820;0;;Allybot;1531924901;;H", -- [1]
+						"1;19878;825;1002;0;;Hordebot;1543849505;;H", -- [2]
+						"1;12980;825;639;0;;Hordebot;1553368463;;H", -- [3]
+					},
+				},
+				["13139"] = {
+					["item:13139:0:0:0:0:0:0:0:80"] = {
+						"1;47424;3154;2329;0;;Hordebot;1553363603;;H", -- [1]
+					},
+				},
+				["8108"] = {
+					["item:8108:0:0:0:0:0:0:0:80"] = {
+						"1;8481;539;418;0;;Hordebot;1553368463;;H", -- [1]
+					},
+				},
+				["31501"] = {
+					["item:31501:0:0:0:0:0:0:0:80"] = {
+						"1;300000;15000;15000;0;;Hordebot;1537886971;;H", -- [1]
+						"1;314250;15000;15750;0;;Allybot;1537886971;;H", -- [2]
+					},
+				},
+				["8271"] = {
+					["item:8271:0:0:0:0:0:0:0:80"] = {
+						"1;52663;3053;2611;0;;Hordebot;1553964400;;H", -- [1]
+					},
+				},
+				["14504"] = {
+					["item:14504:0:0:0:0:0:0:0:80"] = {
+						"1;32922;1500;1653;0;;Allybot;1536934419;;H", -- [1]
+						"1;31425;1500;1575;0;;Allybot;1543230642;;H", -- [2]
+						"1;31425;1500;1575;0;;Hordebot;1543230642;;H", -- [3]
+					},
+				},
+				["12055"] = {
+					["item:12055:0:0:0:0:0:0:0:80"] = {
+						"1;24875;1256;1243;0;;Hordebot;1553964340;;H", -- [1]
+					},
+				},
+				["31237"] = {
+					["item:31237:0:0:0:0:0:0:0:80"] = {
+						"1;140714;6119;7083;0;;Hordebot;1526204835;;H", -- [1]
+						"1;122388;6119;6119;0;;Allybot;1526316978;;H", -- [2]
+					},
+				},
+				["15119"] = {
+					["item:15119:0:0:0:0:0:0:0:80"] = {
+						"1;38810;2052;1934;0;;Allybot;1553269222;;H", -- [1]
+					},
+				},
+				["14849"] = {
+					["item:14849:0:0:0:0:0:0:0:80"] = {
+						"1;47564;2167;2389;0;;Allybot;1532177566;;H", -- [1]
+					},
+				},
+				["12695"] = {
+					["item:12695:0:0:0:0:0:0:0:80"] = {
+						"1;12930;750;641;0;;Hordebot;1553486368;;H", -- [1]
+					},
+				},
+				["7976"] = {
+					["item:7976:0:0:0:0:0:0:0:80"] = {
+						"1;5169;300;256;0;;Allybot;1556361852;;H", -- [1]
+					},
+				},
+				["14675"] = {
+					["item:14675:0:0:0:0:0:0:0:80"] = {
+						"1;20214;1227;999;0;;Hordebot;1553964400;;H", -- [1]
+					},
+				},
+				["45709"] = {
+					["item:45709:0:0:0:0:0:0:0:80"] = {
+						"1;161117;7690;8075;0;;Allybot;1541313568;;H", -- [1]
+					},
+				},
+				["16714"] = {
+					["item:16714:0:0:0:0:0:0:0:80"] = {
+						"1;36568;1590;1840;0;;Allybot;1536833392;;H", -- [1]
+					},
+				},
+				["13133"] = {
+					["item:13133:0:0:0:0:0:0:0:80"] = {
+						"1;66872;3343;3343;0;;Allybot;1536681323;;H", -- [1]
+						"1;66872;3343;3343;0;;Hordebot;1536934300;;H", -- [2]
+						"1;76884;3343;3870;0;;Allybot;1544336996;;H", -- [3]
+						"1;55080;3343;2722;0;;Hordebot;1553486368;;H", -- [4]
+					},
+				},
+				["15746"] = {
+					["item:15746:0:0:0:0:0:0:0:80"] = {
+						"1;12930;750;641;0;;Hordebot;1553486308;;H", -- [1]
+						"1;13539;750;673;0;;Allybot;1553700935;;H", -- [2]
+					},
+				},
+				["13001"] = {
+					["item:13001:0:0:0:0:0:0:0:80"] = {
+						"1;31944;1597;1597;0;;Allybot;1543230762;;H", -- [1]
+						"1;26308;1597;1300;0;;Allybot;1556361852;;H", -- [2]
+					},
+				},
+				["16804"] = {
+					["item:16804:0:0:0:0:0:0:0:80"] = {
+						"1;36650;2125;1817;0;;Hordebot;1554612705;;H", -- [1]
+					},
+				},
+				["13120"] = {
+					["item:13120:0:0:0:0:0:0:0:80"] = {
+						"1;31289;1425;1571;0;;Allybot;1532522943;;H", -- [1]
+					},
+				},
+				["10302"] = {
+					["item:10302:0:0:0:0:0:0:0:80"] = {
+						"1;3227;187;160;0;;Allybot;1554002801;;H", -- [1]
+					},
+				},
+				["35652"] = {
+					["item:35652:0:0:0:0:0:0:0:80"] = {
+						"1;297785;14690;14899;0;;Allybot;1531924841;;H", -- [1]
+					},
+				},
+				["13118"] = {
+					["item:13118:0:0:0:0:0:0:0:80"] = {
+						"1;28712;1590;1427;0;;Allybot;1553363603;;H", -- [1]
+						"1;31491;1590;1573;0;;Allybot;1553363603;;H", -- [2]
+					},
+				},
+				["8190"] = {
+					["item:8190:0:0:0:0:0:0:0:80"] = {
+						"1;101006;5592;5021;0;;Allybot;1553363544;;H", -- [1]
+					},
+				},
+				["16043"] = {
+					["item:16043:0:0:0:0:0:0:0:80"] = {
+						"1;10348;450;520;0;;Hordebot;1543507063;;H", -- [1]
+					},
+				},
+				["23199"] = {
+					["item:23199:0:0:0:0:0:0:0:80"] = {
+						"1;49677;2371;2489;0;;Allybot;1536934419;;H", -- [1]
+						"1;49677;2371;2489;0;;Allybot;1543507242;;H", -- [2]
+						"1;39060;2371;1931;0;;Hordebot;1553486308;;H", -- [3]
+						"1;46965;2371;2347;0;;Hordebot;1556361792;;H", -- [4]
+					},
+				},
+				["12549"] = {
+					["item:12549:0:0:0:0:0:0:0:80"] = {
+						"1;37027;2050;1840;0;;Allybot;1553964340;;H", -- [1]
+						"1;37028;2051;1840;0;;Allybot;1553964340;;H", -- [2]
+					},
+				},
+				["13059"] = {
+					["item:13059:0:0:0:0:0:0:0:80"] = {
+						"1;95675;5807;4729;0;;Hordebot;1554612765;;H", -- [1]
+					},
+				},
+				["37115"] = {
+					["item:37115:0:0:0:0:0:0:0:80"] = {
+						"1;213680;10684;10684;0;;Hordebot;1531924841;;H", -- [1]
+					},
+				},
+				["14489"] = {
+					["item:14489:0:0:0:0:0:0:0:80"] = {
+						"1;16461;750;826;0;;Allybot;1543849325;;H", -- [1]
+						"1;12351;750;610;0;;Allybot;1556361852;;H", -- [2]
+					},
+				},
+				["16825"] = {
+					["item:16825:0:0:0:0:0:0:0:80"] = {
+						"1;45982;2666;2279;0;;Allybot;1555821488;;H", -- [1]
+						"1;41956;2666;2067;0;;Hordebot;1556361792;;H", -- [2]
 					},
 				},
 				["23197"] = {
@@ -2782,31 +3397,30 @@ BeanCounterDB = {
 						"1;51653;2353;2594;0;;Hordebot;1543507123;;H", -- [2]
 					},
 				},
-				["23199"] = {
-					["item:23199:0:0:0:0:0:0:0:80"] = {
-						"1;49677;2371;2489;0;;Allybot;1536934419;;H", -- [1]
-						"1;49677;2371;2489;0;;Allybot;1543507242;;H", -- [2]
-						"1;39060;2371;1931;0;;Hordebot;1553486308;;H", -- [3]
+				["24206"] = {
+					["item:24206:0:0:0:0:0:0:0:80"] = {
+						"1;77612;4500;3847;0;;Allybot;1557032689;;H", -- [1]
 					},
 				},
-				["14785"] = {
-					["item:14785:0:0:0:0:0:0:0:80"] = {
-						"1;23612;1433;1167;0;;Hordebot;1554002861;;H", -- [1]
+				["31297"] = {
+					["item:31297:0:0:0:0:0:0:0:80"] = {
+						"1;84772;4915;4203;0;;Hordebot;1557032689;;H", -- [1]
 					},
 				},
-				["37767"] = {
-					["item:37767:0:0:0:0:0:0:0:80"] = {
-						"1;150819;6871;7576;0;;Hordebot;1527939295;;H", -- [1]
+				["16827"] = {
+					["item:16827:0:0:0:0:0:0:0:80"] = {
+						"1;48501;2685;2411;0;;Hordebot;1554019420;;H", -- [1]
+						"1;42263;2685;2083;0;;Allybot;1555215130;;H", -- [2]
 					},
 				},
-				["13056"] = {
-					["item:13056:0:0:0:0:0:0:0:80"] = {
-						"1;130924;7249;6509;0;;Hordebot;1553486428;;H", -- [1]
+				["13075"] = {
+					["item:13075:0:0:0:0:0:0:0:80"] = {
+						"1;114548;5219;5754;0;;Hordebot;1537163561;;H", -- [1]
 					},
 				},
-				["6660"] = {
-					["item:6660:0:0:0:0:0:0:0:80"] = {
-						"1;93539;5423;4637;0;;Hordebot;1553964340;;H", -- [1]
+				["31291"] = {
+					["item:31291:0:0:0:0:0:0:0:80"] = {
+						"1;291486;16139;14491;0;;Allybot;1561124193;;H", -- [1]
 					},
 				},
 				["14686"] = {
@@ -2815,11 +3429,22 @@ BeanCounterDB = {
 					},
 				},
 			},
-			["wealth"] = 412637877,
+			["wealth"] = 550040333,
 			["postedAuctions"] = {
+				["25211"] = {
+					["item:25211:0:0:0:0:0:-39:24:80"] = {
+						"1;112371;0;720;11235;1570061355;", -- [1]
+					},
+				},
 				["25117"] = {
+					["item:25117:0:0:0:0:0:-13:17:80"] = {
+						"1;86410;0;720;8640;1569892795;", -- [1]
+					},
 					["item:25117:0:0:0:0:0:-45:17:80"] = {
 						"1;162820;0;720;8640;1526095870;", -- [1]
+					},
+					["item:25117:0:0:0:0:0:-44:17:80"] = {
+						"1;86410;0;720;8640;1570061351;", -- [1]
 					},
 				},
 				["37793"] = {
@@ -2844,6 +3469,11 @@ BeanCounterDB = {
 						"1;213734;0;720;10686;1539224396;", -- [1]
 					},
 				},
+				["25126"] = {
+					["item:25126:0:0:0:0:0:-44:23:80"] = {
+						"1;116031;0;720;11601;1569784510;", -- [1]
+					},
+				},
 				["35964"] = {
 					["item:35964:0:0:0:0:0:-32:52:80"] = {
 						"1;72456;0;720;3621;1540610813;", -- [1]
@@ -2854,6 +3484,11 @@ BeanCounterDB = {
 						"1;43598;0;720;2178;1543802590;", -- [1]
 					},
 				},
+				["25184"] = {
+					["item:25184:0:0:0:0:0:-7:15:80"] = {
+						"1;82918;0;720;8289;1569784492;", -- [1]
+					},
+				},
 				["25248"] = {
 					["item:25248:0:0:0:0:0:-6:15:80"] = {
 					},
@@ -2861,6 +3496,11 @@ BeanCounterDB = {
 				["41779"] = {
 					["item:41779:0:0:0:0:0:0:0:80"] = {
 						"1;120000;0;720;6000;1538878185;", -- [1]
+					},
+				},
+				["24206"] = {
+					["item:24206:0:0:0:0:0:0:0:80"] = {
+						"1;45000;0;720;4500;1556985933;", -- [1]
 					},
 				},
 				["13072"] = {
@@ -2895,6 +3535,9 @@ BeanCounterDB = {
 					},
 				},
 				["36707"] = {
+					["item:36707:0:0:0:0:0:-16:97:80"] = {
+						"1;197065;0;720;19704;1567429527;", -- [1]
+					},
 					["item:36707:0:0:0:0:0:-41:97:80"] = {
 						"1;394130;0;720;19704;1533255694;", -- [1]
 					},
@@ -2903,12 +3546,18 @@ BeanCounterDB = {
 					["item:15755:0:0:0:0:0:0:0:80"] = {
 						"1;16500;0;720;825;1543542283;", -- [1]
 						"1;8250;0;720;825;1553956140;", -- [2]
+						"1;8250;0;720;825;1555168379;", -- [3]
 					},
 				},
 				["36611"] = {
 					["item:36611:0:0:0:0:0:-14:104:80"] = {
 						"1;406484;0;720;20343;1538282154;", -- [1]
 						"1;406484;0;720;20343;1538282154;", -- [2]
+					},
+				},
+				["25308"] = {
+					["item:25308:0:0:0:0:0:-44:23:80"] = {
+						"1;111462;0;720;11145;1557624749;", -- [1]
 					},
 				},
 				["36256"] = {
@@ -2929,6 +3578,14 @@ BeanCounterDB = {
 						"1;4500;0;720;450;1553956086;", -- [1]
 					},
 				},
+				["24732"] = {
+					["item:24732:0:0:0:0:0:-14:24:80"] = {
+						"1;23416;0;720;2340;1568562414;", -- [1]
+					},
+					["item:24732:0:0:0:0:0:-5:24:80"] = {
+						"1;23416;0;720;2340;1569687155;", -- [1]
+					},
+				},
 				["36556"] = {
 					["item:36556:0:0:0:0:0:-39:108:80"] = {
 						"1;423374;0;720;21168;1538878212;", -- [1]
@@ -2943,6 +3600,7 @@ BeanCounterDB = {
 				["14508"] = {
 					["item:14508:0:0:0:0:0:0:0:80"] = {
 						"1;45000;0;720;2250;1537218715;", -- [1]
+						"1;22500;0;720;2250;1554565969;", -- [2]
 					},
 				},
 				["13488"] = {
@@ -2955,9 +3613,22 @@ BeanCounterDB = {
 						"1;16197;0;720;1617;1553316781;", -- [1]
 					},
 				},
+				["23572"] = {
+					["item:23572:0:0:0:0:0:0:0:80"] = {
+						"1;24000;0;720;2400;1567861006;", -- [1]
+						"1;24000;0;720;2400;1568562430;", -- [2]
+						"1;24000;0;720;2400;1569687173;", -- [3]
+						"1;24000;0;720;2400;1569892798;", -- [4]
+						"1;24000;0;720;2400;1570061343;", -- [5]
+						"1;24000;0;720;2400;1570292547;", -- [6]
+					},
+				},
 				["24784"] = {
 					["item:24784:0:0:0:0:0:-39:53:80"] = {
 						"1;109230;0;720;5460;1526080573;", -- [1]
+					},
+					["item:24784:0:0:0:0:0:-13:53:80"] = {
+						"1;54615;0;720;5460;1569892764;", -- [1]
 					},
 				},
 				["41787"] = {
@@ -2974,11 +3645,17 @@ BeanCounterDB = {
 						"1;15000;0;720;750;1543460273;", -- [2]
 						"1;7500;0;720;750;1553439578;", -- [3]
 						"1;7500;0;720;750;1553439579;", -- [4]
+						"1;7500;0;720;750;1556985917;", -- [5]
 					},
 				},
 				["24884"] = {
 					["item:24884:0:0:0:0:0:-11:38:80"] = {
 						"1;89534;0;720;4476;1537840345;", -- [1]
+					},
+				},
+				["24659"] = {
+					["item:24659:0:0:0:0:0:-34:38:80"] = {
+						"1;29829;0;720;2982;1559437339;", -- [1]
 					},
 				},
 				["36582"] = {
@@ -2998,6 +3675,14 @@ BeanCounterDB = {
 					["item:24672:0:0:0:0:0:-36:40:80"] = {
 						"1;45008;0;720;2250;1526871529;", -- [1]
 					},
+					["item:24672:0:0:0:0:0:-37:40:80"] = {
+						"1;22504;0;720;2250;1558231522;", -- [1]
+					},
+				},
+				["25172"] = {
+					["item:25172:0:0:0:0:0:-41:40:80"] = {
+						"1;105646;0;720;10563;1569784502;", -- [1]
+					},
 				},
 				["24770"] = {
 					["item:24770:0:0:0:0:0:-41:50:80"] = {
@@ -3010,6 +3695,9 @@ BeanCounterDB = {
 					},
 					["item:25007:0:0:0:0:0:-5:40:80"] = {
 						"1;113216;0;720;5658;1526186877;", -- [1]
+					},
+					["item:25007:0:0:0:0:0:-9:40:80"] = {
+						"1;56608;0;720;5658;1558969660;", -- [1]
 					},
 				},
 				["14298"] = {
@@ -3024,6 +3712,14 @@ BeanCounterDB = {
 						"1;24064;0;720;2406;1553654171;", -- [3]
 					},
 				},
+				["24897"] = {
+					["item:24897:0:0:0:0:0:-40:40:80"] = {
+						"1;33636;0;720;3363;1558830704;", -- [1]
+					},
+					["item:24897:0:0:0:0:0:-11:40:80"] = {
+						"1;33636;0;720;3363;1569687188;", -- [1]
+					},
+				},
 				["14973"] = {
 					["item:14973:0:0:0:0:0:287:0:80"] = {
 						"1;83430;0;720;4170;1543184046;", -- [1]
@@ -3032,6 +3728,11 @@ BeanCounterDB = {
 				["11976"] = {
 					["item:11976:0:0:0:0:0:1415:0:80"] = {
 						"1;11667;0;720;1164;1553316666;", -- [1]
+					},
+				},
+				["28541"] = {
+					["item:28541:0:0:0:0:0:-14:16:80"] = {
+						"1;53247;0;720;5322;1560041084;", -- [1]
 					},
 				},
 				["14498"] = {
@@ -3066,6 +3767,11 @@ BeanCounterDB = {
 						"1;72948;0;720;3645;1526270130;", -- [1]
 					},
 				},
+				["24887"] = {
+					["item:24887:0:0:0:0:0:-43:39:80"] = {
+						"1;46426;0;720;4641;1558183370;", -- [1]
+					},
+				},
 				["40338"] = {
 					["item:40338:0:0:0:0:0:0:0:80"] = {
 						"1;135780;0;720;6288;1538282213;", -- [1]
@@ -3086,9 +3792,24 @@ BeanCounterDB = {
 						"1;22086;0;720;2208;1553321647;", -- [1]
 					},
 				},
+				["24604"] = {
+					["item:24604:0:0:0:0:0:-8:22:80"] = {
+						"1;17974;0;720;1797;1569784468;", -- [1]
+					},
+				},
 				["36456"] = {
 					["item:36456:0:0:0:0:0:-18:56:80"] = {
 						"1;202464;0;720;10122;1533862624;", -- [1]
+					},
+				},
+				["25241"] = {
+					["item:25241:0:0:0:0:0:-6:12:80"] = {
+						"1;65145;0;720;6513;1569687165;", -- [1]
+					},
+				},
+				["25098"] = {
+					["item:25098:0:0:0:0:0:-8:31:80"] = {
+						"1;55854;0;720;5583;1570061337;", -- [1]
 					},
 				},
 				["15281"] = {
@@ -3097,8 +3818,14 @@ BeanCounterDB = {
 					},
 				},
 				["24797"] = {
+					["item:24797:0:0:0:0:0:-41:31:80"] = {
+						"1;27240;0;720;2724;1558969653;", -- [1]
+					},
 					["item:24797:0:0:0:0:0:-27:31:80"] = {
 						"1;54480;0;720;2724;1538361868;", -- [1]
+					},
+					["item:24797:0:0:0:0:0:-40:31:80"] = {
+						"1;27240;0;720;2724;1569892776;", -- [1]
 					},
 				},
 				["14484"] = {
@@ -3128,6 +3855,14 @@ BeanCounterDB = {
 						"1;63156;0;720;3156;1533482692;", -- [1]
 					},
 				},
+				["25111"] = {
+					["item:25111:0:0:0:0:0:-40:22:80"] = {
+						"1;104419;0;720;10440;1567429543;", -- [1]
+					},
+					["item:25111:0:0:0:0:0:-44:22:80"] = {
+						"1;104419;0;720;10440;1569784506;", -- [1]
+					},
+				},
 				["10134"] = {
 					["item:10134:0:0:0:0:0:1039:0:80"] = {
 						"1;20079;0;720;2007;1553956108;", -- [1]
@@ -3136,6 +3871,11 @@ BeanCounterDB = {
 				["37771"] = {
 					["item:37771:0:0:0:0:0:0:0:80"] = {
 						"1;94574;0;720;4728;1541266774;", -- [1]
+					},
+				},
+				["24852"] = {
+					["item:24852:0:0:0:0:0:-19:33:80"] = {
+						"1;41529;0;720;4152;1568562419;", -- [1]
 					},
 				},
 				["15239"] = {
@@ -3165,6 +3905,9 @@ BeanCounterDB = {
 					["item:7076:0:0:0:0:0:0:0:80"] = {
 						"4;2400;0;720;240;1553654118;", -- [1]
 						"8;4800;0;720;480;1553972631;", -- [2]
+						"5;3000;0;720;300;1554565978;", -- [3]
+						"1;600;0;720;100;1555774743;", -- [4]
+						"1;600;0;720;100;1556315040;", -- [5]
 					},
 				},
 				["25139"] = {
@@ -3228,6 +3971,11 @@ BeanCounterDB = {
 						"1;32438;0;720;1620;1543460296;", -- [1]
 					},
 				},
+				["25182"] = {
+					["item:25182:0:0:0:0:0:-18:55:80"] = {
+						"1;142930;0;720;14292;1558969657;", -- [1]
+					},
+				},
 				["1705"] = {
 					["item:1705:0:0:0:0:0:0:0:80"] = {
 						"1;900;0;720;100;1553911597;", -- [1]
@@ -3260,8 +4008,16 @@ BeanCounterDB = {
 					},
 				},
 				["24907"] = {
+					["item:24907:0:0:0:0:0:-33:55:80"] = {
+						"1;64632;0;720;6462;1559485661;", -- [1]
+					},
 					["item:24907:0:0:0:0:0:-40:55:80"] = {
 						"1;138264;0;720;6462;1526080694;", -- [1]
+					},
+				},
+				["24602"] = {
+					["item:24602:0:0:0:0:0:-8:40:80"] = {
+						"1;35697;0;720;3567;1568562422;", -- [1]
 					},
 				},
 				["15752"] = {
@@ -3304,6 +4060,11 @@ BeanCounterDB = {
 						"1;15775;0;720;1575;1553316857;", -- [1]
 					},
 				},
+				["25312"] = {
+					["item:25312:0:0:0:0:0:-9:17:80"] = {
+						"1;86709;0;720;8670;1569892788;", -- [1]
+					},
+				},
 				["8265"] = {
 					["item:8265:0:0:0:0:0:0:0:80"] = {
 						"1;29871;0;720;2985;1553956132;", -- [1]
@@ -3314,6 +4075,14 @@ BeanCounterDB = {
 						"1;74460;0;720;7446;1553222418;", -- [1]
 						"1;74460;0;720;7446;1553316663;", -- [2]
 						"1;74460;0;720;7446;1553316663;", -- [3]
+					},
+				},
+				["25069"] = {
+					["item:25069:0:0:0:0:0:-32:30:80"] = {
+						"1;54552;0;720;5454;1556985930;", -- [1]
+					},
+					["item:25069:0:0:0:0:0:-10:30:80"] = {
+						"1;54552;0;720;5454;1569892778;", -- [1]
 					},
 				},
 				["2245"] = {
@@ -3379,6 +4148,11 @@ BeanCounterDB = {
 						"1;150000;0;720;30000;1538515738;", -- [2]
 						"1;150000;0;720;30000;1538515738;", -- [3]
 						"1;150000;0;720;7500;1538617650;", -- [4]
+						"3;225000;0;720;22500;1557095187;", -- [5]
+						"1;75000;0;720;7500;1557692747;", -- [6]
+						"3;225000;0;720;22500;1558231549;", -- [7]
+						"4;300000;0;720;30000;1558879754;", -- [8]
+						"5;375000;0;720;37500;1559485680;", -- [9]
 					},
 				},
 				["25195"] = {
@@ -3389,6 +4163,13 @@ BeanCounterDB = {
 				["32745"] = {
 					["item:32745:0:0:0:0:0:0:0:80"] = {
 						"1;37500;0;720;1875;1538435211;", -- [1]
+						"1;18750;0;720;1875;1557692729;", -- [2]
+						"1;18750;0;720;1875;1558183362;", -- [3]
+					},
+				},
+				["24832"] = {
+					["item:24832:0:0:0:0:0:-14:41:80"] = {
+						"1;50655;0;720;5064;1569687170;", -- [1]
 					},
 				},
 				["36441"] = {
@@ -3400,6 +4181,11 @@ BeanCounterDB = {
 					},
 					["item:36441:0:0:0:0:0:-43:54:80"] = {
 						"1;117168;0;720;5856;1538878242;", -- [1]
+					},
+				},
+				["24670"] = {
+					["item:24670:0:0:0:0:0:-38:40:80"] = {
+						"1;32647;0;720;3264;1557624744;", -- [1]
 					},
 				},
 				["25295"] = {
@@ -3435,6 +4221,10 @@ BeanCounterDB = {
 				["24785"] = {
 					["item:24785:0:0:0:0:0:-40:40:80"] = {
 						"1;56262;0;720;2811;1526787051;", -- [1]
+						"1;28131;0;720;2811;1569784472;", -- [2]
+					},
+					["item:24785:0:0:0:0:0:-34:40:80"] = {
+						"1;28131;0;720;2811;1559437349;", -- [1]
 					},
 				},
 				["36500"] = {
@@ -3459,6 +4249,11 @@ BeanCounterDB = {
 				["24801"] = {
 					["item:24801:0:0:0:0:0:-13:42:80"] = {
 						"1;58098;0;720;2904;1527044273;", -- [1]
+					},
+				},
+				["24714"] = {
+					["item:24714:0:0:0:0:0:-19:40:80"] = {
+						"1;44467;0;720;4446;1569784462;", -- [1]
 					},
 				},
 				["12713"] = {
@@ -3527,6 +4322,7 @@ BeanCounterDB = {
 				["16827"] = {
 					["item:16827:0:0:0:0:0:0:0:80"] = {
 						"1;26859;0;720;2685;1553972635;", -- [1]
+						"1;26859;0;720;2685;1555168370;", -- [2]
 					},
 				},
 				["31183"] = {
@@ -3537,6 +4333,11 @@ BeanCounterDB = {
 				["14333"] = {
 					["item:14333:0:0:0:0:0:790:0:80"] = {
 						"1;26966;0;720;1347;1536634622;", -- [1]
+					},
+				},
+				["24220"] = {
+					["item:24220:0:0:0:0:0:0:0:80"] = {
+						"1;45000;0;720;4500;1558879749;", -- [1]
 					},
 				},
 				["14467"] = {
@@ -3576,9 +4377,22 @@ BeanCounterDB = {
 						"1;159200;0;720;7959;1527996916;", -- [1]
 					},
 				},
+				["24901"] = {
+					["item:24901:0:0:0:0:0:-40:30:80"] = {
+						"1;34117;0;720;3411;1569784498;", -- [1]
+					},
+				},
 				["10085"] = {
+					["item:10085:0:0:0:0:0:1127:0:80"] = {
+						"1;17293;0;720;1728;1556315061;", -- [1]
+					},
 					["item:10085:0:0:0:0:0:1620:0:80"] = {
 						"1;17293;0;720;1728;1553917616;", -- [1]
+					},
+				},
+				["25076"] = {
+					["item:25076:0:0:0:0:0:-43:24:80"] = {
+						"1;56733;0;720;5673;1568562411;", -- [1]
 					},
 				},
 				["39235"] = {
@@ -3623,6 +4437,11 @@ BeanCounterDB = {
 						"1;105276;0;720;5262;1527736354;", -- [1]
 					},
 				},
+				["24888"] = {
+					["item:24888:0:0:0:0:0:-40:52:80"] = {
+						"1;61857;0;720;6183;1567429541;", -- [1]
+					},
+				},
 				["24667"] = {
 					["item:24667:0:0:0:0:0:-6:39:80"] = {
 						"1;63032;0;720;3150;1526186892;", -- [1]
@@ -3638,6 +4457,11 @@ BeanCounterDB = {
 						"1;54122;0;720;2706;1543186828;", -- [1]
 					},
 				},
+				["25055"] = {
+					["item:25055:0:0:0:0:0:-9:30:80"] = {
+						"1;54552;0;720;5454;1567861012;", -- [1]
+					},
+				},
 				["14929"] = {
 					["item:14929:0:0:0:0:0:334:0:80"] = {
 						"1;23578;0;720;2355;1553917555;", -- [1]
@@ -3648,10 +4472,23 @@ BeanCounterDB = {
 						"1;165104;0;720;8253;1526270204;", -- [1]
 					},
 				},
+				["28542"] = {
+					["item:28542:0:0:0:0:0:-17:17:80"] = {
+						"1;54552;0;720;5454;1566520652;", -- [1]
+					},
+					["item:28542:0:0:0:0:0:-16:17:80"] = {
+						"1;54552;0;720;5454;1569892781;", -- [1]
+					},
+				},
 				["32230"] = {
 					["item:32230:0:0:0:0:0:0:0:80"] = {
 						"1;150000;0;720;15000;1538524690;", -- [1]
 						"1;150000;0;720;15000;1538524690;", -- [2]
+						"3;225000;0;720;22500;1557095216;", -- [3]
+						"4;300000;0;720;30000;1557692718;", -- [4]
+						"1;75000;0;720;7500;1558231540;", -- [5]
+						"1;75000;0;720;7500;1558879763;", -- [6]
+						"9;675000;0;720;67500;1559485676;", -- [7]
 					},
 				},
 				["13022"] = {
@@ -3667,6 +4504,7 @@ BeanCounterDB = {
 				["29728"] = {
 					["item:29728:0:0:0:0:0:0:0:80"] = {
 						"1;180000;0;720;9000;1537754376;", -- [1]
+						"1;90000;0;720;9000;1569687186;", -- [2]
 					},
 				},
 				["14978"] = {
@@ -3729,12 +4567,26 @@ BeanCounterDB = {
 						"1;19550;0;720;975;1536634566;", -- [1]
 					},
 				},
+				["24811"] = {
+					["item:24811:0:0:0:0:0:-40:37:80"] = {
+						"1;45996;0;720;4599;1569892791;", -- [1]
+					},
+				},
 				["36055"] = {
 					["item:36055:0:0:0:0:0:-37:104:80"] = {
 						"1;103542;0;720;5175;1537664209;", -- [1]
 					},
 					["item:36055:0:0:0:0:0:-8:104:80"] = {
 						"1;103542;0;720;5175;1532315865;", -- [1]
+					},
+				},
+				["34664"] = {
+					["item:34664:0:0:0:0:0:0:0:80"] = {
+						"1;67500;0;720;16875;1538524707;", -- [1]
+						"1;67500;0;720;16875;1538524707;", -- [2]
+						"1;67500;0;720;16875;1538524707;", -- [3]
+						"1;67500;0;720;16875;1538524707;", -- [4]
+						"1;67500;0;720;16875;1538524707;", -- [5]
 					},
 				},
 				["36165"] = {
@@ -3747,6 +4599,11 @@ BeanCounterDB = {
 						"1;13719;0;720;1371;1553316643;", -- [1]
 					},
 				},
+				["24822"] = {
+					["item:24822:0:0:0:0:0:-44:30:80"] = {
+						"1;26208;0;720;2619;1569892786;", -- [1]
+					},
+				},
 				["15667"] = {
 					["item:15667:0:0:0:0:0:1965:0:80"] = {
 						"1;83394;0;720;4167;1543542323;", -- [1]
@@ -3757,9 +4614,25 @@ BeanCounterDB = {
 						"1;11650;0;720;1164;1553439625;", -- [1]
 					},
 				},
+				["5267"] = {
+					["item:5267:0:0:0:0:0:0:0:80"] = {
+						"1;80803;0;720;8079;1555168384;", -- [1]
+						"1;80803;0;720;8079;1555774746;", -- [2]
+					},
+				},
 				["36425"] = {
 					["item:36425:0:0:0:0:0:-40:50:80"] = {
 						"1;109590;0;720;5478;1527892613;", -- [1]
+					},
+				},
+				["24702"] = {
+					["item:24702:0:0:0:0:0:-8:29:80"] = {
+						"1;30136;0;720;3012;1570061307;", -- [1]
+					},
+				},
+				["25306"] = {
+					["item:25306:0:0:0:0:0:-44:22:80"] = {
+						"1;105471;0;720;10545;1558879772;", -- [1]
 					},
 				},
 				["36708"] = {
@@ -3767,9 +4640,30 @@ BeanCounterDB = {
 						"1;404264;0;720;20211;1532315829;", -- [1]
 					},
 				},
+				["24693"] = {
+					["item:24693:0:0:0:0:0:-7:27:80"] = {
+						"1;20808;0;720;2079;1569687197;", -- [1]
+					},
+					["item:24693:0:0:0:0:0:-6:27:80"] = {
+						"1;20808;0;720;2079;1570061312;", -- [1]
+					},
+				},
 				["25048"] = {
 					["item:25048:0:0:0:0:0:-44:24:80"] = {
 						"1;90852;0;720;4542;1526080686;", -- [1]
+					},
+				},
+				["24711"] = {
+					["item:24711:0:0:0:0:0:-7:40:80"] = {
+						"1;43992;0;720;4398;1570061310;", -- [1]
+					},
+				},
+				["31305"] = {
+					["item:31305:0:0:0:0:0:0:0:80"] = {
+						"1;258648;0;720;12930;1538524681;", -- [1]
+						"1;129324;0;720;12930;1556985920;", -- [2]
+						"1;129324;0;720;12930;1557582046;", -- [3]
+						"1;129324;0;720;12930;1557692734;", -- [4]
 					},
 				},
 				["13002"] = {
@@ -3779,9 +4673,9 @@ BeanCounterDB = {
 						"1;21925;0;720;2190;1553956134;", -- [3]
 					},
 				},
-				["31305"] = {
-					["item:31305:0:0:0:0:0:0:0:80"] = {
-						"1;258648;0;720;12930;1538524681;", -- [1]
+				["25293"] = {
+					["item:25293:0:0:0:0:0:-38:17:80"] = {
+						"1;83158;0;720;8313;1558830709;", -- [1]
 					},
 				},
 				["36704"] = {
@@ -3789,9 +4683,44 @@ BeanCounterDB = {
 						"1;363990;0;720;18198;1527978705;", -- [1]
 					},
 				},
+				["31285"] = {
+					["item:31285:0:0:0:0:0:0:0:80"] = {
+						"1;61602;0;720;6159;1559485651;", -- [1]
+					},
+				},
+				["24941"] = {
+					["item:24941:0:0:0:0:0:-41:22:80"] = {
+						"1;31413;0;720;3141;1569784464;", -- [1]
+					},
+				},
 				["15679"] = {
 					["item:15679:0:0:0:0:0:778:0:80"] = {
 						"1;37974;0;720;1896;1543542298;", -- [1]
+					},
+				},
+				["24911"] = {
+					["item:24911:0:0:0:0:0:-33:42:80"] = {
+						"1;50584;0;720;5058;1558969664;", -- [1]
+					},
+				},
+				["24973"] = {
+					["item:24973:0:0:0:0:0:-8:26:80"] = {
+						"1;34237;0;720;3423;1568562424;", -- [1]
+					},
+				},
+				["35652"] = {
+					["item:35652:0:0:0:0:0:0:0:80"] = {
+						"1;283804;0;720;14688;1531878056;", -- [1]
+					},
+				},
+				["15245"] = {
+					["item:15245:0:0:0:0:0:683:0:80"] = {
+						"1;34926;0;720;3492;1553956047;", -- [1]
+					},
+				},
+				["24601"] = {
+					["item:24601:0:0:0:0:0:-6:40:80"] = {
+						"1;26680;0;720;2667;1570061328;", -- [1]
 					},
 				},
 				["13091"] = {
@@ -3834,9 +4763,34 @@ BeanCounterDB = {
 						"1;432668;0;720;21633;1537024587;", -- [1]
 					},
 				},
+				["24786"] = {
+					["item:24786:0:0:0:0:0:-15:53:80"] = {
+						"1;42343;0;720;4233;1569687152;", -- [1]
+					},
+				},
+				["24947"] = {
+					["item:24947:0:0:0:0:0:-41:41:80"] = {
+						"1;61191;0;720;6117;1568562434;", -- [1]
+					},
+				},
+				["24684"] = {
+					["item:24684:0:0:0:0:0:-39:31:80"] = {
+						"1;21792;0;720;2178;1567429539;", -- [1]
+					},
+				},
+				["25284"] = {
+					["item:25284:0:0:0:0:0:-15:12:80"] = {
+						"1;63150;0;720;6315;1569687161;", -- [1]
+					},
+				},
 				["14983"] = {
 					["item:14983:0:0:0:0:0:1412:0:80"] = {
 						"1;21081;0;720;2106;1553439598;", -- [1]
+					},
+				},
+				["28535"] = {
+					["item:28535:0:0:0:0:0:-8:13:80"] = {
+						"1;45426;0;720;4542;1569892766;", -- [1]
 					},
 				},
 				["36377"] = {
@@ -3855,14 +4809,76 @@ BeanCounterDB = {
 						"1;74694;0;720;3732;1527736374;", -- [1]
 					},
 				},
+				["14850"] = {
+					["item:14850:0:0:0:0:0:0:0:80"] = {
+						"1;27412;0;720;2739;1553917606;", -- [1]
+					},
+				},
+				["24804"] = {
+					["item:24804:0:0:0:0:0:-21:42:80"] = {
+						"1;44050;0;720;4404;1556985924;", -- [1]
+					},
+				},
+				["24587"] = {
+					["item:24587:0:0:0:0:0:-8:27:80"] = {
+						"1;23173;0;720;2316;1569892757;", -- [1]
+					},
+					["item:24587:0:0:0:0:0:-38:27:80"] = {
+						"1;23173;0;720;2316;1570061315;", -- [1]
+					},
+				},
 				["31303"] = {
 					["item:31303:0:0:0:0:0:0:0:80"] = {
 						"1;192540;0;720;9627;1526787040;", -- [1]
 					},
 				},
+				["25112"] = {
+					["item:25112:0:0:0:0:0:-7:23:80"] = {
+						"1;107328;0;720;10731;1567861008;", -- [1]
+					},
+					["item:25112:0:0:0:0:0:-8:23:80"] = {
+						"1;107328;0;720;10731;1559437353;", -- [1]
+					},
+				},
+				["36051"] = {
+					["item:36051:0:0:0:0:0:-9:78:80"] = {
+						"1;66312;0;720;3315;1544290303;", -- [1]
+					},
+					["item:36051:0:0:0:0:0:-6:78:80"] = {
+						"1;66312;0;720;3315;1541266782;", -- [1]
+						"1;66312;0;720;3315;1541266783;", -- [2]
+						"1;66312;0;720;3315;1541266783;", -- [3]
+					},
+					["item:36051:0:0:0:0:0:-8:78:80"] = {
+						"1;66312;0;720;3315;1537024636;", -- [1]
+					},
+					["item:36051:0:0:0:0:0:-31:78:80"] = {
+						"1;66312;0;720;3315;1543684915;", -- [1]
+						"1;66312;0;720;3315;1543684915;", -- [2]
+					},
+					["item:36051:0:0:0:0:0:-19:78:80"] = {
+						"1;66312;0;720;3315;1541367323;", -- [1]
+					},
+				},
 				["10268"] = {
 					["item:10268:0:0:0:0:0:620:0:80"] = {
 						"1;39848;0;720;1992;1543802622;", -- [1]
+					},
+				},
+				["25012"] = {
+					["item:25012:0:0:0:0:0:-45:40:80"] = {
+						"1;59169;0;720;5916;1558969659;", -- [1]
+					},
+				},
+				["16861"] = {
+					["item:16861:0:0:0:0:0:0:0:80"] = {
+						"1;37977;0;720;3795;1555774735;", -- [1]
+						"1;37977;0;720;3795;1555774735;", -- [2]
+					},
+				},
+				["24997"] = {
+					["item:24997:0:0:0:0:0:-41:28:80"] = {
+						"1;34863;0;720;3486;1558231547;", -- [1]
 					},
 				},
 				["14804"] = {
@@ -3890,9 +4906,19 @@ BeanCounterDB = {
 						"1;49190;0;720;2457;1526959570;", -- [1]
 					},
 				},
+				["25193"] = {
+					["item:25193:0:0:0:0:0:-41:21:80"] = {
+						"1;102889;0;720;10287;1558231525;", -- [1]
+					},
+				},
 				["31175"] = {
 					["item:31175:0:0:0:0:0:0:0:80"] = {
 						"1;52488;0;720;2622;1526095837;", -- [1]
+					},
+				},
+				["24638"] = {
+					["item:24638:0:0:0:0:0:-38:35:80"] = {
+						"1;30406;0;720;3039;1557581364;", -- [1]
 					},
 				},
 				["13122"] = {
@@ -3905,6 +4931,11 @@ BeanCounterDB = {
 					["item:13146:0:0:0:0:0:0:0:80"] = {
 						"1;104112;0;720;5205;1544883463;", -- [1]
 						"1;52056;0;720;5205;1553316818;", -- [2]
+					},
+				},
+				["36499"] = {
+					["item:36499:0:0:0:0:0:-13:45:80"] = {
+						"1;336726;0;720;16335;1536503752;", -- [1]
 					},
 				},
 				["15435"] = {
@@ -3923,6 +4954,22 @@ BeanCounterDB = {
 						"1;1500;0;720;300;1553439603;", -- [7]
 					},
 				},
+				["15221"] = {
+					["item:15221:0:0:0:0:0:1200:0:80"] = {
+						"1;130634;0;720;6531;1543540228;", -- [1]
+					},
+				},
+				["24895"] = {
+					["item:24895:0:0:0:0:0:-35:40:80"] = {
+						"1;49012;0;720;4899;1558231530;", -- [1]
+					},
+					["item:24895:0:0:0:0:0:-39:40:80"] = {
+						"1;49012;0;720;4899;1559437355;", -- [1]
+					},
+					["item:24895:0:0:0:0:0:-14:40:80"] = {
+						"1;98024;0;720;4899;1538435233;", -- [1]
+					},
+				},
 				["16857"] = {
 					["item:16857:0:0:0:0:0:0:0:80"] = {
 						"1;72824;0;720;3639;1537116730;", -- [1]
@@ -3933,16 +4980,36 @@ BeanCounterDB = {
 						"1;334484;0;720;16722;1538878181;", -- [1]
 					},
 				},
+				["36271"] = {
+					["item:36271:0:0:0:0:0:-27:101:80"] = {
+						"1;142850;0;720;7140;1540696991;", -- [1]
+					},
+					["item:36271:0:0:0:0:0:-11:101:80"] = {
+						"1;142850;0;720;7140;1540141980;", -- [1]
+					},
+					["item:36271:0:0:0:0:0:-37:101:80"] = {
+						"1;142850;0;720;7140;1543684864;", -- [1]
+						"1;142850;0;720;7140;1543799372;", -- [2]
+					},
+				},
 				["13073"] = {
 					["item:13073:0:0:0:0:0:0:0:80"] = {
 						"1;47582;0;720;2379;1532217887;", -- [1]
 					},
 				},
-				["43102"] = {
-					["item:43102:0:0:0:0:0:0:0:80"] = {
-						"1;150000;0;720;15000;1540610821;", -- [1]
-						"1;150000;0;720;15000;1540610821;", -- [2]
-						"3;225000;0;720;22500;1554000952;", -- [3]
+				["16802"] = {
+					["item:16802:0:0:0:0:0:0:0:80"] = {
+						"1;21094;0;720;2109;1553972646;", -- [1]
+					},
+				},
+				["36442"] = {
+					["item:36442:0:0:0:0:0:-33:56:80"] = {
+						"1;117168;0;720;5856;1527892687;", -- [1]
+					},
+				},
+				["25223"] = {
+					["item:25223:0:0:0:0:0:-40:53:80"] = {
+						"1;130020;0;720;13002;1558183364;", -- [1]
 					},
 				},
 				["29550"] = {
@@ -3955,9 +5022,44 @@ BeanCounterDB = {
 						"1;28514;0;720;1425;1532476159;", -- [1]
 					},
 				},
-				["36442"] = {
-					["item:36442:0:0:0:0:0:-33:56:80"] = {
-						"1;117168;0;720;5856;1527892687;", -- [1]
+				["24664"] = {
+					["item:24664:0:0:0:0:0:-38:39:80"] = {
+						"1;20776;0;720;2076;1557581368;", -- [1]
+					},
+				},
+				["7539"] = {
+					["item:7539:0:0:0:0:0:790:0:80"] = {
+						"1;19038;0;720;1902;1553917552;", -- [1]
+					},
+				},
+				["24927"] = {
+					["item:24927:0:0:0:0:0:-36:29:80"] = {
+						"1;41950;0;720;4194;1569784496;", -- [1]
+					},
+				},
+				["19273"] = {
+					["item:19273:0:0:0:0:0:0:0:80"] = {
+						"1;37500;0;720;1875;1543460373;", -- [1]
+					},
+				},
+				["15278"] = {
+					["item:15278:0:0:0:0:0:1054:0:80"] = {
+						"1;75429;0;720;7542;1556985913;", -- [1]
+					},
+				},
+				["24993"] = {
+					["item:24993:0:0:0:0:0:-16:38:80"] = {
+						"1;37017;0;720;3699;1558879774;", -- [1]
+					},
+				},
+				["24304"] = {
+					["item:24304:0:0:0:0:0:0:0:80"] = {
+						"1;45000;0;720;4500;1569687179;", -- [1]
+					},
+				},
+				["15987"] = {
+					["item:15987:0:0:0:0:0:778:0:80"] = {
+						"1;16494;0;720;1647;1555774748;", -- [1]
 					},
 				},
 				["36468"] = {
@@ -3967,6 +5069,11 @@ BeanCounterDB = {
 				},
 				["25002"] = {
 					["item:25002:0:0:0:0:0:-12:52:80"] = {
+					},
+				},
+				["24681"] = {
+					["item:24681:0:0:0:0:0:-38:55:80"] = {
+						"1;32316;0;720;3231;1557581380;", -- [1]
 					},
 				},
 				["24948"] = {
@@ -4002,11 +5109,37 @@ BeanCounterDB = {
 					["item:32228:0:0:0:0:0:0:0:80"] = {
 						"1;150000;0;720;22500;1538515722;", -- [1]
 						"1;150000;0;720;22500;1538515722;", -- [2]
+						"1;75000;0;720;7500;1557095213;", -- [3]
+						"2;150000;0;720;15000;1557692731;", -- [4]
+						"1;75000;0;720;7500;1558231534;", -- [5]
+						"2;150000;0;720;15000;1558879751;", -- [6]
+						"2;150000;0;720;15000;1559485674;", -- [7]
 					},
 				},
-				["24895"] = {
-					["item:24895:0:0:0:0:0:-14:40:80"] = {
-						"1;98024;0;720;4899;1538435233;", -- [1]
+				["13139"] = {
+					["item:13139:0:0:0:0:0:0:0:80"] = {
+						"1;31543;0;720;3153;1553316835;", -- [1]
+					},
+				},
+				["24596"] = {
+					["item:24596:0:0:0:0:0:-37:21:80"] = {
+						"1;16939;0;720;1692;1570061349;", -- [1]
+					},
+				},
+				["14785"] = {
+					["item:14785:0:0:0:0:0:0:0:80"] = {
+						"1;14337;0;720;1431;1553956098;", -- [1]
+					},
+				},
+				["24904"] = {
+					["item:24904:0:0:0:0:0:-40:55:80"] = {
+						"1;63894;0;720;6387;1558830715;", -- [1]
+						"1;63894;0;720;6387;1569687171;", -- [2]
+					},
+				},
+				["25283"] = {
+					["item:25283:0:0:0:0:0:-38:12:80"] = {
+						"1;60997;0;720;6099;1570061346;", -- [1]
 					},
 				},
 				["36056"] = {
@@ -4020,11 +5153,17 @@ BeanCounterDB = {
 						"1;300000;0;720;15000;1537840200;", -- [2]
 					},
 				},
-				["14504"] = {
-					["item:14504:0:0:0:0:0:0:0:80"] = {
-						"1;30000;0;720;1500;1536887659;", -- [1]
-						"1;30000;0;720;1500;1543183846;", -- [2]
-						"1;30000;0;720;1500;1543183846;", -- [3]
+				["10193"] = {
+					["item:10193:0:0:0:0:0:366:0:80"] = {
+						"1;29664;0;720;2964;1553321635;", -- [1]
+					},
+				},
+				["24715"] = {
+					["item:24715:0:0:0:0:0:-14:30:80"] = {
+						"1;33466;0;720;3345;1569784490;", -- [1]
+					},
+					["item:24715:0:0:0:0:0:-19:30:80"] = {
+						"1;33466;0;720;3345;1569687163;", -- [1]
 					},
 				},
 				["24738"] = {
@@ -4037,6 +5176,11 @@ BeanCounterDB = {
 						"1;52057;0;720;5205;1553917648;", -- [1]
 					},
 				},
+				["28534"] = {
+					["item:28534:0:0:0:0:0:-40:13:80"] = {
+						"1;44122;0;720;4410;1570061313;", -- [1]
+					},
+				},
 				["14849"] = {
 					["item:14849:0:0:0:0:0:0:0:80"] = {
 						"1;43344;0;720;2166;1532130796;", -- [1]
@@ -4045,6 +5189,16 @@ BeanCounterDB = {
 				["36682"] = {
 					["item:36682:0:0:0:0:0:-44:46:80"] = {
 						"1;329988;0;720;16497;1536503659;", -- [1]
+					},
+				},
+				["24707"] = {
+					["item:24707:0:0:0:0:0:-40:29:80"] = {
+						"1;31531;0;720;3153;1569892783;", -- [1]
+					},
+				},
+				["10095"] = {
+					["item:10095:0:0:0:0:0:412:0:80"] = {
+						"1;15442;0;720;1542;1553956137;", -- [1]
 					},
 				},
 				["14290"] = {
@@ -4057,6 +5211,11 @@ BeanCounterDB = {
 						"1;11118;0;720;1110;1553316839;", -- [1]
 					},
 				},
+				["15228"] = {
+					["item:15228:0:0:0:0:0:2038:0:80"] = {
+						"1;42462;0;720;4245;1553956066;", -- [1]
+					},
+				},
 				["36638"] = {
 					["item:36638:0:0:0:0:0:-6:32:80"] = {
 						"1;251580;0;720;12579;1527978694;", -- [1]
@@ -4065,9 +5224,37 @@ BeanCounterDB = {
 						"1;251580;0;720;12579;1534683823;", -- [1]
 					},
 				},
+				["36540"] = {
+					["item:36540:0:0:0:0:0:-16:101:80"] = {
+						"1;411842;0;720;20592;1532315822;", -- [1]
+					},
+				},
+				["16804"] = {
+					["item:16804:0:0:0:0:0:0:0:80"] = {
+						"1;21252;0;720;2124;1554565966;", -- [1]
+					},
+				},
+				["24606"] = {
+					["item:24606:0:0:0:0:0:-39:31:80"] = {
+						"1;25327;0;720;2532;1570061317;", -- [1]
+					},
+				},
 				["10302"] = {
 					["item:10302:0:0:0:0:0:0:0:80"] = {
 						"1;1875;0;720;186;1553956036;", -- [1]
+					},
+				},
+				["24655"] = {
+					["item:24655:0:0:0:0:0:-38:50:80"] = {
+						"1;84438;0;720;4221;1538100634;", -- [1]
+					},
+				},
+				["22456"] = {
+					["item:22456:0:0:0:0:0:0:0:80"] = {
+						"1;6000;0;720;600;1557581513;", -- [1]
+						"2;12000;0;720;1200;1566520645;", -- [2]
+						"1;6000;0;720;600;1567429513;", -- [3]
+						"2;12000;0;720;1200;1567861003;", -- [4]
 					},
 				},
 				["36665"] = {
@@ -4075,9 +5262,45 @@ BeanCounterDB = {
 						"1;224798;0;720;11739;1527996944;", -- [1]
 					},
 				},
+				["14844"] = {
+					["item:14844:0:0:0:0:0:0:0:80"] = {
+						"1;30112;0;720;3009;1553917631;", -- [1]
+					},
+				},
+				["24880"] = {
+					["item:24880:0:0:0:0:0:-12:50:80"] = {
+						"1;63105;0;720;6309;1567429519;", -- [1]
+					},
+				},
+				["13075"] = {
+					["item:13075:0:0:0:0:0:0:0:80"] = {
+						"1;104384;0;720;5217;1537116779;", -- [1]
+					},
+				},
 				["10154"] = {
 					["item:10154:0:0:0:0:0:793:0:80"] = {
 						"1;19320;0;720;1932;1553972638;", -- [1]
+					},
+				},
+				["16850"] = {
+					["item:16850:0:0:0:0:0:0:0:80"] = {
+						"1;33441;0;720;3342;1554565963;", -- [1]
+						"1;33441;0;720;3342;1555774755;", -- [2]
+					},
+				},
+				["10153"] = {
+					["item:10153:0:0:0:0:0:623:0:80"] = {
+						"1;48792;0;720;2439;1536634525;", -- [1]
+					},
+				},
+				["24610"] = {
+					["item:24610:0:0:0:0:0:-8:41:80"] = {
+						"1;35223;0;720;3522;1569625928;", -- [1]
+					},
+				},
+				["25185"] = {
+					["item:25185:0:0:0:0:0:-41:16:80"] = {
+						"1;85912;0;720;8589;1569892789;", -- [1]
 					},
 				},
 				["36525"] = {
@@ -4088,14 +5311,39 @@ BeanCounterDB = {
 						"1;328208;0;720;16410;1527892639;", -- [1]
 					},
 				},
-				["13075"] = {
-					["item:13075:0:0:0:0:0:0:0:80"] = {
-						"1;104384;0;720;5217;1537116779;", -- [1]
+				["25219"] = {
+					["item:25219:0:0:0:0:0:-6:47:80"] = {
+						"1;256254;0;720;12810;1526612346;", -- [1]
+					},
+				},
+				["8294"] = {
+					["item:8294:0:0:0:0:0:0:0:80"] = {
+						"1;18978;0;720;1896;1553956129;", -- [1]
+					},
+				},
+				["32411"] = {
+					["item:32411:0:0:0:0:0:0:0:80"] = {
+						"1;45000;0;720;4500;1569687190;", -- [1]
+					},
+				},
+				["25154"] = {
+					["item:25154:0:0:0:0:0:-40:23:80"] = {
+						"1;111082;0;720;11106;1569687193;", -- [1]
+					},
+				},
+				["13089"] = {
+					["item:13089:0:0:0:0:0:0:0:80"] = {
+						"1;12058;0;720;1203;1553917569;", -- [1]
 					},
 				},
 				["24788"] = {
 					["item:24788:0:0:0:0:0:-6:40:80"] = {
 						"1;85292;0;720;4263;1526436996;", -- [1]
+					},
+				},
+				["45274"] = {
+					["item:45274:0:0:0:0:0:0:0:80"] = {
+						"1;415596;0;720;20778;1543684880;", -- [1]
 					},
 				},
 				["25136"] = {
@@ -4119,14 +5367,34 @@ BeanCounterDB = {
 						"1;97754;0;720;4887;1543183936;", -- [1]
 					},
 				},
-				["10204"] = {
-					["item:10204:0:0:0:0:0:1203:0:80"] = {
-						"1;29832;0;720;2982;1553222399;", -- [1]
+				["25073"] = {
+					["item:25073:0:0:0:0:0:-24:21:80"] = {
+						"1;55176;0;720;5517;1569687177;", -- [1]
+					},
+				},
+				["818"] = {
+					["item:818:0:0:0:0:0:0:0:80"] = {
+						"3;450;0;720;100;1553917661;", -- [1]
+					},
+				},
+				["25266"] = {
+					["item:25266:0:0:0:0:0:-40:17:80"] = {
+						"1;80781;0;720;8076;1558231542;", -- [1]
 					},
 				},
 				["15266"] = {
 					["item:15266:0:0:0:0:0:1574:0:80"] = {
 						"1;157614;0;720;7878;1536887609;", -- [1]
+					},
+				},
+				["14284"] = {
+					["item:14284:0:0:0:0:0:797:0:80"] = {
+						"1;19702;0;720;1968;1553917582;", -- [1]
+					},
+				},
+				["45316"] = {
+					["item:45316:0:0:0:0:0:0:0:80"] = {
+						"1;188882;0;720;9444;1540696997;", -- [1]
 					},
 				},
 				["24763"] = {
@@ -4142,6 +5410,9 @@ BeanCounterDB = {
 				["31294"] = {
 					["item:31294:0:0:0:0:0:0:0:80"] = {
 						"1;121088;0;720;6054;1526436980;", -- [1]
+						"1;60544;0;720;6054;1557095219;", -- [2]
+						"1;60544;0;720;6054;1557581373;", -- [3]
+						"1;60544;0;720;6054;1559485649;", -- [4]
 					},
 				},
 				["14321"] = {
@@ -4151,9 +5422,27 @@ BeanCounterDB = {
 						"1;14157;0;720;1413;1553316851;", -- [1]
 					},
 				},
+				["11611"] = {
+					["item:11611:0:0:0:0:0:0:0:80"] = {
+						"1;4500;0;720;450;1553956095;", -- [1]
+					},
+				},
 				["24662"] = {
+					["item:24662:0:0:0:0:0:-9:39:80"] = {
+						"1;30928;0;720;3090;1568562409;", -- [1]
+					},
 					["item:24662:0:0:0:0:0:-36:39:80"] = {
 						"1;61856;0;720;3090;1526859630;", -- [1]
+					},
+				},
+				["25326"] = {
+					["item:25326:0:0:0:0:0:-16:40:80"] = {
+						"1;106009;0;720;10599;1570061319;", -- [1]
+					},
+				},
+				["12055"] = {
+					["item:12055:0:0:0:0:0:0:0:80"] = {
+						"1;12562;0;720;1254;1553917596;", -- [1]
 					},
 				},
 				["36163"] = {
@@ -4166,9 +5455,9 @@ BeanCounterDB = {
 						"1;75000;0;720;3750;1543080669;", -- [1]
 					},
 				},
-				["45274"] = {
-					["item:45274:0:0:0:0:0:0:0:80"] = {
-						"1;415596;0;720;20778;1543684880;", -- [1]
+				["36580"] = {
+					["item:36580:0:0:0:0:0:-10:40:80"] = {
+						"1;315176;0;720;15756;1528083741;", -- [1]
 					},
 				},
 				["8287"] = {
@@ -4181,11 +5470,17 @@ BeanCounterDB = {
 						"1;58574;0;720;2928;1543972101;", -- [1]
 					},
 				},
+				["25017"] = {
+					["item:25017:0:0:0:0:0:-44:41:80"] = {
+						"1;37483;0;720;3747;1557095228;", -- [1]
+					},
+				},
 				["23199"] = {
 					["item:23199:0:0:0:0:0:0:0:80"] = {
 						"1;47424;0;720;2370;1536887671;", -- [1]
 						"1;47424;0;720;2370;1543460466;", -- [2]
 						"1;23712;0;720;2370;1553439542;", -- [3]
+						"1;23712;0;720;2370;1556315026;", -- [4]
 					},
 				},
 				["24737"] = {
@@ -4196,6 +5491,9 @@ BeanCounterDB = {
 				["24823"] = {
 					["item:24823:0:0:0:0:0:-44:30:80"] = {
 						"1;79260;0;720;3963;1526080602;", -- [1]
+					},
+					["item:24823:0:0:0:0:0:-40:30:80"] = {
+						"1;39630;0;720;3963;1569892771;", -- [1]
 					},
 				},
 				["36267"] = {
@@ -4211,6 +5509,11 @@ BeanCounterDB = {
 						"1;93810;0;720;4689;1528058584;", -- [2]
 					},
 				},
+				["25008"] = {
+					["item:25008:0:0:0:0:0:-45:53:80"] = {
+						"1;75904;0;720;7590;1569687184;", -- [1]
+					},
+				},
 				["36388"] = {
 					["item:36388:0:0:0:0:0:-9:78:80"] = {
 						"1;173464;0;720;8622;1533255686;", -- [1]
@@ -4224,6 +5527,11 @@ BeanCounterDB = {
 						"1;141356;0;720;7065;1534120389;", -- [1]
 					},
 				},
+				["25301"] = {
+					["item:25301:0:0:0:0:0:-44:19:80"] = {
+						"1;90852;0;720;9084;1569625940;", -- [1]
+					},
+				},
 				["14297"] = {
 					["item:14297:0:0:0:0:0:1861:0:80"] = {
 						"1;20334;0;720;2031;1553316791;", -- [1]
@@ -4234,14 +5542,32 @@ BeanCounterDB = {
 						"1;37658;0;720;1887;1536634507;", -- [1]
 					},
 				},
+				["24712"] = {
+					["item:24712:0:0:0:0:0:-8:30:80"] = {
+						"1;44150;0;720;2205;1526080618;", -- [1]
+					},
+				},
 				["24783"] = {
 					["item:24783:0:0:0:0:0:-15:40:80"] = {
 						"1;81620;0;720;4080;1538435250;", -- [1]
+					},
+					["item:24783:0:0:0:0:0:-10:40:80"] = {
+						"1;40810;0;720;4080;1559437351;", -- [1]
 					},
 				},
 				["36285"] = {
 					["item:36285:0:0:0:0:0:-67:108:80"] = {
 						"1;194216;0;720;9708;1539481667;", -- [1]
+					},
+				},
+				["29729"] = {
+					["item:29729:0:0:0:0:0:0:0:80"] = {
+						"1;90000;0;720;9000;1557581375;", -- [1]
+					},
+				},
+				["10258"] = {
+					["item:10258:0:0:0:0:0:1033:0:80"] = {
+						"1;18438;0;720;1842;1553917653;", -- [1]
 					},
 				},
 				["35616"] = {
@@ -4257,11 +5583,17 @@ BeanCounterDB = {
 				["13001"] = {
 					["item:13001:0:0:0:0:0:0:0:80"] = {
 						"1;31944;0;720;1596;1543183992;", -- [1]
+						"1;15972;0;720;1596;1556315057;", -- [2]
 					},
 				},
 				["24883"] = {
 					["item:24883:0:0:0:0:0:-43:50:80"] = {
 						"1;130884;0;720;6543;1526270116;", -- [1]
+					},
+				},
+				["36470"] = {
+					["item:36470:0:0:0:0:0:-39:56:80"] = {
+						"1;117168;0;720;5856;1528083732;", -- [1]
 					},
 				},
 				["15646"] = {
@@ -4274,9 +5606,19 @@ BeanCounterDB = {
 						"1;146360;0;720;7317;1543802582;", -- [1]
 					},
 				},
+				["25209"] = {
+					["item:25209:0:0:0:0:0:-11:22:80"] = {
+						"1;212876;0;720;10641;1526080673;", -- [1]
+					},
+				},
 				["24910"] = {
 					["item:24910:0:0:0:0:0:-44:42:80"] = {
 						"1;66900;0;720;3345;1526158138;", -- [1]
+					},
+				},
+				["24682"] = {
+					["item:24682:0:0:0:0:0:-26:55:80"] = {
+						"1;43252;0;720;4323;1560041086;", -- [1]
 					},
 				},
 				["24778"] = {
@@ -4290,6 +5632,17 @@ BeanCounterDB = {
 					},
 					["item:25163:0:0:0:0:0:-44:47:80"] = {
 						"1;253442;0;720;12672;1526270108;", -- [1]
+					},
+				},
+				["25144"] = {
+					["item:25144:0:0:0:0:0:-6:17:80"] = {
+						"1;88311;0;720;8829;1569892774;", -- [1]
+						"1;88311;0;720;8829;1569892774;", -- [2]
+					},
+				},
+				["24916"] = {
+					["item:24916:0:0:0:0:0:-40:42:80"] = {
+						"1;52905;0;720;5289;1558969651;", -- [1]
 					},
 				},
 				["12694"] = {
@@ -4310,6 +5663,16 @@ BeanCounterDB = {
 						"1;33436;0;720;3342;1553439628;", -- [4]
 					},
 				},
+				["24678"] = {
+					["item:24678:0:0:0:0:0:-39:41:80"] = {
+						"1;31947;0;720;3192;1566520648;", -- [1]
+					},
+				},
+				["10259"] = {
+					["item:10259:0:0:0:0:0:792:0:80"] = {
+						"1;31706;0;720;1584;1543460397;", -- [1]
+					},
+				},
 				["15388"] = {
 					["item:15388:0:0:0:0:0:617:0:80"] = {
 						"1;9535;0;720;951;1553316811;", -- [1]
@@ -4319,6 +5682,36 @@ BeanCounterDB = {
 					},
 					["item:15388:0:0:0:0:0:784:0:80"] = {
 						"1;9535;0;720;951;1553917643;", -- [1]
+					},
+				},
+				["31304"] = {
+					["item:31304:0:0:0:0:0:0:0:80"] = {
+						"1;128836;0;720;12882;1567429507;", -- [1]
+					},
+				},
+				["24683"] = {
+					["item:24683:0:0:0:0:0:-21:41:80"] = {
+						"1;32563;0;720;3255;1557581370;", -- [1]
+					},
+					["item:24683:0:0:0:0:0:-6:41:80"] = {
+						"1;32563;0;720;3255;1569892759;", -- [1]
+					},
+				},
+				["19726"] = {
+					["item:19726:0:0:0:0:0:0:0:80"] = {
+						"1;1500;0;720;100;1543460484;", -- [1]
+						"1;1500;0;720;150;1543802630;", -- [2]
+						"1;1500;0;720;150;1543802630;", -- [3]
+					},
+				},
+				["24612"] = {
+					["item:24612:0:0:0:0:0:-16:23:80"] = {
+						"1;17742;0;720;1773;1569784500;", -- [1]
+					},
+				},
+				["10184"] = {
+					["item:10184:0:0:0:0:0:860:0:80"] = {
+						"1;9784;0;720;978;1553316689;", -- [1]
 					},
 				},
 				["36263"] = {
@@ -4336,6 +5729,11 @@ BeanCounterDB = {
 						"1;97044;0;720;4851;1537324032;", -- [1]
 						"1;97044;0;720;4851;1537495759;", -- [2]
 						"1;48522;0;720;4851;1553439636;", -- [3]
+					},
+				},
+				["15641"] = {
+					["item:15641:0:0:0:0:0:869:0:80"] = {
+						"1;11380;0;720;1137;1553316740;", -- [1]
 					},
 				},
 				["16710"] = {
@@ -4360,9 +5758,25 @@ BeanCounterDB = {
 						"1;159320;0;720;7965;1544290177;", -- [2]
 					},
 				},
+				["15746"] = {
+					["item:15746:0:0:0:0:0:0:0:80"] = {
+						"1;7500;0;720;750;1553439545;", -- [1]
+						"1;7500;0;720;750;1553654175;", -- [2]
+					},
+				},
 				["36365"] = {
 					["item:36365:0:0:0:0:0:-9:93:80"] = {
 						"1;213452;0;720;10671;1531878075;", -- [1]
+					},
+				},
+				["36050"] = {
+					["item:36050:0:0:0:0:0:-33:56:80"] = {
+						"1;64674;0;720;3231;1536503602;", -- [1]
+					},
+				},
+				["32737"] = {
+					["item:32737:0:0:0:0:0:0:0:80"] = {
+						"1;22500;0;720;1125;1538515683;", -- [1]
 					},
 				},
 				["36511"] = {
@@ -4380,6 +5794,16 @@ BeanCounterDB = {
 						"1;170250;0;720;8511;1539481705;", -- [1]
 					},
 				},
+				["25123"] = {
+					["item:25123:0:0:0:0:0:-9:21:80"] = {
+						"1;213528;0;720;10674;1526352603;", -- [1]
+					},
+				},
+				["15666"] = {
+					["item:15666:0:0:0:0:0:875:0:80"] = {
+						"1;27562;0;720;2754;1553439612;", -- [1]
+					},
+				},
 				["13101"] = {
 					["item:13101:0:0:0:0:0:0:0:80"] = {
 						"1;42954;0;720;2145;1537218743;", -- [1]
@@ -4389,6 +5813,34 @@ BeanCounterDB = {
 				["2164"] = {
 					["item:2164:0:0:0:0:0:0:0:80"] = {
 						"1;81096;0;720;4053;1537024730;", -- [1]
+					},
+				},
+				["36513"] = {
+					["item:36513:0:0:0:0:0:-7:104:80"] = {
+						"1;399266;0;720;19962;1532315854;", -- [1]
+					},
+					["item:36513:0:0:0:0:0:-39:104:80"] = {
+						"1;399266;0;720;19962;1537664286;", -- [1]
+					},
+					["item:36513:0:0:0:0:0:-41:104:80"] = {
+						"1;399266;0;720;19962;1536503669;", -- [1]
+					},
+				},
+				["36190"] = {
+					["item:36190:0:0:0:0:0:-20:52:80"] = {
+						"1;72456;0;720;3621;1527736364;", -- [1]
+					},
+				},
+				["37761"] = {
+					["item:37761:0:0:0:0:0:0:0:80"] = {
+						"1;78516;0;720;3924;1540141995;", -- [1]
+					},
+				},
+				["14506"] = {
+					["item:14506:0:0:0:0:0:0:0:80"] = {
+						"1;30000;0;720;1500;1543280323;", -- [1]
+						"1;15000;0;720;1500;1553972628;", -- [2]
+						"1;15000;0;720;1500;1555168358;", -- [3]
 					},
 				},
 				["14306"] = {
@@ -4401,6 +5853,24 @@ BeanCounterDB = {
 						"1;24308;0;720;1215;1543802696;", -- [1]
 					},
 				},
+				["7734"] = {
+					["item:7734:0:0:0:0:0:0:0:80"] = {
+						"1;23242;0;720;2322;1555774762;", -- [1]
+					},
+				},
+				["24598"] = {
+					["item:24598:0:0:0:0:0:-15:30:80"] = {
+						"1;26395;0;720;2637;1569625931;", -- [1]
+					},
+					["item:24598:0:0:0:0:0:-37:30:80"] = {
+						"1;26395;0;720;2637;1570061321;", -- [1]
+					},
+				},
+				["45237"] = {
+					["item:45237:0:0:0:0:0:0:0:80"] = {
+						"1;317000;0;720;15849;1543080635;", -- [1]
+					},
+				},
 				["25125"] = {
 					["item:25125:0:0:0:0:0:-18:22:80"] = {
 						"1;225836;0;720;11289;1526080641;", -- [1]
@@ -4411,14 +5881,53 @@ BeanCounterDB = {
 						"1;231542;0;720;11577;1531878088;", -- [1]
 					},
 				},
+				["25087"] = {
+					["item:25087:0:0:0:0:0:-33:21:80"] = {
+						"1;41517;0;720;4149;1569687159;", -- [1]
+						"1;41517;0;720;4149;1569687175;", -- [2]
+					},
+				},
 				["14680"] = {
 					["item:14680:0:0:0:0:0:0:0:80"] = {
 						"1;65414;0;720;3270;1536634514;", -- [1]
 					},
 				},
 				["24680"] = {
+					["item:24680:0:0:0:0:0:-9:41:80"] = {
+						"1;21463;0;720;2145;1558231538;", -- [1]
+					},
 					["item:24680:0:0:0:0:0:-38:41:80"] = {
 						"1;42926;0;720;2145;1526787082;", -- [1]
+					},
+				},
+				["12682"] = {
+					["item:12682:0:0:0:0:0:0:0:80"] = {
+						"1;9000;0;720;450;1543183768;", -- [1]
+						"1;9000;0;720;450;1543183768;", -- [2]
+						"1;9000;0;720;450;1543802662;", -- [3]
+					},
+				},
+				["14855"] = {
+					["item:14855:0:0:0:0:0:0:0:80"] = {
+						"1;34332;0;720;1716;1543280344;", -- [1]
+					},
+				},
+				["15236"] = {
+					["item:15236:0:0:0:0:0:684:0:80"] = {
+						"1;41227;0;720;4122;1553222406;", -- [1]
+					},
+				},
+				["8317"] = {
+					["item:8317:0:0:0:0:0:0:0:80"] = {
+						"1;22519;0;720;2250;1553956149;", -- [1]
+					},
+				},
+				["14977"] = {
+					["item:14977:0:0:0:0:0:1212:0:80"] = {
+						"1;42146;0;720;2106;1537116765;", -- [1]
+					},
+					["item:14977:0:0:0:0:0:1215:0:80"] = {
+						"1;21073;0;720;2106;1554565960;", -- [1]
 					},
 				},
 				["31168"] = {
@@ -4426,15 +5935,21 @@ BeanCounterDB = {
 						"1;131862;0;720;6591;1534120362;", -- [1]
 					},
 				},
+				["10070"] = {
+					["item:10070:0:0:0:0:0:1054:0:80"] = {
+						"1;23223;0;720;2322;1553321696;", -- [1]
+					},
+				},
 				["24906"] = {
 					["item:24906:0:0:0:0:0:-8:55:80"] = {
 						"1;96584;0;720;4827;1526080563;", -- [1]
 					},
 				},
-				["14506"] = {
-					["item:14506:0:0:0:0:0:0:0:80"] = {
-						"1;30000;0;720;1500;1543280323;", -- [1]
-						"1;15000;0;720;1500;1553972628;", -- [2]
+				["32749"] = {
+					["item:32749:0:0:0:0:0:0:0:80"] = {
+						"1;37500;0;720;1875;1538617660;", -- [1]
+						"1;18750;0;720;1875;1558879743;", -- [2]
+						"1;18750;0;720;1875;1559485682;", -- [3]
 					},
 				},
 				["14980"] = {
@@ -4447,9 +5962,22 @@ BeanCounterDB = {
 						"1;80208;0;720;4008;1526871521;", -- [1]
 					},
 				},
-				["45237"] = {
-					["item:45237:0:0:0:0:0:0:0:80"] = {
-						"1;317000;0;720;15849;1543080635;", -- [1]
+				["36147"] = {
+					["item:36147:0:0:0:0:0:-33:72:80"] = {
+						"1;80268;0;720;4011;1527996880;", -- [1]
+					},
+					["item:36147:0:0:0:0:0:-6:72:80"] = {
+						"1;80268;0;720;4011;1528083705;", -- [1]
+					},
+				},
+				["44695"] = {
+					["item:44695:0:0:0:0:0:-41:126:80"] = {
+						"1;206378;0;720;10317;1528083663;", -- [1]
+					},
+				},
+				["25238"] = {
+					["item:25238:0:0:0:0:0:-44:55:80"] = {
+						"1;144522;0;720;14451;1570061333;", -- [1]
 					},
 				},
 				["24908"] = {
@@ -4466,18 +5994,29 @@ BeanCounterDB = {
 					["item:17413:0:0:0:0:0:0:0:80"] = {
 						"1;11625;0;720;1161;1553956043;", -- [1]
 						"1;11625;0;720;1161;1553956043;", -- [2]
+						"1;11625;0;720;1161;1555774758;", -- [3]
 					},
 				},
-				["12682"] = {
-					["item:12682:0:0:0:0:0:0:0:80"] = {
-						"1;9000;0;720;450;1543183768;", -- [1]
-						"1;9000;0;720;450;1543183768;", -- [2]
-						"1;9000;0;720;450;1543802662;", -- [3]
+				["25267"] = {
+					["item:25267:0:0:0:0:0:-12:18:80"] = {
+						"1;85255;0;720;8523;1558969655;", -- [1]
 					},
 				},
 				["13013"] = {
 					["item:13013:0:0:0:0:0:0:0:80"] = {
 						"1;18532;0;720;1851;1553316846;", -- [1]
+						"1;18532;0;720;1851;1555774765;", -- [2]
+					},
+				},
+				["15737"] = {
+					["item:15737:0:0:0:0:0:0:0:80"] = {
+						"1;6000;0;720;600;1553222446;", -- [1]
+						"1;6000;0;720;600;1553917586;", -- [2]
+					},
+				},
+				["10279"] = {
+					["item:10279:0:0:0:0:0:1224:0:80"] = {
+						"1;58628;0;720;2931;1543542306;", -- [1]
 					},
 				},
 				["36568"] = {
@@ -4488,9 +6027,9 @@ BeanCounterDB = {
 						"1;315156;0;720;15756;1536503638;", -- [1]
 					},
 				},
-				["14277"] = {
-					["item:14277:0:0:0:0:0:1049:0:80"] = {
-						"1;30392;0;720;1518;1543802725;", -- [1]
+				["13144"] = {
+					["item:13144:0:0:0:0:0:0:0:80"] = {
+						"1;10297;0;720;1029;1553316658;", -- [1]
 					},
 				},
 				["36160"] = {
@@ -4501,9 +6040,9 @@ BeanCounterDB = {
 						"1;159914;0;720;7995;1532315845;", -- [1]
 					},
 				},
-				["31306"] = {
-					["item:31306:0:0:0:0:0:0:0:80"] = {
-						"1;100692;0;720;5034;1526436973;", -- [1]
+				["31201"] = {
+					["item:31201:0:0:0:0:0:-40:33:80"] = {
+						"1;74508;0;720;3723;1526612323;", -- [1]
 					},
 				},
 				["25236"] = {
@@ -4527,9 +6066,9 @@ BeanCounterDB = {
 						"1;50386;0;720;5037;1553654161;", -- [2]
 					},
 				},
-				["14977"] = {
-					["item:14977:0:0:0:0:0:1212:0:80"] = {
-						"1;42146;0;720;2106;1537116765;", -- [1]
+				["13113"] = {
+					["item:13113:0:0:0:0:0:0:0:80"] = {
+						"1;27738;0;720;2772;1555774725;", -- [1]
 					},
 				},
 				["41777"] = {
@@ -4538,17 +6077,34 @@ BeanCounterDB = {
 						"1;120000;0;720;6000;1544290286;", -- [2]
 					},
 				},
+				["35579"] = {
+					["item:35579:0:0:0:0:0:0:0:80"] = {
+						"1;87408;0;720;4368;1527736345;", -- [1]
+					},
+				},
 				["36387"] = {
 					["item:36387:0:0:0:0:0:-20:78:80"] = {
 						"1;115424;0;720;5769;1539526742;", -- [1]
 					},
 				},
-				["36380"] = {
-					["item:36380:0:0:0:0:0:-37:75:80"] = {
-						"1;163856;0;720;8190;1533161522;", -- [1]
+				["7521"] = {
+					["item:7521:0:0:0:0:0:409:0:80"] = {
+						"1;5340;0;720;534;1553911602;", -- [1]
 					},
-					["item:36380:0:0:0:0:0:-19:75:80"] = {
-						"1;163856;0;720;8190;1538878260;", -- [1]
+				},
+				["15633"] = {
+					["item:15633:0:0:0:0:0:1031:0:80"] = {
+						"1;24315;0;720;2430;1553956077;", -- [1]
+					},
+				},
+				["31288"] = {
+					["item:31288:0:0:0:0:0:0:0:80"] = {
+						"1;89924;0;720;4494;1538429701;", -- [1]
+					},
+				},
+				["10251"] = {
+					["item:10251:0:0:0:0:0:877:0:80"] = {
+						"1;26856;0;720;1341;1526959553;", -- [1]
 					},
 				},
 				["41778"] = {
@@ -4558,14 +6114,19 @@ BeanCounterDB = {
 						"1;120000;0;720;6000;1543684856;", -- [3]
 					},
 				},
-				["44695"] = {
-					["item:44695:0:0:0:0:0:-41:126:80"] = {
-						"1;206378;0;720;10317;1528083663;", -- [1]
+				["25294"] = {
+					["item:25294:0:0:0:0:0:-37:17:80"] = {
+						"1;85456;0;720;8544;1559485663;", -- [1]
 					},
 				},
-				["7521"] = {
-					["item:7521:0:0:0:0:0:409:0:80"] = {
-						"1;5340;0;720;534;1553911602;", -- [1]
+				["25038"] = {
+					["item:25038:0:0:0:0:0:-5:27:80"] = {
+						"1;58148;0;720;2907;1526158120;", -- [1]
+					},
+				},
+				["24701"] = {
+					["item:24701:0:0:0:0:0:-39:29:80"] = {
+						"1;20014;0;720;2001;1569687151;", -- [1]
 					},
 				},
 				["36287"] = {
@@ -4578,14 +6139,42 @@ BeanCounterDB = {
 						"1;97472;0;720;4872;1538878223;", -- [1]
 					},
 				},
+				["31190"] = {
+					["item:31190:0:0:0:0:0:0:0:80"] = {
+						"1;80972;0;720;4047;1526612335;", -- [1]
+					},
+				},
+				["25057"] = {
+					["item:25057:0:0:0:0:0:-43:32:80"] = {
+						"1;57157;0;720;5715;1558231536;", -- [1]
+					},
+					["item:25057:0:0:0:0:0:-40:32:80"] = {
+						"1;57157;0;720;5715;1568562420;", -- [1]
+					},
+				},
 				["15669"] = {
 					["item:15669:0:0:0:0:0:1573:0:80"] = {
 						"1;79826;0;720;3990;1543542275;", -- [1]
 					},
 				},
-				["31288"] = {
-					["item:31288:0:0:0:0:0:0:0:80"] = {
-						"1;89924;0;720;4494;1538429701;", -- [1]
+				["16714"] = {
+					["item:16714:0:0:0:0:0:0:0:80"] = {
+						"1;31806;0;720;1590;1536786623;", -- [1]
+					},
+				},
+				["15983"] = {
+					["item:15983:0:0:0:0:0:178:0:80"] = {
+						"1;12580;0;720;1257;1553316715;", -- [1]
+					},
+				},
+				["12689"] = {
+					["item:12689:0:0:0:0:0:0:0:80"] = {
+						"1;10500;0;720;525;1543460445;", -- [1]
+					},
+				},
+				["31308"] = {
+					["item:31308:0:0:0:0:0:0:0:80"] = {
+						"1;157333;0;720;15732;1558879740;", -- [1]
 					},
 				},
 				["11754"] = {
@@ -4593,6 +6182,8 @@ BeanCounterDB = {
 						"11;100;0;720;100;1553911582;", -- [1]
 						"10;1000;0;720;100;1553917545;", -- [2]
 						"10;1000;0;720;100;1553956080;", -- [3]
+						"1;100;0;720;100;1554565971;", -- [4]
+						"1;100;0;720;100;1555168376;", -- [5]
 					},
 				},
 				["36272"] = {
@@ -4619,9 +6210,23 @@ BeanCounterDB = {
 						"1;91884;0;720;4593;1543460366;", -- [1]
 					},
 				},
-				["15187"] = {
-					["item:15187:0:0:0:0:0:1209:0:80"] = {
-						"1;16377;0;720;1635;1553956056;", -- [1]
+				["25157"] = {
+					["item:25157:0:0:0:0:0:-40:38:80"] = {
+						"1;104350;0;720;10434;1569687195;", -- [1]
+					},
+				},
+				["24645"] = {
+					["item:24645:0:0:0:0:0:-39:36:80"] = {
+						"1;39672;0;720;1983;1526787109;", -- [1]
+					},
+					["item:24645:0:0:0:0:0:-37:36:80"] = {
+						"1;39672;0;720;1983;1526158050;", -- [1]
+					},
+				},
+				["16864"] = {
+					["item:16864:0:0:0:0:0:0:0:80"] = {
+						"1;76788;0;720;3837;1537116757;", -- [1]
+						"1;38394;0;720;3837;1553654155;", -- [2]
 					},
 				},
 				["1263"] = {
@@ -4629,9 +6234,27 @@ BeanCounterDB = {
 						"1;237192;0;720;11859;1543460382;", -- [1]
 					},
 				},
+				["25151"] = {
+					["item:25151:0:0:0:0:0:-12:21:80"] = {
+						"1;99409;0;720;9939;1567429532;", -- [1]
+					},
+				},
 				["11208"] = {
 					["item:11208:0:0:0:0:0:0:0:80"] = {
 						"1;4050;0;720;201;1531878160;", -- [1]
+					},
+				},
+				["25202"] = {
+					["item:25202:0:0:0:0:0:-6:18:80"] = {
+						"1;92988;0;720;9297;1568562436;", -- [1]
+					},
+				},
+				["25060"] = {
+					["item:25060:0:0:0:0:0:-37:22:80"] = {
+						"1;85638;0;720;4281;1526080712;", -- [1]
+					},
+					["item:25060:0:0:0:0:0:-8:22:80"] = {
+						"1;42819;0;720;4281;1569892784;", -- [1]
 					},
 				},
 				["14969"] = {
@@ -4654,12 +6277,17 @@ BeanCounterDB = {
 						"1;195234;0;720;9759;1539481630;", -- [1]
 					},
 				},
-				["24645"] = {
-					["item:24645:0:0:0:0:0:-39:36:80"] = {
-						"1;39672;0;720;1983;1526787109;", -- [1]
+				["24842"] = {
+					["item:24842:0:0:0:0:0:-40:43:80"] = {
+						"1;41701;0;720;4170;1570061341;", -- [1]
 					},
-					["item:24645:0:0:0:0:0:-37:36:80"] = {
-						"1;39672;0;720;1983;1526158050;", -- [1]
+					["item:24842:0:0:0:0:0:-39:43:80"] = {
+						"1;83402;0;720;4170;1526080633;", -- [1]
+					},
+				},
+				["24716"] = {
+					["item:24716:0:0:0:0:0:-42:22:80"] = {
+						"1;22389;0;720;2238;1570061326;", -- [1]
 					},
 				},
 				["36390"] = {
@@ -4668,6 +6296,16 @@ BeanCounterDB = {
 					},
 					["item:36390:0:0:0:0:0:-13:78:80"] = {
 						"1;119784;0;720;5988;1528083690;", -- [1]
+					},
+				},
+				["15187"] = {
+					["item:15187:0:0:0:0:0:1209:0:80"] = {
+						"1;16377;0;720;1635;1553956056;", -- [1]
+					},
+				},
+				["24926"] = {
+					["item:24926:0:0:0:0:0:-6:29:80"] = {
+						"1;28072;0;720;2805;1569892793;", -- [1]
 					},
 				},
 				["12711"] = {
@@ -4680,14 +6318,22 @@ BeanCounterDB = {
 						"1;114308;0;720;5715;1527892623;", -- [1]
 					},
 				},
+				["23077"] = {
+					["item:23077:0:0:0:0:0:0:0:80"] = {
+						"3;11250;0;720;1125;1569625918;", -- [1]
+					},
+				},
 				["13077"] = {
 					["item:13077:0:0:0:0:0:0:0:80"] = {
 						"1;21717;0;720;2169;1553321627;", -- [1]
 					},
 				},
-				["25060"] = {
-					["item:25060:0:0:0:0:0:-37:22:80"] = {
-						"1;85638;0;720;4281;1526080712;", -- [1]
+				["25031"] = {
+					["item:25031:0:0:0:0:0:-39:21:80"] = {
+						"1;25686;0;720;2568;1569687154;", -- [1]
+					},
+					["item:25031:0:0:0:0:0:-12:21:80"] = {
+						"1;25686;0;720;2568;1569784481;", -- [1]
 					},
 				},
 				["36030"] = {
@@ -4701,23 +6347,38 @@ BeanCounterDB = {
 					},
 				},
 				["24669"] = {
+					["item:24669:0:0:0:0:0:-16:40:80"] = {
+						"1;21687;0;720;2166;1557095203;", -- [1]
+					},
 					["item:24669:0:0:0:0:0:-39:40:80"] = {
 						"1;43374;0;720;2166;1526080660;", -- [1]
 					},
-				},
-				["16802"] = {
-					["item:16802:0:0:0:0:0:0:0:80"] = {
-						"1;21094;0;720;2109;1553972646;", -- [1]
+					["item:24669:0:0:0:0:0:-8:40:80"] = {
+						"1;21687;0;720;2166;1569784474;", -- [1]
 					},
 				},
-				["8317"] = {
-					["item:8317:0:0:0:0:0:0:0:80"] = {
-						"1;22519;0;720;2250;1553956149;", -- [1]
+				["24936"] = {
+					["item:24936:0:0:0:0:0:-41:40:80"] = {
+						"1;61374;0;720;6135;1569784508;", -- [1]
 					},
 				},
-				["13130"] = {
-					["item:13130:0:0:0:0:0:0:0:80"] = {
-						"1;37597;0;720;3759;1553956146;", -- [1]
+				["24674"] = {
+					["item:24674:0:0:0:0:0:-34:53:80"] = {
+						"1;45328;0;720;4530;1557581366;", -- [1]
+					},
+					["item:24674:0:0:0:0:0:-8:53:80"] = {
+						"1;45328;0;720;4530;1557095225;", -- [1]
+					},
+					["item:24674:0:0:0:0:0:-19:53:80"] = {
+						"1;45328;0;720;4530;1569892769;", -- [1]
+					},
+				},
+				["36143"] = {
+					["item:36143:0:0:0:0:0:-18:93:80"] = {
+						"1;116048;0;720;5802;1527996923;", -- [1]
+					},
+					["item:36143:0:0:0:0:0:-37:93:80"] = {
+						"1;116048;0;720;5802;1527892717;", -- [1]
 					},
 				},
 				["24896"] = {
@@ -4725,9 +6386,9 @@ BeanCounterDB = {
 						"1;131592;0;720;6528;1526959542;", -- [1]
 					},
 				},
-				["32737"] = {
-					["item:32737:0:0:0:0:0:0:0:80"] = {
-						"1;22500;0;720;1125;1538515683;", -- [1]
+				["44697"] = {
+					["item:44697:0:0:0:0:0:-36:126:80"] = {
+						"1;232196;0;720;11607;1534120347;", -- [1]
 					},
 				},
 				["36157"] = {
@@ -4735,14 +6396,14 @@ BeanCounterDB = {
 						"1;158142;0;720;7905;1528083672;", -- [1]
 					},
 				},
-				["10095"] = {
-					["item:10095:0:0:0:0:0:412:0:80"] = {
-						"1;15442;0;720;1542;1553956137;", -- [1]
+				["10374"] = {
+					["item:10374:0:0:0:0:0:0:0:80"] = {
+						"1;31014;0;720;3099;1555168372;", -- [1]
 					},
 				},
-				["8294"] = {
-					["item:8294:0:0:0:0:0:0:0:80"] = {
-						"1;18978;0;720;1896;1553956129;", -- [1]
+				["15663"] = {
+					["item:15663:0:0:0:0:0:784:0:80"] = {
+						"1;15339;0;720;1533;1553316747;", -- [1]
 					},
 				},
 				["36277"] = {
@@ -4757,49 +6418,41 @@ BeanCounterDB = {
 						"1;204180;0;720;10209;1532315837;", -- [1]
 					},
 				},
-				["36051"] = {
-					["item:36051:0:0:0:0:0:-9:78:80"] = {
-						"1;66312;0;720;3315;1544290303;", -- [1]
-					},
-					["item:36051:0:0:0:0:0:-6:78:80"] = {
-						"1;66312;0;720;3315;1541266782;", -- [1]
-						"1;66312;0;720;3315;1541266783;", -- [2]
-						"1;66312;0;720;3315;1541266783;", -- [3]
-					},
-					["item:36051:0:0:0:0:0:-8:78:80"] = {
-						"1;66312;0;720;3315;1537024636;", -- [1]
-					},
-					["item:36051:0:0:0:0:0:-31:78:80"] = {
-						"1;66312;0;720;3315;1543684915;", -- [1]
-						"1;66312;0;720;3315;1543684915;", -- [2]
-					},
-					["item:36051:0:0:0:0:0:-19:78:80"] = {
-						"1;66312;0;720;3315;1541367323;", -- [1]
+				["10236"] = {
+					["item:10236:0:0:0:0:0:545:0:80"] = {
+						"1;33924;0;720;3390;1553222402;", -- [1]
 					},
 				},
-				["24655"] = {
-					["item:24655:0:0:0:0:0:-38:50:80"] = {
-						"1;84438;0;720;4221;1538100634;", -- [1]
+				["3864"] = {
+					["item:3864:0:0:0:0:0:0:0:80"] = {
+						"1;1200;0;720;120;1553222429;", -- [1]
+						"1;1200;0;720;120;1553917578;", -- [2]
 					},
 				},
-				["15236"] = {
-					["item:15236:0:0:0:0:0:684:0:80"] = {
-						"1;41227;0;720;4122;1553222406;", -- [1]
+				["25024"] = {
+					["item:25024:0:0:0:0:0:-36:56:80"] = {
+						"1;78339;0;720;7833;1559485659;", -- [1]
+					},
+					["item:25024:0:0:0:0:0:-41:56:80"] = {
+						"1;78339;0;720;7833;1561077423;", -- [1]
 					},
 				},
-				["10153"] = {
-					["item:10153:0:0:0:0:0:623:0:80"] = {
-						"1;48792;0;720;2439;1536634525;", -- [1]
+				["24721"] = {
+					["item:24721:0:0:0:0:0:-41:41:80"] = {
+						"1;32781;0;720;3276;1569784485;", -- [1]
 					},
 				},
-				["25192"] = {
-					["item:25192:0:0:0:0:0:-41:20:80"] = {
-						"1;199886;0;720;9993;1526352861;", -- [1]
+				["15623"] = {
+					["item:15623:0:0:0:0:0:620:0:80"] = {
+						"1;32144;0;720;1605;1532315805;", -- [1]
+					},
+					["item:15623:0:0:0:0:0:1048:0:80"] = {
+						"1;16072;0;720;1605;1553316677;", -- [1]
 					},
 				},
-				["11611"] = {
-					["item:11611:0:0:0:0:0:0:0:80"] = {
-						"1;4500;0;720;450;1553956095;", -- [1]
+				["8256"] = {
+					["item:8256:0:0:0:0:0:0:0:80"] = {
+						"1;15391;0;720;1539;1553316799;", -- [1]
 					},
 				},
 				["25210"] = {
@@ -4807,14 +6460,17 @@ BeanCounterDB = {
 						"1;218690;0;720;10938;1526080551;", -- [1]
 					},
 				},
-				["14474"] = {
-					["item:14474:0:0:0:0:0:0:0:80"] = {
-						"1;9000;0;720;450;1536887585;", -- [1]
+				["24882"] = {
+					["item:24882:0:0:0:0:0:-14:50:80"] = {
+						"1;48909;0;720;4890;1557624753;", -- [1]
 					},
 				},
-				["16736"] = {
-					["item:16736:0:0:0:0:0:0:0:80"] = {
-						"1;49076;0;720;2451;1536786615;", -- [1]
+				["16806"] = {
+					["item:16806:0:0:0:0:0:0:0:80"] = {
+						"1;21411;0;720;2139;1553654153;", -- [1]
+						"1;21411;0;720;2139;1553972650;", -- [2]
+						"1;21411;0;720;2139;1555168366;", -- [3]
+						"1;21411;0;720;2139;1555168366;", -- [4]
 					},
 				},
 				["45099"] = {
@@ -4833,9 +6489,9 @@ BeanCounterDB = {
 						"1;40256;0;720;2010;1537116738;", -- [1]
 					},
 				},
-				["7539"] = {
-					["item:7539:0:0:0:0:0:790:0:80"] = {
-						"1;19038;0;720;1902;1553917552;", -- [1]
+				["13116"] = {
+					["item:13116:0:0:0:0:0:0:0:80"] = {
+						"1;28057;0;720;2805;1556315046;", -- [1]
 					},
 				},
 				["14851"] = {
@@ -4851,20 +6507,15 @@ BeanCounterDB = {
 						"1;112580;0;720;5628;1537024644;", -- [1]
 					},
 				},
-				["36036"] = {
-					["item:36036:0:0:0:0:0:-36:72:80"] = {
-						"1;90056;0;720;4500;1527892657;", -- [1]
-					},
-					["item:36036:0:0:0:0:0:-37:72:80"] = {
-						"1;90056;0;720;4500;1527996872;", -- [1]
+				["4090"] = {
+					["item:4090:0:0:0:0:0:0:0:80"] = {
+						"1;31104;0;720;3108;1553911585;", -- [1]
 					},
 				},
-				["36626"] = {
-					["item:36626:0:0:0:0:0:-17:34:80"] = {
-						"1;244614;0;720;12228;1536503610;", -- [1]
-					},
-					["item:36626:0:0:0:0:0:-8:34:80"] = {
-						"1;244614;0;720;12228;1539481637;", -- [1]
+				["13096"] = {
+					["item:13096:0:0:0:0:0:0:0:80"] = {
+						"1;23738;0;720;1185;1536634444;", -- [1]
+						"1;23738;0;720;1185;1543460437;", -- [2]
 					},
 				},
 				["14982"] = {
@@ -4875,22 +6526,19 @@ BeanCounterDB = {
 						"1;85802;0;720;4290;1536634533;", -- [1]
 					},
 				},
-				["15623"] = {
-					["item:15623:0:0:0:0:0:620:0:80"] = {
-						"1;32144;0;720;1605;1532315805;", -- [1]
-					},
-					["item:15623:0:0:0:0:0:1048:0:80"] = {
-						"1;16072;0;720;1605;1553316677;", -- [1]
+				["36695"] = {
+					["item:36695:0:0:0:0:0:-44:45:80"] = {
+						"1;314670;0;720;15732;1532476126;", -- [1]
 					},
 				},
-				["15228"] = {
-					["item:15228:0:0:0:0:0:2038:0:80"] = {
-						"1;42462;0;720;4245;1553956066;", -- [1]
+				["13130"] = {
+					["item:13130:0:0:0:0:0:0:0:80"] = {
+						"1;37597;0;720;3759;1553956146;", -- [1]
 					},
 				},
-				["4090"] = {
-					["item:4090:0:0:0:0:0:0:0:80"] = {
-						"1;31104;0;720;3108;1553911585;", -- [1]
+				["15645"] = {
+					["item:15645:0:0:0:0:0:881:0:80"] = {
+						"1;21865;0;720;2184;1553439581;", -- [1]
 					},
 				},
 				["36486"] = {
@@ -4898,9 +6546,9 @@ BeanCounterDB = {
 						"1;351212;0;720;17559;1538878172;", -- [1]
 					},
 				},
-				["15245"] = {
-					["item:15245:0:0:0:0:0:683:0:80"] = {
-						"1;34926;0;720;3492;1553956047;", -- [1]
+				["25016"] = {
+					["item:25016:0:0:0:0:0:-27:55:80"] = {
+						"1;82081;0;720;8208;1570061335;", -- [1]
 					},
 				},
 				["11302"] = {
@@ -4908,9 +6556,9 @@ BeanCounterDB = {
 						"1;10695;0;720;1068;1553222452;", -- [1]
 					},
 				},
-				["36265"] = {
-					["item:36265:0:0:0:0:0:-13:72:80"] = {
-						"1;137252;0;720;6861;1527892709;", -- [1]
+				["24813"] = {
+					["item:24813:0:0:0:0:0:-8:21:80"] = {
+						"1;23173;0;720;2316;1569892761;", -- [1]
 					},
 				},
 				["14813"] = {
@@ -4918,19 +6566,19 @@ BeanCounterDB = {
 						"1;15901;0;720;1590;1553321643;", -- [1]
 					},
 				},
-				["36539"] = {
-					["item:36539:0:0:0:0:0:-18:97:80"] = {
-						"1;401504;0;720;20073;1528140809;", -- [1]
+				["39472"] = {
+					["item:39472:0:0:0:0:0:0:0:80"] = {
+						"1;213734;0;720;10686;1537664251;", -- [1]
 					},
 				},
-				["10258"] = {
-					["item:10258:0:0:0:0:0:1033:0:80"] = {
-						"1;18438;0;720;1842;1553917653;", -- [1]
+				["8289"] = {
+					["item:8289:0:0:0:0:0:0:0:80"] = {
+						"1;25032;0;720;2502;1553321685;", -- [1]
 					},
 				},
-				["15641"] = {
-					["item:15641:0:0:0:0:0:869:0:80"] = {
-						"1;11380;0;720;1137;1553316740;", -- [1]
+				["25032"] = {
+					["item:25032:0:0:0:0:0:-5:22:80"] = {
+						"1;26587;0;720;2658;1569625938;", -- [1]
 					},
 				},
 				["15265"] = {
@@ -4944,6 +6592,79 @@ BeanCounterDB = {
 				["36317"] = {
 					["item:36317:0:0:0:0:0:-32:75:80"] = {
 						"1;192912;0;720;9645;1527736393;", -- [1]
+					},
+				},
+				["24894"] = {
+					["item:24894:0:0:0:0:0:-44:40:80"] = {
+						"1;32409;0;720;3240;1558183368;", -- [1]
+					},
+				},
+				["24869"] = {
+					["item:24869:0:0:0:0:0:-13:26:80"] = {
+						"1;57540;0;720;2877;1526787129;", -- [1]
+					},
+				},
+				["24586"] = {
+					["item:24586:0:0:0:0:0:-6:37:80"] = {
+						"1;30783;0;720;3078;1569784483;", -- [1]
+					},
+				},
+				["36426"] = {
+					["item:36426:0:0:0:0:0:-39:52:80"] = {
+						"1;112116;0;720;5604;1527892696;", -- [1]
+					},
+				},
+				["16722"] = {
+					["item:16722:0:0:0:0:0:0:0:80"] = {
+						"1;21399;0;720;2139;1553439587;", -- [1]
+					},
+				},
+				["31297"] = {
+					["item:31297:0:0:0:0:0:0:0:80"] = {
+						"1;49153;0;720;4914;1556985935;", -- [1]
+					},
+				},
+				["17683"] = {
+					["item:17683:0:0:0:0:0:0:0:80"] = {
+						"1;22125;0;720;2211;1553439590;", -- [1]
+					},
+				},
+				["24654"] = {
+					["item:24654:0:0:0:0:0:-39:38:80"] = {
+						"1;31552;0;720;3153;1559437345;", -- [1]
+					},
+					["item:24654:0:0:0:0:0:-36:38:80"] = {
+						"1;31552;0;720;3153;1569687183;", -- [1]
+					},
+					["item:24654:0:0:0:0:0:-9:38:80"] = {
+						"1;63104;0;720;3153;1526270069;", -- [1]
+					},
+				},
+				["36171"] = {
+					["item:36171:0:0:0:0:0:-16:81:80"] = {
+						"1;80612;0;720;4029;1536503645;", -- [1]
+					},
+				},
+				["14671"] = {
+					["item:14671:0:0:0:0:0:0:0:80"] = {
+						"1;39036;0;720;1950;1543183783;", -- [1]
+					},
+				},
+				["37794"] = {
+					["item:37794:0:0:0:0:0:0:0:80"] = {
+						"1;140600;0;720;7029;1532476167;", -- [1]
+						"1;140600;0;720;7029;1543080614;", -- [2]
+					},
+				},
+				["15390"] = {
+					["item:15390:0:0:0:0:0:627:0:80"] = {
+						"1;24262;0;720;2424;1553222455;", -- [1]
+					},
+				},
+				["2564"] = {
+					["item:2564:0:0:0:0:0:0:0:80"] = {
+						"1;10225;0;720;1020;1553917651;", -- [1]
+						"1;10225;0;720;1020;1555168381;", -- [2]
 					},
 				},
 				["36268"] = {
@@ -4963,116 +6684,48 @@ BeanCounterDB = {
 						"1;141882;0;720;7092;1544290310;", -- [1]
 					},
 				},
-				["24869"] = {
-					["item:24869:0:0:0:0:0:-13:26:80"] = {
-						"1;57540;0;720;2877;1526787129;", -- [1]
-					},
-				},
-				["12055"] = {
-					["item:12055:0:0:0:0:0:0:0:80"] = {
-						"1;12562;0;720;1254;1553917596;", -- [1]
-					},
-				},
-				["36426"] = {
-					["item:36426:0:0:0:0:0:-39:52:80"] = {
-						"1;112116;0;720;5604;1527892696;", -- [1]
-					},
-				},
-				["16722"] = {
-					["item:16722:0:0:0:0:0:0:0:80"] = {
-						"1;21399;0;720;2139;1553439587;", -- [1]
-					},
-				},
-				["14284"] = {
-					["item:14284:0:0:0:0:0:797:0:80"] = {
-						"1;19702;0;720;1968;1553917582;", -- [1]
-					},
-				},
-				["17683"] = {
-					["item:17683:0:0:0:0:0:0:0:80"] = {
-						"1;22125;0;720;2211;1553439590;", -- [1]
-					},
-				},
-				["24654"] = {
-					["item:24654:0:0:0:0:0:-9:38:80"] = {
-						"1;63104;0;720;3153;1526270069;", -- [1]
-					},
-				},
-				["36002"] = {
-					["item:36002:0:0:0:0:0:-9:45:80"] = {
-						"1;58808;0;720;2940;1527820439;", -- [1]
-					},
-				},
-				["14671"] = {
-					["item:14671:0:0:0:0:0:0:0:80"] = {
-						"1;39036;0;720;1950;1543183783;", -- [1]
-					},
-				},
-				["36147"] = {
-					["item:36147:0:0:0:0:0:-33:72:80"] = {
-						"1;80268;0;720;4011;1527996880;", -- [1]
-					},
-					["item:36147:0:0:0:0:0:-6:72:80"] = {
-						"1;80268;0;720;4011;1528083705;", -- [1]
-					},
-				},
-				["10184"] = {
-					["item:10184:0:0:0:0:0:860:0:80"] = {
-						"1;9784;0;720;978;1553316689;", -- [1]
-					},
-				},
-				["36554"] = {
-					["item:36554:0:0:0:0:0:-39:101:80"] = {
-					},
-				},
-				["10070"] = {
-					["item:10070:0:0:0:0:0:1054:0:80"] = {
-						"1;23223;0;720;2322;1553321696;", -- [1]
-					},
-				},
 				["24671"] = {
+					["item:24671:0:0:0:0:0:-33:53:80"] = {
+						"1;43692;0;720;4368;1557582049;", -- [1]
+					},
+					["item:24671:0:0:0:0:0:-15:53:80"] = {
+						"1;43692;0;720;4368;1567429535;", -- [1]
+					},
 					["item:24671:0:0:0:0:0:-39:53:80"] = {
 						"1;87384;0;720;4368;1537754468;", -- [1]
 					},
 				},
-				["36499"] = {
-					["item:36499:0:0:0:0:0:-13:45:80"] = {
-						"1;336726;0;720;16335;1536503752;", -- [1]
+				["1206"] = {
+					["item:1206:0:0:0:0:0:0:0:80"] = {
+						"1;600;0;720;100;1553222458;", -- [1]
 					},
 				},
-				["13020"] = {
-					["item:13020:0:0:0:0:0:0:0:80"] = {
-						"1;13477;0;720;1347;1553911591;", -- [1]
+				["24694"] = {
+					["item:24694:0:0:0:0:0:-40:27:80"] = {
+						"1;31323;0;720;3132;1570061323;", -- [1]
 					},
 				},
-				["24663"] = {
-					["item:24663:0:0:0:0:0:-36:52:80"] = {
-						"1;82790;0;720;4137;1526158083;", -- [1]
+				["24794"] = {
+					["item:24794:0:0:0:0:0:-33:55:80"] = {
+						"1;40395;0;720;4038;1557581379;", -- [1]
 					},
 				},
-				["36271"] = {
-					["item:36271:0:0:0:0:0:-27:101:80"] = {
-						"1;142850;0;720;7140;1540696991;", -- [1]
-					},
-					["item:36271:0:0:0:0:0:-11:101:80"] = {
-						"1;142850;0;720;7140;1540141980;", -- [1]
-					},
-					["item:36271:0:0:0:0:0:-37:101:80"] = {
-						"1;142850;0;720;7140;1543684864;", -- [1]
-						"1;142850;0;720;7140;1543799372;", -- [2]
+				["25313"] = {
+					["item:25313:0:0:0:0:0:-9:17:80"] = {
+						"1;89674;0;720;8967;1569892767;", -- [1]
 					},
 				},
-				["24668"] = {
-					["item:24668:0:0:0:0:0:-16:29:80"] = {
-						"1;42180;0;720;2109;1526787067;", -- [1]
+				["24593"] = {
+					["item:24593:0:0:0:0:0:-39:38:80"] = {
+						"1;25135;0;720;2511;1570061309;", -- [1]
+					},
+					["item:24593:0:0:0:0:0:-36:38:80"] = {
+						"1;50270;0;720;2511;1526080652;", -- [1]
 					},
 				},
-				["36281"] = {
-					["item:36281:0:0:0:0:0:-14:78:80"] = {
-						"1;156002;0;720;7800;1539224383;", -- [1]
-					},
-					["item:36281:0:0:0:0:0:-67:78:80"] = {
-						"1;156002;0;720;7800;1536503574;", -- [1]
+				["10155"] = {
+					["item:10155:0:0:0:0:0:454:0:80"] = {
+						"1;58428;0;720;2919;1543802553;", -- [1]
 					},
 				},
 				["24932"] = {
@@ -5085,20 +6738,21 @@ BeanCounterDB = {
 						"1;1110;0;720;100;1536634423;", -- [1]
 					},
 				},
-				["16838"] = {
-					["item:16838:0:0:0:0:0:0:0:80"] = {
-						"1;31156;0;720;3114;1553654115;", -- [1]
-						"1;31156;0;720;3114;1553654115;", -- [2]
+				["15989"] = {
+					["item:15989:0:0:0:0:0:1039:0:80"] = {
 					},
 				},
-				["44688"] = {
-					["item:44688:0:0:0:0:0:-91:65:80"] = {
-						"1;144390;0;720;7218;1534290729;", -- [1]
+				["24957"] = {
+					["item:24957:0:0:0:0:0:-33:24:80"] = {
+						"1;32853;0;720;3285;1569784479;", -- [1]
 					},
 				},
 				["24903"] = {
 					["item:24903:0:0:0:0:0:-11:41:80"] = {
 						"1;106002;0;720;5298;1538361814;", -- [1]
+					},
+					["item:24903:0:0:0:0:0:-13:41:80"] = {
+						"1;53001;0;720;5298;1569687181;", -- [1]
 					},
 				},
 				["7990"] = {
@@ -5109,6 +6763,11 @@ BeanCounterDB = {
 				["32231"] = {
 					["item:32231:0:0:0:0:0:0:0:80"] = {
 						"1;150000;0;720;7500;1538515715;", -- [1]
+						"6;450000;0;720;45000;1557095222;", -- [2]
+						"3;225000;0;720;22500;1557692738;", -- [3]
+						"3;225000;0;720;22500;1558231528;", -- [4]
+						"4;300000;0;720;30000;1558879768;", -- [5]
+						"1;75000;0;720;7500;1559485683;", -- [6]
 					},
 				},
 				["13060"] = {
@@ -5117,9 +6776,9 @@ BeanCounterDB = {
 						"1;182352;0;720;9117;1543183762;", -- [2]
 					},
 				},
-				["8283"] = {
-					["item:8283:0:0:0:0:0:0:0:80"] = {
-						"1;49650;0;720;2481;1543802546;", -- [1]
+				["14494"] = {
+					["item:14494:0:0:0:0:0:0:0:80"] = {
+						"1;8250;0;720;825;1553316686;", -- [1]
 					},
 				},
 				["40206"] = {
@@ -5127,9 +6786,10 @@ BeanCounterDB = {
 						"1;330788;0;720;16539;1538282167;", -- [1]
 					},
 				},
-				["24833"] = {
-					["item:24833:0:0:0:0:0:-9:31:80"] = {
-						"1;52254;0;720;2610;1526095781;", -- [1]
+				["8283"] = {
+					["item:8283:0:0:0:0:0:0:0:80"] = {
+						"1;49650;0;720;2481;1543802546;", -- [1]
+						"1;24825;0;720;2481;1554565957;", -- [2]
 					},
 				},
 				["25201"] = {
@@ -5146,12 +6806,13 @@ BeanCounterDB = {
 					["item:24803:0:0:0:0:0:-13:56:80"] = {
 						"1;117044;0;720;5850;1538361803;", -- [1]
 					},
+					["item:24803:0:0:0:0:0:-7:56:80"] = {
+						"1;58522;0;720;5850;1566520650;", -- [1]
+					},
 				},
-				["19726"] = {
-					["item:19726:0:0:0:0:0:0:0:80"] = {
-						"1;1500;0;720;100;1543460484;", -- [1]
-						"1;1500;0;720;150;1543802630;", -- [2]
-						"1;1500;0;720;150;1543802630;", -- [3]
+				["36159"] = {
+					["item:36159:0:0:0:0:0:-31:101:80"] = {
+						"1;119486;0;720;5973;1527892560;", -- [1]
 					},
 				},
 				["10151"] = {
@@ -5168,9 +6829,9 @@ BeanCounterDB = {
 						"1;54235;0;720;5421;1553917565;", -- [1]
 					},
 				},
-				["36580"] = {
-					["item:36580:0:0:0:0:0:-10:40:80"] = {
-						"1;315176;0;720;15756;1528083741;", -- [1]
+				["14859"] = {
+					["item:14859:0:0:0:0:0:0:0:80"] = {
+						"1;38904;0;720;3888;1553321699;", -- [1]
 					},
 				},
 				["14323"] = {
@@ -5178,20 +6839,22 @@ BeanCounterDB = {
 						"1;24966;0;720;1248;1536636638;", -- [1]
 					},
 				},
-				["13139"] = {
-					["item:13139:0:0:0:0:0:0:0:80"] = {
-						"1;31543;0;720;3153;1553316835;", -- [1]
+				["24594"] = {
+					["item:24594:0:0:0:0:0:-6:38:80"] = {
+						"1;33634;0;720;3363;1569687141;", -- [1]
 					},
 				},
-				["25228"] = {
-					["item:25228:0:0:0:0:0:-13:40:80"] = {
-						"1;208058;0;720;10401;1526095800;", -- [1]
+				["14286"] = {
+					["item:14286:0:0:0:0:0:782:0:80"] = {
+						"1;6930;0;720;693;1553316634;", -- [1]
 					},
 				},
-				["41780"] = {
-					["item:41780:0:0:0:0:0:0:0:80"] = {
-						"1;120000;0;720;6000;1538282229;", -- [1]
-						"1;120000;0;720;6000;1541266809;", -- [2]
+				["36278"] = {
+					["item:36278:0:0:0:0:0:-9:78:80"] = {
+						"1;102444;0;720;5121;1537024660;", -- [1]
+					},
+					["item:36278:0:0:0:0:0:-6:78:80"] = {
+						"1;102444;0;720;5121;1532315889;", -- [1]
 					},
 				},
 				["21803"] = {
@@ -5210,11 +6873,12 @@ BeanCounterDB = {
 						"1;13854;0;720;690;1544290200;", -- [2]
 						"1;13854;0;720;690;1544290200;", -- [3]
 						"1;6927;0;720;690;1553222443;", -- [4]
+						"1;6927;0;720;690;1555774751;", -- [5]
 					},
 				},
-				["10193"] = {
-					["item:10193:0:0:0:0:0:366:0:80"] = {
-						"1;29664;0;720;2964;1553321635;", -- [1]
+				["25253"] = {
+					["item:25253:0:0:0:0:0:-10:18:80"] = {
+						"1;174300;0;720;8715;1526270062;", -- [1]
 					},
 				},
 				["37760"] = {
@@ -5223,30 +6887,27 @@ BeanCounterDB = {
 						"1;76542;0;720;3825;1543684961;", -- [2]
 					},
 				},
-				["15645"] = {
-					["item:15645:0:0:0:0:0:881:0:80"] = {
-						"1;21865;0;720;2184;1553439581;", -- [1]
+				["24599"] = {
+					["item:24599:0:0:0:0:0:-22:40:80"] = {
+						"1;35320;0;720;3531;1569784466;", -- [1]
 					},
 				},
-				["25221"] = {
-					["item:25221:0:0:0:0:0:-7:50:80"] = {
-						"1;271716;0;720;13584;1526787153;", -- [1]
+				["19278"] = {
+					["item:19278:0:0:0:0:0:0:0:80"] = {
+						"1;18750;0;720;1875;1553316705;", -- [1]
 					},
 				},
-				["36540"] = {
-					["item:36540:0:0:0:0:0:-16:101:80"] = {
-						"1;411842;0;720;20592;1532315822;", -- [1]
+				["14922"] = {
+					["item:14922:0:0:0:0:0:1209:0:80"] = {
+						"1;21676;0;720;2166;1553222410;", -- [1]
+					},
+					["item:14922:0:0:0:0:0:1125:0:80"] = {
+						"1;21676;0;720;2166;1553316821;", -- [1]
 					},
 				},
-				["15746"] = {
-					["item:15746:0:0:0:0:0:0:0:80"] = {
-						"1;7500;0;720;750;1553439545;", -- [1]
-						"1;7500;0;720;750;1553654175;", -- [2]
-					},
-				},
-				["10158"] = {
-					["item:10158:0:0:0:0:0:333:0:80"] = {
-						"1;40446;0;720;4044;1553654158;", -- [1]
+				["24724"] = {
+					["item:24724:0:0:0:0:0:-11:23:80"] = {
+						"1;44192;0;720;2208;1526080519;", -- [1]
 					},
 				},
 				["31247"] = {
@@ -5254,30 +6915,19 @@ BeanCounterDB = {
 						"1;107462;0;720;5373;1534120336;", -- [1]
 					},
 				},
+				["833"] = {
+					["item:833:0:0:0:0:0:0:0:80"] = {
+						"1;42000;0;720;4200;1553321653;", -- [1]
+					},
+				},
 				["10257"] = {
 					["item:10257:0:0:0:0:0:620:0:80"] = {
 						"1;47204;0;720;2358;1543183983;", -- [1]
 					},
 				},
-				["8289"] = {
-					["item:8289:0:0:0:0:0:0:0:80"] = {
-						"1;25032;0;720;2502;1553321685;", -- [1]
-					},
-				},
-				["15737"] = {
-					["item:15737:0:0:0:0:0:0:0:80"] = {
-						"1;6000;0;720;600;1553222446;", -- [1]
-						"1;6000;0;720;600;1553917586;", -- [2]
-					},
-				},
-				["13007"] = {
-					["item:13007:0:0:0:0:0:0:0:80"] = {
-						"1;40754;0;720;2037;1543370166;", -- [1]
-					},
-				},
-				["36050"] = {
-					["item:36050:0:0:0:0:0:-33:56:80"] = {
-						"1;64674;0;720;3231;1536503602;", -- [1]
+				["12695"] = {
+					["item:12695:0:0:0:0:0:0:0:80"] = {
+						"1;7500;0;720;750;1553439608;", -- [1]
 					},
 				},
 				["24169"] = {
@@ -5285,9 +6935,26 @@ BeanCounterDB = {
 						"1;90000;0;720;4500;1538100639;", -- [1]
 					},
 				},
-				["10152"] = {
-					["item:10152:0:0:0:0:0:632:0:80"] = {
-						"1;65702;0;720;3285;1544487980;", -- [1]
+				["13007"] = {
+					["item:13007:0:0:0:0:0:0:0:80"] = {
+						"1;40754;0;720;2037;1543370166;", -- [1]
+					},
+				},
+				["10375"] = {
+					["item:10375:0:0:0:0:0:0:0:80"] = {
+						"1;18787;0;720;1878;1553316722;", -- [1]
+					},
+				},
+				["13059"] = {
+					["item:13059:0:0:0:0:0:0:0:80"] = {
+						"1;58078;0;720;5805;1554565975;", -- [1]
+					},
+				},
+				["12697"] = {
+					["item:12697:0:0:0:0:0:0:0:80"] = {
+						"1;16400;0;720;825;1531878154;", -- [1]
+						"1;16500;0;720;825;1543802715;", -- [2]
+						"1;8250;0;720;825;1553321691;", -- [3]
 					},
 				},
 				["10378"] = {
@@ -5295,9 +6962,9 @@ BeanCounterDB = {
 						"1;91986;0;720;4599;1543540221;", -- [1]
 					},
 				},
-				["15663"] = {
-					["item:15663:0:0:0:0:0:784:0:80"] = {
-						"1;15339;0;720;1533;1553316747;", -- [1]
+				["44681"] = {
+					["item:44681:0:0:0:0:0:-75:70:80"] = {
+						"1;147420;0;720;7371;1527892577;", -- [1]
 					},
 				},
 				["12549"] = {
@@ -5306,8 +6973,9 @@ BeanCounterDB = {
 						"1;20505;0;720;2049;1553917559;", -- [2]
 					},
 				},
-				["15989"] = {
-					["item:15989:0:0:0:0:0:1039:0:80"] = {
+				["25091"] = {
+					["item:25091:0:0:0:0:0:-39:25:80"] = {
+						"1;46731;0;720;4671;1569625930;", -- [1]
 					},
 				},
 				["15931"] = {
@@ -5335,6 +7003,12 @@ BeanCounterDB = {
 						"1;150000;0;720;30000;1538515745;", -- [2]
 						"1;150000;0;720;30000;1538515745;", -- [3]
 						"1;150000;0;720;7500;1538617645;", -- [4]
+						"5;375000;0;720;37500;1557095210;", -- [5]
+						"5;375000;0;720;37500;1557692725;", -- [6]
+						"4;300000;0;720;30000;1558231532;", -- [7]
+						"7;525000;0;720;52500;1558879756;", -- [8]
+						"4;300000;0;720;30000;1559485678;", -- [9]
+						"1;75000;0;720;7500;1559530106;", -- [10]
 					},
 				},
 				["7078"] = {
@@ -5343,16 +7017,21 @@ BeanCounterDB = {
 						"5;3000;0;720;300;1553917593;", -- [2]
 						"1;600;0;720;100;1553956144;", -- [3]
 						"5;3000;0;720;300;1553972643;", -- [4]
+						"5;3000;0;720;300;1554565955;", -- [5]
+						"2;1200;0;720;120;1555774741;", -- [6]
+						"8;4800;0;720;480;1556315030;", -- [7]
 					},
 				},
-				["25219"] = {
-					["item:25219:0:0:0:0:0:-6:47:80"] = {
-						"1;256254;0;720;12810;1526612346;", -- [1]
+				["36512"] = {
+					["item:36512:0:0:0:0:0:-45:101:80"] = {
+						"1;389348;0;720;19467;1537024616;", -- [1]
+						"1;389348;0;720;19467;1537024616;", -- [2]
 					},
 				},
-				["37761"] = {
-					["item:37761:0:0:0:0:0:0:0:80"] = {
-						"1;78516;0;720;3924;1540141995;", -- [1]
+				["14456"] = {
+					["item:14456:0:0:0:0:0:0:0:80"] = {
+						"1;52722;0;720;2634;1544290168;", -- [1]
+						"1;26361;0;720;2634;1556315036;", -- [2]
 					},
 				},
 				["13039"] = {
@@ -5360,12 +7039,9 @@ BeanCounterDB = {
 						"1;26838;0;720;2682;1553956101;", -- [1]
 					},
 				},
-				["24676"] = {
-					["item:24676:0:0:0:0:0:-8:30:80"] = {
-						"1;45650;0;720;2280;1526186902;", -- [1]
-					},
-					["item:24676:0:0:0:0:0:-37:30:80"] = {
-						"1;45650;0;720;2280;1527044281;", -- [1]
+				["8190"] = {
+					["item:8190:0:0:0:0:0:0:0:80"] = {
+						"1;55929;0;720;5592;1553316750;", -- [1]
 					},
 				},
 				["13040"] = {
@@ -5373,51 +7049,45 @@ BeanCounterDB = {
 						"1;44166;0;720;4416;1553439618;", -- [1]
 					},
 				},
-				["19278"] = {
-					["item:19278:0:0:0:0:0:0:0:80"] = {
-						"1;18750;0;720;1875;1553316705;", -- [1]
-					},
-				},
-				["10251"] = {
-					["item:10251:0:0:0:0:0:877:0:80"] = {
-						"1;26856;0;720;1341;1526959553;", -- [1]
-					},
-				},
-				["12685"] = {
-					["item:12685:0:0:0:0:0:0:0:80"] = {
-						"1;9000;0;720;450;1543460250;", -- [1]
-						"1;4500;0;720;450;1553917658;", -- [2]
-					},
-				},
-				["36052"] = {
-					["item:36052:0:0:0:0:0:-39:78:80"] = {
-						"1;102444;0;720;5121;1527996934;", -- [1]
-					},
-					["item:36052:0:0:0:0:0:-8:78:80"] = {
-						"1;102444;0;720;5121;1533482671;", -- [1]
-					},
-					["item:36052:0:0:0:0:0:-36:78:80"] = {
-						"1;102444;0;720;5121;1533862631;", -- [1]
-					},
-				},
 				["45874"] = {
 					["item:45874:0:0:0:0:0:0:0:80"] = {
 						"1;226868;0;720;11343;1540697042;", -- [1]
 					},
 				},
-				["32751"] = {
-					["item:32751:0:0:0:0:0:0:0:80"] = {
-						"1;37500;0;720;1875;1538435241;", -- [1]
+				["25290"] = {
+					["item:25290:0:0:0:0:0:-39:15:80"] = {
+						"1;152724;0;720;7635;1526158128;", -- [1]
 					},
 				},
-				["16714"] = {
-					["item:16714:0:0:0:0:0:0:0:80"] = {
-						"1;31806;0;720;1590;1536786623;", -- [1]
+				["16043"] = {
+					["item:16043:0:0:0:0:0:0:0:80"] = {
+						"1;9000;0;720;450;1543460301;", -- [1]
 					},
 				},
-				["45316"] = {
-					["item:45316:0:0:0:0:0:0:0:80"] = {
-						"1;188882;0;720;9444;1540696997;", -- [1]
+				["14319"] = {
+					["item:14319:0:0:0:0:0:1042:0:80"] = {
+						"1;34202;0;720;1710;1536700154;", -- [1]
+					},
+				},
+				["25323"] = {
+					["item:25323:0:0:0:0:0:-44:24:80"] = {
+						"1;111948;0;720;11193;1558969662;", -- [1]
+					},
+				},
+				["13036"] = {
+					["item:13036:0:0:0:0:0:0:0:80"] = {
+						"1;61482;0;720;6147;1553222423;", -- [1]
+						"1;61482;0;720;6147;1556315050;", -- [2]
+					},
+				},
+				["15384"] = {
+					["item:15384:0:0:0:0:0:339:0:80"] = {
+						"1;27464;0;720;1371;1536634474;", -- [1]
+					},
+				},
+				["15745"] = {
+					["item:15745:0:0:0:0:0:0:0:80"] = {
+						"1;7500;0;720;750;1553316712;", -- [1]
 					},
 				},
 				["13118"] = {
@@ -5431,16 +7101,84 @@ BeanCounterDB = {
 						"1;75924;0;720;3795;1543460418;", -- [1]
 					},
 				},
-				["36679"] = {
-					["item:36679:0:0:0:0:0:-9:42:80"] = {
-						"1;306056;0;720;15300;1527996900;", -- [1]
-					},
-					["item:36679:0:0:0:0:0:-44:42:80"] = {
+				["10164"] = {
+					["item:10164:0:0:0:0:0:1055:0:80"] = {
+						"1;77744;0;720;3885;1543802687;", -- [1]
 					},
 				},
-				["10155"] = {
-					["item:10155:0:0:0:0:0:454:0:80"] = {
-						"1;58428;0;720;2919;1543802553;", -- [1]
+				["10145"] = {
+					["item:10145:0:0:0:0:0:788:0:80"] = {
+						"1;14632;0;720;1461;1553222396;", -- [1]
+					},
+				},
+				["31149"] = {
+					["item:31149:0:0:0:0:0:0:0:80"] = {
+						"1;20398;0;720;2037;1569625926;", -- [1]
+					},
+				},
+				["10282"] = {
+					["item:10282:0:0:0:0:0:218:0:80"] = {
+						"1;17719;0;720;1770;1553917634;", -- [1]
+					},
+					["item:10282:0:0:0:0:0:1203:0:80"] = {
+						"1;17719;0;720;1770;1553316785;", -- [1]
+					},
+				},
+				["10239"] = {
+					["item:10239:0:0:0:0:0:605:0:80"] = {
+						"1;13099;0;720;1308;1553222464;", -- [1]
+					},
+				},
+				["36048"] = {
+					["item:36048:0:0:0:0:0:-39:101:80"] = {
+						"1;128408;0;720;6420;1528058601;", -- [1]
+					},
+				},
+				["25042"] = {
+					["item:25042:0:0:0:0:0:-41:31:80"] = {
+						"1;33444;0;720;3342;1559437343;", -- [1]
+					},
+					["item:25042:0:0:0:0:0:-38:31:80"] = {
+						"1;66888;0;720;3342;1526080590;", -- [1]
+					},
+				},
+				["32751"] = {
+					["item:32751:0:0:0:0:0:0:0:80"] = {
+						"1;37500;0;720;1875;1538435241;", -- [1]
+						"1;18750;0;720;1875;1558183360;", -- [2]
+					},
+				},
+				["36402"] = {
+					["item:36402:0:0:0:0:0:-17:60:80"] = {
+						"1;115680;0;720;5784;1537664217;", -- [1]
+					},
+				},
+				["24765"] = {
+					["item:24765:0:0:0:0:0:-8:38:80"] = {
+						"1;52202;0;720;2610;1526270155;", -- [1]
+					},
+				},
+				["37781"] = {
+					["item:37781:0:0:0:0:0:0:0:80"] = {
+						"1;117750;0;720;5886;1528058626;", -- [1]
+						"1;117750;0;720;5886;1539481720;", -- [2]
+						"1;117750;0;720;5886;1540142004;", -- [3]
+					},
+				},
+				["31289"] = {
+					["item:31289:0:0:0:0:0:0:0:80"] = {
+						"1;149874;0;720;14985;1569687192;", -- [1]
+					},
+				},
+				["14489"] = {
+					["item:14489:0:0:0:0:0:0:0:80"] = {
+						"1;15000;0;720;750;1543802567;", -- [1]
+						"1;7500;0;720;750;1556315064;", -- [2]
+					},
+				},
+				["15253"] = {
+					["item:15253:0:0:0:0:0:708:0:80"] = {
+						"1;94640;0;720;4731;1543802706;", -- [1]
 					},
 				},
 				["36274"] = {
@@ -5458,68 +7196,31 @@ BeanCounterDB = {
 						"1;96296;0;720;4812;1543080623;", -- [2]
 					},
 				},
-				["10282"] = {
-					["item:10282:0:0:0:0:0:218:0:80"] = {
-						"1;17719;0;720;1770;1553917634;", -- [1]
-					},
-					["item:10282:0:0:0:0:0:1203:0:80"] = {
-						"1;17719;0;720;1770;1553316785;", -- [1]
+				["24900"] = {
+					["item:24900:0:0:0:0:0:-33:40:80"] = {
+						"1;102444;0;720;5121;1526871537;", -- [1]
 					},
 				},
-				["10239"] = {
-					["item:10239:0:0:0:0:0:605:0:80"] = {
-						"1;13099;0;720;1308;1553222464;", -- [1]
+				["25307"] = {
+					["item:25307:0:0:0:0:0:-16:22:80"] = {
+						"1;216914;0;720;10845;1526270090;", -- [1]
 					},
 				},
-				["25042"] = {
-					["item:25042:0:0:0:0:0:-38:31:80"] = {
-						"1;66888;0;720;3342;1526080590;", -- [1]
+				["25142"] = {
+					["item:25142:0:0:0:0:0:-40:15:80"] = {
+						"1;82347;0;720;8232;1569687157;", -- [1]
 					},
 				},
-				["36048"] = {
-					["item:36048:0:0:0:0:0:-39:101:80"] = {
-						"1;128408;0;720;6420;1528058601;", -- [1]
+				["12057"] = {
+					["item:12057:0:0:0:0:0:0:0:80"] = {
+						"1;12562;0;720;1254;1553316652;", -- [1]
 					},
 				},
-				["36159"] = {
-					["item:36159:0:0:0:0:0:-31:101:80"] = {
-						"1;119486;0;720;5973;1527892560;", -- [1]
+				["36162"] = {
+					["item:36162:0:0:0:0:0:-37:56:80"] = {
 					},
-				},
-				["39472"] = {
-					["item:39472:0:0:0:0:0:0:0:80"] = {
-						"1;213734;0;720;10686;1537664251;", -- [1]
-					},
-				},
-				["25209"] = {
-					["item:25209:0:0:0:0:0:-11:22:80"] = {
-						"1;212876;0;720;10641;1526080673;", -- [1]
-					},
-				},
-				["36457"] = {
-					["item:36457:0:0:0:0:0:-44:58:80"] = {
-						"1;207606;0;720;10380;1528083639;", -- [1]
-					},
-					["item:36457:0:0:0:0:0:-41:58:80"] = {
-						"1;207606;0;720;10380;1533862607;", -- [1]
-						"1;207606;0;720;10380;1533862607;", -- [2]
-					},
-				},
-				["10259"] = {
-					["item:10259:0:0:0:0:0:792:0:80"] = {
-						"1;31706;0;720;1584;1543460397;", -- [1]
-					},
-				},
-				["35579"] = {
-					["item:35579:0:0:0:0:0:0:0:80"] = {
-						"1;87408;0;720;4368;1527736345;", -- [1]
-					},
-				},
-				["41782"] = {
-					["item:41782:0:0:0:0:0:0:0:80"] = {
-						"1;120000;0;720;6000;1536503785;", -- [1]
-						"1;120000;0;720;6000;1540251935;", -- [2]
-						"1;120000;0;720;6000;1540697046;", -- [3]
+					["item:36162:0:0:0:0:0:-14:56:80"] = {
+						"1;80544;0;720;4026;1536503582;", -- [1]
 					},
 				},
 				["36269"] = {
@@ -5528,136 +7229,6 @@ BeanCounterDB = {
 					},
 					["item:36269:0:0:0:0:0:-12:101:80"] = {
 						"1;189052;0;720;9450;1528058652;", -- [1]
-					},
-				},
-				["24900"] = {
-					["item:24900:0:0:0:0:0:-33:40:80"] = {
-						"1;102444;0;720;5121;1526871537;", -- [1]
-					},
-				},
-				["28537"] = {
-					["item:28537:0:0:0:0:0:-13:14:80"] = {
-						"1;96068;0;720;4803;1526095863;", -- [1]
-					},
-				},
-				["16255"] = {
-					["item:16255:0:0:0:0:0:0:0:80"] = {
-						"1;22500;0;720;1125;1536634452;", -- [1]
-					},
-				},
-				["12057"] = {
-					["item:12057:0:0:0:0:0:0:0:80"] = {
-						"1;12562;0;720;1254;1553316652;", -- [1]
-					},
-				},
-				["31201"] = {
-					["item:31201:0:0:0:0:0:-40:33:80"] = {
-						"1;74508;0;720;3723;1526612323;", -- [1]
-					},
-				},
-				["25049"] = {
-					["item:25049:0:0:0:0:0:-37:25:80"] = {
-						"1;93462;0;720;4671;1526158147;", -- [1]
-					},
-				},
-				["24724"] = {
-					["item:24724:0:0:0:0:0:-11:23:80"] = {
-						"1;44192;0;720;2208;1526080519;", -- [1]
-					},
-				},
-				["36389"] = {
-					["item:36389:0:0:0:0:0:-13:104:80"] = {
-						"1;237354;0;720;11865;1539224364;", -- [1]
-					},
-				},
-				["36695"] = {
-					["item:36695:0:0:0:0:0:-44:45:80"] = {
-						"1;314670;0;720;15732;1532476126;", -- [1]
-					},
-				},
-				["13096"] = {
-					["item:13096:0:0:0:0:0:0:0:80"] = {
-						"1;23738;0;720;1185;1536634444;", -- [1]
-						"1;23738;0;720;1185;1543460437;", -- [2]
-					},
-				},
-				["36190"] = {
-					["item:36190:0:0:0:0:0:-20:52:80"] = {
-						"1;72456;0;720;3621;1527736364;", -- [1]
-					},
-				},
-				["36047"] = {
-					["item:36047:0:0:0:0:0:-6:101:80"] = {
-						"1;95948;0;720;4797;1536503715;", -- [1]
-					},
-				},
-				["36374"] = {
-					["item:36374:0:0:0:0:0:-27:72:80"] = {
-						"1;116372;0;720;5817;1538282188;", -- [1]
-					},
-				},
-				["14456"] = {
-					["item:14456:0:0:0:0:0:0:0:80"] = {
-						"1;52722;0;720;2634;1544290168;", -- [1]
-					},
-				},
-				["36512"] = {
-					["item:36512:0:0:0:0:0:-45:101:80"] = {
-						"1;389348;0;720;19467;1537024616;", -- [1]
-						"1;389348;0;720;19467;1537024616;", -- [2]
-					},
-				},
-				["36278"] = {
-					["item:36278:0:0:0:0:0:-9:78:80"] = {
-						"1;102444;0;720;5121;1537024660;", -- [1]
-					},
-					["item:36278:0:0:0:0:0:-6:78:80"] = {
-						"1;102444;0;720;5121;1532315889;", -- [1]
-					},
-				},
-				["25253"] = {
-					["item:25253:0:0:0:0:0:-10:18:80"] = {
-						"1;174300;0;720;8715;1526270062;", -- [1]
-					},
-				},
-				["10078"] = {
-					["item:10078:0:0:0:0:0:1202:0:80"] = {
-						"1;27963;0;720;2796;1553917574;", -- [1]
-					},
-				},
-				["37781"] = {
-					["item:37781:0:0:0:0:0:0:0:80"] = {
-						"1;117750;0;720;5886;1528058626;", -- [1]
-						"1;117750;0;720;5886;1539481720;", -- [2]
-						"1;117750;0;720;5886;1540142004;", -- [3]
-					},
-				},
-				["14855"] = {
-					["item:14855:0:0:0:0:0:0:0:80"] = {
-						"1;34332;0;720;1716;1543280344;", -- [1]
-					},
-				},
-				["31277"] = {
-					["item:31277:0:0:0:0:0:0:0:80"] = {
-						"1;125708;0;720;6285;1526186933;", -- [1]
-						"1;125708;0;720;6285;1526270186;", -- [2]
-					},
-				},
-				["8130"] = {
-					["item:8130:0:0:0:0:0:0:0:80"] = {
-						"1;28376;0;720;1416;1536634595;", -- [1]
-						"1;14188;0;720;1416;1553956052;", -- [2]
-					},
-				},
-				["36680"] = {
-					["item:36680:0:0:0:0:0:-44:43:80"] = {
-						"1;313994;0;720;15699;1527996892;", -- [1]
-						"1;313994;0;720;15699;1528140820;", -- [2]
-					},
-				},
-				["36569"] = {
-					["item:36569:0:0:0:0:0:-40:45:80"] = {
-						"1;323168;0;720;16158;1533255676;", -- [1]
 					},
 				},
 				["36166"] = {
@@ -5671,52 +7242,149 @@ BeanCounterDB = {
 						"1;85674;0;720;4281;1532130811;", -- [1]
 					},
 				},
-				["36162"] = {
-					["item:36162:0:0:0:0:0:-37:56:80"] = {
-					},
-					["item:36162:0:0:0:0:0:-14:56:80"] = {
-						"1;80544;0;720;4026;1536503582;", -- [1]
+				["36389"] = {
+					["item:36389:0:0:0:0:0:-13:104:80"] = {
+						"1;237354;0;720;11865;1539224364;", -- [1]
 					},
 				},
-				["24765"] = {
-					["item:24765:0:0:0:0:0:-8:38:80"] = {
-						"1;52202;0;720;2610;1526270155;", -- [1]
+				["36428"] = {
+					["item:36428:0:0:0:0:0:-39:56:80"] = {
+						"1;117168;0;720;5856;1536503737;", -- [1]
+					},
+					["item:36428:0:0:0:0:0:-17:56:80"] = {
+						"1;117168;0;720;5856;1528083651;", -- [1]
 					},
 				},
-				["15253"] = {
-					["item:15253:0:0:0:0:0:708:0:80"] = {
-						"1;94640;0;720;4731;1543802706;", -- [1]
+				["15662"] = {
+					["item:15662:0:0:0:0:0:412:0:80"] = {
+						"1;32402;0;720;1620;1537324024;", -- [1]
 					},
 				},
-				["25020"] = {
-					["item:25020:0:0:0:0:0:-45:41:80"] = {
-						"1;112890;0;720;5643;1526959562;", -- [1]
+				["8130"] = {
+					["item:8130:0:0:0:0:0:0:0:80"] = {
+						"1;28376;0;720;1416;1536634595;", -- [1]
+						"1;14188;0;720;1416;1553956052;", -- [2]
 					},
 				},
-				["12024"] = {
-					["item:12024:0:0:0:0:0:860:0:80"] = {
-						"1;8094;0;720;807;1553956060;", -- [1]
+				["15660"] = {
+					["item:15660:0:0:0:0:0:464:0:80"] = {
+						"1;76236;0;720;3810;1543542334;", -- [1]
 					},
 				},
-				["10145"] = {
-					["item:10145:0:0:0:0:0:788:0:80"] = {
-						"1;14632;0;720;1461;1553222396;", -- [1]
-					},
-				},
-				["10279"] = {
-					["item:10279:0:0:0:0:0:1224:0:80"] = {
-						"1;58628;0;720;2931;1543542306;", -- [1]
-					},
-				},
-				["13047"] = {
-					["item:13047:0:0:0:0:0:0:0:80"] = {
-						"1;84882;0;720;8487;1553222432;", -- [1]
-						"1;84882;0;720;8487;1553316854;", -- [2]
+				["24789"] = {
+					["item:24789:0:0:0:0:0:-40:30:80"] = {
+						"1;28531;0;720;2853;1557692710;", -- [1]
+						"1;28531;0;720;2853;1557692710;", -- [2]
+						"1;28531;0;720;2853;1558183366;", -- [3]
 					},
 				},
 				["24790"] = {
 					["item:24790:0:0:0:0:0:-32:41:80"] = {
 						"1;58628;0;720;2931;1526787163;", -- [1]
+					},
+				},
+				["25265"] = {
+					["item:25265:0:0:0:0:0:-13:17:80"] = {
+						"1;157184;0;720;7857;1526787019;", -- [1]
+					},
+				},
+				["36063"] = {
+					["item:36063:0:0:0:0:0:-6:108:80"] = {
+						"1;98592;0;720;4929;1534683929;", -- [1]
+					},
+					["item:36063:0:0:0:0:0:-37:108:80"] = {
+						"1;98592;0;720;4929;1538878196;", -- [1]
+					},
+				},
+				["36680"] = {
+					["item:36680:0:0:0:0:0:-44:43:80"] = {
+						"1;313994;0;720;15699;1527996892;", -- [1]
+						"1;313994;0;720;15699;1528140820;", -- [2]
+					},
+				},
+				["10078"] = {
+					["item:10078:0:0:0:0:0:1202:0:80"] = {
+						"1;27963;0;720;2796;1553917574;", -- [1]
+					},
+				},
+				["45322"] = {
+					["item:45322:0:0:0:0:0:0:0:80"] = {
+						"1;173134;0;720;9654;1540756616;", -- [1]
+					},
+				},
+				["36035"] = {
+					["item:36035:0:0:0:0:0:-6:72:80"] = {
+						"1;64448;0;720;3222;1532315813;", -- [1]
+						"1;64448;0;720;3222;1544290295;", -- [2]
+						"1;64448;0;720;3222;1544290295;", -- [3]
+					},
+					["item:36035:0:0:0:0:0:-39:72:80"] = {
+						"1;64448;0;720;3222;1531878103;", -- [1]
+					},
+					["item:36035:0:0:0:0:0:-26:72:80"] = {
+						"1;64448;0;720;3222;1543684920;", -- [1]
+					},
+				},
+				["31277"] = {
+					["item:31277:0:0:0:0:0:0:0:80"] = {
+						"1;125708;0;720;6285;1526186933;", -- [1]
+						"1;125708;0;720;6285;1526270186;", -- [2]
+					},
+				},
+				["36042"] = {
+					["item:36042:0:0:0:0:0:-36:54:80"] = {
+						"1;61424;0;720;3069;1534683854;", -- [1]
+					},
+				},
+				["36374"] = {
+					["item:36374:0:0:0:0:0:-27:72:80"] = {
+						"1;116372;0;720;5817;1538282188;", -- [1]
+					},
+				},
+				["15640"] = {
+					["item:15640:0:0:0:0:0:1052:0:80"] = {
+						"1;30349;0;720;3033;1553321688;", -- [1]
+					},
+				},
+				["36569"] = {
+					["item:36569:0:0:0:0:0:-40:45:80"] = {
+						"1;323168;0;720;16158;1533255676;", -- [1]
+					},
+				},
+				["36526"] = {
+					["item:36526:0:0:0:0:0:-8:43:80"] = {
+						"1;336632;0;720;16830;1528058611;", -- [1]
+					},
+				},
+				["7909"] = {
+					["item:7909:0:0:0:0:0:0:0:80"] = {
+						"1;3000;0;720;300;1543183963;", -- [1]
+						"1;3000;0;720;300;1543183963;", -- [2]
+						"1;3000;0;720;450;1543802600;", -- [3]
+						"1;3000;0;720;450;1543802600;", -- [4]
+						"1;3000;0;720;450;1543802600;", -- [5]
+						"1;1500;0;720;300;1553439622;", -- [6]
+						"1;1500;0;720;300;1553439622;", -- [7]
+						"4;6000;0;720;600;1553654110;", -- [8]
+						"4;6000;0;720;600;1553917562;", -- [9]
+						"5;7500;0;720;750;1553956111;", -- [10]
+						"2;3000;0;720;300;1555168361;", -- [11]
+						"1;1500;0;720;150;1555774730;", -- [12]
+					},
+				},
+				["21885"] = {
+					["item:21885:0:0:0:0:0:0:0:80"] = {
+						"2;12000;0;720;1200;1558879746;", -- [1]
+					},
+				},
+				["31255"] = {
+					["item:31255:0:0:0:0:0:0:0:80"] = {
+						"1;72994;0;720;3642;1526270219;", -- [1]
+					},
+				},
+				["12024"] = {
+					["item:12024:0:0:0:0:0:860:0:80"] = {
+						"1;8094;0;720;807;1553956060;", -- [1]
 					},
 				},
 				["14307"] = {
@@ -5727,9 +7395,33 @@ BeanCounterDB = {
 						"1;36192;0;720;1809;1544290189;", -- [1]
 					},
 				},
-				["15384"] = {
-					["item:15384:0:0:0:0:0:339:0:80"] = {
-						"1;27464;0;720;1371;1536634474;", -- [1]
+				["12691"] = {
+					["item:12691:0:0:0:0:0:0:0:80"] = {
+						"1;12000;0;720;600;1536887567;", -- [1]
+					},
+				},
+				["13047"] = {
+					["item:13047:0:0:0:0:0:0:0:80"] = {
+						"1;84882;0;720;8487;1553222432;", -- [1]
+						"1;84882;0;720;8487;1553316854;", -- [2]
+					},
+				},
+				["14682"] = {
+					["item:14682:0:0:0:0:0:0:0:80"] = {
+						"1;29718;0;720;1485;1544290228;", -- [1]
+					},
+				},
+				["25020"] = {
+					["item:25020:0:0:0:0:0:-45:41:80"] = {
+						"1;112890;0;720;5643;1526959562;", -- [1]
+					},
+				},
+				["25321"] = {
+					["item:25321:0:0:0:0:0:-8:22:80"] = {
+						"1;212070;0;720;10602;1538515691;", -- [1]
+					},
+					["item:25321:0:0:0:0:0:-9:22:80"] = {
+						"1;106035;0;720;10602;1558969649;", -- [1]
 					},
 				},
 				["4089"] = {
@@ -5737,9 +7429,9 @@ BeanCounterDB = {
 						"1;22590;0;720;2259;1553917548;", -- [1]
 					},
 				},
-				["14319"] = {
-					["item:14319:0:0:0:0:0:1042:0:80"] = {
-						"1;34202;0;720;1710;1536700154;", -- [1]
+				["31291"] = {
+					["item:31291:0:0:0:0:0:0:0:80"] = {
+						"1;161398;0;720;16137;1561077420;", -- [1]
 					},
 				},
 				["10369"] = {
@@ -5747,9 +7439,9 @@ BeanCounterDB = {
 						"1;19476;0;720;1947;1553316753;", -- [1]
 					},
 				},
-				["25038"] = {
-					["item:25038:0:0:0:0:0:-5:27:80"] = {
-						"1;58148;0;720;2907;1526158120;", -- [1]
+				["36047"] = {
+					["item:36047:0:0:0:0:0:-6:101:80"] = {
+						"1;95948;0;720;4797;1536503715;", -- [1]
 					},
 				},
 				["24640"] = {
@@ -5762,9 +7454,9 @@ BeanCounterDB = {
 						"1;154214;0;720;7710;1539224478;", -- [1]
 					},
 				},
-				["15745"] = {
-					["item:15745:0:0:0:0:0:0:0:80"] = {
-						"1;7500;0;720;750;1553316712;", -- [1]
+				["24777"] = {
+					["item:24777:0:0:0:0:0:-14:52:80"] = {
+						"1;38956;0;720;3894;1559485672;", -- [1]
 					},
 				},
 				["10275"] = {
@@ -5784,14 +7476,21 @@ BeanCounterDB = {
 						"1;64736;0;720;3234;1543684928;", -- [1]
 					},
 				},
-				["25321"] = {
-					["item:25321:0:0:0:0:0:-8:22:80"] = {
-						"1;212070;0;720;10602;1538515691;", -- [1]
+				["25049"] = {
+					["item:25049:0:0:0:0:0:-37:25:80"] = {
+						"1;93462;0;720;4671;1526158147;", -- [1]
 					},
 				},
-				["25265"] = {
-					["item:25265:0:0:0:0:0:-13:17:80"] = {
-						"1;157184;0;720;7857;1526787019;", -- [1]
+				["12685"] = {
+					["item:12685:0:0:0:0:0:0:0:80"] = {
+						"1;9000;0;720;450;1543460250;", -- [1]
+						"1;4500;0;720;450;1553917658;", -- [2]
+					},
+				},
+				["24833"] = {
+					["item:24833:0:0:0:0:0:-9:31:80"] = {
+						"1;52254;0;720;2610;1526095781;", -- [1]
+						"1;26127;0;720;2610;1570061325;", -- [2]
 					},
 				},
 				["8271"] = {
@@ -5799,21 +7498,14 @@ BeanCounterDB = {
 						"1;30537;0;720;3051;1553917613;", -- [1]
 					},
 				},
-				["12697"] = {
-					["item:12697:0:0:0:0:0:0:0:80"] = {
-						"1;16400;0;720;825;1531878154;", -- [1]
-						"1;16500;0;720;825;1543802715;", -- [2]
-						"1;8250;0;720;825;1553321691;", -- [3]
+				["32540"] = {
+					["item:32540:0:0:0:0:0:0:0:80"] = {
+						"1;46212;0;720;4620;1558969666;", -- [1]
 					},
 				},
-				["10375"] = {
-					["item:10375:0:0:0:0:0:0:0:80"] = {
-						"1;18787;0;720;1878;1553316722;", -- [1]
-					},
-				},
-				["45322"] = {
-					["item:45322:0:0:0:0:0:0:0:80"] = {
-						"1;173134;0;720;9654;1540756616;", -- [1]
+				["36049"] = {
+					["item:36049:0:0:0:0:0:-36:75:80"] = {
+						"1;96654;0;720;4830;1528083713;", -- [1]
 					},
 				},
 				["24909"] = {
@@ -5821,9 +7513,9 @@ BeanCounterDB = {
 						"1;65126;0;720;3255;1526436987;", -- [1]
 					},
 				},
-				["25018"] = {
-					["item:25018:0:0:0:0:0:-9:55:80"] = {
-						"1;112034;0;720;5601;1526186885;", -- [1]
+				["24774"] = {
+					["item:24774:0:0:0:0:0:-40:39:80"] = {
+						"1;77034;0;720;3849;1526787029;", -- [1]
 					},
 				},
 				["8307"] = {
@@ -5831,25 +7523,25 @@ BeanCounterDB = {
 						"1;56150;0;720;2805;1543183805;", -- [1]
 					},
 				},
-				["36428"] = {
-					["item:36428:0:0:0:0:0:-39:56:80"] = {
-						"1;117168;0;720;5856;1536503737;", -- [1]
-					},
-					["item:36428:0:0:0:0:0:-17:56:80"] = {
-						"1;117168;0;720;5856;1528083651;", -- [1]
+				["7080"] = {
+					["item:7080:0:0:0:0:0:0:0:80"] = {
+						"2;1200;0;720;120;1557095192;", -- [1]
+						"2;1200;0;720;120;1558879760;", -- [2]
 					},
 				},
-				["24842"] = {
-					["item:24842:0:0:0:0:0:-39:43:80"] = {
-						"1;83402;0;720;4170;1526080633;", -- [1]
+				["36457"] = {
+					["item:36457:0:0:0:0:0:-44:58:80"] = {
+						"1;207606;0;720;10380;1528083639;", -- [1]
+						"1;103803;0;720;10380;1567429530;", -- [2]
+					},
+					["item:36457:0:0:0:0:0:-41:58:80"] = {
+						"1;207606;0;720;10380;1533862607;", -- [1]
+						"1;207606;0;720;10380;1533862607;", -- [2]
 					},
 				},
-				["36063"] = {
-					["item:36063:0:0:0:0:0:-6:108:80"] = {
-						"1;98592;0;720;4929;1534683929;", -- [1]
-					},
-					["item:36063:0:0:0:0:0:-37:108:80"] = {
-						"1;98592;0;720;4929;1538878196;", -- [1]
+				["16255"] = {
+					["item:16255:0:0:0:0:0:0:0:80"] = {
+						"1;22500;0;720;1125;1536634452;", -- [1]
 					},
 				},
 				["7993"] = {
@@ -5882,14 +7574,14 @@ BeanCounterDB = {
 						"1;6186;0;720;618;1553956120;", -- [1]
 					},
 				},
-				["31255"] = {
-					["item:31255:0:0:0:0:0:0:0:80"] = {
-						"1;72994;0;720;3642;1526270219;", -- [1]
+				["25180"] = {
+					["item:25180:0:0:0:0:0:-45:52:80"] = {
+						"1;135286;0;720;13527;1556985927;", -- [1]
 					},
 				},
-				["12689"] = {
-					["item:12689:0:0:0:0:0:0:0:80"] = {
-						"1;10500;0;720;525;1543460445;", -- [1]
+				["10064"] = {
+					["item:10064:0:0:0:0:0:795:0:80"] = {
+						"1;16162;0;720;1614;1553222441;", -- [1]
 					},
 				},
 				["10119"] = {
@@ -5908,14 +7600,21 @@ BeanCounterDB = {
 						"1;120000;0;720;6000;1539481711;", -- [2]
 					},
 				},
-				["24756"] = {
-					["item:24756:0:0:0:0:0:-8:26:80"] = {
-						"1;47948;0;720;2397;1526787141;", -- [1]
+				["16825"] = {
+					["item:16825:0:0:0:0:0:0:0:80"] = {
+						"1;26662;0;720;2664;1555774737;", -- [1]
+						"1;26662;0;720;2664;1556315043;", -- [2]
 					},
 				},
-				["10236"] = {
-					["item:10236:0:0:0:0:0:545:0:80"] = {
-						"1;33924;0;720;3390;1553222402;", -- [1]
+				["41782"] = {
+					["item:41782:0:0:0:0:0:0:0:80"] = {
+						"1;120000;0;720;6000;1536503785;", -- [1]
+						"1;120000;0;720;6000;1540251935;", -- [2]
+						"1;120000;0;720;6000;1540697046;", -- [3]
+					},
+				},
+				["36554"] = {
+					["item:36554:0:0:0:0:0:-39:101:80"] = {
 					},
 				},
 				["35640"] = {
@@ -5923,20 +7622,14 @@ BeanCounterDB = {
 						"1;118370;0;720;5916;1527775067;", -- [1]
 					},
 				},
-				["37794"] = {
-					["item:37794:0:0:0:0:0:0:0:80"] = {
-						"1;140600;0;720;7029;1532476167;", -- [1]
-						"1;140600;0;720;7029;1543080614;", -- [2]
+				["28537"] = {
+					["item:28537:0:0:0:0:0:-13:14:80"] = {
+						"1;96068;0;720;4803;1526095863;", -- [1]
 					},
 				},
-				["15640"] = {
-					["item:15640:0:0:0:0:0:1052:0:80"] = {
-						"1;30349;0;720;3033;1553321688;", -- [1]
-					},
-				},
-				["12691"] = {
-					["item:12691:0:0:0:0:0:0:0:80"] = {
-						"1;12000;0;720;600;1536887567;", -- [1]
+				["9876"] = {
+					["item:9876:0:0:0:0:0:1030:0:80"] = {
+						"1;4719;0;720;471;1553911608;", -- [1]
 					},
 				},
 				["37769"] = {
@@ -5954,17 +7647,9 @@ BeanCounterDB = {
 						"1;15598;0;720;1557;1553316699;", -- [1]
 					},
 				},
-				["36035"] = {
-					["item:36035:0:0:0:0:0:-6:72:80"] = {
-						"1;64448;0;720;3222;1532315813;", -- [1]
-						"1;64448;0;720;3222;1544290295;", -- [2]
-						"1;64448;0;720;3222;1544290295;", -- [3]
-					},
-					["item:36035:0:0:0:0:0:-39:72:80"] = {
-						"1;64448;0;720;3222;1531878103;", -- [1]
-					},
-					["item:36035:0:0:0:0:0:-26:72:80"] = {
-						"1;64448;0;720;3222;1543684920;", -- [1]
+				["16817"] = {
+					["item:16817:0:0:0:0:0:0:0:80"] = {
+						"1;20695;0;720;2067;1556315033;", -- [1]
 					},
 				},
 				["15670"] = {
@@ -5972,23 +7657,22 @@ BeanCounterDB = {
 						"1;59258;0;720;2961;1543183855;", -- [1]
 					},
 				},
-				["9876"] = {
-					["item:9876:0:0:0:0:0:1030:0:80"] = {
-						"1;4719;0;720;471;1553911608;", -- [1]
+				["36052"] = {
+					["item:36052:0:0:0:0:0:-39:78:80"] = {
+						"1;102444;0;720;5121;1527996934;", -- [1]
+					},
+					["item:36052:0:0:0:0:0:-8:78:80"] = {
+						"1;102444;0;720;5121;1533482671;", -- [1]
+					},
+					["item:36052:0:0:0:0:0:-36:78:80"] = {
+						"1;102444;0;720;5121;1533862631;", -- [1]
 					},
 				},
-				["7909"] = {
-					["item:7909:0:0:0:0:0:0:0:80"] = {
-						"1;3000;0;720;300;1543183963;", -- [1]
-						"1;3000;0;720;300;1543183963;", -- [2]
-						"1;3000;0;720;450;1543802600;", -- [3]
-						"1;3000;0;720;450;1543802600;", -- [4]
-						"1;3000;0;720;450;1543802600;", -- [5]
-						"1;1500;0;720;300;1553439622;", -- [6]
-						"1;1500;0;720;300;1553439622;", -- [7]
-						"4;6000;0;720;600;1553654110;", -- [8]
-						"4;6000;0;720;600;1553917562;", -- [9]
-						"5;7500;0;720;750;1553956111;", -- [10]
+				["36679"] = {
+					["item:36679:0:0:0:0:0:-9:42:80"] = {
+						"1;306056;0;720;15300;1527996900;", -- [1]
+					},
+					["item:36679:0:0:0:0:0:-44:42:80"] = {
 					},
 				},
 				["25252"] = {
@@ -5996,10 +7680,9 @@ BeanCounterDB = {
 						"1;169722;0;720;8484;1537754460;", -- [1]
 					},
 				},
-				["3864"] = {
-					["item:3864:0:0:0:0:0:0:0:80"] = {
-						"1;1200;0;720;120;1553222429;", -- [1]
-						"1;1200;0;720;120;1553917578;", -- [2]
+				["24657"] = {
+					["item:24657:0:0:0:0:0:-37:50:80"] = {
+						"1;32721;0;720;3270;1567429516;", -- [1]
 					},
 				},
 				["25183"] = {
@@ -6010,9 +7693,12 @@ BeanCounterDB = {
 						"1;293588;0;720;14679;1526158161;", -- [1]
 					},
 				},
-				["36402"] = {
-					["item:36402:0:0:0:0:0:-17:60:80"] = {
-						"1;115680;0;720;5784;1537664217;", -- [1]
+				["36626"] = {
+					["item:36626:0:0:0:0:0:-17:34:80"] = {
+						"1;244614;0;720;12228;1536503610;", -- [1]
+					},
+					["item:36626:0:0:0:0:0:-8:34:80"] = {
+						"1;244614;0;720;12228;1539481637;", -- [1]
 					},
 				},
 				["36400"] = {
@@ -6020,14 +7706,17 @@ BeanCounterDB = {
 						"1;228306;0;720;11415;1537664263;", -- [1]
 					},
 				},
-				["36526"] = {
-					["item:36526:0:0:0:0:0:-8:43:80"] = {
-						"1;336632;0;720;16830;1528058611;", -- [1]
+				["36036"] = {
+					["item:36036:0:0:0:0:0:-36:72:80"] = {
+						"1;90056;0;720;4500;1527892657;", -- [1]
+					},
+					["item:36036:0:0:0:0:0:-37:72:80"] = {
+						"1;90056;0;720;4500;1527996872;", -- [1]
 					},
 				},
-				["14489"] = {
-					["item:14489:0:0:0:0:0:0:0:80"] = {
-						"1;15000;0;720;750;1543802567;", -- [1]
+				["16736"] = {
+					["item:16736:0:0:0:0:0:0:0:80"] = {
+						"1;49076;0;720;2451;1536786615;", -- [1]
 					},
 				},
 				["7519"] = {
@@ -6035,9 +7724,9 @@ BeanCounterDB = {
 						"1;11452;0;720;1143;1553222404;", -- [1]
 					},
 				},
-				["25307"] = {
-					["item:25307:0:0:0:0:0:-16:22:80"] = {
-						"1;216914;0;720;10845;1526270090;", -- [1]
+				["14474"] = {
+					["item:14474:0:0:0:0:0:0:0:80"] = {
+						"1;9000;0;720;450;1536887585;", -- [1]
 					},
 				},
 				["13070"] = {
@@ -6047,9 +7736,12 @@ BeanCounterDB = {
 						"1;36909;0;720;3690;1553439547;", -- [3]
 					},
 				},
-				["32749"] = {
-					["item:32749:0:0:0:0:0:0:0:80"] = {
-						"1;37500;0;720;1875;1538617660;", -- [1]
+				["25018"] = {
+					["item:25018:0:0:0:0:0:-9:55:80"] = {
+						"1;112034;0;720;5601;1526186885;", -- [1]
+					},
+					["item:25018:0:0:0:0:0:-27:55:80"] = {
+						"1;56017;0;720;5601;1557624746;", -- [1]
 					},
 				},
 				["36653"] = {
@@ -6066,14 +7758,14 @@ BeanCounterDB = {
 						"2;2100;0;720;210;1553917666;", -- [2]
 					},
 				},
-				["36049"] = {
-					["item:36049:0:0:0:0:0:-36:75:80"] = {
-						"1;96654;0;720;4830;1528083713;", -- [1]
+				["13056"] = {
+					["item:13056:0:0:0:0:0:0:0:80"] = {
+						"1;72495;0;720;7248;1553439631;", -- [1]
 					},
 				},
-				["15662"] = {
-					["item:15662:0:0:0:0:0:412:0:80"] = {
-						"1;32402;0;720;1620;1537324024;", -- [1]
+				["28533"] = {
+					["item:28533:0:0:0:0:0:-40:12:80"] = {
+						"1;42819;0;720;4281;1569892762;", -- [1]
 					},
 				},
 				["20520"] = {
@@ -6089,9 +7781,9 @@ BeanCounterDB = {
 						"1;81184;0;720;8118;1553956114;", -- [1]
 					},
 				},
-				["14682"] = {
-					["item:14682:0:0:0:0:0:0:0:80"] = {
-						"1;29718;0;720;1485;1544290228;", -- [1]
+				["25225"] = {
+					["item:25225:0:0:0:0:0:-13:56:80"] = {
+						"1;137292;0;720;13728;1559485654;", -- [1]
 					},
 				},
 				["14553"] = {
@@ -6099,9 +7791,9 @@ BeanCounterDB = {
 						"1;51374;0;720;2568;1536636649;", -- [1]
 					},
 				},
-				["36042"] = {
-					["item:36042:0:0:0:0:0:-36:54:80"] = {
-						"1;61424;0;720;3069;1534683854;", -- [1]
+				["25227"] = {
+					["item:25227:0:0:0:0:0:-40:38:80"] = {
+						"1;200958;0;720;10047;1526080583;", -- [1]
 					},
 				},
 				["10176"] = {
@@ -6122,14 +7814,23 @@ BeanCounterDB = {
 						"1;15000;0;720;750;1543183970;", -- [1]
 					},
 				},
-				["15660"] = {
-					["item:15660:0:0:0:0:0:464:0:80"] = {
-						"1;76236;0;720;3810;1543542334;", -- [1]
+				["36380"] = {
+					["item:36380:0:0:0:0:0:-37:75:80"] = {
+						"1;163856;0;720;8190;1533161522;", -- [1]
+					},
+					["item:36380:0:0:0:0:0:-19:75:80"] = {
+						"1;163856;0;720;8190;1538878260;", -- [1]
 					},
 				},
-				["24774"] = {
-					["item:24774:0:0:0:0:0:-40:39:80"] = {
-						"1;77034;0;720;3849;1526787029;", -- [1]
+				["24676"] = {
+					["item:24676:0:0:0:0:0:-37:30:80"] = {
+						"1;45650;0;720;2280;1527044281;", -- [1]
+					},
+					["item:24676:0:0:0:0:0:-8:30:80"] = {
+						"1;45650;0;720;2280;1526186902;", -- [1]
+					},
+					["item:24676:0:0:0:0:0:-38:30:80"] = {
+						"1;22825;0;720;2280;1569784494;", -- [1]
 					},
 				},
 				["24889"] = {
@@ -6137,14 +7838,17 @@ BeanCounterDB = {
 						"1;62094;0;720;3102;1526270077;", -- [1]
 					},
 				},
-				["10164"] = {
-					["item:10164:0:0:0:0:0:1055:0:80"] = {
-						"1;77744;0;720;3885;1543802687;", -- [1]
+				["44688"] = {
+					["item:44688:0:0:0:0:0:-91:65:80"] = {
+						"1;144390;0;720;7218;1534290729;", -- [1]
 					},
 				},
-				["35652"] = {
-					["item:35652:0:0:0:0:0:0:0:80"] = {
-						"1;283804;0;720;14688;1531878056;", -- [1]
+				["31306"] = {
+					["item:31306:0:0:0:0:0:0:0:80"] = {
+						"1;100692;0;720;5034;1526436973;", -- [1]
+						"1;50346;0;720;5034;1557692736;", -- [2]
+						"1;50346;0;720;5034;1558879736;", -- [3]
+						"1;50346;0;720;5034;1567429510;", -- [4]
 					},
 				},
 				["10215"] = {
@@ -6152,17 +7856,15 @@ BeanCounterDB = {
 						"1;48636;0;720;2430;1543183877;", -- [1]
 					},
 				},
-				["44681"] = {
-					["item:44681:0:0:0:0:0:-75:70:80"] = {
-						"1;147420;0;720;7371;1527892577;", -- [1]
+				["14277"] = {
+					["item:14277:0:0:0:0:0:1049:0:80"] = {
+						"1;30392;0;720;1518;1543802725;", -- [1]
 					},
 				},
-				["14922"] = {
-					["item:14922:0:0:0:0:0:1209:0:80"] = {
-						"1;21676;0;720;2166;1553222410;", -- [1]
-					},
-					["item:14922:0:0:0:0:0:1125:0:80"] = {
-						"1;21676;0;720;2166;1553316821;", -- [1]
+				["41780"] = {
+					["item:41780:0:0:0:0:0:0:0:80"] = {
+						"1;120000;0;720;6000;1538282229;", -- [1]
+						"1;120000;0;720;6000;1541266809;", -- [2]
 					},
 				},
 				["14499"] = {
@@ -6173,16 +7875,18 @@ BeanCounterDB = {
 				["25179"] = {
 					["item:25179:0:0:0:0:0:-40:50:80"] = {
 						"1;262988;0;720;13149;1526787091;", -- [1]
+						"1;131494;0;720;13149;1558183358;", -- [2]
 					},
 				},
-				["14494"] = {
-					["item:14494:0:0:0:0:0:0:0:80"] = {
-						"1;8250;0;720;825;1553316686;", -- [1]
+				["10158"] = {
+					["item:10158:0:0:0:0:0:333:0:80"] = {
+						"1;40446;0;720;4044;1553654158;", -- [1]
 					},
 				},
-				["12695"] = {
-					["item:12695:0:0:0:0:0:0:0:80"] = {
-						"1;7500;0;720;750;1553439608;", -- [1]
+				["25228"] = {
+					["item:25228:0:0:0:0:0:-13:40:80"] = {
+						"1;208058;0;720;10401;1526095800;", -- [1]
+						"1;104029;0;720;10401;1570061330;", -- [2]
 					},
 				},
 				["24976"] = {
@@ -6190,43 +7894,44 @@ BeanCounterDB = {
 						"1;141386;0;720;7068;1526158172;", -- [1]
 					},
 				},
-				["36171"] = {
-					["item:36171:0:0:0:0:0:-16:81:80"] = {
-						"1;80612;0;720;4029;1536503645;", -- [1]
+				["15765"] = {
+					["item:15765:0:0:0:0:0:0:0:80"] = {
+						"1;11250;0;720;1125;1554565981;", -- [1]
+						"1;11250;0;720;1125;1555168346;", -- [2]
 					},
 				},
-				["16043"] = {
-					["item:16043:0:0:0:0:0:0:0:80"] = {
-						"1;9000;0;720;450;1543460301;", -- [1]
+				["25221"] = {
+					["item:25221:0:0:0:0:0:-7:50:80"] = {
+						"1;271716;0;720;13584;1526787153;", -- [1]
 					},
 				},
-				["25290"] = {
-					["item:25290:0:0:0:0:0:-39:15:80"] = {
-						"1;152724;0;720;7635;1526158128;", -- [1]
+				["36265"] = {
+					["item:36265:0:0:0:0:0:-13:72:80"] = {
+						"1;137252;0;720;6861;1527892709;", -- [1]
 					},
 				},
-				["24593"] = {
-					["item:24593:0:0:0:0:0:-36:38:80"] = {
-						"1;50270;0;720;2511;1526080652;", -- [1]
+				["10152"] = {
+					["item:10152:0:0:0:0:0:632:0:80"] = {
+						"1;65702;0;720;3285;1544487980;", -- [1]
 					},
 				},
-				["13036"] = {
-					["item:13036:0:0:0:0:0:0:0:80"] = {
-						"1;61482;0;720;6147;1553222423;", -- [1]
+				["24840"] = {
+					["item:24840:0:0:0:0:0:-39:43:80"] = {
+						"1;55198;0;720;5517;1569625936;", -- [1]
+						"1;55198;0;720;5517;1569625936;", -- [2]
 					},
 				},
-				["13144"] = {
-					["item:13144:0:0:0:0:0:0:0:80"] = {
-						"1;10297;0;720;1029;1553316658;", -- [1]
+				["25242"] = {
+					["item:25242:0:0:0:0:0:-6:12:80"] = {
+						"1;67420;0;720;6741;1569784477;", -- [1]
 					},
 				},
-				["34664"] = {
-					["item:34664:0:0:0:0:0:0:0:80"] = {
-						"1;67500;0;720;16875;1538524707;", -- [1]
-						"1;67500;0;720;16875;1538524707;", -- [2]
-						"1;67500;0;720;16875;1538524707;", -- [3]
-						"1;67500;0;720;16875;1538524707;", -- [4]
-						"1;67500;0;720;16875;1538524707;", -- [5]
+				["36281"] = {
+					["item:36281:0:0:0:0:0:-14:78:80"] = {
+						"1;156002;0;720;7800;1539224383;", -- [1]
+					},
+					["item:36281:0:0:0:0:0:-67:78:80"] = {
+						"1;156002;0;720;7800;1536503574;", -- [1]
 					},
 				},
 				["10371"] = {
@@ -6234,9 +7939,9 @@ BeanCounterDB = {
 						"1;58422;0;720;2919;1536634385;", -- [1]
 					},
 				},
-				["10064"] = {
-					["item:10064:0:0:0:0:0:795:0:80"] = {
-						"1;16162;0;720;1614;1553222441;", -- [1]
+				["25192"] = {
+					["item:25192:0:0:0:0:0:-41:20:80"] = {
+						"1;199886;0;720;9993;1526352861;", -- [1]
 					},
 				},
 				["13015"] = {
@@ -6259,9 +7964,9 @@ BeanCounterDB = {
 						"1;21286;0;720;2127;1553439633;", -- [1]
 					},
 				},
-				["15390"] = {
-					["item:15390:0:0:0:0:0:627:0:80"] = {
-						"1;24262;0;720;2424;1553222455;", -- [1]
+				["14916"] = {
+					["item:14916:0:0:0:0:0:693:0:80"] = {
+						"1;25881;0;720;2586;1553917628;", -- [1]
 					},
 				},
 				["14970"] = {
@@ -6274,14 +7979,15 @@ BeanCounterDB = {
 						"1;414504;0;720;20724;1528058594;", -- [1]
 					},
 				},
-				["1206"] = {
-					["item:1206:0:0:0:0:0:0:0:80"] = {
-						"1;600;0;720;100;1553222458;", -- [1]
+				["32755"] = {
+					["item:32755:0:0:0:0:0:0:0:80"] = {
+						"1;18750;0;720;1875;1558879765;", -- [1]
+						"1;18750;0;720;1875;1559485653;", -- [2]
 					},
 				},
-				["14286"] = {
-					["item:14286:0:0:0:0:0:782:0:80"] = {
-						"1;6930;0;720;693;1553316634;", -- [1]
+				["36002"] = {
+					["item:36002:0:0:0:0:0:-9:45:80"] = {
+						"1;58808;0;720;2940;1527820439;", -- [1]
 					},
 				},
 				["19233"] = {
@@ -6294,34 +8000,35 @@ BeanCounterDB = {
 						"1;75422;0;720;3771;1531878119;", -- [1]
 					},
 				},
-				["44697"] = {
-					["item:44697:0:0:0:0:0:-36:126:80"] = {
-						"1;232196;0;720;11607;1534120347;", -- [1]
+				["16838"] = {
+					["item:16838:0:0:0:0:0:0:0:80"] = {
+						"1;31156;0;720;3114;1553654115;", -- [1]
+						"1;31156;0;720;3114;1553654115;", -- [2]
 					},
 				},
-				["14859"] = {
-					["item:14859:0:0:0:0:0:0:0:80"] = {
-						"1;38904;0;720;3888;1553321699;", -- [1]
+				["24583"] = {
+					["item:24583:0:0:0:0:0:-8:37:80"] = {
+						"1;33646;0;720;3363;1569784487;", -- [1]
 					},
 				},
-				["8190"] = {
-					["item:8190:0:0:0:0:0:0:0:80"] = {
-						"1;55929;0;720;5592;1553316750;", -- [1]
+				["13020"] = {
+					["item:13020:0:0:0:0:0:0:0:80"] = {
+						"1;13477;0;720;1347;1553911591;", -- [1]
 					},
 				},
-				["13089"] = {
-					["item:13089:0:0:0:0:0:0:0:80"] = {
-						"1;12058;0;720;1203;1553917569;", -- [1]
+				["24809"] = {
+					["item:24809:0:0:0:0:0:-39:27:80"] = {
+						"1;25234;0;720;2523;1569892796;", -- [1]
 					},
 				},
-				["15983"] = {
-					["item:15983:0:0:0:0:0:178:0:80"] = {
-						"1;12580;0;720;1257;1553316715;", -- [1]
+				["36539"] = {
+					["item:36539:0:0:0:0:0:-18:97:80"] = {
+						"1;401504;0;720;20073;1528140809;", -- [1]
 					},
 				},
-				["25227"] = {
-					["item:25227:0:0:0:0:0:-40:38:80"] = {
-						"1;200958;0;720;10047;1526080583;", -- [1]
+				["24663"] = {
+					["item:24663:0:0:0:0:0:-36:52:80"] = {
+						"1;82790;0;720;4137;1526158083;", -- [1]
 					},
 				},
 				["15394"] = {
@@ -6332,9 +8039,9 @@ BeanCounterDB = {
 						"1;21922;0;720;2190;1553956106;", -- [1]
 					},
 				},
-				["31190"] = {
-					["item:31190:0:0:0:0:0:0:0:80"] = {
-						"1;80972;0;720;4047;1526612335;", -- [1]
+				["10204"] = {
+					["item:10204:0:0:0:0:0:1203:0:80"] = {
+						"1;29832;0;720;2982;1553222399;", -- [1]
 					},
 				},
 				["15427"] = {
@@ -6347,9 +8054,9 @@ BeanCounterDB = {
 						"1;39062;0;720;1953;1543460426;", -- [1]
 					},
 				},
-				["8256"] = {
-					["item:8256:0:0:0:0:0:0:0:80"] = {
-						"1;15391;0;720;1539;1553316799;", -- [1]
+				["5498"] = {
+					["item:5498:0:0:0:0:0:0:0:80"] = {
+						"1;300;0;720;100;1553917669;", -- [1]
 					},
 				},
 				["15887"] = {
@@ -6357,9 +8064,9 @@ BeanCounterDB = {
 						"1;82742;0;720;4137;1536634433;", -- [1]
 					},
 				},
-				["833"] = {
-					["item:833:0:0:0:0:0:0:0:80"] = {
-						"1;42000;0;720;4200;1553321653;", -- [1]
+				["24767"] = {
+					["item:24767:0:0:0:0:0:-32:50:80"] = {
+						"1;52587;0;720;5256;1557624748;", -- [1]
 					},
 				},
 				["15677"] = {
@@ -6382,10 +8089,20 @@ BeanCounterDB = {
 						"1;23070;0;720;2307;1553439584;", -- [1]
 					},
 				},
-				["16864"] = {
-					["item:16864:0:0:0:0:0:0:0:80"] = {
-						"1;76788;0;720;3837;1537116757;", -- [1]
-						"1;38394;0;720;3837;1553654155;", -- [2]
+				["32428"] = {
+					["item:32428:0:0:0:0:0:0:0:80"] = {
+						"20;600000;0;720;60000;1557095200;", -- [1]
+						"5;150000;0;720;15000;1557624751;", -- [2]
+						"20;600000;0;720;60000;1557692721;", -- [3]
+						"5;150000;0;720;15000;1557692743;", -- [4]
+						"19;570000;0;720;57000;1558231551;", -- [5]
+						"9;270000;0;720;27000;1558830711;", -- [6]
+						"20;600000;0;720;60000;1558879738;", -- [7]
+						"3;90000;0;720;9000;1558879770;", -- [8]
+						"6;180000;0;720;18000;1559437347;", -- [9]
+						"20;600000;0;720;60000;1559485666;", -- [10]
+						"4;120000;0;720;12000;1559485669;", -- [11]
+						"6;180000;0;720;18000;1560041089;", -- [12]
 					},
 				},
 				["10197"] = {
@@ -6394,6 +8111,15 @@ BeanCounterDB = {
 					},
 				},
 				["24675"] = {
+					["item:24675:0:0:0:0:0:-36:40:80"] = {
+						"1;34117;0;720;3411;1559485657;", -- [1]
+					},
+					["item:24675:0:0:0:0:0:-6:40:80"] = {
+						"1;34117;0;720;3411;1559437341;", -- [1]
+					},
+					["item:24675:0:0:0:0:0:-8:40:80"] = {
+						"1;34117;0;720;3411;1569784504;", -- [1]
+					},
 					["item:24675:0:0:0:0:0:-9:40:80"] = {
 						"1;68234;0;720;3411;1526787074;", -- [1]
 					},
@@ -6403,6 +8129,11 @@ BeanCounterDB = {
 						"1;150000;0;720;15000;1538515731;", -- [1]
 						"1;150000;0;720;15000;1538515731;", -- [2]
 						"1;150000;0;720;7500;1538524713;", -- [3]
+						"6;450000;0;720;45000;1557095206;", -- [4]
+						"3;225000;0;720;22500;1557692740;", -- [5]
+						"6;450000;0;720;45000;1558231545;", -- [6]
+						"5;375000;0;720;37500;1558879758;", -- [7]
+						"3;225000;0;720;22500;1559485685;", -- [8]
 					},
 				},
 				["8108"] = {
@@ -6410,25 +8141,21 @@ BeanCounterDB = {
 						"1;5391;0;720;537;1553321670;", -- [1]
 					},
 				},
-				["15666"] = {
-					["item:15666:0:0:0:0:0:875:0:80"] = {
-						"1;27562;0;720;2754;1553439612;", -- [1]
+				["14504"] = {
+					["item:14504:0:0:0:0:0:0:0:80"] = {
+						"1;30000;0;720;1500;1536887659;", -- [1]
+						"1;30000;0;720;1500;1543183846;", -- [2]
+						"1;30000;0;720;1500;1543183846;", -- [3]
 					},
 				},
-				["36513"] = {
-					["item:36513:0:0:0:0:0:-7:104:80"] = {
-						"1;399266;0;720;19962;1532315854;", -- [1]
-					},
-					["item:36513:0:0:0:0:0:-39:104:80"] = {
-						"1;399266;0;720;19962;1537664286;", -- [1]
-					},
-					["item:36513:0:0:0:0:0:-41:104:80"] = {
-						"1;399266;0;720;19962;1536503669;", -- [1]
+				["24727"] = {
+					["item:24727:0:0:0:0:0:-33:43:80"] = {
+						"1;45997;0;720;4599;1569687143;", -- [1]
 					},
 				},
-				["13056"] = {
-					["item:13056:0:0:0:0:0:0:0:80"] = {
-						"1;72495;0;720;7248;1553439631;", -- [1]
+				["15615"] = {
+					["item:15615:0:0:0:0:0:620:0:80"] = {
+						"1;11376;0;720;1137;1553956123;", -- [1]
 					},
 				},
 				["14299"] = {
@@ -6448,25 +8175,29 @@ BeanCounterDB = {
 						"1;122388;0;720;6117;1526270197;", -- [2]
 					},
 				},
-				["16806"] = {
-					["item:16806:0:0:0:0:0:0:0:80"] = {
-						"1;21411;0;720;2139;1553654153;", -- [1]
-						"1;21411;0;720;2139;1553972650;", -- [2]
+				["24844"] = {
+					["item:24844:0:0:0:0:0:-35:32:80"] = {
+						"1;42186;0;720;4218;1568562416;", -- [1]
+					},
+					["item:24844:0:0:0:0:0:-43:32:80"] = {
+						"1;42186;0;720;4218;1569687168;", -- [1]
 					},
 				},
-				["14844"] = {
-					["item:14844:0:0:0:0:0:0:0:80"] = {
-						"1;30112;0;720;3009;1553917631;", -- [1]
+				["24953"] = {
+					["item:24953:0:0:0:0:0:-44:32:80"] = {
+						"1;32382;0;720;3237;1569687147;", -- [1]
 					},
 				},
-				["36470"] = {
-					["item:36470:0:0:0:0:0:-39:56:80"] = {
-						"1;117168;0;720;5856;1528083732;", -- [1]
+				["43102"] = {
+					["item:43102:0:0:0:0:0:0:0:80"] = {
+						"1;150000;0;720;15000;1540610821;", -- [1]
+						"1;150000;0;720;15000;1540610821;", -- [2]
+						"3;225000;0;720;22500;1554000952;", -- [3]
 					},
 				},
-				["15221"] = {
-					["item:15221:0:0:0:0:0:1200:0:80"] = {
-						"1;130634;0;720;6531;1543540228;", -- [1]
+				["7976"] = {
+					["item:7976:0:0:0:0:0:0:0:80"] = {
+						"1;3000;0;720;300;1556315054;", -- [1]
 					},
 				},
 				["14675"] = {
@@ -6479,22 +8210,22 @@ BeanCounterDB = {
 						"1;153812;0;720;7689;1541266805;", -- [1]
 					},
 				},
-				["2564"] = {
-					["item:2564:0:0:0:0:0:0:0:80"] = {
-						"1;10225;0;720;1020;1553917651;", -- [1]
+				["21886"] = {
+					["item:21886:0:0:0:0:0:0:0:80"] = {
+						"3;18000;0;720;1800;1569625923;", -- [1]
 					},
 				},
-				["41784"] = {
-					["item:41784:0:0:0:0:0:0:0:80"] = {
-						"1;120000;0;720;6000;1538282133;", -- [1]
-						"1;120000;0;720;6000;1538878265;", -- [2]
-						"1;120000;0;720;6000;1544290240;", -- [3]
-						"1;120000;0;720;6000;1544290240;", -- [4]
+				["35990"] = {
+					["item:35990:0:0:0:0:0:-21:58:80"] = {
+						"1;27468;0;720;2745;1559785105;", -- [1]
 					},
 				},
-				["25123"] = {
-					["item:25123:0:0:0:0:0:-9:21:80"] = {
-						"1;213528;0;720;10674;1526352603;", -- [1]
+				["24830"] = {
+					["item:24830:0:0:0:0:0:-8:31:80"] = {
+						"1;27783;0;720;2778;1568562432;", -- [1]
+					},
+					["item:24830:0:0:0:0:0:-44:31:80"] = {
+						"1;27783;0;720;2778;1569687145;", -- [1]
 					},
 				},
 				["10274"] = {
@@ -6510,14 +8241,14 @@ BeanCounterDB = {
 						"1;165732;0;720;8286;1536503697;", -- [1]
 					},
 				},
-				["14850"] = {
-					["item:14850:0:0:0:0:0:0:0:80"] = {
-						"1;27412;0;720;2739;1553917606;", -- [1]
+				["24196"] = {
+					["item:24196:0:0:0:0:0:0:0:80"] = {
+						"1;45000;0;720;4500;1567429525;", -- [1]
 					},
 				},
-				["14916"] = {
-					["item:14916:0:0:0:0:0:693:0:80"] = {
-						"1;25881;0;720;2586;1553917628;", -- [1]
+				["24792"] = {
+					["item:24792:0:0:0:0:0:-16:55:80"] = {
+						"1;53451;0;720;5343;1568562426;", -- [1]
 					},
 				},
 				["7910"] = {
@@ -6533,16 +8264,17 @@ BeanCounterDB = {
 						"4;30000;0;720;3000;1553917622;", -- [9]
 						"2;15000;0;720;1500;1553956038;", -- [10]
 						"1;7500;0;720;750;1553972640;", -- [11]
+						"1;7500;0;720;750;1555774728;", -- [12]
 					},
 				},
-				["818"] = {
-					["item:818:0:0:0:0:0:0:0:80"] = {
-						"3;450;0;720;100;1553917661;", -- [1]
+				["24632"] = {
+					["item:24632:0:0:0:0:0:-37:34:80"] = {
+						"1;19311;0;720;1929;1568562428;", -- [1]
 					},
 				},
-				["5498"] = {
-					["item:5498:0:0:0:0:0:0:0:80"] = {
-						"1;300;0;720;100;1553917669;", -- [1]
+				["24677"] = {
+					["item:24677:0:0:0:0:0:-8:41:80"] = {
+						"1;23451;0;720;2343;1557692745;", -- [1]
 					},
 				},
 				["15189"] = {
@@ -6550,9 +8282,12 @@ BeanCounterDB = {
 						"1;47168;0;720;2358;1536634406;", -- [1]
 					},
 				},
-				["24712"] = {
-					["item:24712:0:0:0:0:0:-8:30:80"] = {
-						"1;44150;0;720;2205;1526080618;", -- [1]
+				["41784"] = {
+					["item:41784:0:0:0:0:0:0:0:80"] = {
+						"1;120000;0;720;6000;1538282133;", -- [1]
+						"1;120000;0;720;6000;1538878265;", -- [2]
+						"1;120000;0;720;6000;1544290240;", -- [3]
+						"1;120000;0;720;6000;1544290240;", -- [4]
 					},
 				},
 				["36485"] = {
@@ -6563,9 +8298,9 @@ BeanCounterDB = {
 						"1;334008;0;720;16698;1538282128;", -- [1]
 					},
 				},
-				["15633"] = {
-					["item:15633:0:0:0:0:0:1031:0:80"] = {
-						"1;24315;0;720;2430;1553956077;", -- [1]
+				["24918"] = {
+					["item:24918:0:0:0:0:0:-45:27:80"] = {
+						"1;29193;0;720;2919;1569687149;", -- [1]
 					},
 				},
 				["10190"] = {
@@ -6573,14 +8308,14 @@ BeanCounterDB = {
 						"1;10003;0;720;999;1553222392;", -- [1]
 					},
 				},
-				["14785"] = {
-					["item:14785:0:0:0:0:0:0:0:80"] = {
-						"1;14337;0;720;1431;1553956098;", -- [1]
+				["24194"] = {
+					["item:24194:0:0:0:0:0:0:0:80"] = {
+						"1;45000;0;720;4500;1557095496;", -- [1]
 					},
 				},
-				["19273"] = {
-					["item:19273:0:0:0:0:0:0:0:80"] = {
-						"1;37500;0;720;1875;1543460373;", -- [1]
+				["24668"] = {
+					["item:24668:0:0:0:0:0:-16:29:80"] = {
+						"1;42180;0;720;2109;1526787067;", -- [1]
 					},
 				},
 				["23197"] = {
@@ -6594,9 +8329,9 @@ BeanCounterDB = {
 						"1;112208;0;720;5610;1538282223;", -- [1]
 					},
 				},
-				["15615"] = {
-					["item:15615:0:0:0:0:0:620:0:80"] = {
-						"1;11376;0;720;1137;1553956123;", -- [1]
+				["25229"] = {
+					["item:25229:0:0:0:0:0:-40:41:80"] = {
+						"1;107604;0;720;10758;1569784470;", -- [1]
 					},
 				},
 				["36508"] = {
@@ -6609,12 +8344,12 @@ BeanCounterDB = {
 						"1;166964;0;720;8346;1527892569;", -- [1]
 					},
 				},
-				["36143"] = {
-					["item:36143:0:0:0:0:0:-18:93:80"] = {
-						"1;116048;0;720;5802;1527996923;", -- [1]
+				["24756"] = {
+					["item:24756:0:0:0:0:0:-14:26:80"] = {
+						"1;23974;0;720;2397;1569625933;", -- [1]
 					},
-					["item:36143:0:0:0:0:0:-37:93:80"] = {
-						"1;116048;0;720;5802;1527892717;", -- [1]
+					["item:24756:0:0:0:0:0:-8:26:80"] = {
+						"1;47948;0;720;2397;1526787141;", -- [1]
 					},
 				},
 				["14686"] = {
@@ -6727,9 +8462,9 @@ BeanCounterDB = {
 						"1;;19704;;;394130;;1533204956;;H", -- [1]
 					},
 				},
-				["32227"] = {
-					["item:32227:0:0:0:0:0:0:0:80"] = {
-						"1;;30000;;;150000;;1538558914;;H", -- [1]
+				["36271"] = {
+					["item:36271:0:0:0:0:0:-37:101:80"] = {
+						"1;;7140;;;142850;;1543728064;;H", -- [1]
 					},
 				},
 				["15281"] = {
@@ -6738,9 +8473,9 @@ BeanCounterDB = {
 						"1;;3915;;;78330;;1536743331;;H", -- [2]
 					},
 				},
-				["36271"] = {
-					["item:36271:0:0:0:0:0:-37:101:80"] = {
-						"1;;7140;;;142850;;1543728064;;H", -- [1]
+				["32227"] = {
+					["item:32227:0:0:0:0:0:0:0:80"] = {
+						"1;;30000;;;150000;;1538558914;;H", -- [1]
 					},
 				},
 				["36554"] = {
@@ -6888,9 +8623,9 @@ BeanCounterDB = {
 			},
 			["failedBids"] = {
 			},
-			["version"] = 2.12,
 			["failedBidsNeutral"] = {
 			},
+			["version"] = 2.12,
 			["faction"] = "Horde",
 			["completedBidsBuyouts"] = {
 			},
@@ -6900,307 +8635,2247 @@ BeanCounterDB = {
 			},
 			["mailbox"] = {
 				{
-					["time"] = 29.93303298950195,
-					["sender"] = "Alexstrasza the Life-Binder",
-					["subject"] = "Glory of the Hero",
 					["read"] = 2,
+					["sender"] = "Horde Auction House",
+					["time"] = 18.18026542663574,
+					["subject"] = "Auction successful: Primal Nether",
 				}, -- [1]
-				{
-					["time"] = 29.95803260803223,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Alabaster Plate Helmet",
-					["read"] = 2,
-				}, -- [2]
-				{
-					["time"] = 29.95803260803223,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Windrunner Legguards",
-					["read"] = 1,
-				}, -- [3]
-				{
-					["time"] = 29.95803260803223,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Essence of Fire",
-					["read"] = 1,
-				}, -- [4]
-				{
-					["time"] = 29.95803260803223,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Pattern: Chimeric Vest",
-					["read"] = 1,
-				}, -- [5]
-				{
-					["time"] = 29.95803260803223,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Councillor's Boots",
-					["read"] = 1,
-				}, -- [6]
-				{
-					["time"] = 29.95803260803223,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Lady Alizabeth's Pendant",
-					["read"] = 1,
-				}, -- [7]
-				{
-					["time"] = 29.95803260803223,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Ebonhold Armor",
-					["read"] = 1,
-				}, -- [8]
-				{
-					["time"] = 29.95803260803223,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Traveler's Boots",
-					["read"] = 1,
-				}, -- [9]
-				{
-					["time"] = 29.95803260803223,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Crusader's Belt",
-					["read"] = 1,
-				}, -- [10]
-				{
-					["time"] = 29.95803260803223,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Bonelink Helmet",
-					["read"] = 1,
-				}, -- [11]
-				{
-					["time"] = 29.95733833312988,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Abjurer's Sash",
-					["read"] = 1,
-				}, -- [12]
-				{
-					["time"] = 29.95733833312988,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Crusader's Boots",
-					["read"] = 1,
-				}, -- [13]
-				{
-					["time"] = 29.95733833312988,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Axe of the Deep Woods",
-					["read"] = 1,
-				}, -- [14]
-				{
-					["time"] = 29.95733833312988,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Aquamarine",
-					["read"] = 1,
-				}, -- [15]
-				{
-					["time"] = 29.95733833312988,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Revenant Shoulders",
-					["read"] = 1,
-				}, -- [16]
-				{
-					["time"] = 29.95733833312988,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Jadefire Pants",
-					["read"] = 1,
-				}, -- [17]
-				{
-					["time"] = 29.95733833312988,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Valorous Helm",
-					["read"] = 1,
-				}, -- [18]
-				{
-					["time"] = 29.95733833312988,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Skull Splitting Crossbow",
-					["read"] = 1,
-				}, -- [19]
-				{
-					["time"] = 29.95733833312988,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Khan's Helmet",
-					["read"] = 1,
-				}, -- [20]
-				{
-					["time"] = 29.95733833312988,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Plans: Dark Iron Sunderer",
-					["read"] = 1,
-				}, -- [21]
-				{
-					["time"] = 29.95733833312988,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Righteous Helmet",
-					["read"] = 1,
-				}, -- [22]
-				{
-					["time"] = 29.95733833312988,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Schematic: World Enlarger",
-					["read"] = 1,
-				}, -- [23]
-				{
-					["time"] = 29.95733833312988,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Peerless Headband",
-					["read"] = 1,
-				}, -- [24]
-				{
-					["sender"] = "Horde Auction House",
-					["read"] = 2,
-					["subject"] = "Auction successful: Black Diamond",
-					["time"] = 29.86908531188965,
-				}, -- [25]
-				{
-					["time"] = 29.95733833312988,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Formidable Crest",
-					["read"] = 1,
-				}, -- [26]
-				{
-					["time"] = 29.95733833312988,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Arachnidian Footpads",
-					["read"] = 1,
-				}, -- [27]
-				{
-					["time"] = 29.95733833312988,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Wyrmslayer Spaulders",
-					["read"] = 1,
-				}, -- [28]
-				{
-					["time"] = 29.95733833312988,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Sunscale Spaulders",
-					["read"] = 1,
-				}, -- [29]
-				{
-					["time"] = 29.95733833312988,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Smashing Star",
-					["read"] = 1,
-				}, -- [30]
-				{
-					["time"] = 29.95733833312988,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Battlecaller Gauntlets",
-					["read"] = 1,
-				}, -- [31]
-				{
-					["time"] = 29.95664405822754,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Vanadium Talisman",
-					["read"] = 1,
-				}, -- [32]
-				{
-					["time"] = 29.95664405822754,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Praetorian Pauldrons",
-					["read"] = 1,
-				}, -- [33]
-				{
-					["time"] = 29.95664405822754,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Myrmidon's Greaves",
-					["read"] = 1,
-				}, -- [34]
-				{
-					["time"] = 29.95664405822754,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: High Chief's Legguards",
-					["read"] = 1,
-				}, -- [35]
-				{
-					["time"] = 29.95664405822754,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Vorpal Dagger",
-					["read"] = 1,
-				}, -- [36]
-				{
-					["time"] = 29.95664405822754,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Codex: Prayer of Fortitude",
-					["read"] = 1,
-				}, -- [37]
-				{
-					["time"] = 29.95664405822754,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Codex: Prayer of Fortitude",
-					["read"] = 1,
-				}, -- [38]
-				{
-					["time"] = 29.95664405822754,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Star Ruby",
-					["read"] = 1,
-				}, -- [39]
-				{
-					["time"] = 29.95664405822754,
-					["sender"] = "Horde Auction House",
-					["subject"] = "Auction successful: Pattern: Red Mageweave Pants",
-					["read"] = 1,
-				}, -- [40]
 			},
 		},
 		["Achnar"] = {
 			["vendorsell"] = {
 			},
 			["completedAuctions"] = {
+				["2406"] = {
+					["item:2406:0:0:0:0:0:0:0:80"] = {
+						"1;195;100;5;0;;Allybot;1555833909;;H", -- [1]
+					},
+				},
+				["14755"] = {
+					["item:14755:0:0:0:0:0:0:0:80"] = {
+						"1;2756;167;136;0;;Hordebot;1555950431;;H", -- [1]
+					},
+				},
+				["14723"] = {
+					["item:14723:0:0:0:0:0:0:0:80"] = {
+						"1;766;100;35;0;;Hordebot;1555855328;;H", -- [1]
+					},
+				},
+				["3058"] = {
+					["item:3058:0:0:0:0:0:0:0:80"] = {
+						"1;1760;102;87;0;;Allybot;1555868109;;H", -- [1]
+						"1;2021;102;100;0;;Allybot;1555910950;;H", -- [2]
+					},
+				},
+				["3020"] = {
+					["item:3020:0:0:0:0:0:0:0:80"] = {
+						"1;6264;398;308;0;;Allybot;1556289311;;H", -- [1]
+					},
+				},
+				["720"] = {
+					["item:720:0:0:0:0:0:0:0:80"] = {
+						"1;2639;160;130;0;;Hordebot;1555950431;;H", -- [1]
+					},
+				},
+				["14376"] = {
+					["item:14376:0:0:0:0:0:0:0:80"] = {
+						"1;1375;100;67;0;;Hordebot;1555868109;;H", -- [1]
+					},
+				},
+				["6379"] = {
+					["item:6379:0:0:0:0:0:0:0:80"] = {
+						"1;690;100;31;0;;Hordebot;1555855328;;H", -- [1]
+					},
+				},
+				["3472"] = {
+					["item:3472:0:0:0:0:0:0:0:80"] = {
+						"1;343;33;16;0;;Hordebot;1555775829;;H", -- [1]
+						"1;279;33;12;0;;Allybot;1555775829;;H", -- [2]
+						"1;330;34;15;0;;Allybot;1555775829;;H", -- [3]
+					},
+				},
+				["6040"] = {
+					["item:6040:0:0:0:0:0:0:0:80"] = {
+						"1;6485;412;319;0;;Hordebot;1556036890;;H", -- [1]
+						"1;6788;412;335;0;;Hordebot;1556036890;;H", -- [2]
+						"1;5659;412;276;0;;Hordebot;1556036890;;H", -- [3]
+						"1;7106;412;352;0;;Hordebot;1556036890;;H", -- [4]
+						"1;6788;412;335;0;;Hordebot;1556036890;;H", -- [5]
+						"1;6485;412;319;0;;Allybot;1556036890;;H", -- [6]
+						"1;6788;412;335;0;;Allybot;1556036890;;H", -- [7]
+						"1;6788;412;335;0;;Hordebot;1556036890;;H", -- [8]
+						"1;6196;412;304;0;;Hordebot;1556036890;;H", -- [9]
+						"1;7441;412;369;0;;Allybot;1556036890;;H", -- [10]
+						"1;6788;412;335;0;;Allybot;1556036890;;H", -- [11]
+						"1;6196;412;304;0;;Hordebot;1556036890;;H", -- [12]
+						"1;7106;412;352;0;;Hordebot;1556036890;;H", -- [13]
+						"1;6788;412;335;0;;Allybot;1556113150;;H", -- [14]
+						"1;6788;412;335;0;;Allybot;1556113150;;H", -- [15]
+						"1;6788;412;335;0;;Allybot;1556113150;;H", -- [16]
+						"1;6788;412;335;0;;Allybot;1556113150;;H", -- [17]
+						"1;6485;412;319;0;;Hordebot;1556113150;;H", -- [18]
+						"1;7441;412;369;0;;Hordebot;1556113150;;H", -- [19]
+						"1;6485;412;319;0;;Hordebot;1556113150;;H", -- [20]
+						"1;7106;412;352;0;;Allybot;1556113150;;H", -- [21]
+						"1;5922;412;289;0;;Hordebot;1556113150;;H", -- [22]
+						"1;6788;412;335;0;;Hordebot;1556113150;;H", -- [23]
+						"1;6485;412;319;0;;Hordebot;1556113150;;H", -- [24]
+						"1;6788;412;335;0;;Hordebot;1556113150;;H", -- [25]
+						"1;7106;412;352;0;;Hordebot;1556113150;;H", -- [26]
+						"1;6788;412;335;0;;Hordebot;1556113150;;H", -- [27]
+						"1;6196;412;304;0;;Hordebot;1556113150;;H", -- [28]
+					},
+				},
+				["14418"] = {
+					["item:14418:0:0:0:0:0:0:0:80"] = {
+						"1;8387;464;416;0;;Hordebot;1556289311;;H", -- [1]
+					},
+				},
+				["6381"] = {
+					["item:6381:0:0:0:0:0:0:0:80"] = {
+						"1;1544;100;75;0;;Allybot;1555912691;;H", -- [1]
+					},
+				},
+				["11098"] = {
+					["item:11098:0:0:0:0:0:0:0:80"] = {
+						"1;1313;100;63;0;;Hordebot;1555945811;;H", -- [1]
+					},
+				},
+				["3474"] = {
+					["item:3474:0:0:0:0:0:0:0:80"] = {
+						"1;604;32;30;0;;Hordebot;1555775829;;H", -- [1]
+						"1;527;32;26;0;;Allybot;1555775829;;H", -- [2]
+						"1;552;32;27;0;;Hordebot;1555775829;;H", -- [3]
+						"1;604;32;30;0;;Allybot;1555775829;;H", -- [4]
+					},
+				},
+				["14365"] = {
+					["item:14365:0:0:0:0:0:0:0:80"] = {
+						"1;615;100;27;0;;Allybot;1555785969;;H", -- [1]
+					},
+				},
+				["14429"] = {
+					["item:14429:0:0:0:0:0:0:0:80"] = {
+						"1;6527;396;322;0;;Allybot;1556289251;;H", -- [1]
+					},
+				},
+				["9294"] = {
+					["item:9294:0:0:0:0:0:0:0:80"] = {
+						"1;4717;300;232;0;;Allybot;1556205370;;H", -- [1]
+					},
+				},
+				["13088"] = {
+					["item:13088:0:0:0:0:0:0:0:80"] = {
+						"1;19171;1111;950;0;;Hordebot;1556289251;;H", -- [1]
+					},
+				},
+				["935"] = {
+					["item:935:0:0:0:0:0:0:0:80"] = {
+						"1;4299;261;212;0;;Hordebot;1555868109;;H", -- [1]
+					},
+				},
+				["6044"] = {
+					["item:6044:0:0:0:0:0:0:0:80"] = {
+						"1;1090;100;52;0;;Hordebot;1555937831;;H", -- [1]
+					},
+				},
+				["13005"] = {
+					["item:13005:0:0:0:0:0:0:0:80"] = {
+						"1;3767;199;187;0;;Hordebot;1555945811;;H", -- [1]
+					},
+				},
+				["4038"] = {
+					["item:4038:0:0:0:0:0:0:0:80"] = {
+						"1;10097;534;503;0;;Allybot;1556208251;;H", -- [1]
+					},
+				},
+				["6426"] = {
+					["item:6426:0:0:0:0:0:0:0:80"] = {
+						"1;10282;624;508;0;;Hordebot;1556205431;;H", -- [1]
+					},
+				},
+				["6412"] = {
+					["item:6412:0:0:0:0:0:0:0:80"] = {
+						"1;12180;706;603;0;;Allybot;1556205431;;H", -- [1]
+					},
+				},
+				["7919"] = {
+					["item:7919:0:0:0:0:0:0:0:80"] = {
+						"1;13369;889;656;0;;Hordebot;1556289311;;H", -- [1]
+						"1;15334;889;760;0;;Allybot;1556289311;;H", -- [2]
+					},
+				},
+				["13033"] = {
+					["item:13033:0:0:0:0:0:0:0:80"] = {
+						"1;20936;1214;1037;0;;Hordebot;1556205370;;H", -- [1]
+					},
+				},
+				["13110"] = {
+					["item:13110:0:0:0:0:0:0:0:80"] = {
+						"1;12272;745;606;0;;Hordebot;1556205370;;H", -- [1]
+					},
+				},
+				["7921"] = {
+					["item:7921:0:0:0:0:0:0:0:80"] = {
+						"1;29342;1781;1450;0;;Hordebot;1556990449;;H", -- [1]
+						"1;29342;1781;1450;0;;Allybot;1556990449;;H", -- [2]
+					},
+				},
+				["1076"] = {
+					["item:1076:0:0:0:0:0:0:0:80"] = {
+						"1;1604;100;79;0;;Allybot;1555912631;;H", -- [1]
+					},
+				},
+				["10331"] = {
+					["item:10331:0:0:0:0:0:0:0:80"] = {
+						"1;7054;409;349;0;;Hordebot;1556208311;;H", -- [1]
+					},
+				},
+				["2868"] = {
+					["item:2868:0:0:0:0:0:0:0:80"] = {
+						"1;1814;121;89;0;;Hordebot;1555937831;;H", -- [1]
+						"1;1899;121;93;0;;Hordebot;1555937831;;H", -- [2]
+						"1;1899;121;93;0;;Hordebot;1555937831;;H", -- [3]
+						"1;1987;121;98;0;;Allybot;1555937831;;H", -- [4]
+						"1;1814;121;89;0;;Allybot;1555937831;;H", -- [5]
+						"1;1987;121;98;0;;Allybot;1555937831;;H", -- [6]
+						"1;2080;121;103;0;;Hordebot;1555937831;;H", -- [7]
+					},
+				},
+				["3313"] = {
+					["item:3313:0:0:0:0:0:0:0:80"] = {
+						"1;1274;77;63;0;;Hordebot;1555860548;;H", -- [1]
+						"1;1217;77;60;0;;Allybot;1555860548;;H", -- [2]
+					},
+				},
+				["12261"] = {
+					["item:12261:0:0:0:0:0:0:0:80"] = {
+						"1;2343;142;115;0;;Allybot;1556990688;;H", -- [1]
+					},
+				},
+				["6375"] = {
+					["item:6375:0:0:0:0:0:0:0:80"] = {
+						"1;673;100;30;0;;Allybot;1555860608;;H", -- [1]
+					},
+				},
+				["2408"] = {
+					["item:2408:0:0:0:0:0:0:0:80"] = {
+						"1;397;100;15;0;;Hordebot;1555786029;;H", -- [1]
+					},
+				},
+				["6350"] = {
+					["item:6350:0:0:0:0:0:0:0:80"] = {
+						"1;1209;73;59;0;;Hordebot;1555840988;;H", -- [1]
+						"1;1324;73;65;0;;Allybot;1555840988;;H", -- [2]
+						"1;1265;73;62;0;;Hordebot;1555840988;;H", -- [3]
+						"1;1209;73;59;0;;Hordebot;1555837088;;H", -- [4]
+						"1;1265;73;62;0;;Allybot;1555837088;;H", -- [5]
+						"1;1209;73;59;0;;Allybot;1555840988;;H", -- [6]
+						"1;1385;73;69;0;;Hordebot;1555840988;;H", -- [7]
+						"1;1385;73;69;0;;Hordebot;1555840988;;H", -- [8]
+						"1;1324;73;65;0;;Hordebot;1555837088;;H", -- [9]
+					},
+				},
+				["13016"] = {
+					["item:13016:0:0:0:0:0:0:0:80"] = {
+						"1;10277;715;503;0;;Hordebot;1555910950;;H", -- [1]
+					},
+				},
+				["3873"] = {
+					["item:3873:0:0:0:0:0:0:0:80"] = {
+						"1;2712;165;134;0;;Hordebot;1556990628;;H", -- [1]
+					},
+				},
+				["1717"] = {
+					["item:1717:0:0:0:0:0:0:0:80"] = {
+						"1;8413;466;418;0;;Allybot;1556120351;;H", -- [1]
+					},
+				},
+				["11038"] = {
+					["item:11038:0:0:0:0:0:0:0:80"] = {
+						"1;540;100;23;0;;Allybot;1555910950;;H", -- [1]
+					},
+				},
+				["6342"] = {
+					["item:6342:0:0:0:0:0:0:0:80"] = {
+						"1;293;100;10;0;;Hordebot;1555910950;;H", -- [1]
+					},
+				},
+				["3835"] = {
+					["item:3835:0:0:0:0:0:0:0:80"] = {
+						"1;4350;276;214;0;;Allybot;1555937831;;H", -- [1]
+						"1;4350;276;214;0;;Allybot;1555937831;;H", -- [2]
+						"1;4156;276;204;0;;Allybot;1555937831;;H", -- [3]
+						"1;4991;276;248;0;;Allybot;1555937831;;H", -- [4]
+						"1;4156;276;204;0;;Hordebot;1555937831;;H", -- [5]
+						"1;4553;276;225;0;;Hordebot;1555937831;;H", -- [6]
+						"1;4767;276;236;0;;Allybot;1555937831;;H", -- [7]
+						"1;4350;276;214;0;;Allybot;1555937831;;H", -- [8]
+						"1;4767;276;236;0;;Allybot;1555937831;;H", -- [9]
+						"1;4991;276;248;0;;Allybot;1556036890;;H", -- [10]
+						"1;4767;276;236;0;;Allybot;1556036890;;H", -- [11]
+						"1;4350;276;214;0;;Allybot;1556036890;;H", -- [12]
+						"1;4767;276;236;0;;Hordebot;1556036890;;H", -- [13]
+						"1;4350;276;214;0;;Hordebot;1556036890;;H", -- [14]
+						"1;4553;276;225;0;;Allybot;1556036890;;H", -- [15]
+						"1;4156;276;204;0;;Allybot;1556036890;;H", -- [16]
+						"1;4553;276;225;0;;Allybot;1556036890;;H", -- [17]
+						"1;4350;276;214;0;;Allybot;1556036890;;H", -- [18]
+						"1;4350;276;214;0;;Allybot;1556036890;;H", -- [19]
+						"1;4156;276;204;0;;Allybot;1556036890;;H", -- [20]
+						"1;4156;276;204;0;;Allybot;1556036890;;H", -- [21]
+						"1;4553;276;225;0;;Hordebot;1556036890;;H", -- [22]
+						"1;4553;276;225;0;;Allybot;1556036890;;H", -- [23]
+						"1;4350;276;214;0;;Hordebot;1556036890;;H", -- [24]
+					},
+				},
+				["3040"] = {
+					["item:3040:0:0:0:0:0:0:0:80"] = {
+						"1;2426;141;120;0;;Hordebot;1555864749;;H", -- [1]
+					},
+				},
+				["934"] = {
+					["item:934:0:0:0:0:0:0:0:80"] = {
+						"1;26393;1602;1304;0;;Allybot;1556205432;;H", -- [1]
+					},
+				},
+				["6420"] = {
+					["item:6420:0:0:0:0:0:0:0:80"] = {
+						"1;10121;560;503;0;;Hordebot;1556208251;;H", -- [1]
+					},
+				},
+				["2978"] = {
+					["item:2978:0:0:0:0:0:0:0:80"] = {
+						"1;1153;100;55;0;;Allybot;1555785969;;H", -- [1]
+					},
+				},
+				["3866"] = {
+					["item:3866:0:0:0:0:0:0:0:80"] = {
+						"1;2467;150;121;0;;Hordebot;1555938130;;H", -- [1]
+						"1;2582;150;127;0;;Hordebot;1556990628;;H", -- [2]
+					},
+				},
+				["14435"] = {
+					["item:14435:0:0:0:0:0:0:0:80"] = {
+						"1;6262;416;307;0;;Allybot;1556208251;;H", -- [1]
+					},
+				},
+				["6393"] = {
+					["item:6393:0:0:0:0:0:0:0:80"] = {
+						"1;2150;114;107;0;;Allybot;1555950431;;H", -- [1]
+					},
+				},
+				["2865"] = {
+					["item:2865:0:0:0:0:0:0:0:80"] = {
+						"1;2371;144;117;0;;Hordebot;1555840988;;H", -- [1]
+						"1;2266;144;111;0;;Allybot;1555840988;;H", -- [2]
+						"1;2165;144;106;0;;Allybot;1555840988;;H", -- [3]
+						"1;2482;144;123;0;;Allybot;1555840988;;H", -- [4]
+						"1;2371;144;117;0;;Hordebot;1555840988;;H", -- [5]
+						"1;2266;144;111;0;;Hordebot;1555840988;;H", -- [6]
+						"1;2482;144;123;0;;Allybot;1555840988;;H", -- [7]
+						"1;2482;144;123;0;;Allybot;1555860608;;H", -- [8]
+						"1;2266;144;111;0;;Hordebot;1555860608;;H", -- [9]
+						"1;2266;144;111;0;;Allybot;1555860608;;H", -- [10]
+						"1;2266;144;111;0;;Allybot;1555860608;;H", -- [11]
+						"1;2371;144;117;0;;Hordebot;1555860608;;H", -- [12]
+						"1;2165;144;106;0;;Allybot;1555860608;;H", -- [13]
+						"1;2599;144;129;0;;Hordebot;1555860608;;H", -- [14]
+						"1;2482;144;123;0;;Hordebot;1555860608;;H", -- [15]
+						"1;2482;144;123;0;;Hordebot;1555860608;;H", -- [16]
+						"1;2371;144;117;0;;Allybot;1555860608;;H", -- [17]
+						"1;2599;144;129;0;;Hordebot;1555902130;;H", -- [18]
+						"1;2371;144;117;0;;Allybot;1555902130;;H", -- [19]
+						"1;2165;144;106;0;;Allybot;1555902130;;H", -- [20]
+						"1;2482;144;123;0;;Hordebot;1555902130;;H", -- [21]
+						"1;2371;144;117;0;;Allybot;1555902130;;H", -- [22]
+						"1;2482;144;123;0;;Hordebot;1555902130;;H", -- [23]
+					},
+				},
+				["6428"] = {
+					["item:6428:0:0:0:0:0:0:0:80"] = {
+						"1;7224;419;358;0;;Hordebot;1556205370;;H", -- [1]
+					},
+				},
+				["15946"] = {
+					["item:15946:0:0:0:0:0:0:0:80"] = {
+						"1;1806;120;88;0;;Allybot;1555860548;;H", -- [1]
+					},
+				},
+				["6511"] = {
+					["item:6511:0:0:0:0:0:0:0:80"] = {
+						"1;387;100;15;0;;Allybot;1555910950;;H", -- [1]
+					},
+				},
+				["4043"] = {
+					["item:4043:0:0:0:0:0:0:0:80"] = {
+						"1;4616;293;227;0;;Hordebot;1556120351;;H", -- [1]
+					},
+				},
+				["6382"] = {
+					["item:6382:0:0:0:0:0:0:0:80"] = {
+						"1;1252;100;60;0;;Allybot;1555912691;;H", -- [1]
+					},
+				},
+				["13037"] = {
+					["item:13037:0:0:0:0:0:0:0:80"] = {
+						"1;10660;709;523;0;;Allybot;1556036891;;H", -- [1]
+					},
+				},
+				["2567"] = {
+					["item:2567:0:0:0:0:0:0:0:80"] = {
+						"1;6194;376;306;0;;Allybot;1555910950;;H", -- [1]
+					},
+				},
+				["2854"] = {
+					["item:2854:0:0:0:0:0:0:0:80"] = {
+						"1;967;56;47;0;;Allybot;1555837088;;H", -- [1]
+						"1;967;56;47;0;;Allybot;1555837088;;H", -- [2]
+						"1;967;56;47;0;;Allybot;1555837088;;H", -- [3]
+						"1;967;56;47;0;;Hordebot;1555837088;;H", -- [4]
+					},
+				},
+				["12987"] = {
+					["item:12987:0:0:0:0:0:0:0:80"] = {
+						"1;2232;135;110;0;;Hordebot;1555910950;;H", -- [1]
+					},
+				},
+				["2409"] = {
+					["item:2409:0:0:0:0:0:0:0:80"] = {
+						"1;989;100;46;0;;Hordebot;1555910950;;H", -- [1]
+					},
+				},
+				["9718"] = {
+					["item:9718:0:0:0:0:0:0:0:80"] = {
+						"1;29544;1713;1464;0;;Hordebot;1556113571;;H", -- [1]
+					},
+				},
+				["3292"] = {
+					["item:3292:0:0:0:0:0:0:0:80"] = {
+						"1;566;100;24;0;;Hordebot;1555785969;;H", -- [1]
+					},
+				},
+				["2951"] = {
+					["item:2951:0:0:0:0:0:0:0:80"] = {
+						"1;1618;100;79;0;;Allybot;1556120351;;H", -- [1]
+					},
+				},
+				["3845"] = {
+					["item:3845:0:0:0:0:0:0:0:80"] = {
+						"1;16959;983;840;0;;Allybot;1556113150;;H", -- [1]
+						"1;16199;983;800;0;;Allybot;1556113150;;H", -- [2]
+						"1;17757;983;882;0;;Hordebot;1556113150;;H", -- [3]
+					},
+				},
 			},
 			["postedBids"] = {
 			},
 			["completedBidsBuyoutsNeutral"] = {
 			},
 			["postedAuctions"] = {
+				["2406"] = {
+					["item:2406:0:0:0:0:0:0:0:80"] = {
+						"1;100;0;720;100;1555787109;", -- [1]
+					},
+				},
+				["14755"] = {
+					["item:14755:0:0:0:0:0:0:0:80"] = {
+						"1;1677;0;720;165;1555903675;", -- [1]
+					},
+				},
+				["6548"] = {
+					["item:6548:0:0:0:0:0:673:0:80"] = {
+						"1;349;0;720;100;1555794185;", -- [1]
+					},
+				},
+				["6379"] = {
+					["item:6379:0:0:0:0:0:0:0:80"] = {
+						"1;366;0;720;100;1555808531;", -- [1]
+					},
+				},
+				["3835"] = {
+					["item:3835:0:0:0:0:0:0:0:80"] = {
+						"1;2766;0;720;276;1555891064;", -- [1]
+						"1;2766;0;720;276;1555891064;", -- [2]
+						"1;2766;0;720;276;1555891064;", -- [3]
+						"1;2766;0;720;276;1555891064;", -- [4]
+						"1;2766;0;720;276;1555891064;", -- [5]
+						"1;2766;0;720;276;1555891064;", -- [6]
+						"1;2766;0;720;276;1555891064;", -- [7]
+						"1;2766;0;720;276;1555891064;", -- [8]
+						"1;2766;0;720;276;1555891064;", -- [9]
+						"1;2766;0;720;276;1555990108;", -- [10]
+						"1;2766;0;720;276;1555990108;", -- [11]
+						"1;2766;0;720;276;1555990108;", -- [12]
+						"1;2766;0;720;276;1555990108;", -- [13]
+						"1;2766;0;720;276;1555990108;", -- [14]
+						"1;2766;0;720;276;1555990108;", -- [15]
+						"1;2766;0;720;276;1555990108;", -- [16]
+						"1;2766;0;720;276;1555990109;", -- [17]
+						"1;2766;0;720;276;1555990109;", -- [18]
+						"1;2766;0;720;276;1555990109;", -- [19]
+						"1;2766;0;720;276;1555990109;", -- [20]
+						"1;2766;0;720;276;1555990109;", -- [21]
+						"1;2766;0;720;276;1555990109;", -- [22]
+						"1;2766;0;720;276;1555990109;", -- [23]
+						"1;2766;0;720;276;1555990109;", -- [24]
+					},
+				},
+				["9777"] = {
+					["item:9777:0:0:0:0:0:757:0:80"] = {
+						"1;477;0;720;100;1555813803;", -- [1]
+					},
+				},
+				["14418"] = {
+					["item:14418:0:0:0:0:0:0:0:80"] = {
+						"1;4647;0;720;462;1556242537;", -- [1]
+					},
+				},
+				["15148"] = {
+					["item:15148:0:0:0:0:0:856:0:80"] = {
+						"1;2421;0;720;240;1555903695;", -- [1]
+					},
+				},
+				["13016"] = {
+					["item:13016:0:0:0:0:0:0:0:80"] = {
+						"1;7156;0;720;714;1555864162;", -- [1]
+					},
+				},
+				["9294"] = {
+					["item:9294:0:0:0:0:0:0:0:80"] = {
+						"1;3000;0;720;300;1556158622;", -- [1]
+					},
+				},
+				["13033"] = {
+					["item:13033:0:0:0:0:0:0:0:80"] = {
+						"1;12141;0;720;1212;1556158625;", -- [1]
+					},
+				},
+				["4566"] = {
+					["item:4566:0:0:0:0:0:586:0:80"] = {
+						"1;946;0;720;100;1555729055;", -- [1]
+					},
+					["item:4566:0:0:0:0:0:1011:0:80"] = {
+						"1;946;0;720;100;1555739206;", -- [1]
+					},
+				},
+				["5498"] = {
+					["item:5498:0:0:0:0:0:0:0:80"] = {
+						"1;300;0;720;100;1555864180;", -- [1]
+					},
+				},
+				["9826"] = {
+					["item:9826:0:0:0:0:0:1812:0:80"] = {
+						"1;3900;0;720;390;1555990103;", -- [1]
+					},
+				},
+				["13110"] = {
+					["item:13110:0:0:0:0:0:0:0:80"] = {
+						"1;7452;0;720;744;1556158610;", -- [1]
+					},
+				},
+				["7417"] = {
+					["item:7417:0:0:0:0:0:1197:0:80"] = {
+						"1;4354;0;720;435;1555865893;", -- [1]
+					},
+				},
+				["1076"] = {
+					["item:1076:0:0:0:0:0:0:0:80"] = {
+						"1;975;0;720;100;1555865885;", -- [1]
+					},
+				},
+				["6382"] = {
+					["item:6382:0:0:0:0:0:0:0:80"] = {
+						"1;784;0;720;100;1555865896;", -- [1]
+					},
+				},
+				["6375"] = {
+					["item:6375:0:0:0:0:0:0:0:80"] = {
+						"1;375;0;720;100;1555813810;", -- [1]
+					},
+				},
+				["7554"] = {
+					["item:7554:0:0:0:0:0:757:0:80"] = {
+						"1;1558;0;720;153;1555808528;", -- [1]
+					},
+				},
+				["15014"] = {
+					["item:15014:0:0:0:0:0:756:0:80"] = {
+						"1;877;0;720;100;1555729063;", -- [1]
+					},
+				},
+				["3873"] = {
+					["item:3873:0:0:0:0:0:0:0:80"] = {
+						"1;1650;0;720;165;1556943887;", -- [1]
+					},
+				},
+				["9813"] = {
+					["item:9813:0:0:0:0:0:1188:0:80"] = {
+						"1;1239;0;720;123;1555903686;", -- [1]
+					},
+				},
+				["11038"] = {
+					["item:11038:0:0:0:0:0:0:0:80"] = {
+						"1;300;0;720;100;1555864156;", -- [1]
+					},
+				},
+				["14166"] = {
+					["item:14166:0:0:0:0:0:757:0:80"] = {
+						"1;357;0;720;100;1555813791;", -- [1]
+					},
+				},
+				["934"] = {
+					["item:934:0:0:0:0:0:0:0:80"] = {
+						"1;16023;0;720;1602;1556158642;", -- [1]
+					},
+				},
+				["790"] = {
+					["item:790:0:0:0:0:0:585:0:80"] = {
+						"1;3030;0;720;303;1555817970;", -- [1]
+					},
+				},
+				["15304"] = {
+					["item:15304:0:0:0:0:0:589:0:80"] = {
+						"1;621;0;720;100;1555813794;", -- [1]
+					},
+				},
+				["818"] = {
+					["item:818:0:0:0:0:0:0:0:80"] = {
+						"1;150;0;720;100;1555864186;", -- [1]
+						"1;150;0;720;100;1556066402;", -- [2]
+					},
+				},
+				["6393"] = {
+					["item:6393:0:0:0:0:0:0:0:80"] = {
+						"1;1140;0;720;114;1555903689;", -- [1]
+					},
+				},
+				["3866"] = {
+					["item:3866:0:0:0:0:0:0:0:80"] = {
+						"1;1500;0;720;150;1555891332;", -- [1]
+						"1;1500;0;720;150;1556943884;", -- [2]
+					},
+				},
+				["14165"] = {
+					["item:14165:0:0:0:0:0:181:0:80"] = {
+						"1;1561;0;720;156;1555808533;", -- [1]
+					},
+				},
+				["3040"] = {
+					["item:3040:0:0:0:0:0:0:0:80"] = {
+						"1;1410;0;720;141;1555817973;", -- [1]
+					},
+				},
+				["2408"] = {
+					["item:2408:0:0:0:0:0:0:0:80"] = {
+						"1;187;0;720;100;1555739233;", -- [1]
+					},
+				},
+				["2868"] = {
+					["item:2868:0:0:0:0:0:0:0:80"] = {
+						"1;1210;0;720;120;1555891059;", -- [1]
+						"1;1210;0;720;120;1555891059;", -- [2]
+						"1;1210;0;720;120;1555891059;", -- [3]
+						"1;1210;0;720;120;1555891059;", -- [4]
+						"1;1210;0;720;120;1555891059;", -- [5]
+						"1;1210;0;720;120;1555891059;", -- [6]
+						"1;1210;0;720;120;1555891059;", -- [7]
+					},
+				},
+				["15547"] = {
+					["item:15547:0:0:0:0:0:136:0:80"] = {
+						"1;1851;0;720;183;1555990094;", -- [1]
+					},
+				},
+				["8153"] = {
+					["item:8153:0:0:0:0:0:0:0:80"] = {
+					},
+				},
+				["7919"] = {
+					["item:7919:0:0:0:0:0:0:0:80"] = {
+						"1;8895;0;720;888;1556242544;", -- [1]
+						"1;8895;0;720;888;1556242544;", -- [2]
+					},
+				},
+				["15338"] = {
+					["item:15338:0:0:0:0:0:1106:0:80"] = {
+						"1;2080;0;720;207;1555903692;", -- [1]
+					},
+				},
+				["6044"] = {
+					["item:6044:0:0:0:0:0:0:0:80"] = {
+						"1;675;0;720;100;1555891074;", -- [1]
+					},
+				},
+				["3292"] = {
+					["item:3292:0:0:0:0:0:0:0:80"] = {
+						"1;304;0;720;100;1555739201;", -- [1]
+					},
+				},
+				["2951"] = {
+					["item:2951:0:0:0:0:0:0:0:80"] = {
+						"1;984;0;720;100;1556073557;", -- [1]
+					},
+				},
+				["2567"] = {
+					["item:2567:0:0:0:0:0:0:0:80"] = {
+						"1;3763;0;720;375;1555864169;", -- [1]
+					},
+				},
+				["13088"] = {
+					["item:13088:0:0:0:0:0:0:0:80"] = {
+						"1;11119;0;720;1110;1556242505;", -- [1]
+					},
+				},
+				["12987"] = {
+					["item:12987:0:0:0:0:0:0:0:80"] = {
+						"1;1359;0;720;135;1555864159;", -- [1]
+					},
+				},
+				["14723"] = {
+					["item:14723:0:0:0:0:0:0:0:80"] = {
+						"1;435;0;720;100;1555808541;", -- [1]
+					},
+				},
+				["3058"] = {
+					["item:3058:0:0:0:0:0:0:0:80"] = {
+						"1;1023;0;720;102;1555821362;", -- [1]
+						"1;1023;0;720;102;1555864165;", -- [2]
+					},
+				},
+				["11098"] = {
+					["item:11098:0:0:0:0:0:0:0:80"] = {
+						"1;750;0;720;100;1555899052;", -- [1]
+					},
+				},
+				["720"] = {
+					["item:720:0:0:0:0:0:0:0:80"] = {
+						"1;1605;0;720;159;1555903678;", -- [1]
+					},
+				},
+				["9863"] = {
+					["item:9863:0:0:0:0:0:1115:0:80"] = {
+						"1;4810;0;720;480;1556161514;", -- [1]
+					},
+				},
+				["14429"] = {
+					["item:14429:0:0:0:0:0:0:0:80"] = {
+						"1;3966;0;720;396;1556242508;", -- [1]
+					},
+				},
+				["15224"] = {
+					["item:15224:0:0:0:0:0:590:0:80"] = {
+						"1;4042;0;720;402;1556073583;", -- [1]
+					},
+				},
+				["14221"] = {
+					["item:14221:0:0:0:0:0:1019:0:80"] = {
+						"1;2266;0;720;225;1556161549;", -- [1]
+					},
+				},
+				["13037"] = {
+					["item:13037:0:0:0:0:0:0:0:80"] = {
+						"1;7093;0;720;708;1555990092;", -- [1]
+					},
+				},
+				["6381"] = {
+					["item:6381:0:0:0:0:0:0:0:80"] = {
+						"1;937;0;720;100;1555865891;", -- [1]
+					},
+				},
+				["3020"] = {
+					["item:3020:0:0:0:0:0:0:0:80"] = {
+						"1;3982;0;720;396;1556242522;", -- [1]
+					},
+				},
+				["3474"] = {
+					["item:3474:0:0:0:0:0:0:0:80"] = {
+						"1;324;0;720;100;1555729059;", -- [1]
+						"1;324;0;720;100;1555729059;", -- [2]
+						"1;324;0;720;100;1555729059;", -- [3]
+						"1;324;0;720;100;1555729060;", -- [4]
+					},
+				},
+				["9889"] = {
+					["item:9889:0:0:0:0:0:612:0:80"] = {
+						"1;6360;0;720;636;1556242529;", -- [1]
+					},
+				},
+				["6511"] = {
+					["item:6511:0:0:0:0:0:0:0:80"] = {
+						"1;181;0;720;100;1555864182;", -- [1]
+					},
+				},
+				["10331"] = {
+					["item:10331:0:0:0:0:0:0:0:80"] = {
+						"1;4093;0;720;408;1556161558;", -- [1]
+					},
+				},
+				["6426"] = {
+					["item:6426:0:0:0:0:0:0:0:80"] = {
+						"1;6243;0;720;624;1556158639;", -- [1]
+					},
+				},
+				["15516"] = {
+					["item:15516:0:0:0:0:0:135:0:80"] = {
+						"1;2382;0;720;237;1555865888;", -- [1]
+					},
+				},
+				["15932"] = {
+					["item:15932:0:0:0:0:0:754:0:80"] = {
+						"1;790;0;720;100;1555739211;", -- [1]
+					},
+				},
+				["2409"] = {
+					["item:2409:0:0:0:0:0:0:0:80"] = {
+						"1;525;0;720;100;1555864177;", -- [1]
+					},
+				},
+				["6420"] = {
+					["item:6420:0:0:0:0:0:0:0:80"] = {
+						"1;5608;0;720;558;1556161510;", -- [1]
+					},
+				},
+				["15348"] = {
+					["item:15348:0:0:0:0:0:762:0:80"] = {
+						"1;1188;0;720;117;1555864172;", -- [1]
+					},
+				},
+				["9897"] = {
+					["item:9897:0:0:0:0:0:613:0:80"] = {
+						"1;11052;0;720;1104;1556158613;", -- [1]
+					},
+				},
+				["7434"] = {
+					["item:7434:0:0:0:0:0:187:0:80"] = {
+						"1;3804;0;720;378;1556158616;", -- [1]
+					},
+				},
+				["7457"] = {
+					["item:7457:0:0:0:0:0:857:0:80"] = {
+						"1;3846;0;720;384;1556158628;", -- [1]
+					},
+				},
+				["2854"] = {
+					["item:2854:0:0:0:0:0:0:0:80"] = {
+						"1;564;0;720;100;1555790308;", -- [1]
+						"1;564;0;720;100;1555790308;", -- [2]
+						"1;564;0;720;100;1555790308;", -- [3]
+						"1;564;0;720;100;1555790308;", -- [4]
+					},
+				},
+				["7921"] = {
+					["item:7921:0:0:0:0:0:0:0:80"] = {
+						"1;17814;0;720;1779;1556943696;", -- [1]
+						"1;17814;0;720;1779;1556943696;", -- [2]
+					},
+				},
+				["14365"] = {
+					["item:14365:0:0:0:0:0:0:0:80"] = {
+						"1;321;0;720;100;1555739217;", -- [1]
+					},
+				},
+				["935"] = {
+					["item:935:0:0:0:0:0:0:0:80"] = {
+						"1;2613;0;720;261;1555821359;", -- [1]
+					},
+				},
+				["7436"] = {
+					["item:7436:0:0:0:0:0:2033:0:80"] = {
+						"1;3166;0;720;315;1556242526;", -- [1]
+					},
+				},
+				["2865"] = {
+					["item:2865:0:0:0:0:0:0:0:80"] = {
+						"1;1443;0;720;144;1555794193;", -- [1]
+						"1;1443;0;720;144;1555794193;", -- [2]
+						"1;1443;0;720;144;1555794193;", -- [3]
+						"1;1443;0;720;144;1555794194;", -- [4]
+						"1;1443;0;720;144;1555794194;", -- [5]
+						"1;1443;0;720;144;1555794194;", -- [6]
+						"1;1443;0;720;144;1555794194;", -- [7]
+						"1;1443;0;720;144;1555813819;", -- [8]
+						"1;1443;0;720;144;1555813819;", -- [9]
+						"1;1443;0;720;144;1555813820;", -- [10]
+						"1;1443;0;720;144;1555813820;", -- [11]
+						"1;1443;0;720;144;1555813820;", -- [12]
+						"1;1443;0;720;144;1555813820;", -- [13]
+						"1;1443;0;720;144;1555813820;", -- [14]
+						"1;1443;0;720;144;1555813820;", -- [15]
+						"1;1443;0;720;144;1555813820;", -- [16]
+						"1;1443;0;720;144;1555813820;", -- [17]
+						"1;1443;0;720;144;1555855388;", -- [18]
+						"1;1443;0;720;144;1555855388;", -- [19]
+						"1;1443;0;720;144;1555855388;", -- [20]
+						"1;1443;0;720;144;1555855389;", -- [21]
+						"1;1443;0;720;144;1555855389;", -- [22]
+						"1;1443;0;720;144;1555855389;", -- [23]
+					},
+				},
+				["12261"] = {
+					["item:12261:0:0:0:0:0:0:0:80"] = {
+						"1;1425;0;720;141;1556943892;", -- [1]
+					},
+				},
+				["6565"] = {
+					["item:6565:0:0:0:0:0:847:0:80"] = {
+						"1;591;0;720;100;1555739228;", -- [1]
+					},
+				},
+				["3313"] = {
+					["item:3313:0:0:0:0:0:0:0:80"] = {
+						"1;778;0;720;100;1555813806;", -- [1]
+						"1;778;0;720;100;1555813806;", -- [2]
+					},
+				},
+				["15136"] = {
+					["item:15136:0:0:0:0:0:252:0:80"] = {
+						"1;1873;0;720;186;1555990097;", -- [1]
+					},
+				},
+				["14376"] = {
+					["item:14376:0:0:0:0:0:0:0:80"] = {
+						"1;828;0;720;100;1555821367;", -- [1]
+					},
+				},
+				["15946"] = {
+					["item:15946:0:0:0:0:0:0:0:80"] = {
+						"1;1203;0;720;120;1555813788;", -- [1]
+					},
+				},
+				["1990"] = {
+					["item:1990:0:0:0:0:0:611:0:80"] = {
+						"1;15115;0;720;1509;1556076353;", -- [1]
+					},
+				},
+				["3845"] = {
+					["item:3845:0:0:0:0:0:0:0:80"] = {
+						"1;9837;0;720;981;1556066363;", -- [1]
+						"1;9837;0;720;981;1556066363;", -- [2]
+						"1;9837;0;720;981;1556066363;", -- [3]
+					},
+				},
+				["3472"] = {
+					["item:3472:0:0:0:0:0:0:0:80"] = {
+						"1;178;0;720;100;1555729067;", -- [1]
+						"1;178;0;720;100;1555729067;", -- [2]
+						"1;178;0;720;100;1555729067;", -- [3]
+					},
+				},
+				["9805"] = {
+					["item:9805:0:0:0:0:0:842:0:80"] = {
+						"1;1063;0;720;105;1555865899;", -- [1]
+					},
+				},
+				["15345"] = {
+					["item:15345:0:0:0:0:0:766:0:80"] = {
+						"1;2841;0;720;282;1555903699;", -- [1]
+					},
+				},
+				["15114"] = {
+					["item:15114:0:0:0:0:0:504:0:80"] = {
+						"1;558;0;720;100;1555817976;", -- [1]
+					},
+					["item:15114:0:0:0:0:0:1991:0:80"] = {
+						"1;558;0;720;100;1555821370;", -- [1]
+					},
+				},
+				["6040"] = {
+					["item:6040:0:0:0:0:0:0:0:80"] = {
+						"1;4123;0;720;411;1555990117;", -- [1]
+						"1;4123;0;720;411;1555990117;", -- [2]
+						"1;4123;0;720;411;1555990117;", -- [3]
+						"1;4123;0;720;411;1555990117;", -- [4]
+						"1;4123;0;720;411;1555990117;", -- [5]
+						"1;4123;0;720;411;1555990117;", -- [6]
+						"1;4123;0;720;411;1555990117;", -- [7]
+						"1;4123;0;720;411;1555990117;", -- [8]
+						"1;4123;0;720;411;1555990117;", -- [9]
+						"1;4123;0;720;411;1555990117;", -- [10]
+						"1;4123;0;720;411;1555990118;", -- [11]
+						"1;4123;0;720;411;1555990118;", -- [12]
+						"1;4123;0;720;411;1555990118;", -- [13]
+						"1;4123;0;720;411;1556066357;", -- [14]
+						"1;4123;0;720;411;1556066357;", -- [15]
+						"1;4123;0;720;411;1556066357;", -- [16]
+						"1;4123;0;720;411;1556066357;", -- [17]
+						"1;4123;0;720;411;1556066358;", -- [18]
+						"1;4123;0;720;411;1556066358;", -- [19]
+						"1;4123;0;720;411;1556066358;", -- [20]
+						"1;4123;0;720;411;1556066358;", -- [21]
+						"1;4123;0;720;411;1556066358;", -- [22]
+						"1;4123;0;720;411;1556066358;", -- [23]
+						"1;4123;0;720;411;1556066358;", -- [24]
+						"1;4123;0;720;411;1556066358;", -- [25]
+						"1;4123;0;720;411;1556066358;", -- [26]
+						"1;4123;0;720;411;1556066358;", -- [27]
+						"1;4123;0;720;411;1556066358;", -- [28]
+					},
+				},
+				["2978"] = {
+					["item:2978:0:0:0:0:0:0:0:80"] = {
+						"1;622;0;720;100;1555739222;", -- [1]
+					},
+				},
+				["13005"] = {
+					["item:13005:0:0:0:0:0:0:0:80"] = {
+						"1;1996;0;720;198;1555899055;", -- [1]
+					},
+				},
+				["14435"] = {
+					["item:14435:0:0:0:0:0:0:0:80"] = {
+						"1;4167;0;720;414;1556161504;", -- [1]
+					},
+				},
+				["4561"] = {
+					["item:4561:0:0:0:0:0:15:0:80"] = {
+						"1;463;0;720;100;1555729051;", -- [1]
+						"1;463;0;720;100;1555729051;", -- [2]
+					},
+				},
+				["4038"] = {
+					["item:4038:0:0:0:0:0:0:0:80"] = {
+						"1;5343;0;720;534;1556161493;", -- [1]
+					},
+				},
+				["14192"] = {
+					["item:14192:0:0:0:0:0:773:0:80"] = {
+						"1;2919;0;720;291;1556073566;", -- [1]
+					},
+				},
+				["4043"] = {
+					["item:4043:0:0:0:0:0:0:0:80"] = {
+						"1;2937;0;720;291;1556073580;", -- [1]
+					},
+				},
+				["6350"] = {
+					["item:6350:0:0:0:0:0:0:0:80"] = {
+						"1;739;0;720;100;1555790312;", -- [1]
+						"1;739;0;720;100;1555790312;", -- [2]
+						"1;739;0;720;100;1555790312;", -- [3]
+						"1;739;0;720;100;1555794189;", -- [4]
+						"1;739;0;720;100;1555794189;", -- [5]
+						"1;739;0;720;100;1555794189;", -- [6]
+						"1;739;0;720;100;1555794189;", -- [7]
+						"1;739;0;720;100;1555794189;", -- [8]
+						"1;739;0;720;100;1555794189;", -- [9]
+					},
+				},
+				["7354"] = {
+					["item:7354:0:0:0:0:0:1021:0:80"] = {
+						"1;2797;0;720;279;1556073569;", -- [1]
+					},
+				},
+				["6428"] = {
+					["item:6428:0:0:0:0:0:0:0:80"] = {
+						"1;4192;0;720;417;1556158620;", -- [1]
+					},
+				},
+				["1717"] = {
+					["item:1717:0:0:0:0:0:0:0:80"] = {
+						"1;4662;0;720;465;1556073560;", -- [1]
+					},
+				},
+				["6342"] = {
+					["item:6342:0:0:0:0:0:0:0:80"] = {
+						"1;112;0;720;100;1555864189;", -- [1]
+					},
+				},
+				["7412"] = {
+					["item:7412:0:0:0:0:0:1191:0:80"] = {
+						"1;1953;0;720;195;1555903682;", -- [1]
+					},
+				},
+				["6412"] = {
+					["item:6412:0:0:0:0:0:0:0:80"] = {
+						"1;7066;0;720;705;1556158636;", -- [1]
+					},
+				},
+				["14260"] = {
+					["item:14260:0:0:0:0:0:181:0:80"] = {
+						"1;4350;0;720;435;1556161529;", -- [1]
+					},
+				},
+				["9718"] = {
+					["item:9718:0:0:0:0:0:0:0:80"] = {
+						"1;17131;0;720;1713;1556066780;", -- [1]
+					},
+				},
+				["9896"] = {
+					["item:9896:0:0:0:0:0:937:0:80"] = {
+						"1;4369;0;720;435;1556242533;", -- [1]
+					},
+				},
+				["9859"] = {
+					["item:9859:0:0:0:0:0:777:0:80"] = {
+						"1;4308;0;720;429;1556242518;", -- [1]
+					},
+				},
+				["7558"] = {
+					["item:7558:0:0:0:0:0:845:0:80"] = {
+						"1;2413;0;720;240;1556073563;", -- [1]
+					},
+				},
 			},
-			["wealth"] = 461,
+			["wealth"] = 794384,
 			["vendorbuy"] = {
 			},
 			["failedAuctions"] = {
+				["2406"] = {
+					["item:2406:0:0:0:0:0:0:0:80"] = {
+						"1;;100;;;100;;1555782428;;H", -- [1]
+					},
+				},
+				["8153"] = {
+					["item:8153:0:0:0:0:0:0:0:80"] = {
+						"2;;100;;;200;;1556201830;;H", -- [1]
+					},
+				},
 			},
 			["failedBids"] = {
 			},
 			["completedBidsBuyouts"] = {
 			},
+			["version"] = 2.12,
+			["faction"] = "Horde",
 			["failedBidsNeutral"] = {
 			},
-			["faction"] = "Horde",
-			["version"] = 2.12,
 			["failedAuctionsNeutral"] = {
 			},
 			["completedAuctionsNeutral"] = {
 			},
 			["mailbox"] = {
+				{
+					["subject"] = "Auction successful: Plans: Searing Golden Blade",
+					["read"] = 2,
+					["time"] = 29.43328666687012,
+					["sender"] = "Horde Auction House",
+				}, -- [1]
+				{
+					["subject"] = "Auction successful: Plans: Golden Scale Cuirass",
+					["read"] = 1,
+					["time"] = 29.43259239196777,
+					["sender"] = "Horde Auction House",
+				}, -- [2]
+				{
+					["subject"] = "Auction successful: Plans: Jade Serpentblade",
+					["read"] = 1,
+					["time"] = 29.43259239196777,
+					["sender"] = "Horde Auction House",
+				}, -- [3]
+				{
+					["subject"] = "Auction successful: Heavy Mithril Pants",
+					["read"] = 1,
+					["time"] = 29.43050956726074,
+					["sender"] = "Horde Auction House",
+				}, -- [4]
+				{
+					["subject"] = "Auction successful: Heavy Mithril Pants",
+					["read"] = 1,
+					["time"] = 29.43050956726074,
+					["sender"] = "Horde Auction House",
+				}, -- [5]
+				{
+					["subject"] = "Journeyman Riding in the Eversong Woods",
+					["read"] = 1,
+					["time"] = 20.74320602416992,
+					["sender"] = "Perascamin",
+				}, -- [6]
+				{
+					["subject"] = "Learn to Ride in the Eversong Woods",
+					["read"] = 1,
+					["time"] = 15.5664119720459,
+					["sender"] = "Perascamin",
+				}, -- [7]
 			},
 		},
 		["Resk"] = {
 			["vendorsell"] = {
 			},
 			["completedAuctions"] = {
+				["6348"] = {
+					["item:6348:0:0:0:0:0:0:0:80"] = {
+						"1;397;100;15;0;;Allybot;1554731145;;H", -- [1]
+					},
+				},
+				["4410"] = {
+					["item:4410:0:0:0:0:0:0:0:80"] = {
+						"1;647;100;28;0;;Hordebot;1554658066;;H", -- [1]
+					},
+				},
+				["4242"] = {
+					["item:4242:0:0:0:0:0:0:0:80"] = {
+						"1;853;52;42;0;;Allybot;1554387523;;H", -- [1]
+						"1;893;52;44;0;;Hordebot;1554387523;;H", -- [2]
+						"1;815;52;40;0;;Allybot;1554387523;;H", -- [3]
+						"1;815;52;40;0;;Allybot;1554387523;;H", -- [4]
+						"1;893;52;44;0;;Hordebot;1554387523;;H", -- [5]
+						"1;893;52;44;0;;Allybot;1554387523;;H", -- [6]
+						"1;853;52;42;0;;Hordebot;1554387523;;H", -- [7]
+						"1;853;52;42;0;;Allybot;1554387523;;H", -- [8]
+						"1;815;52;40;0;;Hordebot;1554387523;;H", -- [9]
+						"1;853;52;42;0;;Hordebot;1554387523;;H", -- [10]
+						"1;893;52;44;0;;Hordebot;1554387523;;H", -- [11]
+						"1;779;52;38;0;;Allybot;1554387523;;H", -- [12]
+						"1;815;52;40;0;;Allybot;1554387523;;H", -- [13]
+						"1;853;52;42;0;;Allybot;1554387523;;H", -- [14]
+						"1;893;52;44;0;;Allybot;1554387523;;H", -- [15]
+					},
+				},
+				["2988"] = {
+					["item:2988:0:0:0:0:0:0:0:80"] = {
+						"1;822;100;38;0;;Allybot;1554387523;;H", -- [1]
+					},
+				},
+				["13048"] = {
+					["item:13048:0:0:0:0:0:0:0:80"] = {
+						"1;14748;895;729;0;;Allybot;1554568365;;H", -- [1]
+					},
+				},
+				["4348"] = {
+					["item:4348:0:0:0:0:0:0:0:80"] = {
+						"1;542;100;23;0;;Allybot;1554468343;;H", -- [1]
+					},
+				},
+				["5425"] = {
+					["item:5425:0:0:0:0:0:0:0:80"] = {
+						"1;1263;100;61;0;;Allybot;1554224142;;H", -- [1]
+					},
+				},
+				["6663"] = {
+					["item:6663:0:0:0:0:0:0:0:80"] = {
+						"1;442;100;18;0;;Allybot;1554224203;;H", -- [1]
+					},
+				},
+				["5069"] = {
+					["item:5069:0:0:0:0:0:0:0:80"] = {
+						"1;807;100;37;0;;Hordebot;1554573466;;H", -- [1]
+					},
+				},
+				["3612"] = {
+					["item:3612:0:0:0:0:0:0:0:80"] = {
+						"1;1313;100;63;0;;Allybot;1554658126;;H", -- [1]
+					},
+				},
+				["2315"] = {
+					["item:2315:0:0:0:0:0:0:0:80"] = {
+						"1;1204;76;59;0;;Hordebot;1554387523;;H", -- [1]
+						"1;1381;76;68;0;;Allybot;1554387523;;H", -- [2]
+						"1;1204;76;59;0;;Allybot;1554387523;;H", -- [3]
+						"1;1381;76;68;0;;Allybot;1554387523;;H", -- [4]
+						"1;1204;76;59;0;;Hordebot;1554387523;;H", -- [5]
+						"1;1260;76;62;0;;Allybot;1554387523;;H", -- [6]
+						"1;1151;76;56;0;;Allybot;1554387523;;H", -- [7]
+					},
+				},
+				["10606"] = {
+					["item:10606:0:0:0:0:0:0:0:80"] = {
+						"1;3016;131;151;0;;Hordebot;1556281870;;H", -- [1]
+					},
+				},
+				["10601"] = {
+					["item:10601:0:0:0:0:0:0:0:80"] = {
+						"1;1202;100;57;0;;Hordebot;1554731085;;H", -- [1]
+					},
+				},
+				["7450"] = {
+					["item:7450:0:0:0:0:0:0:0:80"] = {
+						"1;1435;100;70;0;;Allybot;1556987868;;H", -- [1]
+					},
+				},
+				["3719"] = {
+					["item:3719:0:0:0:0:0:0:0:80"] = {
+						"1;3537;205;175;0;;Hordebot;1554731145;;H", -- [1]
+						"1;3227;205;159;0;;Hordebot;1554731145;;H", -- [2]
+						"1;3227;205;159;0;;Allybot;1554731145;;H", -- [3]
+						"1;3084;205;151;0;;Allybot;1554731145;;H", -- [4]
+						"1;3378;205;167;0;;Hordebot;1554731145;;H", -- [5]
+						"1;3227;205;159;0;;Allybot;1554731145;;H", -- [6]
+						"1;3537;205;175;0;;Hordebot;1554731145;;H", -- [7]
+					},
+				},
+				["4414"] = {
+					["item:4414:0:0:0:0:0:0:0:80"] = {
+						"1;1222;100;59;0;;Allybot;1554731145;;H", -- [1]
+						"1;1222;100;59;0;;Allybot;1554816286;;H", -- [2]
+					},
+				},
+				["4409"] = {
+					["item:4409:0:0:0:0:0:0:0:80"] = {
+						"1;540;100;23;0;;Allybot;1554224082;;H", -- [1]
+					},
+				},
+				["7728"] = {
+					["item:7728:0:0:0:0:0:0:0:80"] = {
+						"1;8721;483;433;0;;Hordebot;1554816286;;H", -- [1]
+					},
+				},
+				["12974"] = {
+					["item:12974:0:0:0:0:0:0:0:80"] = {
+						"1;15788;915;782;0;;Hordebot;1554478603;;H", -- [1]
+					},
+				},
+				["2983"] = {
+					["item:2983:0:0:0:0:0:0:0:80"] = {
+						"1;779;100;35;0;;Allybot;1554387523;;H", -- [1]
+					},
+				},
+				["4297"] = {
+					["item:4297:0:0:0:0:0:0:0:80"] = {
+						"1;1202;100;57;0;;Allybot;1554391543;;H", -- [1]
+					},
+				},
+				["1076"] = {
+					["item:1076:0:0:0:0:0:0:0:80"] = {
+						"1;1679;100;83;0;;Hordebot;1554477883;;H", -- [1]
+					},
+				},
+				["4239"] = {
+					["item:4239:0:0:0:0:0:0:0:80"] = {
+						"1;369;100;14;0;;Hordebot;1554387523;;H", -- [1]
+					},
+				},
+				["14366"] = {
+					["item:14366:0:0:0:0:0:0:0:80"] = {
+						"1;575;100;24;0;;Allybot;1554391423;;H", -- [1]
+					},
+				},
+				["6271"] = {
+					["item:6271:0:0:0:0:0:0:0:80"] = {
+						"1;232;100;6;0;;Allybot;1554658066;;H", -- [1]
+					},
+				},
+				["4785"] = {
+					["item:4785:0:0:0:0:0:0:0:80"] = {
+						"1;1235;100;59;0;;Hordebot;1554658066;;H", -- [1]
+					},
+				},
+				["4353"] = {
+					["item:4353:0:0:0:0:0:0:0:80"] = {
+						"1;823;100;38;0;;Hordebot;1556987868;;H", -- [1]
+					},
+				},
+				["2911"] = {
+					["item:2911:0:0:0:0:0:0:0:80"] = {
+						"1;1255;100;60;0;;Allybot;1554468343;;H", -- [1]
+					},
+				},
+				["5964"] = {
+					["item:5964:0:0:0:0:0:0:0:80"] = {
+						"1;6441;391;318;0;;Allybot;1554822105;;H", -- [1]
+						"1;7060;391;351;0;;Hordebot;1554822105;;H", -- [2]
+						"1;7060;391;351;0;;Hordebot;1554822105;;H", -- [3]
+					},
+				},
+				["4349"] = {
+					["item:4349:0:0:0:0:0:0:0:80"] = {
+						"1;521;100;22;0;;Allybot;1554731085;;H", -- [1]
+					},
+				},
+				["3831"] = {
+					["item:3831:0:0:0:0:0:0:0:80"] = {
+						"1;1372;100;66;0;;Allybot;1556987868;;H", -- [1]
+					},
+				},
+				["12976"] = {
+					["item:12976:0:0:0:0:0:0:0:80"] = {
+						"1;5012;265;249;0;;Allybot;1554658066;;H", -- [1]
+					},
+				},
+				["5423"] = {
+					["item:5423:0:0:0:0:0:0:0:80"] = {
+						"1;5639;312;280;0;;Allybot;1554224082;;H", -- [1]
+					},
+				},
+				["9385"] = {
+					["item:9385:0:0:0:0:0:0:0:80"] = {
+						"1;31768;1842;1575;0;;Allybot;1554816286;;H", -- [1]
+						"1;34835;1842;1736;0;;Hordebot;1556987028;;H", -- [2]
+					},
+				},
+				["7285"] = {
+					["item:7285:0:0:0:0:0:0:0:80"] = {
+						"1;1387;88;68;0;;Allybot;1554468403;;H", -- [1]
+						"1;1519;88;75;0;;Allybot;1554468403;;H", -- [2]
+						"1;1519;88;75;0;;Allybot;1554468403;;H", -- [3]
+						"1;1452;88;71;0;;Allybot;1554468403;;H", -- [4]
+					},
+				},
+				["4259"] = {
+					["item:4259:0:0:0:0:0:0:0:80"] = {
+						"1;4358;290;214;0;;Allybot;1554822105;;H", -- [1]
+					},
+				},
+				["3868"] = {
+					["item:3868:0:0:0:0:0:0:0:80"] = {
+						"1;3539;187;176;0;;Hordebot;1554816286;;H", -- [1]
+					},
+				},
+				["7753"] = {
+					["item:7753:0:0:0:0:0:0:0:80"] = {
+						"1;17755;1181;872;0;;Allybot;1554816286;;H", -- [1]
+					},
+				},
+				["2314"] = {
+					["item:2314:0:0:0:0:0:0:0:80"] = {
+						"1;3506;223;172;0;;Allybot;1554614385;;H", -- [1]
+					},
+				},
+				["4243"] = {
+					["item:4243:0:0:0:0:0:0:0:80"] = {
+						"1;1185;69;58;0;;Allybot;1554387523;;H", -- [1]
+						"1;1082;69;53;0;;Allybot;1554387523;;H", -- [2]
+					},
+				},
+				["4350"] = {
+					["item:4350:0:0:0:0:0:0:0:80"] = {
+						"1;633;100;28;0;;Hordebot;1556987868;;H", -- [1]
+					},
+				},
+				["1717"] = {
+					["item:1717:0:0:0:0:0:0:0:80"] = {
+						"1;8035;466;398;0;;Allybot;1554658126;;H", -- [1]
+					},
+				},
+				["4699"] = {
+					["item:4699:0:0:0:0:0:0:0:80"] = {
+						"1;689;100;30;0;;Hordebot;1554573406;;H", -- [1]
+					},
+				},
+				["4707"] = {
+					["item:4707:0:0:0:0:0:0:0:80"] = {
+						"1;2768;132;138;0;;Hordebot;1555503069;;H", -- [1]
+					},
+				},
+				["1265"] = {
+					["item:1265:0:0:0:0:0:0:0:80"] = {
+						"1;30459;1766;1510;0;;Hordebot;1554740625;;H", -- [1]
+					},
+				},
+				["4293"] = {
+					["item:4293:0:0:0:0:0:0:0:80"] = {
+						"1;471;100;19;0;;Allybot;1554468343;;H", -- [1]
+					},
+				},
+				["2310"] = {
+					["item:2310:0:0:0:0:0:0:0:80"] = {
+						"1;363;22;17;0;;Allybot;1554387523;;H", -- [1]
+						"1;379;22;18;0;;Allybot;1554387523;;H", -- [2]
+						"1;363;22;17;0;;Hordebot;1554387523;;H", -- [3]
+						"1;363;22;17;0;;Allybot;1554387523;;H", -- [4]
+						"1;317;22;15;0;;Allybot;1554387523;;H", -- [5]
+					},
+				},
+				["2992"] = {
+					["item:2992:0:0:0:0:0:0:0:80"] = {
+						"1;1088;100;51;0;;Allybot;1554658066;;H", -- [1]
+					},
+				},
 			},
 			["postedBids"] = {
 			},
 			["completedBidsBuyoutsNeutral"] = {
 			},
 			["postedAuctions"] = {
+				["6267"] = {
+					["item:6267:0:0:0:0:0:754:0:80"] = {
+						"1;223;0;720;100;1554526669;", -- [1]
+					},
+				},
+				["2988"] = {
+					["item:2988:0:0:0:0:0:0:0:80"] = {
+						"1;471;0;720;100;1554340739;", -- [1]
+					},
+				},
+				["4060"] = {
+					["item:4060:0:0:0:0:0:0:0:80"] = {
+						"1;8472;0;720;846;1556940268;", -- [1]
+					},
+				},
+				["4349"] = {
+					["item:4349:0:0:0:0:0:0:0:80"] = {
+						"1;262;0;720;100;1554684343;", -- [1]
+					},
+				},
+				["6663"] = {
+					["item:6663:0:0:0:0:0:0:0:80"] = {
+						"1;225;0;720;100;1554177458;", -- [1]
+					},
+				},
+				["5069"] = {
+					["item:5069:0:0:0:0:0:0:0:80"] = {
+						"1;439;0;720;100;1554526666;", -- [1]
+					},
+				},
+				["7285"] = {
+					["item:7285:0:0:0:0:0:0:0:80"] = {
+						"1;883;0;720;100;1554421604;", -- [1]
+						"1;883;0;720;100;1554421604;", -- [2]
+						"1;883;0;720;100;1554421604;", -- [3]
+						"1;883;0;720;100;1554421604;", -- [4]
+					},
+				},
+				["3864"] = {
+					["item:3864:0:0:0:0:0:0:0:80"] = {
+						"1;1200;0;720;120;1554684346;", -- [1]
+					},
+				},
+				["15262"] = {
+					["item:15262:0:0:0:0:0:618:0:80"] = {
+						"1;32328;0;720;3231;1556940264;", -- [1]
+					},
+				},
+				["10601"] = {
+					["item:10601:0:0:0:0:0:0:0:80"] = {
+						"1;750;0;720;100;1554684341;", -- [1]
+					},
+				},
+				["7450"] = {
+					["item:7450:0:0:0:0:0:0:0:80"] = {
+						"1;750;0;720;100;1556941083;", -- [1]
+					},
+				},
+				["5011"] = {
+					["item:5011:0:0:0:0:0:0:0:80"] = {
+						"1;2868;0;720;285;1556940312;", -- [1]
+					},
+				},
+				["4566"] = {
+					["item:4566:0:0:0:0:0:1954:0:80"] = {
+						"1;946;0;720;100;1554526657;", -- [1]
+					},
+				},
+				["5498"] = {
+					["item:5498:0:0:0:0:0:0:0:80"] = {
+						"1;300;0;720;100;1554431211;", -- [1]
+						"5;1500;0;720;150;1554526660;", -- [2]
+					},
+				},
+				["7728"] = {
+					["item:7728:0:0:0:0:0:0:0:80"] = {
+						"1;4834;0;720;483;1554769519;", -- [1]
+					},
+				},
+				["15493"] = {
+					["item:15493:0:0:0:0:0:1187:0:80"] = {
+						"1;970;0;720;100;1554526648;", -- [1]
+						"1;970;0;720;100;1554526648;", -- [2]
+					},
+				},
+				["1529"] = {
+					["item:1529:0:0:0:0:0:0:0:80"] = {
+						"1;1050;0;720;105;1554431205;", -- [1]
+						"1;1050;0;720;105;1554521598;", -- [2]
+						"1;1050;0;720;105;1554611333;", -- [3]
+						"1;1050;0;720;105;1554769529;", -- [4]
+					},
+				},
+				["11987"] = {
+					["item:11987:0:0:0:0:0:1027:0:80"] = {
+						"1;4327;0;720;432;1554775354;", -- [1]
+					},
+				},
+				["1076"] = {
+					["item:1076:0:0:0:0:0:0:0:80"] = {
+						"1;975;0;720;100;1554431139;", -- [1]
+					},
+				},
+				["14366"] = {
+					["item:14366:0:0:0:0:0:0:0:80"] = {
+						"1;283;0;720;100;1554344682;", -- [1]
+					},
+				},
+				["9871"] = {
+					["item:9871:0:0:0:0:0:1121:0:80"] = {
+						"1;8137;0;720;813;1556940278;", -- [1]
+						"1;8137;0;720;813;1556940278;", -- [2]
+					},
+				},
+				["2310"] = {
+					["item:2310:0:0:0:0:0:0:0:80"] = {
+						"1;223;0;720;100;1554340751;", -- [1]
+						"1;223;0;720;100;1554340751;", -- [2]
+						"1;223;0;720;100;1554340751;", -- [3]
+						"1;223;0;720;100;1554340751;", -- [4]
+						"1;223;0;720;100;1554340751;", -- [5]
+					},
+				},
+				["9794"] = {
+					["item:9794:0:0:0:0:0:1803:0:80"] = {
+						"1;1243;0;720;123;1554521595;", -- [1]
+					},
+				},
+				["15309"] = {
+					["item:15309:0:0:0:0:0:839:0:80"] = {
+						"1;330;0;720;100;1554526671;", -- [1]
+					},
+				},
+				["774"] = {
+					["item:774:0:0:0:0:0:0:0:80"] = {
+						"4;100;0;720;100;1554521588;", -- [1]
+					},
+				},
+				["9879"] = {
+					["item:9879:0:0:0:0:0:1357:0:80"] = {
+						"1;2946;0;720;294;1556940284;", -- [1]
+					},
+				},
+				["2775"] = {
+					["item:2775:0:0:0:0:0:0:0:80"] = {
+						"1;112;0;720;100;1554344662;", -- [1]
+					},
+				},
+				["818"] = {
+					["item:818:0:0:0:0:0:0:0:80"] = {
+						"4;600;0;720;100;1554177333;", -- [1]
+						"1;150;0;720;100;1554260024;", -- [2]
+						"1;150;0;720;100;1554431165;", -- [3]
+					},
+				},
+				["1705"] = {
+					["item:1705:0:0:0:0:0:0:0:80"] = {
+						"1;900;0;720;100;1554260021;", -- [1]
+						"1;900;0;720;100;1554431208;", -- [2]
+						"1;900;0;720;100;1554521601;", -- [3]
+					},
+				},
+				["11997"] = {
+					["item:11997:0:0:0:0:0:190:0:80"] = {
+						"1;9703;0;720;969;1556940301;", -- [1]
+					},
+				},
+				["9896"] = {
+					["item:9896:0:0:0:0:0:1192:0:80"] = {
+						"1;4369;0;720;435;1556940308;", -- [1]
+					},
+				},
+				["3868"] = {
+					["item:3868:0:0:0:0:0:0:0:80"] = {
+						"1;1875;0;720;186;1554769535;", -- [1]
+					},
+				},
+				["9790"] = {
+					["item:9790:0:0:0:0:0:1097:0:80"] = {
+						"1;1191;0;720;117;1554431130;", -- [1]
+					},
+					["item:9790:0:0:0:0:0:24:0:80"] = {
+						"1;1191;0;720;117;1554340736;", -- [1]
+					},
+				},
+				["4259"] = {
+					["item:4259:0:0:0:0:0:0:0:80"] = {
+						"1;2901;0;720;288;1554775351;", -- [1]
+					},
+				},
+				["5500"] = {
+					["item:5500:0:0:0:0:0:0:0:80"] = {
+						"1;1125;0;720;111;1554431214;", -- [1]
+						"1;1125;0;720;111;1554567595;", -- [2]
+					},
+				},
+				["4699"] = {
+					["item:4699:0:0:0:0:0:0:0:80"] = {
+						"1;331;0;720;100;1554526663;", -- [1]
+					},
+				},
+				["7483"] = {
+					["item:7483:0:0:0:0:0:769:0:80"] = {
+						"1;5085;0;720;507;1556940258;", -- [1]
+						"1;5085;0;720;507;1556940258;", -- [2]
+						"1;5085;0;720;507;1556940258;", -- [3]
+					},
+				},
+				["2911"] = {
+					["item:2911:0:0:0:0:0:0:0:80"] = {
+						"1;786;0;720;100;1554421598;", -- [1]
+					},
+				},
+				["6348"] = {
+					["item:6348:0:0:0:0:0:0:0:80"] = {
+						"1;187;0;720;100;1554684353;", -- [1]
+					},
+				},
+				["4410"] = {
+					["item:4410:0:0:0:0:0:0:0:80"] = {
+						"1;375;0;720;100;1554611302;", -- [1]
+					},
+				},
+				["9792"] = {
+					["item:9792:0:0:0:0:0:237:0:80"] = {
+						"1;1234;0;720;123;1554431144;", -- [1]
+						"1;1234;0;720;123;1554431144;", -- [2]
+					},
+				},
+				["7429"] = {
+					["item:7429:0:0:0:0:0:411:0:80"] = {
+						"1;6930;0;720;693;1556940319;", -- [1]
+					},
+				},
+				["13048"] = {
+					["item:13048:0:0:0:0:0:0:0:80"] = {
+						"1;8956;0;720;894;1554521593;", -- [1]
+					},
+				},
+				["14168"] = {
+					["item:14168:0:0:0:0:0:1013:0:80"] = {
+						"1;414;0;720;100;1554611346;", -- [1]
+					},
+				},
+				["4348"] = {
+					["item:4348:0:0:0:0:0:0:0:80"] = {
+						"1;262;0;720;100;1554421592;", -- [1]
+					},
+				},
+				["5425"] = {
+					["item:5425:0:0:0:0:0:0:0:80"] = {
+						"1;756;0;720;100;1554177346;", -- [1]
+					},
+				},
+				["3831"] = {
+					["item:3831:0:0:0:0:0:0:0:80"] = {
+						"1;825;0;720;100;1556941088;", -- [1]
+					},
+				},
+				["15017"] = {
+					["item:15017:0:0:0:0:0:760:0:80"] = {
+						"1;916;0;720;100;1554526654;", -- [1]
+					},
+				},
+				["1206"] = {
+					["item:1206:0:0:0:0:0:0:0:80"] = {
+						"1;600;0;720;100;1554260015;", -- [1]
+						"1;600;0;720;100;1554344679;", -- [2]
+						"1;600;0;720;100;1554421595;", -- [3]
+						"2;1200;0;720;120;1554431168;", -- [4]
+						"3;1800;0;720;180;1554611315;", -- [5]
+					},
+				},
+				["3612"] = {
+					["item:3612:0:0:0:0:0:0:0:80"] = {
+						"1;750;0;720;100;1554611341;", -- [1]
+					},
+				},
+				["9968"] = {
+					["item:9968:0:0:0:0:0:605:0:80"] = {
+						"1;7116;0;720;711;1554775357;", -- [1]
+					},
+				},
+				["10606"] = {
+					["item:10606:0:0:0:0:0:0:0:80"] = {
+						"1;2624;0;720;129;1556235092;", -- [1]
+					},
+				},
+				["15124"] = {
+					["item:15124:0:0:0:0:0:108:0:80"] = {
+						"1;1270;0;720;126;1554611312;", -- [1]
+					},
+				},
+				["5009"] = {
+					["item:5009:0:0:0:0:0:0:0:80"] = {
+						"1;2544;0;720;252;1556940290;", -- [1]
+					},
+				},
+				["3719"] = {
+					["item:3719:0:0:0:0:0:0:0:80"] = {
+						"1;2055;0;720;204;1554684364;", -- [1]
+						"1;2055;0;720;204;1554684364;", -- [2]
+						"1;2055;0;720;204;1554684364;", -- [3]
+						"1;2055;0;720;204;1554684364;", -- [4]
+						"1;2055;0;720;204;1554684364;", -- [5]
+						"1;2055;0;720;204;1554684364;", -- [6]
+						"1;2055;0;720;204;1554684364;", -- [7]
+					},
+				},
+				["15117"] = {
+					["item:15117:0:0:0:0:0:179:0:80"] = {
+						"1;1828;0;720;180;1554521605;", -- [1]
+					},
+				},
+				["4414"] = {
+					["item:4414:0:0:0:0:0:0:0:80"] = {
+						"1;693;0;720;100;1554684359;", -- [1]
+						"1;693;0;720;100;1554769532;", -- [2]
+					},
+				},
+				["4409"] = {
+					["item:4409:0:0:0:0:0:0:0:80"] = {
+						"1;300;0;720;100;1554177339;", -- [1]
+					},
+				},
+				["6584"] = {
+					["item:6584:0:0:0:0:0:1555:0:80"] = {
+						"1;2124;0;720;210;1554611305;", -- [1]
+					},
+				},
+				["7444"] = {
+					["item:7444:0:0:0:0:0:774:0:80"] = {
+						"1;5065;0;720;504;1556940316;", -- [1]
+					},
+				},
+				["12974"] = {
+					["item:12974:0:0:0:0:0:0:0:80"] = {
+						"1;9157;0;720;915;1554431807;", -- [1]
+					},
+				},
+				["4293"] = {
+					["item:4293:0:0:0:0:0:0:0:80"] = {
+						"1;243;0;720;100;1554421588;", -- [1]
+					},
+				},
+				["4297"] = {
+					["item:4297:0:0:0:0:0:0:0:80"] = {
+						"1;750;0;720;100;1554344750;", -- [1]
+					},
+				},
+				["15230"] = {
+					["item:15230:0:0:0:0:0:502:0:80"] = {
+						"1;4132;0;720;411;1554431122;", -- [1]
+					},
+				},
+				["4042"] = {
+					["item:4042:0:0:0:0:0:0:0:80"] = {
+						"1;3160;0;720;315;1556940297;", -- [1]
+					},
+				},
+				["15341"] = {
+					["item:15341:0:0:0:0:0:853:0:80"] = {
+						"1;2545;0;720;252;1556940274;", -- [1]
+					},
+				},
+				["15929"] = {
+					["item:15929:0:0:0:0:0:0:0:80"] = {
+						"1;6594;0;720;657;1556940286;", -- [1]
+					},
+				},
+				["6575"] = {
+					["item:6575:0:0:0:0:0:1097:0:80"] = {
+						"1;646;0;720;100;1554611297;", -- [1]
+					},
+				},
+				["4350"] = {
+					["item:4350:0:0:0:0:0:0:0:80"] = {
+						"1;300;0;720;100;1556941085;", -- [1]
+					},
+				},
+				["1210"] = {
+					["item:1210:0:0:0:0:0:0:0:80"] = {
+						"1;375;0;720;100;1554177327;", -- [1]
+						"1;375;0;720;100;1554260018;", -- [2]
+						"1;375;0;720;100;1554340776;", -- [3]
+						"3;1125;0;720;111;1554431202;", -- [4]
+						"1;375;0;720;100;1554611336;", -- [5]
+					},
+				},
+				["6271"] = {
+					["item:6271:0:0:0:0:0:0:0:80"] = {
+						"1;100;0;720;100;1554611309;", -- [1]
+					},
+				},
+				["5423"] = {
+					["item:5423:0:0:0:0:0:0:0:80"] = {
+						"1;3126;0;720;312;1554177342;", -- [1]
+					},
+				},
+				["9844"] = {
+					["item:9844:0:0:0:0:0:778:0:80"] = {
+						"1;5563;0;720;555;1556940261;", -- [1]
+					},
+				},
+				["9848"] = {
+					["item:9848:0:0:0:0:0:1027:0:80"] = {
+						"1;2376;0;720;237;1556940332;", -- [1]
+					},
+				},
+				["9892"] = {
+					["item:9892:0:0:0:0:0:1811:0:80"] = {
+						"1;4285;0;720;426;1556940272;", -- [1]
+					},
+				},
+				["6564"] = {
+					["item:6564:0:0:0:0:0:1012:0:80"] = {
+						"1;768;0;720;100;1554684349;", -- [1]
+					},
+				},
+				["14124"] = {
+					["item:14124:0:0:0:0:0:1013:0:80"] = {
+						"1;438;0;720;100;1554340742;", -- [1]
+					},
+				},
+				["4041"] = {
+					["item:4041:0:0:0:0:0:0:0:80"] = {
+						"1;4723;0;720;471;1556940329;", -- [1]
+					},
+				},
+				["2992"] = {
+					["item:2992:0:0:0:0:0:0:0:80"] = {
+						"1;612;0;720;100;1554611293;", -- [1]
+					},
+				},
+				["5964"] = {
+					["item:5964:0:0:0:0:0:0:0:80"] = {
+						"1;3913;0;720;390;1554775348;", -- [1]
+						"1;3913;0;720;390;1554775348;", -- [2]
+						"1;3913;0;720;390;1554775348;", -- [3]
+					},
+				},
+				["15918"] = {
+					["item:15918:0:0:0:0:0:1883:0:80"] = {
+						"1;7272;0;720;726;1556940304;", -- [1]
+					},
+				},
+				["4785"] = {
+					["item:4785:0:0:0:0:0:0:0:80"] = {
+						"1;703;0;720;100;1554611322;", -- [1]
+					},
+				},
+				["12976"] = {
+					["item:12976:0:0:0:0:0:0:0:80"] = {
+						"1;2655;0;720;264;1554611325;", -- [1]
+					},
+				},
+				["4243"] = {
+					["item:4243:0:0:0:0:0:0:0:80"] = {
+						"1;691;0;720;100;1554340760;", -- [1]
+						"1;691;0;720;100;1554340760;", -- [2]
+					},
+				},
+				["9789"] = {
+					["item:9789:0:0:0:0:0:1185:0:80"] = {
+						"1;1113;0;720;111;1554344666;", -- [1]
+					},
+				},
+				["2983"] = {
+					["item:2983:0:0:0:0:0:0:0:80"] = {
+						"1;420;0;720;100;1554340745;", -- [1]
+					},
+				},
+				["1717"] = {
+					["item:1717:0:0:0:0:0:0:0:80"] = {
+						"1;4662;0;720;465;1554611330;", -- [1]
+					},
+				},
+				["4239"] = {
+					["item:4239:0:0:0:0:0:0:0:80"] = {
+						"1;178;0;720;100;1554340747;", -- [1]
+					},
+				},
+				["2078"] = {
+					["item:2078:0:0:0:0:0:22:0:80"] = {
+						"1;1605;0;720;159;1554526652;", -- [1]
+					},
+				},
+				["2314"] = {
+					["item:2314:0:0:0:0:0:0:0:80"] = {
+						"1;2230;0;720;222;1554567592;", -- [1]
+					},
+				},
+				["7753"] = {
+					["item:7753:0:0:0:0:0:0:0:80"] = {
+						"1;11811;0;720;1179;1554769523;", -- [1]
+					},
+				},
+				["2315"] = {
+					["item:2315:0:0:0:0:0:0:0:80"] = {
+						"1;769;0;720;100;1554340764;", -- [1]
+						"1;769;0;720;100;1554340764;", -- [2]
+						"1;769;0;720;100;1554340764;", -- [3]
+						"1;769;0;720;100;1554340764;", -- [4]
+						"1;769;0;720;100;1554340764;", -- [5]
+						"1;769;0;720;100;1554340764;", -- [6]
+						"1;769;0;720;100;1554340764;", -- [7]
+					},
+				},
+				["6607"] = {
+					["item:6607:0:0:0:0:0:251:0:80"] = {
+						"1;3303;0;720;330;1554684356;", -- [1]
+					},
+				},
+				["9385"] = {
+					["item:9385:0:0:0:0:0:0:0:80"] = {
+						"1;18421;0;720;1842;1554769526;", -- [1]
+						"1;18421;0;720;1842;1556940281;", -- [2]
+					},
+				},
+				["4707"] = {
+					["item:4707:0:0:0:0:0:0:0:80"] = {
+						"1;2642;0;720;132;1555456322;", -- [1]
+					},
+				},
+				["1265"] = {
+					["item:1265:0:0:0:0:0:0:0:80"] = {
+						"1;17662;0;720;1764;1554693874;", -- [1]
+					},
+				},
+				["3577"] = {
+					["item:3577:0:0:0:0:0:0:0:80"] = {
+						"1;900;0;720;100;1554775343;", -- [1]
+					},
+				},
+				["4242"] = {
+					["item:4242:0:0:0:0:0:0:0:80"] = {
+						"1;520;0;720;100;1554340756;", -- [1]
+						"1;520;0;720;100;1554340756;", -- [2]
+						"1;520;0;720;100;1554340756;", -- [3]
+						"1;520;0;720;100;1554340756;", -- [4]
+						"1;520;0;720;100;1554340756;", -- [5]
+						"1;520;0;720;100;1554340756;", -- [6]
+						"1;520;0;720;100;1554340756;", -- [7]
+						"1;520;0;720;100;1554340756;", -- [8]
+						"1;520;0;720;100;1554340756;", -- [9]
+						"1;520;0;720;100;1554340756;", -- [10]
+						"1;520;0;720;100;1554340756;", -- [11]
+						"1;520;0;720;100;1554340756;", -- [12]
+						"1;520;0;720;100;1554340756;", -- [13]
+						"1;520;0;720;100;1554340756;", -- [14]
+						"1;520;0;720;100;1554340756;", -- [15]
+					},
+				},
+				["4353"] = {
+					["item:4353:0:0:0:0:0:0:0:80"] = {
+						"1;450;0;720;100;1556941080;", -- [1]
+					},
+				},
 			},
-			["wealth"] = 63405,
+			["wealth"] = 384171,
 			["vendorbuy"] = {
 			},
 			["failedAuctions"] = {
+				["774"] = {
+					["item:774:0:0:0:0:0:0:0:80"] = {
+						"1;;100;;;100;;1554220482;;H", -- [1]
+						"4;;100;;;200;;1554474343;;H", -- [2]
+					},
+				},
 			},
 			["failedBids"] = {
 			},
 			["completedBidsBuyouts"] = {
 			},
-			["version"] = 2.12,
-			["faction"] = "Horde",
 			["failedBidsNeutral"] = {
 			},
+			["faction"] = "Horde",
+			["version"] = 2.12,
 			["failedAuctionsNeutral"] = {
 			},
 			["completedAuctionsNeutral"] = {
 			},
 			["mailbox"] = {
+				{
+					["sender"] = "Horde Auction House",
+					["read"] = 2,
+					["subject"] = "Auction successful: Recipe: Major Troll's Blood Elixir",
+					["time"] = 29.40137672424316,
+				}, -- [1]
+				{
+					["sender"] = "Horde Auction House",
+					["read"] = 1,
+					["subject"] = "Auction successful: Pattern: Spider Silk Slippers",
+					["time"] = 29.40137672424316,
+				}, -- [2]
+				{
+					["sender"] = "Horde Auction House",
+					["read"] = 1,
+					["subject"] = "Auction successful: Pattern: Green Whelp Armor",
+					["time"] = 29.40137672424316,
+				}, -- [3]
+				{
+					["sender"] = "Horde Auction House",
+					["read"] = 1,
+					["subject"] = "Auction successful: Pattern: Spider Belt",
+					["time"] = 29.40137672424316,
+				}, -- [4]
+				{
+					["sender"] = "Horde Auction House",
+					["read"] = 1,
+					["subject"] = "Auction successful: Conjurer's Gloves",
+					["time"] = 29.39234924316406,
+				}, -- [5]
+				{
+					["sender"] = "Horde Auction House",
+					["read"] = 1,
+					["subject"] = "Auction successful: Aurora Cowl",
+					["time"] = 29.39234924316406,
+				}, -- [6]
+				{
+					["sender"] = "Horde Auction House",
+					["read"] = 1,
+					["subject"] = "Auction successful: Twilight Armor",
+					["time"] = 29.39234924316406,
+				}, -- [7]
+				{
+					["sender"] = "Horde Auction House",
+					["read"] = 1,
+					["subject"] = "Auction successful: Sentinel Boots",
+					["time"] = 29.39234924316406,
+				}, -- [8]
+				{
+					["sender"] = "Horde Auction House",
+					["read"] = 1,
+					["subject"] = "Auction successful: Welken Ring",
+					["time"] = 29.39234924316406,
+				}, -- [9]
+				{
+					["sender"] = "Horde Auction House",
+					["read"] = 1,
+					["subject"] = "Auction successful: Jazeraint Bracers",
+					["time"] = 29.39234924316406,
+				}, -- [10]
+				{
+					["sender"] = "Horde Auction House",
+					["read"] = 1,
+					["subject"] = "Auction successful: Conjurer's Sphere",
+					["time"] = 29.39234924316406,
+				}, -- [11]
+				{
+					["sender"] = "Horde Auction House",
+					["read"] = 1,
+					["subject"] = "Auction successful: Greenstone Circle",
+					["time"] = 29.39234924316406,
+				}, -- [12]
+				{
+					["sender"] = "Horde Auction House",
+					["read"] = 1,
+					["subject"] = "Auction successful: Aurora Gloves",
+					["time"] = 29.39234924316406,
+				}, -- [13]
+				{
+					["sender"] = "Horde Auction House",
+					["read"] = 1,
+					["subject"] = "Auction successful: Mindbender Loop",
+					["time"] = 29.39234924316406,
+				}, -- [14]
+				{
+					["sender"] = "Horde Auction House",
+					["read"] = 1,
+					["subject"] = "Auction successful: Nightsky Orb",
+					["time"] = 29.39165496826172,
+				}, -- [15]
+				{
+					["sender"] = "Horde Auction House",
+					["read"] = 1,
+					["subject"] = "Auction successful: Sorcerer Bracelets",
+					["time"] = 29.39165496826172,
+				}, -- [16]
+				{
+					["sender"] = "Horde Auction House",
+					["read"] = 1,
+					["subject"] = "Auction successful: Archaic Defender",
+					["time"] = 29.39165496826172,
+				}, -- [17]
+				{
+					["sender"] = "Horde Auction House",
+					["read"] = 1,
+					["subject"] = "Auction successful: Renegade Leggings",
+					["time"] = 29.39165496826172,
+				}, -- [18]
+				{
+					["sender"] = "Horde Auction House",
+					["read"] = 1,
+					["subject"] = "Auction successful: Renegade Leggings",
+					["time"] = 29.39165496826172,
+				}, -- [19]
+				{
+					["sender"] = "Horde Auction House",
+					["read"] = 1,
+					["subject"] = "Auction successful: Pathfinder Footpads",
+					["time"] = 29.39165496826172,
+				}, -- [20]
+				{
+					["sender"] = "Horde Auction House",
+					["read"] = 1,
+					["subject"] = "Auction successful: Huntsman's Gloves",
+					["time"] = 29.39165496826172,
+				}, -- [21]
+				{
+					["sender"] = "Horde Auction House",
+					["read"] = 1,
+					["subject"] = "Auction successful: Glyphed Leggings",
+					["time"] = 29.39165496826172,
+				}, -- [22]
+				{
+					["sender"] = "Horde Auction House",
+					["read"] = 1,
+					["subject"] = "Auction successful: Greater Maul",
+					["time"] = 29.39165496826172,
+				}, -- [23]
+				{
+					["sender"] = "Horde Auction House",
+					["read"] = 1,
+					["subject"] = "Auction successful: Conjurer's Vest",
+					["time"] = 29.39165496826172,
+				}, -- [24]
+				{
+					["sender"] = "Horde Auction House",
+					["read"] = 1,
+					["subject"] = "Auction successful: Ranger Cloak",
+					["time"] = 29.39165496826172,
+				}, -- [25]
+				{
+					["sender"] = "Horde Auction House",
+					["read"] = 1,
+					["subject"] = "Auction successful: Ranger Cloak",
+					["time"] = 29.39165496826172,
+				}, -- [26]
+				{
+					["sender"] = "Horde Auction House",
+					["read"] = 1,
+					["subject"] = "Auction successful: Ranger Cloak",
+					["time"] = 29.39165496826172,
+				}, -- [27]
+				{
+					["sender"] = "Kildar",
+					["read"] = 1,
+					["subject"] = "Journeyman Riding in Orgrimmar",
+					["time"] = 3.76972222328186,
+				}, -- [28]
+				{
+					["subject"] = "Auction successful: Schematic: Parachute Cloak",
+					["read"] = 2,
+					["time"] = 29.64743041992188,
+					["sender"] = "Horde Auction House",
+				}, -- [29]
+				{
+					["subject"] = "Sturdy Locked Chest",
+					["read"] = 2,
+					["time"] = 29.25694465637207,
+					["sender"] = "Irrae",
+				}, -- [30]
+				{
+					["subject"] = "Heavy Leather",
+					["read"] = 0,
+					["time"] = 29.19563674926758,
+					["sender"] = "Achnar",
+				}, -- [31]
+				{
+					["subject"] = "Journeyman Riding in Orgrimmar",
+					["read"] = 1,
+					["time"] = 12.18704891204834,
+					["sender"] = "Kildar",
+				}, -- [32]
+				{
+					["subject"] = "Learn to Ride in Orgrimmar",
+					["read"] = 1,
+					["time"] = 5.268356323242188,
+					["sender"] = "Kildar",
+				}, -- [33]
+				{
+					["read"] = 2,
+					["sender"] = "Horde Auction House",
+					["time"] = 29.4935188293457,
+					["subject"] = "Auction successful: Lambent Scale Girdle",
+				}, -- [34]
+				{
+					["read"] = 2,
+					["sender"] = "Kildar",
+					["time"] = 21.04704856872559,
+					["subject"] = "Journeyman Riding in Orgrimmar",
+				}, -- [35]
+				{
+					["read"] = 1,
+					["sender"] = "Kildar",
+					["time"] = 14.12835693359375,
+					["subject"] = "Learn to Ride in Orgrimmar",
+				}, -- [36]
 			},
 		},
 	},

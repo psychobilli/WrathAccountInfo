@@ -1,1 +1,15 @@
 Version: 1
+Frame: LootFrame
+FrameLevel: 4
+Anchor: CENTER
+X: 102
+Y: 19
+W: 256
+H: 256
+Frame: EveryQuestFrame
+FrameLevel: 8
+Anchor: LEFT
+X: 1
+Y: 67
+W: 384
+H: 512
