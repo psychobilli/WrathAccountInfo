@@ -2,7 +2,7 @@ Version: 1
 Frame: LootFrame
 FrameLevel: 4
 Anchor: BOTTOMRIGHT
-X: 0
-Y: 94
+X: -288
+Y: 111
 W: 256
 H: 256

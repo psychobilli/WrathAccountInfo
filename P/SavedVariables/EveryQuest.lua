@@ -12,7 +12,7 @@ EQ2DB = {
 		["global"] = {
 			["unknowns"] = {
 			},
-			["querytime"] = 1532315240,
+			["querytime"] = 1578710254,
 		},
 	},
 }

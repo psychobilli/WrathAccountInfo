@@ -6,14 +6,14 @@ AucAdvancedStatPurchasedData = {
 			["means"] = {
 			},
 			["daily"] = {
-				["created"] = 1571360495,
+				["created"] = 1579360458,
 			},
 		},
 		["Trinity-Horde"] = {
 			["means"] = {
 			},
 			["daily"] = {
-				["created"] = 1571360495,
+				["created"] = 1579360458,
 			},
 		},
 	},

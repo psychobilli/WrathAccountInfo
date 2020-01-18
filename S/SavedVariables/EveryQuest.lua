@@ -10,12 +10,10 @@ EQ2DB = {
 	["profiles"] = {
 		["global"] = {
 			["unknowns"] = {
-				[526] = "159||07/22/18||query",
-				[26012] = "159||07/22/18||query",
-				[10404] = "159||05/28/18||Against the Legion||Netherstorm",
 				[10560] = "159||09/23/18||Revered Among the Sha'tar||Tempest Keep",
+				[10404] = "159||05/28/18||Against the Legion||Netherstorm",
 			},
-			["querytime"] = 1532309818,
+			["querytime"] = 1579361850,
 		},
 	},
 }
