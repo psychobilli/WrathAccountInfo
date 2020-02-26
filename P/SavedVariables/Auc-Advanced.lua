@@ -31,29 +31,29 @@ AucAdvancedConfig = {
 			"LEFT", -- [1]
 			nil, -- [2]
 			"LEFT", -- [3]
-			1.580186192465901, -- [4]
-			96.64946868927855, -- [5]
+			0, -- [4]
+			87.41976053387457, -- [5]
 		},
 		["configator.top"] = 651.6666923574729,
 	},
 }
 AucAdvancedData = {
 	["AserArbitrageRealms"] = {
-		["Trinity"] = "Taktoo",
 		["Single Player Project"] = "Taktoo",
+		["Trinity"] = "Taktoo",
 	},
 	["Stats"] = {
 	},
 	["UtilSearchUiData"] = {
-		["Global"] = {
-			["configator.left"] = 308.518546243212,
-			["configator.top"] = 676.6666686271009,
-		},
+		["Version"] = 1,
 		["Current"] = {
 			["snatch.itemsList"] = {
 			},
 		},
-		["Version"] = 1,
+		["Global"] = {
+			["configator.left"] = 308.518546243212,
+			["configator.top"] = 676.6666686271009,
+		},
 		["SavedSearches"] = {
 		},
 	},

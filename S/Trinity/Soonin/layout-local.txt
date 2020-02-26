@@ -1,9 +1,9 @@
 Version: 1
 Frame: LootFrame
 FrameLevel: 3
-Anchor: CENTER
-X: 99
-Y: -27
+Anchor: RIGHT
+X: 0
+Y: -118
 W: 256
 H: 256
 Frame: WorldMapScreenAnchor
@@ -14,7 +14,7 @@ Y: -118
 W: 1
 H: 1
 Frame: EveryQuestFrame
-FrameLevel: 17
+FrameLevel: 12
 Anchor: LEFT
 X: 0
 Y: 67

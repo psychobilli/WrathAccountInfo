@@ -1,20 +1,22 @@
 
 AucAdvancedConfig = {
 	["profile.Default"] = {
-		["util.automagic.uierrormsg"] = 1,
+		["stat.sales.ignoredsigs"] = {
+		},
 		["matcherlist"] = {
 			"Undercut", -- [1]
 			"BeanCount", -- [2]
 		},
+		["util.automagic.uierrormsg"] = 1,
+		["configator.left"] = 358.5184987824678,
 		["util.mover.anchors"] = {
 			"LEFT", -- [1]
 			nil, -- [2]
 			"LEFT", -- [3]
-			0.7901294098571042, -- [4]
-			99.16666182257053, -- [5]
+			-0, -- [4]
+			95.81037805081459, -- [5]
 		},
-		["stat.sales.ignoredsigs"] = {
-		},
+		["configator.top"] = 651.6666923574729,
 	},
 }
 AucAdvancedData = {
@@ -24,15 +26,15 @@ AucAdvancedData = {
 	["Stats"] = {
 	},
 	["UtilSearchUiData"] = {
-		["Version"] = 1,
-		["Current"] = {
-			["snatch.itemsList"] = {
-			},
-		},
 		["Global"] = {
 			["configator.left"] = 308.518546243212,
 			["configator.top"] = 676.6666686271009,
 		},
+		["Current"] = {
+			["snatch.itemsList"] = {
+			},
+		},
+		["Version"] = 1,
 		["SavedSearches"] = {
 		},
 	},

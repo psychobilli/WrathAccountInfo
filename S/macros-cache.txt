@@ -71,6 +71,10 @@ MACRO 23 "Kiss" Spell_Holy_Silence
 /target Sara
 /kiss
 END
+MACRO 25 "reset dungeon" Ability_Druid_EclipseOrange
+.tele stormwind
+.appear
+END
 MACRO 16 "Ring of Law Gate" Spell_Nature_MoonKey
 .gobject activate 18280
 .gobject activate 15332

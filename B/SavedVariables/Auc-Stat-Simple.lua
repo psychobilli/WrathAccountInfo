@@ -562,14 +562,14 @@ AucAdvancedStatSimpleData = {
 				[33865] = "0:1;30;400.2;400.2;400.2;385.0",
 			},
 			["daily"] = {
-				["created"] = 1579360458,
+				["created"] = 1582592323,
 			},
 		},
 		["Trinity-Horde"] = {
 			["means"] = {
 			},
 			["daily"] = {
-				["created"] = 1579360458,
+				["created"] = 1582592323,
 			},
 		},
 	},
