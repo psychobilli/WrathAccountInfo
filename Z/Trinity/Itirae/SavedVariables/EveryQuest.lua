@@ -640,11 +640,11 @@ EQ2DBPC = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[140] = {
+					[51] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[51] = {
+					[102] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
@@ -684,7 +684,7 @@ EQ2DBPC = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[102] = {
+					[140] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
@@ -1599,7 +1599,7 @@ EQ2DBPC = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[2821] = {
+					[4130] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
@@ -1611,7 +1611,7 @@ EQ2DBPC = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[7721] = {
+					[2821] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
@@ -1623,7 +1623,7 @@ EQ2DBPC = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[4130] = {
+					[7721] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
@@ -3607,7 +3607,7 @@ EQ2DBPC = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[1126] = {
+					[8309] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
@@ -3631,7 +3631,7 @@ EQ2DBPC = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[8309] = {
+					[8278] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
@@ -3663,7 +3663,7 @@ EQ2DBPC = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[8318] = {
+					[8287] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
@@ -3671,7 +3671,7 @@ EQ2DBPC = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[8278] = {
+					[1126] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
@@ -3679,25 +3679,25 @@ EQ2DBPC = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[9023] = {
-						["status"] = 2,
-						["completed"] = 1543160594,
-					},
-					[6844] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
 					[8310] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[8287] = {
+					[8318] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
 					[8279] = {
 						["status"] = 2,
 						["imported"] = 3,
+					},
+					[6844] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9023] = {
+						["status"] = 2,
+						["completed"] = 1543160594,
 					},
 					[9419] = {
 						["status"] = 2,
@@ -5773,10 +5773,6 @@ EQ2DBPC = {
 					},
 				},
 				[3905] = {
-					[9876] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
 					[9765] = {
 						["status"] = 2,
 						["completed"] = 1527389365,
@@ -5784,6 +5780,10 @@ EQ2DBPC = {
 					[9738] = {
 						["status"] = 2,
 						["completed"] = 1527130389,
+					},
+					[9876] = {
+						["status"] = 2,
+						["imported"] = 3,
 					},
 				},
 				[3523] = {
@@ -6802,7 +6802,7 @@ EQ2DBPC = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[9643] = {
+					[9706] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
@@ -6810,7 +6810,7 @@ EQ2DBPC = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[9580] = {
+					[9643] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
@@ -6942,7 +6942,7 @@ EQ2DBPC = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[9706] = {
+					[9580] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
@@ -8013,75 +8013,7 @@ EQ2DBPC = {
 					["imported"] = 3,
 				},
 				[1519] = {
-					[5048] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[353] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1324] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1265] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1246] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[350] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[212] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[538] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1447] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[6183] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[434] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[345] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1301] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1242] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[6182] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1250] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[540] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[542] = {
+					[1364] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
@@ -8089,51 +8021,7 @@ EQ2DBPC = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[1266] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[373] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1274] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[7791] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[7781] = {
-						["status"] = 2,
-						["completed"] = 1537320315,
-					},
-					[1097] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[395] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[2746] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[7782] = {
-						["status"] = 2,
-						["completed"] = 1537320421,
-					},
-					[690] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1243] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[6186] = {
+					[392] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
@@ -8141,99 +8029,7 @@ EQ2DBPC = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[7793] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1448] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
 					[543] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1267] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[7794] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[389] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[335] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[336] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[392] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[393] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[394] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[332] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[333] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1244] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1248] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[399] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[334] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1449] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1264] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[3765] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[7795] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1247] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[343] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[344] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
@@ -8241,15 +8037,31 @@ EQ2DBPC = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[346] = {
+					[3765] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[347] = {
+					[333] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[1363] = {
+					[1097] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[345] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[353] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1447] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[373] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
@@ -8257,7 +8069,111 @@ EQ2DBPC = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
+					[389] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[393] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1448] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1242] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1274] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1449] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1243] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[6182] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[6183] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[334] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[346] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[350] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[6186] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1324] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
 					[1245] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[5048] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[690] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[7781] = {
+						["status"] = 2,
+						["completed"] = 1537320315,
+					},
+					[7782] = {
+						["status"] = 2,
+						["completed"] = 1537320421,
+					},
+					[434] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1247] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[335] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[343] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[347] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1264] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[24428] = {
+						["status"] = 2,
+						["completed"] = 1583199974,
+					},
+					[7791] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
@@ -8265,7 +8181,95 @@ EQ2DBPC = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[1364] = {
+					[7793] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[7794] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[395] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[7795] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1248] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1250] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1266] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1246] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[212] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[344] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[394] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[336] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[540] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[399] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1267] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1244] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[2746] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[332] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[542] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[538] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1363] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1265] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1301] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
@@ -8375,7 +8379,7 @@ EQ2DBPC = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[4361] = {
+					[4136] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
@@ -8407,11 +8411,11 @@ EQ2DBPC = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[4286] = {
+					[4361] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[4136] = {
+					[4286] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
@@ -8565,16 +8569,17 @@ EQ2DBPC = {
 						["status"] = 2,
 						["completed"] = 1538096466,
 					},
-					[11171] = {
-						["status"] = 0,
+					[11178] = {
+						["status"] = 2,
+						["completed"] = 1538100895,
 					},
 					[11132] = {
 						["status"] = 2,
 						["completed"] = 1538095809,
 					},
-					[11178] = {
+					[11164] = {
 						["status"] = 2,
-						["completed"] = 1538100895,
+						["completed"] = 1538095797,
 					},
 					[11195] = {
 						["status"] = 2,
@@ -8588,9 +8593,8 @@ EQ2DBPC = {
 						["status"] = 2,
 						["completed"] = 1527693186,
 					},
-					[11164] = {
-						["status"] = 2,
-						["completed"] = 1538095797,
+					[11171] = {
+						["status"] = 0,
 					},
 				},
 				[3679] = {
@@ -8684,15 +8688,7 @@ EQ2DBPC = {
 					},
 				},
 				[3557] = {
-					[10357] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
 					[7792] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[10356] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
@@ -8700,10 +8696,14 @@ EQ2DBPC = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-				},
-				[415] = {
-					["status"] = 2,
-					["imported"] = 3,
+					[10356] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[10357] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
 				},
 				[19] = {
 					[8240] = {
@@ -8735,379 +8735,28 @@ EQ2DBPC = {
 						["completed"] = 1536714004,
 					},
 				},
-				[-241] = {
-					[13643] = {
+				[415] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[4415] = {
+					[13158] = {
 						["status"] = 2,
-						["completed"] = 1531444342,
+						["completed"] = 1528163891,
 					},
-					[14152] = {
-						["completed"] = 1533774198,
-						["count"] = 4,
+					[13159] = {
 						["status"] = 2,
+						["completed"] = 1528765979,
 					},
-					[13654] = {
+				},
+				[1196] = {
+					[13131] = {
 						["status"] = 2,
-						["completed"] = 1531444921,
+						["completed"] = 1531360088,
 					},
-					[13789] = {
-						["completed"] = 1533866249,
-						["count"] = 21,
+					[13132] = {
 						["status"] = 2,
-					},
-					[13790] = {
-						["completed"] = 1533866242,
-						["count"] = 21,
-						["status"] = 2,
-					},
-					[13664] = {
-						["status"] = 2,
-						["completed"] = 1531968110,
-					},
-					[13665] = {
-						["completed"] = 1533404436,
-						["count"] = 5,
-						["status"] = 2,
-					},
-					[13666] = {
-						["completed"] = 1531577803,
-						["count"] = 2,
-						["status"] = 2,
-					},
-					[13794] = {
-						["status"] = 2,
-						["completed"] = 1531966861,
-					},
-					[13669] = {
-						["completed"] = 1531538742,
-						["count"] = 1,
-						["status"] = 2,
-					},
-					[13671] = {
-						["completed"] = 1531577798,
-						["count"] = 3,
-						["status"] = 2,
-					},
-					[13672] = {
-						["status"] = 2,
-						["completed"] = 1531577821,
-					},
-					[13679] = {
-						["status"] = 2,
-						["completed"] = 1531577972,
-					},
-					[13682] = {
-						["completed"] = 1533866245,
-						["count"] = 21,
-						["status"] = 2,
-					},
-					[13685] = {
-						["status"] = 2,
-						["completed"] = 1531577991,
-					},
-					[14074] = {
-						["completed"] = 1533866290,
-						["count"] = 5,
-						["status"] = 2,
-					},
-					[14076] = {
-						["completed"] = 1533774194,
-						["count"] = 6,
-						["status"] = 2,
-					},
-					[14077] = {
-						["completed"] = 1533689161,
-						["count"] = 5,
-						["status"] = 2,
-					},
-					[14080] = {
-						["completed"] = 1533480133,
-						["count"] = 4,
-						["status"] = 2,
-					},
-					[13828] = {
-						["status"] = 2,
-						["completed"] = 1531441504,
-					},
-					[13704] = {
-						["status"] = 2,
-						["completed"] = 1532382584,
-					},
-					[13705] = {
-						["status"] = 2,
-						["completed"] = 1533404509,
-					},
-					[13706] = {
-						["status"] = 2,
-						["completed"] = 1531966799,
-					},
-					[13835] = {
-						["status"] = 2,
-						["completed"] = 1531441507,
-					},
-					[14090] = {
-						["completed"] = 1533866288,
-						["count"] = 6,
-						["status"] = 2,
-					},
-					[13837] = {
-						["status"] = 2,
-						["completed"] = 1531441501,
-					},
-					[13713] = {
-						["status"] = 2,
-						["completed"] = 1531966772,
-					},
-					[13714] = {
-						["status"] = 2,
-						["completed"] = 1531966569,
-					},
-					[14096] = {
-						["completed"] = 1533866293,
-						["count"] = 18,
-						["status"] = 2,
-					},
-					[13716] = {
-						["status"] = 2,
-						["completed"] = 1533866323,
-					},
-					[13717] = {
-						["status"] = 2,
-						["completed"] = 1532382535,
-					},
-					[13718] = {
-						["status"] = 2,
-						["completed"] = 1533404443,
-					},
-					[13846] = {
-						["completed"] = 1531440946,
-						["count"] = 1,
-						["status"] = 2,
-					},
-					[13593] = {
-						["status"] = 2,
-						["completed"] = 1532866270,
-					},
-					[13723] = {
-						["status"] = 2,
-						["completed"] = 1532866241,
-					},
-					[13851] = {
-						["completed"] = 1531966567,
-						["count"] = 5,
-						["status"] = 2,
-					},
-					[13852] = {
-						["completed"] = 1532866029,
-						["count"] = 5,
-						["status"] = 2,
-					},
-					[14095] = {
-						["completed"] = 1533866657,
-						["count"] = 1,
-						["status"] = 2,
-					},
-					[13854] = {
-						["completed"] = 1533866320,
-						["count"] = 5,
-						["status"] = 2,
-					},
-					[13855] = {
-						["completed"] = 1532382532,
-						["count"] = 5,
-						["status"] = 2,
-					},
-					[14108] = {
-						["completed"] = 1533866659,
-						["count"] = 1,
-						["status"] = 2,
-					},
-					[13603] = {
-						["completed"] = 1533251860,
-						["count"] = 2,
-						["status"] = 2,
-					},
-					[14112] = {
-						["completed"] = 1533689158,
-						["count"] = 6,
-						["status"] = 2,
-					},
-					[13732] = {
-						["status"] = 2,
-						["completed"] = 1531966843,
-					},
-					[14105] = {
-						["completed"] = 1533866661,
-						["count"] = 1,
-						["status"] = 2,
-					},
-					[13861] = {
-						["completed"] = 1533866247,
-						["count"] = 21,
-						["status"] = 2,
-					},
-					[13724] = {
-						["status"] = 2,
-						["completed"] = 1533866352,
-					},
-					[13699] = {
-						["status"] = 2,
-						["completed"] = 1533404486,
-					},
-					[13715] = {
-						["status"] = 2,
-						["completed"] = 1532866037,
-					},
-					[13616] = {
-						["completed"] = 1533404433,
-						["count"] = 3,
-						["status"] = 2,
-					},
-					[13745] = {
-						["completed"] = 1531966564,
-						["count"] = 5,
-						["status"] = 2,
-					},
-					[13625] = {
-						["completed"] = 1531577805,
-						["count"] = 3,
-						["status"] = 2,
-					},
-					[13741] = {
-						["completed"] = 1531671668,
-						["count"] = 1,
-						["status"] = 2,
-					},
-					[13742] = {
-						["completed"] = 1531873337,
-						["count"] = 1,
-						["status"] = 2,
-					},
-					[13743] = {
-						["completed"] = 1531966559,
-						["count"] = 3,
-						["status"] = 2,
-					},
-					[13744] = {
-						["completed"] = 1531966561,
-						["count"] = 5,
-						["status"] = 2,
-					},
-					[24442] = {
-						["status"] = 2,
-						["completed"] = 1532566178,
-					},
-					[13746] = {
-						["completed"] = 1532866023,
-						["count"] = 3,
-						["status"] = 2,
-					},
-					[13747] = {
-						["completed"] = 1532566289,
-						["count"] = 1,
-						["status"] = 2,
-					},
-					[13748] = {
-						["completed"] = 1532815024,
-						["count"] = 1,
-						["status"] = 2,
-					},
-					[13749] = {
-						["completed"] = 1532866020,
-						["count"] = 5,
-						["status"] = 2,
-					},
-					[13750] = {
-						["completed"] = 1532866026,
-						["count"] = 5,
-						["status"] = 2,
-					},
-					[13633] = {
-						["status"] = 2,
-						["completed"] = 1531443361,
-					},
-					[13752] = {
-						["completed"] = 1533866315,
-						["count"] = 2,
-						["status"] = 2,
-					},
-					[13753] = {
-						["completed"] = 1533480155,
-						["count"] = 1,
-						["status"] = 2,
-					},
-					[13754] = {
-						["completed"] = 1533774221,
-						["count"] = 2,
-						["status"] = 2,
-					},
-					[13755] = {
-						["completed"] = 1533866312,
-						["count"] = 5,
-						["status"] = 2,
-					},
-					[13756] = {
-						["completed"] = 1533866317,
-						["count"] = 5,
-						["status"] = 2,
-					},
-					[13757] = {
-						["completed"] = 1532382524,
-						["count"] = 2,
-						["status"] = 2,
-					},
-					[13758] = {
-						["completed"] = 1532278028,
-						["count"] = 1,
-						["status"] = 2,
-					},
-					[13759] = {
-						["completed"] = 1532206447,
-						["count"] = 2,
-						["status"] = 2,
-					},
-					[13760] = {
-						["completed"] = 1532382525,
-						["count"] = 5,
-						["status"] = 2,
-					},
-					[13761] = {
-						["completed"] = 1532382529,
-						["count"] = 5,
-						["status"] = 2,
-					},
-					[14016] = {
-						["status"] = 2,
-						["completed"] = 1531968476,
-					},
-					[14017] = {
-						["status"] = 2,
-						["completed"] = 1531968581,
-					},
-					[13725] = {
-						["status"] = 2,
-						["completed"] = 1532382564,
-					},
-					[13663] = {
-						["status"] = 2,
-						["completed"] = 1531445276,
-					},
-					[13592] = {
-						["completed"] = 1533404430,
-						["count"] = 5,
-						["status"] = 2,
-					},
-					[13667] = {
-						["status"] = 2,
-						["completed"] = 1531441013,
-					},
-					[13641] = {
-						["status"] = 2,
-						["completed"] = 1531444185,
-					},
-					[13847] = {
-						["completed"] = 1533404438,
-						["count"] = 5,
-						["status"] = 2,
+						["completed"] = 1531360102,
 					},
 				},
 				[1337] = {
@@ -9184,14 +8833,14 @@ EQ2DBPC = {
 						["imported"] = 3,
 					},
 				},
-				[1196] = {
-					[13131] = {
+				[4494] = {
+					[13187] = {
 						["status"] = 2,
-						["completed"] = 1531360088,
+						["completed"] = 1527804881,
 					},
-					[13132] = {
+					[13204] = {
 						["status"] = 2,
-						["completed"] = 1531360102,
+						["completed"] = 1527804884,
 					},
 				},
 				[495] = {
@@ -9745,22 +9394,18 @@ EQ2DBPC = {
 						["imported"] = 3,
 					},
 				},
-				[4228] = {
-					[13124] = {
+				[4375] = {
+					[13096] = {
 						["status"] = 2,
-						["completed"] = 1531357278,
+						["completed"] = 1529758403,
 					},
-					[13126] = {
+					[13098] = {
 						["status"] = 2,
-						["completed"] = 1531357560,
+						["completed"] = 1529165144,
 					},
-					[13128] = {
+					[13111] = {
 						["status"] = 2,
-						["completed"] = 1531358260,
-					},
-					[13127] = {
-						["status"] = 2,
-						["completed"] = 1531357922,
+						["completed"] = 1529165170,
 					},
 				},
 				[4813] = {
@@ -9791,18 +9436,186 @@ EQ2DBPC = {
 					["status"] = 2,
 					["imported"] = 3,
 				},
-				[4375] = {
-					[13096] = {
+				[141] = {
+					[2499] = {
 						["status"] = 2,
-						["completed"] = 1529758403,
+						["imported"] = 3,
 					},
-					[13098] = {
+					[483] = {
 						["status"] = 2,
-						["completed"] = 1529165144,
+						["imported"] = 3,
 					},
-					[13111] = {
+					[4495] = {
 						["status"] = 2,
-						["completed"] = 1529165170,
+						["imported"] = 3,
+					},
+					[486] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[487] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[488] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[489] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[916] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[918] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[920] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[922] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[2438] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[928] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[930] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[932] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[997] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[938] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[940] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[7383] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[3519] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[2399] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[927] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[456] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[457] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[458] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[459] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[476] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[475] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[917] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[919] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[921] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[923] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[2498] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[3521] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[929] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[931] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[933] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[935] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[937] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[2561] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[941] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[3522] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[2459] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[2159] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[2541] = {
+						["status"] = 2,
+						["imported"] = 3,
 					},
 				},
 				[4809] = {
@@ -9813,156 +9626,6 @@ EQ2DBPC = {
 					[24499] = {
 						["status"] = 2,
 						["completed"] = 1532305349,
-					},
-				},
-				[4820] = {
-					[24711] = {
-						["status"] = 2,
-						["completed"] = 1532306806,
-					},
-					[24500] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-				},
-				[384] = {
-					["status"] = 2,
-					["imported"] = 3,
-				},
-				[400] = {
-					[1190] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1194] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1100] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1104] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1108] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					["status"] = 2,
-					[1179] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1183] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1187] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[2769] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1105] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1176] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1180] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1121] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1188] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1137] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[5762] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1106] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1110] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1114] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1181] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1122] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1189] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1117] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1112] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1119] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1115] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1175] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					["imported"] = 3,
-					[1107] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1111] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1178] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1182] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1186] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1118] = {
-						["status"] = 2,
-						["imported"] = 3,
 					},
 				},
 				[210] = {
@@ -10605,324 +10268,258 @@ EQ2DBPC = {
 						["status"] = 2,
 					},
 				},
-				[33] = {
-					[574] = {
+				[4820] = {
+					[24711] = {
 						["status"] = 2,
-						["imported"] = 3,
-					},
-					[606] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[614] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[622] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[630] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[575] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[583] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[599] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[607] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[623] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[329] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[341] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[576] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[600] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[185] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[616] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[189] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[191] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[193] = {
-						["status"] = 2,
-						["imported"] = 3,
+						["completed"] = 1532306806,
 					},
-					[195] = {
+					[24500] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[197] = {
+				},
+				[400] = {
+					[1190] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[201] = {
+					[1194] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[203] = {
+					[1100] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[205] = {
+					[1104] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[207] = {
+					[1108] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[577] = {
+					["status"] = 2,
+					[1179] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[213] = {
+					[1183] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[601] = {
+					[1187] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[609] = {
+					[2769] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[617] = {
+					[1105] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[625] = {
+					[1176] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[330] = {
+					[1180] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[338] = {
+					[1121] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[342] = {
+					[1188] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[578] = {
+					[1137] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[594] = {
+					[5762] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[602] = {
+					[1106] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[610] = {
+					[1110] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[626] = {
+					[1114] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[587] = {
+					[1181] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[595] = {
+					[1122] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[603] = {
+					[1189] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[611] = {
+					[1117] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[627] = {
+					[1112] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[331] = {
+					[1119] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[339] = {
+					[1115] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[187] = {
+					[1175] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[3721] = {
+					["imported"] = 3,
+					[1107] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[580] = {
+					[1111] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[3626] = {
+					[1178] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[3625] = {
+					[1182] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[604] = {
+					[1186] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[186] = {
+					[1118] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[188] = {
+				},
+				[51] = {
+					[4450] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[628] = {
+					[3453] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[192] = {
+					[3368] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[194] = {
+					[7729] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[196] = {
+					[3372] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[198] = {
+					[4451] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[200] = {
+					[3378] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[202] = {
+					[3442] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[204] = {
+					[7722] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[206] = {
+					[3566] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[208] = {
+					[3481] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[210] = {
+					[3452] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[621] = {
+					[3454] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[597] = {
+					[3181] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[605] = {
+					[7723] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[613] = {
+					[3367] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[8552] = {
+					[7727] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[8553] = {
+					[3462] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[8554] = {
+					[4449] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[215] = {
+					[3463] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[328] = {
+					[3377] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[209] = {
+					[3441] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[624] = {
+					[3443] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[340] = {
+					[7724] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[190] = {
+					[7728] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[348] = {
+					[7701] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[608] = {
+					[7702] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
@@ -10955,6 +10552,48 @@ EQ2DBPC = {
 					[11007] = {
 						["status"] = 2,
 						["completed"] = 1538324268,
+					},
+				},
+				[-304] = {
+					[8313] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[13087] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[384] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[13571] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[6610] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[2178] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[6612] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[4161] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[8307] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[8317] = {
+						["status"] = 2,
+						["imported"] = 3,
 					},
 				},
 				[2017] = {
@@ -10999,18 +10638,10 @@ EQ2DBPC = {
 						["imported"] = 3,
 					},
 				},
-				[3792] = {
-					[10165] = {
+				[3713] = {
+					[9607] = {
 						["status"] = 2,
-						["completed"] = 1527340383,
-					},
-					[10218] = {
-						["status"] = 2,
-						["completed"] = 1527340386,
-					},
-					[10216] = {
-						["status"] = 2,
-						["completed"] = 1527339788,
+						["completed"] = 1527124426,
 					},
 				},
 				[2677] = {
@@ -11086,12 +10717,6 @@ EQ2DBPC = {
 						["completed"] = 1576983151,
 						["count"] = 4,
 						["status"] = 2,
-					},
-				},
-				[3713] = {
-					[9607] = {
-						["status"] = 2,
-						["completed"] = 1527124426,
 					},
 				},
 				[3840] = {
@@ -11198,6 +10823,10 @@ EQ2DBPC = {
 						["imported"] = 3,
 					},
 				},
+				[233] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
 				[1216] = {
 					[8464] = {
 						["status"] = 2,
@@ -11219,10 +10848,6 @@ EQ2DBPC = {
 						["status"] = 2,
 						["completed"] = 1553393271,
 					},
-				},
-				[233] = {
-					["status"] = 2,
-					["imported"] = 3,
 				},
 				[3789] = {
 					[10095] = {
@@ -11322,6 +10947,1237 @@ EQ2DBPC = {
 					[11936] = {
 						["status"] = 2,
 						["imported"] = 3,
+					},
+				},
+				[1941] = {
+					[10277] = {
+						["status"] = 2,
+						["completed"] = 1527345136,
+					},
+					[10279] = {
+						["status"] = 2,
+						["completed"] = 1527344631,
+					},
+					[12513] = {
+						["status"] = 2,
+						["completed"] = 1527368561,
+					},
+					[13432] = {
+						["status"] = 2,
+						["completed"] = 1538437551,
+					},
+				},
+				[2366] = {
+					[10298] = {
+						["status"] = 2,
+						["completed"] = 1527387664,
+					},
+					[10297] = {
+						["status"] = 2,
+						["completed"] = 1527387591,
+					},
+					[10296] = {
+						["status"] = 2,
+						["completed"] = 1527347926,
+					},
+					[9836] = {
+						["status"] = 2,
+						["completed"] = 1537750639,
+					},
+				},
+				[3518] = {
+					[9962] = {
+						["status"] = 2,
+						["completed"] = 1527211533,
+					},
+					[9967] = {
+						["status"] = 2,
+						["completed"] = 1527211606,
+					},
+					[10476] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9970] = {
+						["status"] = 2,
+						["completed"] = 1527211720,
+					},
+					[9972] = {
+						["status"] = 2,
+						["completed"] = 1527211793,
+					},
+					[9973] = {
+						["status"] = 2,
+						["completed"] = 1527211879,
+					},
+					[11880] = {
+						["completed"] = 1576984900,
+						["count"] = 5,
+						["status"] = 2,
+					},
+					[9849] = {
+						["status"] = 2,
+						["completed"] = 1527211187,
+					},
+					[9850] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9851] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9852] = {
+						["status"] = 2,
+						["completed"] = 1527211142,
+					},
+					[9853] = {
+						["status"] = 2,
+						["completed"] = 1527215359,
+					},
+					[9854] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[10109] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9856] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[10111] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9858] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[10113] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9861] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9862] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9991] = {
+						["status"] = 2,
+						["completed"] = 1527212393,
+					},
+					[9869] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[10251] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[10252] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9999] = {
+						["status"] = 2,
+						["completed"] = 1527212683,
+					},
+					[9873] = {
+						["status"] = 2,
+						["completed"] = 1527216460,
+					},
+					[9874] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[10004] = {
+						["status"] = 2,
+						["completed"] = 1527215482,
+					},
+					[9878] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9879] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9882] = {
+						["status"] = 2,
+						["completed"] = 1527210433,
+					},
+					[10011] = {
+						["status"] = 2,
+						["completed"] = 1527216289,
+					},
+					[9897] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[11042] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9900] = {
+						["status"] = 2,
+						["completed"] = 1527210418,
+					},
+					[11044] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[10668] = {
+						["status"] = 2,
+						["completed"] = 1527650577,
+					},
+					[10669] = {
+						["status"] = 2,
+						["completed"] = 1527343454,
+					},
+					[9913] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9914] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9789] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9917] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9918] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9920] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9921] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9922] = {
+						["status"] = 2,
+						["completed"] = 1527210503,
+					},
+					[9923] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9924] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9925] = {
+						["status"] = 2,
+						["completed"] = 1527210420,
+					},
+					[9927] = {
+						["status"] = 2,
+						["completed"] = 1527211084,
+					},
+					[9928] = {
+						["status"] = 2,
+						["completed"] = 1527211087,
+					},
+					[9804] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9932] = {
+						["status"] = 2,
+						["completed"] = 1527212100,
+					},
+					[9933] = {
+						["status"] = 2,
+						["completed"] = 1527212159,
+					},
+					[10641] = {
+						["status"] = 2,
+						["completed"] = 1527650574,
+					},
+					[9936] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9810] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9938] = {
+						["status"] = 2,
+						["completed"] = 1527214022,
+					},
+					[10689] = {
+						["status"] = 2,
+						["completed"] = 1527342822,
+					},
+					[9940] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9871] = {
+						["status"] = 2,
+						["completed"] = 1527214264,
+					},
+					[9815] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9857] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9982] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9818] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9819] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[10001] = {
+						["status"] = 2,
+						["completed"] = 1527212747,
+					},
+					[9821] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9977] = {
+						["status"] = 2,
+						["completed"] = 1527211987,
+					},
+					[9931] = {
+						["status"] = 2,
+						["completed"] = 1527212098,
+					},
+					[10108] = {
+						["status"] = 2,
+						["completed"] = 1527210590,
+					},
+					[9855] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9805] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9954] = {
+						["status"] = 2,
+						["completed"] = 1527213343,
+					},
+					[9955] = {
+						["status"] = 2,
+						["completed"] = 1527214039,
+					},
+					[9956] = {
+						["status"] = 2,
+						["completed"] = 1527214066,
+					},
+					[9859] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9800] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[10646] = {
+						["status"] = 2,
+						["completed"] = 1527650597,
+					},
+				},
+				[3703] = {
+					[10412] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[10885] = {
+						["status"] = 2,
+						["completed"] = 1527694810,
+					},
+					[10211] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9979] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[10886] = {
+						["status"] = 2,
+						["completed"] = 1527697413,
+					},
+					[10553] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[11096] = {
+						["status"] = 2,
+						["completed"] = 1527524191,
+					},
+					[10948] = {
+						["status"] = 2,
+						["completed"] = 1538483357,
+					},
+					[10656] = {
+						["status"] = 2,
+						["completed"] = 1575722557,
+					},
+					[10416] = {
+						["status"] = 2,
+						["completed"] = 1527605358,
+					},
+					[11024] = {
+						["status"] = 2,
+						["completed"] = 1559002018,
+					},
+					[9832] = {
+						["status"] = 2,
+						["completed"] = 1527697393,
+					},
+					[11039] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[10231] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[11045] = {
+						["completed"] = 1527606606,
+						["status"] = 2,
+					},
+					[11875] = {
+						["completed"] = 1576984889,
+						["count"] = 4,
+						["status"] = 2,
+					},
+					[11534] = {
+						["status"] = 2,
+						["completed"] = 1576443962,
+					},
+					[9829] = {
+						["status"] = 2,
+						["completed"] = 1527691133,
+					},
+					[10984] = {
+						["status"] = 2,
+						["completed"] = 1527372771,
+					},
+					[9837] = {
+						["status"] = 2,
+						["completed"] = 1537750689,
+					},
+					[10883] = {
+						["status"] = 2,
+						["completed"] = 1527686821,
+					},
+					[10884] = {
+						["status"] = 2,
+						["completed"] = 1537750719,
+					},
+					[10552] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[10280] = {
+						["status"] = 2,
+						["completed"] = 1527605295,
+					},
+					[10509] = {
+						["status"] = 2,
+						["completed"] = 1527605361,
+					},
+				},
+				[3110] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[2557] = {
+					[7703] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[7488] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[7504] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[5518] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[7482] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[7461] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[7441] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+				},
+				[1537] = {
+					[4512] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[3701] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[2039] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[2963] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[3461] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1453] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[2977] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[4513] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[7803] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[7807] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[7811] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[2948] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[3201] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[3448] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[3450] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[7802] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[3702] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[7808] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[5090] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[2964] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[2439] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[3371] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[2946] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[8275] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[7805] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[7809] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[7804] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[2041] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[707] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[3449] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[3451] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+				},
+				[3365] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[405] = {
+					[1385] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[261] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1387] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1386] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1455] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[5741] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1456] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[5501] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1052] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[5943] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1457] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1458] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1459] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[6161] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1465] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1369] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1375] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1371] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[6134] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1466] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1467] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1437] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[5561] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1439] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1440] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[5821] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1438] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1381] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[1454] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[6141] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[6027] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[6132] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+				},
+				[315] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[282] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[267] = {
+					[562] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[564] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[536] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[658] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[555] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[559] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[561] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[563] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[565] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[657] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[659] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[661] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[660] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[560] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[9435] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+				},
+				[310] = {
+					["status"] = 2,
+					["imported"] = 3,
+				},
+				[3522] = {
+					[10594] = {
+						["status"] = 2,
+						["completed"] = 1527432661,
+					},
+					[10722] = {
+						["status"] = 2,
+						["completed"] = 1527510463,
+					},
+					[10983] = {
+						["status"] = 2,
+						["completed"] = 1527523139,
+					},
+					[10607] = {
+						["status"] = 2,
+						["completed"] = 1527510489,
+					},
+					[10608] = {
+						["status"] = 2,
+						["completed"] = 1527432463,
+					},
+					[10609] = {
+						["status"] = 2,
+						["completed"] = 1527432380,
+					},
+					[11119] = {
+						["status"] = 2,
+						["completed"] = 1527526954,
+					},
+					[10995] = {
+						["status"] = 2,
+						["completed"] = 1527524586,
+					},
+					[10996] = {
+						["status"] = 2,
+						["completed"] = 1527524590,
+					},
+					[10997] = {
+						["status"] = 2,
+						["completed"] = 1527524593,
+					},
+					[10998] = {
+						["status"] = 2,
+						["completed"] = 1527524857,
+					},
+					[11000] = {
+						["status"] = 2,
+						["completed"] = 1527525250,
+					},
+					[10747] = {
+						["status"] = 2,
+						["completed"] = 1527510459,
+					},
+					[10748] = {
+						["status"] = 2,
+						["completed"] = 1527511605,
+					},
+					[11514] = {
+						["completed"] = 1576984872,
+						["count"] = 4,
+						["status"] = 2,
+					},
+					[10753] = {
+						["status"] = 2,
+						["completed"] = 1527435781,
+					},
+					[11009] = {
+						["status"] = 2,
+						["completed"] = 1527525328,
+					},
+					[10502] = {
+						["status"] = 2,
+						["completed"] = 1527397389,
+					},
+					[10504] = {
+						["status"] = 2,
+						["completed"] = 1527398346,
+					},
+					[10632] = {
+						["status"] = 2,
+						["completed"] = 1527432481,
+					},
+					[10506] = {
+						["status"] = 2,
+						["completed"] = 1527398324,
+					},
+					[10510] = {
+						["status"] = 2,
+						["completed"] = 1527395844,
+					},
+					[10511] = {
+						["status"] = 2,
+						["completed"] = 1527395804,
+					},
+					[10893] = {
+						["status"] = 2,
+						["completed"] = 1527508323,
+					},
+					[10894] = {
+						["status"] = 2,
+						["completed"] = 1527508242,
+					},
+					[11023] = {
+						["completed"] = 1567861705,
+						["count"] = 27,
+						["status"] = 2,
+					},
+					[10770] = {
+						["status"] = 2,
+						["completed"] = 1527435881,
+					},
+					[10771] = {
+						["status"] = 2,
+						["completed"] = 1527435886,
+					},
+					[10518] = {
+						["status"] = 2,
+						["completed"] = 1527429742,
+					},
+					[11030] = {
+						["status"] = 2,
+						["completed"] = 1527526237,
+					},
+					[10904] = {
+						["status"] = 2,
+						["completed"] = 1527507653,
+					},
+					[11026] = {
+						["status"] = 2,
+						["completed"] = 1560735022,
+					},
+					[10910] = {
+						["status"] = 2,
+						["completed"] = 1527507495,
+					},
+					[10657] = {
+						["status"] = 2,
+						["completed"] = 1527432404,
+					},
+					[10912] = {
+						["status"] = 2,
+						["completed"] = 1527507897,
+					},
+					[11010] = {
+						["status"] = 2,
+						["completed"] = 1527527484,
+					},
+					[10620] = {
+						["status"] = 2,
+						["completed"] = 1527432427,
+					},
+					[11051] = {
+						["completed"] = 1567728993,
+						["count"] = 20,
+						["status"] = 2,
+					},
+					[11043] = {
+						["status"] = 2,
+						["completed"] = 1527606619,
+					},
+					[10927] = {
+						["status"] = 2,
+						["completed"] = 1527512885,
+					},
+					[10802] = {
+						["status"] = 2,
+						["completed"] = 1527510514,
+					},
+					[11059] = {
+						["status"] = 2,
+						["completed"] = 1527528224,
+					},
+					[10555] = {
+						["status"] = 2,
+						["completed"] = 1527394051,
+					},
+					[11066] = {
+						["completed"] = 1567861695,
+						["count"] = 27,
+						["status"] = 2,
+					},
+					[10795] = {
+						["status"] = 2,
+						["completed"] = 1527435754,
+					},
+					[10796] = {
+						["status"] = 2,
+						["completed"] = 1527435752,
+					},
+					[10797] = {
+						["status"] = 2,
+						["completed"] = 1527435771,
+					},
+					[10798] = {
+						["status"] = 2,
+						["completed"] = 1527508348,
+					},
+					[10799] = {
+						["status"] = 2,
+						["completed"] = 1527508665,
+					},
+					[10800] = {
+						["status"] = 2,
+						["completed"] = 1527508804,
+					},
+					[10674] = {
+						["status"] = 2,
+						["completed"] = 1527433505,
+					},
+					[10675] = {
+						["status"] = 2,
+						["completed"] = 1527433899,
+					},
+					[10803] = {
+						["status"] = 2,
+						["completed"] = 1527510517,
+					},
+					[11058] = {
+						["status"] = 2,
+						["completed"] = 1527526858,
+					},
+					[10805] = {
+						["status"] = 2,
+						["completed"] = 1527512422,
+					},
+					[10806] = {
+						["status"] = 2,
+						["completed"] = 1527512632,
+					},
+					[11061] = {
+						["status"] = 2,
+						["completed"] = 1527526872,
+					},
+					[11062] = {
+						["status"] = 2,
+						["completed"] = 1527526917,
+					},
+					[10682] = {
+						["status"] = 2,
+						["completed"] = 1527434315,
+					},
+					[10810] = {
+						["status"] = 2,
+						["completed"] = 1527435849,
+					},
+					[10557] = {
+						["status"] = 2,
+						["completed"] = 1527430028,
+					},
+					[10812] = {
+						["status"] = 2,
+						["completed"] = 1527435860,
+					},
+					[10911] = {
+						["status"] = 2,
+						["completed"] = 1527507733,
+					},
+					[10457] = {
+						["status"] = 2,
+						["completed"] = 1527397420,
+					},
+					[11091] = {
+						["status"] = 2,
+						["completed"] = 1560086424,
+					},
+					[10801] = {
+						["status"] = 2,
+						["completed"] = 1527508861,
+					},
+					[10690] = {
+						["status"] = 2,
+						["completed"] = 1527395766,
+					},
+					[10818] = {
+						["status"] = 2,
+						["completed"] = 1527511651,
+					},
+					[10819] = {
+						["status"] = 2,
+						["completed"] = 1527506987,
+					},
+					[10820] = {
+						["status"] = 2,
+						["completed"] = 1527507106,
+					},
+					[10821] = {
+						["status"] = 2,
+						["completed"] = 1527507370,
+					},
+					[10567] = {
+						["status"] = 2,
+						["completed"] = 1527435792,
+					},
+					[10456] = {
+						["status"] = 2,
+						["completed"] = 1527395741,
+					},
+					[11078] = {
+						["status"] = 2,
+						["completed"] = 1527528202,
+					},
+					[10825] = {
+						["status"] = 2,
+						["completed"] = 1527510467,
+					},
+					[11080] = {
+						["completed"] = 1567728986,
+						["count"] = 26,
+						["status"] = 2,
+					},
+					[11079] = {
+						["status"] = 2,
+						["completed"] = 1527528236,
+					},
+					[10516] = {
+						["status"] = 2,
+						["completed"] = 1527397319,
+					},
+					[10829] = {
+						["status"] = 2,
+						["completed"] = 1527510597,
+					},
+					[10830] = {
+						["status"] = 2,
+						["completed"] = 1527511150,
+					},
+					[10671] = {
+						["status"] = 2,
+						["completed"] = 1527433514,
+					},
+					[10711] = {
+						["status"] = 2,
+						["completed"] = 1527433488,
+					},
+					[10517] = {
+						["status"] = 2,
+						["completed"] = 1527429149,
+					},
+					[10580] = {
+						["status"] = 2,
+						["completed"] = 1527429806,
+					},
+					[10581] = {
+						["status"] = 2,
+						["completed"] = 1527429831,
+					},
+					[10455] = {
+						["status"] = 2,
+						["completed"] = 1527394566,
+					},
+					[10710] = {
+						["status"] = 2,
+						["completed"] = 1527432356,
+					},
+					[10584] = {
+						["status"] = 2,
+						["completed"] = 1527430492,
+					},
+					[10712] = {
+						["status"] = 2,
+						["completed"] = 1527433980,
+					},
+					[10713] = {
+						["status"] = 2,
+						["completed"] = 1527435820,
+					},
+					[11065] = {
+						["status"] = 2,
+						["completed"] = 1527527498,
+					},
+					[10556] = {
+						["status"] = 2,
+						["completed"] = 1527394580,
+					},
+					[11057] = {
+						["status"] = 2,
+						["completed"] = 1527525559,
+					},
+					[10717] = {
+						["status"] = 2,
+						["completed"] = 1527435832,
+					},
+					[9794] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[10719] = {
+						["status"] = 2,
+						["completed"] = 1527435824,
+					},
+					[11025] = {
+						["status"] = 2,
+						["completed"] = 1527526228,
+					},
+					[10512] = {
+						["status"] = 2,
+						["completed"] = 1527397368,
+					},
+				},
+				[3836] = {
+					[13430] = {
+						["status"] = 2,
+						["completed"] = 1538176657,
 					},
 				},
 				[67] = {
@@ -11750,1219 +12606,6 @@ EQ2DBPC = {
 						["imported"] = 3,
 					},
 				},
-				[2366] = {
-					[10298] = {
-						["status"] = 2,
-						["completed"] = 1527387664,
-					},
-					[10297] = {
-						["status"] = 2,
-						["completed"] = 1527387591,
-					},
-					[10296] = {
-						["status"] = 2,
-						["completed"] = 1527347926,
-					},
-					[9836] = {
-						["status"] = 2,
-						["completed"] = 1537750639,
-					},
-				},
-				[3703] = {
-					[10412] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[10885] = {
-						["status"] = 2,
-						["completed"] = 1527694810,
-					},
-					[10211] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9979] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[10886] = {
-						["status"] = 2,
-						["completed"] = 1527697413,
-					},
-					[10553] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[11096] = {
-						["status"] = 2,
-						["completed"] = 1527524191,
-					},
-					[10948] = {
-						["status"] = 2,
-						["completed"] = 1538483357,
-					},
-					[10656] = {
-						["status"] = 2,
-						["completed"] = 1575722557,
-					},
-					[10416] = {
-						["status"] = 2,
-						["completed"] = 1527605358,
-					},
-					[11024] = {
-						["status"] = 2,
-						["completed"] = 1559002018,
-					},
-					[9832] = {
-						["status"] = 2,
-						["completed"] = 1527697393,
-					},
-					[11039] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[10231] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[11045] = {
-						["completed"] = 1527606606,
-						["status"] = 2,
-					},
-					[11875] = {
-						["completed"] = 1576984889,
-						["count"] = 4,
-						["status"] = 2,
-					},
-					[11534] = {
-						["status"] = 2,
-						["completed"] = 1576443962,
-					},
-					[9829] = {
-						["status"] = 2,
-						["completed"] = 1527691133,
-					},
-					[10984] = {
-						["status"] = 2,
-						["completed"] = 1527372771,
-					},
-					[9837] = {
-						["status"] = 2,
-						["completed"] = 1537750689,
-					},
-					[10883] = {
-						["status"] = 2,
-						["completed"] = 1527686821,
-					},
-					[10884] = {
-						["status"] = 2,
-						["completed"] = 1537750719,
-					},
-					[10552] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[10280] = {
-						["status"] = 2,
-						["completed"] = 1527605295,
-					},
-					[10509] = {
-						["status"] = 2,
-						["completed"] = 1527605361,
-					},
-				},
-				[3522] = {
-					[10594] = {
-						["status"] = 2,
-						["completed"] = 1527432661,
-					},
-					[10722] = {
-						["status"] = 2,
-						["completed"] = 1527510463,
-					},
-					[10983] = {
-						["status"] = 2,
-						["completed"] = 1527523139,
-					},
-					[10607] = {
-						["status"] = 2,
-						["completed"] = 1527510489,
-					},
-					[10608] = {
-						["status"] = 2,
-						["completed"] = 1527432463,
-					},
-					[10609] = {
-						["status"] = 2,
-						["completed"] = 1527432380,
-					},
-					[11119] = {
-						["status"] = 2,
-						["completed"] = 1527526954,
-					},
-					[10995] = {
-						["status"] = 2,
-						["completed"] = 1527524586,
-					},
-					[10996] = {
-						["status"] = 2,
-						["completed"] = 1527524590,
-					},
-					[10997] = {
-						["status"] = 2,
-						["completed"] = 1527524593,
-					},
-					[10998] = {
-						["status"] = 2,
-						["completed"] = 1527524857,
-					},
-					[11000] = {
-						["status"] = 2,
-						["completed"] = 1527525250,
-					},
-					[10747] = {
-						["status"] = 2,
-						["completed"] = 1527510459,
-					},
-					[10748] = {
-						["status"] = 2,
-						["completed"] = 1527511605,
-					},
-					[11514] = {
-						["completed"] = 1576984872,
-						["count"] = 4,
-						["status"] = 2,
-					},
-					[10753] = {
-						["status"] = 2,
-						["completed"] = 1527435781,
-					},
-					[11009] = {
-						["status"] = 2,
-						["completed"] = 1527525328,
-					},
-					[10502] = {
-						["status"] = 2,
-						["completed"] = 1527397389,
-					},
-					[10504] = {
-						["status"] = 2,
-						["completed"] = 1527398346,
-					},
-					[10632] = {
-						["status"] = 2,
-						["completed"] = 1527432481,
-					},
-					[10506] = {
-						["status"] = 2,
-						["completed"] = 1527398324,
-					},
-					[10510] = {
-						["status"] = 2,
-						["completed"] = 1527395844,
-					},
-					[10511] = {
-						["status"] = 2,
-						["completed"] = 1527395804,
-					},
-					[10893] = {
-						["status"] = 2,
-						["completed"] = 1527508323,
-					},
-					[10894] = {
-						["status"] = 2,
-						["completed"] = 1527508242,
-					},
-					[11023] = {
-						["completed"] = 1567861705,
-						["count"] = 27,
-						["status"] = 2,
-					},
-					[10770] = {
-						["status"] = 2,
-						["completed"] = 1527435881,
-					},
-					[10771] = {
-						["status"] = 2,
-						["completed"] = 1527435886,
-					},
-					[10518] = {
-						["status"] = 2,
-						["completed"] = 1527429742,
-					},
-					[11030] = {
-						["status"] = 2,
-						["completed"] = 1527526237,
-					},
-					[10904] = {
-						["status"] = 2,
-						["completed"] = 1527507653,
-					},
-					[11026] = {
-						["status"] = 2,
-						["completed"] = 1560735022,
-					},
-					[10910] = {
-						["status"] = 2,
-						["completed"] = 1527507495,
-					},
-					[10657] = {
-						["status"] = 2,
-						["completed"] = 1527432404,
-					},
-					[10912] = {
-						["status"] = 2,
-						["completed"] = 1527507897,
-					},
-					[11010] = {
-						["status"] = 2,
-						["completed"] = 1527527484,
-					},
-					[10620] = {
-						["status"] = 2,
-						["completed"] = 1527432427,
-					},
-					[11051] = {
-						["completed"] = 1567728993,
-						["count"] = 20,
-						["status"] = 2,
-					},
-					[11043] = {
-						["status"] = 2,
-						["completed"] = 1527606619,
-					},
-					[10927] = {
-						["status"] = 2,
-						["completed"] = 1527512885,
-					},
-					[10802] = {
-						["status"] = 2,
-						["completed"] = 1527510514,
-					},
-					[11059] = {
-						["status"] = 2,
-						["completed"] = 1527528224,
-					},
-					[10555] = {
-						["status"] = 2,
-						["completed"] = 1527394051,
-					},
-					[11066] = {
-						["completed"] = 1567861695,
-						["count"] = 27,
-						["status"] = 2,
-					},
-					[10795] = {
-						["status"] = 2,
-						["completed"] = 1527435754,
-					},
-					[10796] = {
-						["status"] = 2,
-						["completed"] = 1527435752,
-					},
-					[10797] = {
-						["status"] = 2,
-						["completed"] = 1527435771,
-					},
-					[10798] = {
-						["status"] = 2,
-						["completed"] = 1527508348,
-					},
-					[10799] = {
-						["status"] = 2,
-						["completed"] = 1527508665,
-					},
-					[10800] = {
-						["status"] = 2,
-						["completed"] = 1527508804,
-					},
-					[10674] = {
-						["status"] = 2,
-						["completed"] = 1527433505,
-					},
-					[10675] = {
-						["status"] = 2,
-						["completed"] = 1527433899,
-					},
-					[10803] = {
-						["status"] = 2,
-						["completed"] = 1527510517,
-					},
-					[11058] = {
-						["status"] = 2,
-						["completed"] = 1527526858,
-					},
-					[10805] = {
-						["status"] = 2,
-						["completed"] = 1527512422,
-					},
-					[10806] = {
-						["status"] = 2,
-						["completed"] = 1527512632,
-					},
-					[11061] = {
-						["status"] = 2,
-						["completed"] = 1527526872,
-					},
-					[11062] = {
-						["status"] = 2,
-						["completed"] = 1527526917,
-					},
-					[10682] = {
-						["status"] = 2,
-						["completed"] = 1527434315,
-					},
-					[10556] = {
-						["status"] = 2,
-						["completed"] = 1527394580,
-					},
-					[10557] = {
-						["status"] = 2,
-						["completed"] = 1527430028,
-					},
-					[10812] = {
-						["status"] = 2,
-						["completed"] = 1527435860,
-					},
-					[10911] = {
-						["status"] = 2,
-						["completed"] = 1527507733,
-					},
-					[10457] = {
-						["status"] = 2,
-						["completed"] = 1527397420,
-					},
-					[11091] = {
-						["status"] = 2,
-						["completed"] = 1560086424,
-					},
-					[10801] = {
-						["status"] = 2,
-						["completed"] = 1527508861,
-					},
-					[10690] = {
-						["status"] = 2,
-						["completed"] = 1527395766,
-					},
-					[10818] = {
-						["status"] = 2,
-						["completed"] = 1527511651,
-					},
-					[10819] = {
-						["status"] = 2,
-						["completed"] = 1527506987,
-					},
-					[10820] = {
-						["status"] = 2,
-						["completed"] = 1527507106,
-					},
-					[10821] = {
-						["status"] = 2,
-						["completed"] = 1527507370,
-					},
-					[10567] = {
-						["status"] = 2,
-						["completed"] = 1527435792,
-					},
-					[10456] = {
-						["status"] = 2,
-						["completed"] = 1527395741,
-					},
-					[11078] = {
-						["status"] = 2,
-						["completed"] = 1527528202,
-					},
-					[10825] = {
-						["status"] = 2,
-						["completed"] = 1527510467,
-					},
-					[11080] = {
-						["completed"] = 1567728986,
-						["count"] = 26,
-						["status"] = 2,
-					},
-					[11079] = {
-						["status"] = 2,
-						["completed"] = 1527528236,
-					},
-					[10516] = {
-						["status"] = 2,
-						["completed"] = 1527397319,
-					},
-					[10829] = {
-						["status"] = 2,
-						["completed"] = 1527510597,
-					},
-					[10830] = {
-						["status"] = 2,
-						["completed"] = 1527511150,
-					},
-					[10671] = {
-						["status"] = 2,
-						["completed"] = 1527433514,
-					},
-					[10711] = {
-						["status"] = 2,
-						["completed"] = 1527433488,
-					},
-					[10517] = {
-						["status"] = 2,
-						["completed"] = 1527429149,
-					},
-					[10580] = {
-						["status"] = 2,
-						["completed"] = 1527429806,
-					},
-					[10581] = {
-						["status"] = 2,
-						["completed"] = 1527429831,
-					},
-					[10455] = {
-						["status"] = 2,
-						["completed"] = 1527394566,
-					},
-					[10710] = {
-						["status"] = 2,
-						["completed"] = 1527432356,
-					},
-					[10584] = {
-						["status"] = 2,
-						["completed"] = 1527430492,
-					},
-					[10712] = {
-						["status"] = 2,
-						["completed"] = 1527433980,
-					},
-					[10713] = {
-						["status"] = 2,
-						["completed"] = 1527435820,
-					},
-					[11065] = {
-						["status"] = 2,
-						["completed"] = 1527527498,
-					},
-					[9794] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[11057] = {
-						["status"] = 2,
-						["completed"] = 1527525559,
-					},
-					[10717] = {
-						["status"] = 2,
-						["completed"] = 1527435832,
-					},
-					[10810] = {
-						["status"] = 2,
-						["completed"] = 1527435849,
-					},
-					[10719] = {
-						["status"] = 2,
-						["completed"] = 1527435824,
-					},
-					[11025] = {
-						["status"] = 2,
-						["completed"] = 1527526228,
-					},
-					[10512] = {
-						["status"] = 2,
-						["completed"] = 1527397368,
-					},
-				},
-				[2557] = {
-					[7703] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[7488] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[7504] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[5518] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[7482] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[7461] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[7441] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-				},
-				[1537] = {
-					[4512] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[3701] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[2039] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[2963] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[3461] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1453] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[2977] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[4513] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[7803] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[7807] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[7811] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[2948] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[3201] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[3448] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[3450] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[7802] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[3702] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[7808] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[5090] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[2964] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[2439] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[3371] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[2946] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[8275] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[7805] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[7809] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[7804] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[2041] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[707] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[3449] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[3451] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-				},
-				[3110] = {
-					["status"] = 2,
-					["imported"] = 3,
-				},
-				[3365] = {
-					["status"] = 2,
-					["imported"] = 3,
-				},
-				[405] = {
-					[1385] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[261] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1387] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1386] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1455] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[5741] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1456] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[5501] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1052] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[5943] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1457] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1458] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1459] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[6161] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1465] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1369] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1375] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1371] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[6134] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1466] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1467] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1437] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[5561] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1439] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1440] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[5821] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1438] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1381] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[1454] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[6141] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[6027] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[6132] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-				},
-				[315] = {
-					["status"] = 2,
-					["imported"] = 3,
-				},
-				[282] = {
-					["status"] = 2,
-					["imported"] = 3,
-				},
-				[267] = {
-					[562] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[564] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[536] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[658] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[555] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[559] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[561] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[563] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[565] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[657] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[659] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[661] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[660] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[560] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9435] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-				},
-				[310] = {
-					["status"] = 2,
-					["imported"] = 3,
-				},
-				[3836] = {
-					[13430] = {
-						["status"] = 2,
-						["completed"] = 1538176657,
-					},
-				},
-				[3518] = {
-					[9962] = {
-						["status"] = 2,
-						["completed"] = 1527211533,
-					},
-					[9967] = {
-						["status"] = 2,
-						["completed"] = 1527211606,
-					},
-					[10476] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9970] = {
-						["status"] = 2,
-						["completed"] = 1527211720,
-					},
-					[9972] = {
-						["status"] = 2,
-						["completed"] = 1527211793,
-					},
-					[9973] = {
-						["status"] = 2,
-						["completed"] = 1527211879,
-					},
-					[11880] = {
-						["completed"] = 1576984900,
-						["count"] = 5,
-						["status"] = 2,
-					},
-					[9849] = {
-						["status"] = 2,
-						["completed"] = 1527211187,
-					},
-					[9850] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9851] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9852] = {
-						["status"] = 2,
-						["completed"] = 1527211142,
-					},
-					[9853] = {
-						["status"] = 2,
-						["completed"] = 1527215359,
-					},
-					[9854] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[10109] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9856] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[10111] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9858] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[10113] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9861] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9862] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9991] = {
-						["status"] = 2,
-						["completed"] = 1527212393,
-					},
-					[9869] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[10251] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[10252] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9999] = {
-						["status"] = 2,
-						["completed"] = 1527212683,
-					},
-					[9873] = {
-						["status"] = 2,
-						["completed"] = 1527216460,
-					},
-					[9874] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[10004] = {
-						["status"] = 2,
-						["completed"] = 1527215482,
-					},
-					[9878] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9879] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9882] = {
-						["status"] = 2,
-						["completed"] = 1527210433,
-					},
-					[10011] = {
-						["status"] = 2,
-						["completed"] = 1527216289,
-					},
-					[9897] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[11042] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9900] = {
-						["status"] = 2,
-						["completed"] = 1527210418,
-					},
-					[11044] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[10668] = {
-						["status"] = 2,
-						["completed"] = 1527650577,
-					},
-					[10669] = {
-						["status"] = 2,
-						["completed"] = 1527343454,
-					},
-					[9913] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9914] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9789] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9917] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9918] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9920] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9921] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9922] = {
-						["status"] = 2,
-						["completed"] = 1527210503,
-					},
-					[9923] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9924] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9925] = {
-						["status"] = 2,
-						["completed"] = 1527210420,
-					},
-					[9927] = {
-						["status"] = 2,
-						["completed"] = 1527211084,
-					},
-					[9928] = {
-						["status"] = 2,
-						["completed"] = 1527211087,
-					},
-					[9804] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9932] = {
-						["status"] = 2,
-						["completed"] = 1527212100,
-					},
-					[9933] = {
-						["status"] = 2,
-						["completed"] = 1527212159,
-					},
-					[10641] = {
-						["status"] = 2,
-						["completed"] = 1527650574,
-					},
-					[9936] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9810] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9938] = {
-						["status"] = 2,
-						["completed"] = 1527214022,
-					},
-					[10689] = {
-						["status"] = 2,
-						["completed"] = 1527342822,
-					},
-					[9940] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9871] = {
-						["status"] = 2,
-						["completed"] = 1527214264,
-					},
-					[9815] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9857] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9982] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9818] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9819] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[10001] = {
-						["status"] = 2,
-						["completed"] = 1527212747,
-					},
-					[9821] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9977] = {
-						["status"] = 2,
-						["completed"] = 1527211987,
-					},
-					[9931] = {
-						["status"] = 2,
-						["completed"] = 1527212098,
-					},
-					[10108] = {
-						["status"] = 2,
-						["completed"] = 1527210590,
-					},
-					[9855] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9805] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9954] = {
-						["status"] = 2,
-						["completed"] = 1527213343,
-					},
-					[9955] = {
-						["status"] = 2,
-						["completed"] = 1527214039,
-					},
-					[9956] = {
-						["status"] = 2,
-						["completed"] = 1527214066,
-					},
-					[9859] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[9800] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[10646] = {
-						["status"] = 2,
-						["completed"] = 1527650597,
-					},
-				},
 				[2562] = {
 					[9637] = {
 						["status"] = 2,
@@ -13031,24 +12674,6 @@ EQ2DBPC = {
 					[9824] = {
 						["status"] = 2,
 						["completed"] = 1527690296,
-					},
-				},
-				[1941] = {
-					[10277] = {
-						["status"] = 2,
-						["completed"] = 1527345136,
-					},
-					[10279] = {
-						["status"] = 2,
-						["completed"] = 1527344631,
-					},
-					[12513] = {
-						["status"] = 2,
-						["completed"] = 1527368561,
-					},
-					[13432] = {
-						["status"] = 2,
-						["completed"] = 1538437551,
 					},
 				},
 				[3521] = {
@@ -13283,332 +12908,6 @@ EQ2DBPC = {
 					[9806] = {
 						["status"] = 2,
 						["completed"] = 1527206371,
-					},
-				},
-				[3711] = {
-					[12634] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12644] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12645] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12520] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12521] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12522] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12523] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12651] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12525] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12526] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12654] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12528] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12529] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12530] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12658] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12532] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12533] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12534] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12535] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12536] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12537] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12538] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12539] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12540] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12543] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12544] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12546] = {
-						["status"] = 2,
-						["completed"] = 1528127826,
-					},
-					[12548] = {
-						["status"] = 2,
-						["completed"] = 1528126954,
-					},
-					[12549] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12804] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12551] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12681] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12683] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12558] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12559] = {
-						["status"] = 2,
-						["completed"] = 1528126378,
-					},
-					[12560] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12688] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12691] = {
-						["status"] = 2,
-						["completed"] = 1528126820,
-					},
-					[12692] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12695] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12696] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12570] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12571] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12699] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12573] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12574] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12575] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12576] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12577] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12578] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12579] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12580] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12581] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12589] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12592] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12595] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12572] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12603] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12531] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12605] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12550] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12607] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12608] = {
-						["status"] = 2,
-						["completed"] = 1528125053,
-					},
-					[12556] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12524] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12611] = {
-						["status"] = 2,
-						["completed"] = 1528125000,
-					},
-					[12612] = {
-						["status"] = 2,
-						["completed"] = 1528125025,
-					},
-					[12613] = {
-						["status"] = 2,
-						["completed"] = 1528126868,
-					},
-					[12614] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12805] = {
-						["status"] = 2,
-						["completed"] = 1528125739,
-					},
-					[12489] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12617] = {
-						["status"] = 2,
-						["completed"] = 1528125972,
-					},
-					[12803] = {
-						["status"] = 2,
-						["completed"] = 1528124441,
-					},
-					[12671] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12620] = {
-						["status"] = 2,
-						["completed"] = 1528126062,
-					},
-					[12621] = {
-						["status"] = 2,
-						["completed"] = 1528126079,
-					},
-					[12660] = {
-						["status"] = 2,
-						["completed"] = 1528125974,
-					},
-					[12569] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12624] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[12561] = {
-						["status"] = 2,
-						["completed"] = 1528124793,
-					},
-					[12797] = {
-						["status"] = 2,
-						["completed"] = 1528127190,
 					},
 				},
 				[3520] = {
@@ -14167,9 +13466,349 @@ EQ2DBPC = {
 						["completed"] = 1577604990,
 					},
 				},
+				[3711] = {
+					[12634] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12644] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12645] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12520] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12521] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12522] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12523] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12651] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12525] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12526] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12654] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12528] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12529] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12530] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12658] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12532] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12533] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12534] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12535] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12536] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12537] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12538] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12539] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12540] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12543] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12544] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12546] = {
+						["status"] = 2,
+						["completed"] = 1528127826,
+					},
+					[12548] = {
+						["status"] = 2,
+						["completed"] = 1528126954,
+					},
+					[12549] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12804] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12551] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12681] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12683] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12558] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12559] = {
+						["status"] = 2,
+						["completed"] = 1528126378,
+					},
+					[12560] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12688] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12691] = {
+						["status"] = 2,
+						["completed"] = 1528126820,
+					},
+					[12692] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12695] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12696] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12570] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12571] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12699] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12573] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12574] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12575] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12576] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12577] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12578] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12579] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12580] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12581] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12589] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12592] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12595] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12572] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12603] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12531] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12605] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12550] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12607] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12608] = {
+						["status"] = 2,
+						["completed"] = 1528125053,
+					},
+					[12556] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12524] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12611] = {
+						["status"] = 2,
+						["completed"] = 1528125000,
+					},
+					[12612] = {
+						["status"] = 2,
+						["completed"] = 1528125025,
+					},
+					[12613] = {
+						["status"] = 2,
+						["completed"] = 1528126868,
+					},
+					[12614] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12805] = {
+						["status"] = 2,
+						["completed"] = 1528125739,
+					},
+					[12489] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12617] = {
+						["status"] = 2,
+						["completed"] = 1528125972,
+					},
+					[12803] = {
+						["status"] = 2,
+						["completed"] = 1528124441,
+					},
+					[12671] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12620] = {
+						["status"] = 2,
+						["completed"] = 1528126062,
+					},
+					[12621] = {
+						["status"] = 2,
+						["completed"] = 1528126079,
+					},
+					[12660] = {
+						["status"] = 2,
+						["completed"] = 1528125974,
+					},
+					[12569] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12624] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[12561] = {
+						["status"] = 2,
+						["completed"] = 1528124793,
+					},
+					[12797] = {
+						["status"] = 2,
+						["completed"] = 1528127190,
+					},
+				},
 				[182] = {
 					["status"] = 2,
 					["imported"] = 3,
+				},
+				[3792] = {
+					[10165] = {
+						["status"] = 2,
+						["completed"] = 1527340383,
+					},
+					[10218] = {
+						["status"] = 2,
+						["completed"] = 1527340386,
+					},
+					[10216] = {
+						["status"] = 2,
+						["completed"] = 1527339788,
+					},
 				},
 				[4095] = {
 					[11492] = {
@@ -14259,44 +13898,324 @@ EQ2DBPC = {
 						["completed"] = 1527389362,
 					},
 				},
-				[-304] = {
-					[8313] = {
+				[33] = {
+					[574] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[13087] = {
+					[606] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[384] = {
+					[614] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[13571] = {
+					[622] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[6610] = {
+					[630] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[2178] = {
+					[575] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[6612] = {
+					[583] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[4161] = {
+					[599] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[8307] = {
+					[607] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
-					[8317] = {
+					[623] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[329] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[341] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[576] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[600] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[185] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[616] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[189] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[191] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[193] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[195] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[197] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[201] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[203] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[205] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[207] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[577] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[213] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[601] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[609] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[617] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[625] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[330] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[338] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[342] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[578] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[594] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[602] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[610] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[626] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[587] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[595] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[603] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[611] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[627] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[331] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[339] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[187] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[3721] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[580] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[628] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[3625] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[604] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[186] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[188] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[190] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[192] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[194] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[196] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[198] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[200] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[202] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[204] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[206] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[208] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[210] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[621] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[597] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[605] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[613] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[8552] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[8553] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[8554] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[215] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[328] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[209] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[624] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[340] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[3626] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[348] = {
+						["status"] = 2,
+						["imported"] = 3,
+					},
+					[608] = {
 						["status"] = 2,
 						["imported"] = 3,
 					},
@@ -14315,115 +14234,9 @@ EQ2DBPC = {
 						["completed"] = 1527130584,
 					},
 				},
-				[51] = {
-					[4450] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[3453] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[3368] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[7729] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[3372] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[4451] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[3378] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[3442] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[7722] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[3566] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[3481] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[3452] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[3454] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[7723] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[3367] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[3181] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[7727] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[3462] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[4449] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[3463] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[3377] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[3441] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[3443] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[7724] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[7728] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[7701] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[7702] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
+				[384] = {
+					["status"] = 2,
+					["imported"] = 3,
 				},
 				[403] = {
 					["status"] = 2,
@@ -14435,186 +14248,22 @@ EQ2DBPC = {
 						["completed"] = 1527686774,
 					},
 				},
-				[141] = {
-					[2499] = {
+				[4228] = {
+					[13124] = {
 						["status"] = 2,
-						["imported"] = 3,
+						["completed"] = 1531357278,
 					},
-					[483] = {
+					[13126] = {
 						["status"] = 2,
-						["imported"] = 3,
+						["completed"] = 1531357560,
 					},
-					[4495] = {
+					[13128] = {
 						["status"] = 2,
-						["imported"] = 3,
+						["completed"] = 1531358260,
 					},
-					[486] = {
+					[13127] = {
 						["status"] = 2,
-						["imported"] = 3,
-					},
-					[487] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[488] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[489] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[916] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[918] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[920] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[922] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[2438] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[928] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[930] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[932] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[997] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[938] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[940] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[7383] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[3519] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[2399] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[927] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[456] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[457] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[458] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[459] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[476] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[475] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[917] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[919] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[921] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[923] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[2498] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[3521] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[929] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[931] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[933] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[935] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[937] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[2561] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[941] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[3522] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[2459] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[2159] = {
-						["status"] = 2,
-						["imported"] = 3,
-					},
-					[2541] = {
-						["status"] = 2,
-						["imported"] = 3,
+						["completed"] = 1531357922,
 					},
 				},
 				[3846] = {
@@ -14627,14 +14276,379 @@ EQ2DBPC = {
 						["completed"] = 1527697411,
 					},
 				},
-				[4494] = {
-					[13187] = {
+				[-241] = {
+					[13643] = {
 						["status"] = 2,
-						["completed"] = 1527804881,
+						["completed"] = 1531444342,
 					},
-					[13204] = {
+					[14152] = {
+						["completed"] = 1533774198,
+						["count"] = 4,
 						["status"] = 2,
-						["completed"] = 1527804884,
+					},
+					[13654] = {
+						["status"] = 2,
+						["completed"] = 1531444921,
+					},
+					[13789] = {
+						["completed"] = 1533866249,
+						["count"] = 21,
+						["status"] = 2,
+					},
+					[13790] = {
+						["completed"] = 1533866242,
+						["count"] = 21,
+						["status"] = 2,
+					},
+					[13664] = {
+						["status"] = 2,
+						["completed"] = 1531968110,
+					},
+					[13665] = {
+						["completed"] = 1533404436,
+						["count"] = 5,
+						["status"] = 2,
+					},
+					[13666] = {
+						["completed"] = 1531577803,
+						["count"] = 2,
+						["status"] = 2,
+					},
+					[13794] = {
+						["status"] = 2,
+						["completed"] = 1531966861,
+					},
+					[13669] = {
+						["completed"] = 1531538742,
+						["count"] = 1,
+						["status"] = 2,
+					},
+					[13671] = {
+						["completed"] = 1531577798,
+						["count"] = 3,
+						["status"] = 2,
+					},
+					[13672] = {
+						["status"] = 2,
+						["completed"] = 1531577821,
+					},
+					[13679] = {
+						["status"] = 2,
+						["completed"] = 1531577972,
+					},
+					[13682] = {
+						["completed"] = 1533866245,
+						["count"] = 21,
+						["status"] = 2,
+					},
+					[13685] = {
+						["status"] = 2,
+						["completed"] = 1531577991,
+					},
+					[14074] = {
+						["completed"] = 1533866290,
+						["count"] = 5,
+						["status"] = 2,
+					},
+					[14076] = {
+						["completed"] = 1533774194,
+						["count"] = 6,
+						["status"] = 2,
+					},
+					[14077] = {
+						["completed"] = 1533689161,
+						["count"] = 5,
+						["status"] = 2,
+					},
+					[14080] = {
+						["completed"] = 1533480133,
+						["count"] = 4,
+						["status"] = 2,
+					},
+					[13828] = {
+						["status"] = 2,
+						["completed"] = 1531441504,
+					},
+					[13704] = {
+						["status"] = 2,
+						["completed"] = 1532382584,
+					},
+					[13705] = {
+						["status"] = 2,
+						["completed"] = 1533404509,
+					},
+					[13706] = {
+						["status"] = 2,
+						["completed"] = 1531966799,
+					},
+					[13835] = {
+						["status"] = 2,
+						["completed"] = 1531441507,
+					},
+					[14090] = {
+						["completed"] = 1533866288,
+						["count"] = 6,
+						["status"] = 2,
+					},
+					[13837] = {
+						["status"] = 2,
+						["completed"] = 1531441501,
+					},
+					[13713] = {
+						["status"] = 2,
+						["completed"] = 1531966772,
+					},
+					[13714] = {
+						["status"] = 2,
+						["completed"] = 1531966569,
+					},
+					[14096] = {
+						["completed"] = 1533866293,
+						["count"] = 18,
+						["status"] = 2,
+					},
+					[13716] = {
+						["status"] = 2,
+						["completed"] = 1533866323,
+					},
+					[13717] = {
+						["status"] = 2,
+						["completed"] = 1532382535,
+					},
+					[13718] = {
+						["status"] = 2,
+						["completed"] = 1533404443,
+					},
+					[13846] = {
+						["completed"] = 1531440946,
+						["count"] = 1,
+						["status"] = 2,
+					},
+					[13593] = {
+						["status"] = 2,
+						["completed"] = 1532866270,
+					},
+					[13723] = {
+						["status"] = 2,
+						["completed"] = 1532866241,
+					},
+					[13851] = {
+						["completed"] = 1531966567,
+						["count"] = 5,
+						["status"] = 2,
+					},
+					[13852] = {
+						["completed"] = 1532866029,
+						["count"] = 5,
+						["status"] = 2,
+					},
+					[14095] = {
+						["completed"] = 1533866657,
+						["count"] = 1,
+						["status"] = 2,
+					},
+					[13854] = {
+						["completed"] = 1533866320,
+						["count"] = 5,
+						["status"] = 2,
+					},
+					[13855] = {
+						["completed"] = 1532382532,
+						["count"] = 5,
+						["status"] = 2,
+					},
+					[14108] = {
+						["completed"] = 1533866659,
+						["count"] = 1,
+						["status"] = 2,
+					},
+					[13603] = {
+						["completed"] = 1533251860,
+						["count"] = 2,
+						["status"] = 2,
+					},
+					[14112] = {
+						["completed"] = 1533689158,
+						["count"] = 6,
+						["status"] = 2,
+					},
+					[13732] = {
+						["status"] = 2,
+						["completed"] = 1531966843,
+					},
+					[14105] = {
+						["completed"] = 1533866661,
+						["count"] = 1,
+						["status"] = 2,
+					},
+					[13861] = {
+						["completed"] = 1533866247,
+						["count"] = 21,
+						["status"] = 2,
+					},
+					[13724] = {
+						["status"] = 2,
+						["completed"] = 1533866352,
+					},
+					[13699] = {
+						["status"] = 2,
+						["completed"] = 1533404486,
+					},
+					[13715] = {
+						["status"] = 2,
+						["completed"] = 1532866037,
+					},
+					[13616] = {
+						["completed"] = 1533404433,
+						["count"] = 3,
+						["status"] = 2,
+					},
+					[13745] = {
+						["completed"] = 1531966564,
+						["count"] = 5,
+						["status"] = 2,
+					},
+					[13625] = {
+						["completed"] = 1531577805,
+						["count"] = 3,
+						["status"] = 2,
+					},
+					[13741] = {
+						["completed"] = 1531671668,
+						["count"] = 1,
+						["status"] = 2,
+					},
+					[13742] = {
+						["completed"] = 1531873337,
+						["count"] = 1,
+						["status"] = 2,
+					},
+					[13743] = {
+						["completed"] = 1531966559,
+						["count"] = 3,
+						["status"] = 2,
+					},
+					[13744] = {
+						["completed"] = 1531966561,
+						["count"] = 5,
+						["status"] = 2,
+					},
+					[24442] = {
+						["status"] = 2,
+						["completed"] = 1532566178,
+					},
+					[13746] = {
+						["completed"] = 1532866023,
+						["count"] = 3,
+						["status"] = 2,
+					},
+					[13747] = {
+						["completed"] = 1532566289,
+						["count"] = 1,
+						["status"] = 2,
+					},
+					[13748] = {
+						["completed"] = 1532815024,
+						["count"] = 1,
+						["status"] = 2,
+					},
+					[13749] = {
+						["completed"] = 1532866020,
+						["count"] = 5,
+						["status"] = 2,
+					},
+					[13750] = {
+						["completed"] = 1532866026,
+						["count"] = 5,
+						["status"] = 2,
+					},
+					[13633] = {
+						["status"] = 2,
+						["completed"] = 1531443361,
+					},
+					[13752] = {
+						["completed"] = 1533866315,
+						["count"] = 2,
+						["status"] = 2,
+					},
+					[13753] = {
+						["completed"] = 1533480155,
+						["count"] = 1,
+						["status"] = 2,
+					},
+					[13754] = {
+						["completed"] = 1533774221,
+						["count"] = 2,
+						["status"] = 2,
+					},
+					[13755] = {
+						["completed"] = 1533866312,
+						["count"] = 5,
+						["status"] = 2,
+					},
+					[13756] = {
+						["completed"] = 1533866317,
+						["count"] = 5,
+						["status"] = 2,
+					},
+					[13757] = {
+						["completed"] = 1532382524,
+						["count"] = 2,
+						["status"] = 2,
+					},
+					[13758] = {
+						["completed"] = 1532278028,
+						["count"] = 1,
+						["status"] = 2,
+					},
+					[13759] = {
+						["completed"] = 1532206447,
+						["count"] = 2,
+						["status"] = 2,
+					},
+					[13760] = {
+						["completed"] = 1532382525,
+						["count"] = 5,
+						["status"] = 2,
+					},
+					[13761] = {
+						["completed"] = 1532382529,
+						["count"] = 5,
+						["status"] = 2,
+					},
+					[14016] = {
+						["status"] = 2,
+						["completed"] = 1531968476,
+					},
+					[14017] = {
+						["status"] = 2,
+						["completed"] = 1531968581,
+					},
+					[13725] = {
+						["status"] = 2,
+						["completed"] = 1532382564,
+					},
+					[13663] = {
+						["status"] = 2,
+						["completed"] = 1531445276,
+					},
+					[13592] = {
+						["completed"] = 1533404430,
+						["count"] = 5,
+						["status"] = 2,
+					},
+					[13667] = {
+						["status"] = 2,
+						["completed"] = 1531441013,
+					},
+					[13641] = {
+						["status"] = 2,
+						["completed"] = 1531444185,
+					},
+					[13847] = {
+						["completed"] = 1533404438,
+						["count"] = 5,
+						["status"] = 2,
 					},
 				},
 				[1417] = {
@@ -14663,14 +14677,22 @@ EQ2DBPC = {
 						["imported"] = 3,
 					},
 				},
-				[4415] = {
-					[13158] = {
+				[-366] = {
+					[8867] = {
 						["status"] = 2,
-						["completed"] = 1528163891,
+						["completed"] = 1583372314,
 					},
-					[13159] = {
+					[8870] = {
 						["status"] = 2,
-						["completed"] = 1528765979,
+						["completed"] = 1583371992,
+					},
+					[8883] = {
+						["status"] = 2,
+						["completed"] = 1583372401,
+					},
+					[8868] = {
+						["status"] = 2,
+						["completed"] = 1583372902,
 					},
 				},
 			},

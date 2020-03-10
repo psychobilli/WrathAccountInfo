@@ -17,10 +17,10 @@ AucScanData = {
 							["qryinfo"] = {
 								["serverKey"] = "Trinity-Horde",
 								["finished"] = true,
-								["sig"] = "#######",
+								["id"] = 0,
 								["scanSize"] = "Full",
 								["page"] = 1,
-								["id"] = 0,
+								["sig"] = "#######",
 							},
 						},
 						["startTime"] = 1578808012,
@@ -64,8 +64,8 @@ AucScanData = {
 						["query"] = {
 							["qryinfo"] = {
 								["serverKey"] = "Single Player Project-Horde",
-								["sig"] = "#######",
 								["id"] = 0,
+								["sig"] = "#######",
 								["scanSize"] = "Full",
 								["page"] = 17,
 								["finished"] = true,
