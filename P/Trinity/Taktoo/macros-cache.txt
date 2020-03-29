@@ -9,6 +9,24 @@ MACRO 16777217 "Follow Ashia" Ability_SteelMelee
 /follow Ashia
 /assist Ashia
 END
+MACRO 16777220 "iLevel 226" Ability_Druid_Eclipse
+.add 46157
+.add 46158
+.add 46159
+.add 46160
+.add 46161
+.add 44664
+.add 40403
+.add 45108
+.add 45491
+.add 45162
+.add 45456
+.add 45503
+.add 45148
+.add 45158
+.add 45311
+.add 45509
+END
 MACRO 16777219 "Set Rage" Ability_Racial_BloodRage
 .modify rage 100
 END

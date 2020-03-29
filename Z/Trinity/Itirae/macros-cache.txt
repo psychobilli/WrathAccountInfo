@@ -6,3 +6,22 @@ MACRO 16777218 "heal target" Ability_Druid_Flourish
 /tar Weegli
 /cast Flash Heal
 END
+MACRO 16777219 "iLevel 226" Ability_Druid_Eclipse
+.add 46163
+.add 46165
+.add 46168
+.add 46170
+.add 46172
+.add 44661
+.add 40405
+.add 45275
+.add 45557
+.add 45258
+.add 40399
+.add 45113
+.add 45466
+.add 45929
+.add 45332
+.add 49308
+.add 45713
+END

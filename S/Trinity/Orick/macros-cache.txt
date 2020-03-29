@@ -6,3 +6,22 @@ MACRO 16777218 "Full Rage" Ability_BullRush
 .revive
 .modify rage 100
 END
+MACRO 16777219 "iLevel 226" Ability_Druid_Eclipse
+.add 46162
+.add 46164
+.add 46166
+.add 46167
+.add 46169
+.add 40387
+.add 45319
+.add 45111
+.add 45139
+.add 45166
+.add 45112
+.add 45106
+.add 45148
+.add 45507
+.add 40402
+.add 45450
+.add 46339
+END

@@ -2,6 +2,25 @@ MACRO 16777217 "Follow Taktoo" Ability_SteelMelee
 /follow Taktoo
 /assist Taktoo
 END
+MACRO 16777220 "iLevel 226" Ability_Druid_Eclipse
+.add 46135
+.add 46136
+.add 46137
+.add 46139
+.add 46140
+.add 44661
+.add 40405
+.add 45275
+.add 45557
+.add 45258
+.add 40399
+.add 45113
+.add 45466
+.add 45929
+.add 45332
+.add 49308
+.add 45713
+END
 MACRO 16777219 "Summon Mats" Spell_Holy_Chastise
 .add 21877 4
 END

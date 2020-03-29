@@ -6,6 +6,8 @@ AucScanData = {
 			["Alliance"] = {
 				["scanstats"] = {
 					["ImageUpdated"] = 1556426130,
+					["LastScan"] = 1556426130,
+					["LastFullScan"] = 1556426130,
 					[0] = {
 						["serverKey"] = "Trinity-Alliance",
 						["source"] = "scan",
@@ -16,11 +18,11 @@ AucScanData = {
 						["query"] = {
 							["qryinfo"] = {
 								["serverKey"] = "Trinity-Alliance",
-								["finished"] = true,
+								["id"] = 0,
 								["sig"] = "#######",
 								["scanSize"] = "Full",
 								["page"] = 1,
-								["id"] = 0,
+								["finished"] = true,
 							},
 						},
 						["startTime"] = 1556426128,
@@ -30,17 +32,15 @@ AucScanData = {
 						["endTime"] = 1556426130,
 						["filteredCount"] = 0,
 						["currentCount"] = 55,
-						["elapsed"] = 1.483000000007451,
+						["earlyDeleteCount"] = 0,
 						["newCount"] = 55,
 						["paused"] = 0,
 						["scanCount"] = 55,
 						["wasGetAll"] = false,
-						["ended"] = 1407479.105,
 						["wasIncomplete"] = false,
-						["earlyDeleteCount"] = 0,
+						["ended"] = 1407479.105,
+						["elapsed"] = 1.483000000007451,
 					},
-					["LastFullScan"] = 1556426130,
-					["LastScan"] = 1556426130,
 				},
 				["image"] = "rope",
 				["ropes"] = {
