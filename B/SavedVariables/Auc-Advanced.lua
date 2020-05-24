@@ -16,6 +16,10 @@ AucAdvancedConfig = {
 		["util.appraiser.classic"] = false,
 		["configator.left"] = 358.5184987824678,
 		["util.appraiser.item.7048.match"] = false,
+		["util.appraiser.item.7048.number"] = -1,
+		["util.appraiser.item.15136:1106.stack"] = 1,
+		["stat.sales.ignoredsigs"] = {
+		},
 		["util.mover.anchors"] = {
 			"LEFT", -- [1]
 			nil, -- [2]
@@ -23,30 +27,26 @@ AucAdvancedConfig = {
 			44.24688532027557, -- [4]
 			98.32782503753947, -- [5]
 		},
-		["stat.sales.ignoredsigs"] = {
-		},
-		["util.appraiser.item.15136:1106.stack"] = 1,
-		["util.appraiser.item.7048.number"] = -1,
 		["configator.top"] = 651.6666923574729,
 	},
 }
 AucAdvancedData = {
 	["AserArbitrageRealms"] = {
-		["Trinity"] = "Ashia",
 		["Single Player Project"] = "Ashia",
+		["Trinity"] = "Ashia",
 	},
 	["Stats"] = {
 	},
 	["UtilSearchUiData"] = {
-		["Global"] = {
-			["configator.left"] = 308.518546243212,
-			["configator.top"] = 676.6666686271009,
-		},
+		["Version"] = 1,
 		["Current"] = {
 			["snatch.itemsList"] = {
 			},
 		},
-		["Version"] = 1,
+		["Global"] = {
+			["configator.left"] = 308.518546243212,
+			["configator.top"] = 676.6666686271009,
+		},
 		["SavedSearches"] = {
 		},
 	},

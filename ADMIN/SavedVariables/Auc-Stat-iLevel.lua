@@ -4,4 +4,6 @@ AucAdvancedStat_iLevelData = {
 	},
 	["Trinity-Horde"] = {
 	},
+	["Trinity_335-Alliance"] = {
+	},
 }

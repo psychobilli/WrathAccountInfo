@@ -22,5 +22,16 @@ AucScanData = {
 				},
 			},
 		},
+		["Trinity_335"] = {
+			["Alliance"] = {
+				["scanstats"] = {
+					["ImageUpdated"] = 1590111359,
+				},
+				["image"] = "rope",
+				["ropes"] = {
+					"return {}", -- [1]
+				},
+			},
+		},
 	},
 }

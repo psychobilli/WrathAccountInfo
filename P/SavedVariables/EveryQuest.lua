@@ -4,9 +4,9 @@ EQ2DB = {
 	["profileKeys"] = {
 		["Resk - Single Player Project"] = "global",
 		["Taktoo - Trinity"] = "global",
-		["Taktoo - Single Player Project"] = "global",
-		["Achnar - Trinity"] = "global",
 		["Resk - Trinity"] = "global",
+		["Achnar - Trinity"] = "global",
+		["Taktoo - Single Player Project"] = "global",
 	},
 	["profiles"] = {
 		["global"] = {
