@@ -1,0 +1,12 @@
+
+EveryQuestDB = nil
+EQ2DB = {
+	["profileKeys"] = {
+		["Kosaku - Trinity"] = "global",
+	},
+	["profiles"] = {
+		["global"] = {
+			["querytime"] = 1595547535,
+		},
+	},
+}

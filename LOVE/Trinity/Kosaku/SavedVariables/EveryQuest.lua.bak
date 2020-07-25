@@ -1,0 +1,22 @@
+
+EveryQuestDBPC = nil
+EQ2DBPC = {
+	["profileKeys"] = {
+		["Kosaku - Trinity"] = "global",
+	},
+	["profiles"] = {
+		["global"] = {
+			["history"] = {
+				[-372] = {
+					[12593] = {
+						["status"] = 2,
+						["completed"] = 1595547707,
+					},
+					[12619] = {
+						["status"] = 0,
+					},
+				},
+			},
+		},
+	},
+}

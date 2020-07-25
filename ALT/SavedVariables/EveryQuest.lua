@@ -7,6 +7,7 @@ EQ2DB = {
 		["Huanu - Trinity"] = "global",
 		["Pipsqueak - Trinity"] = "global",
 		["Yanzi - Trinity"] = "global",
+		["Jann - Trinity"] = "global",
 	},
 	["profiles"] = {
 		["global"] = {

@@ -2,17 +2,19 @@
 EveryQuestDB = nil
 EQ2DB = {
 	["profileKeys"] = {
-		["Itirae - Trinity"] = "global",
 		["Merton - Trinity"] = "global",
+		["Itirae - Trinity"] = "global",
 		["Ninsa - Trinity"] = "global",
 		["Itirae - Single Player Project"] = "global",
 	},
 	["profiles"] = {
 		["global"] = {
 			["unknowns"] = {
-				[10560] = "159||09/23/18||Revered Among the Sha'tar||Tempest Keep",
+				[526] = "159||07/23/20||query",
+				[26012] = "159||07/23/20||query",
+				[10560] = "159||07/23/20||query",
 			},
-			["querytime"] = 1579361857,
+			["querytime"] = 1595555285,
 		},
 	},
 }

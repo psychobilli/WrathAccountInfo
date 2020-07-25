@@ -1,0 +1,5 @@
+SET autoLootDefault "1"
+SET flaggedTutorials "v##M##:##%##Z##$##[##E"
+SET cameraDistanceMaxFactor "1"
+SET showNewbieTips "0"
+SET showTutorials "0"
