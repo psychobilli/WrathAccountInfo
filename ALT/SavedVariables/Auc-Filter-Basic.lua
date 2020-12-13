@@ -8,4 +8,8 @@ AucAdvancedFilterBasic_IgnoreList = {
 		["Alliance"] = {
 		},
 	},
+	["Trinity_335"] = {
+		["Horde"] = {
+		},
+	},
 }

@@ -9,6 +9,10 @@ EnchantConfig = {
 				["timestamp"] = 1532832915,
 				["market"] = 650000,
 			},
+			[36922] = {
+				["market"] = 1750000,
+				["timestamp"] = 1607049804,
+			},
 			[39339] = {
 				["market"] = 30000,
 				["timestamp"] = 1527712971,
@@ -16,6 +20,10 @@ EnchantConfig = {
 			[36930] = {
 				["timestamp"] = 1532832915,
 				["market"] = 250000,
+			},
+			[36934] = {
+				["market"] = 1250000,
+				["timestamp"] = 1607049804,
 			},
 			[23107] = {
 				["market"] = 20000,
@@ -85,6 +93,10 @@ EnchantConfig = {
 				["timestamp"] = 1556920499,
 				["market"] = 35000,
 			},
+			[46849] = {
+				["market"] = 320000,
+				["timestamp"] = 1607049804,
+			},
 			[1210] = {
 				["timestamp"] = 1556920490,
 				["market"] = 20000,
@@ -141,6 +153,10 @@ EnchantConfig = {
 				["timestamp"] = 1532832915,
 				["market"] = 12500,
 			},
+			[36931] = {
+				["market"] = 1400000,
+				["timestamp"] = 1607049804,
+			},
 			[11174] = {
 				["timestamp"] = 1555551092,
 				["market"] = 35000,
@@ -161,17 +177,25 @@ EnchantConfig = {
 				["market"] = 110000,
 				["timestamp"] = 1527131605,
 			},
+			[36928] = {
+				["market"] = 1750000,
+				["timestamp"] = 1607049804,
+			},
+			[36919] = {
+				["market"] = 1850000,
+				["timestamp"] = 1607049804,
+			},
 			[34055] = {
 				["timestamp"] = 1527809258,
 				["market"] = 200000,
 			},
-			[7909] = {
-				["timestamp"] = 1556920499,
-				["market"] = 60000,
-			},
 			[24243] = {
 				["market"] = 32500,
 				["timestamp"] = 1581652033,
+			},
+			[7909] = {
+				["timestamp"] = 1556920499,
+				["market"] = 60000,
 			},
 			[39151] = {
 				["market"] = 9500,
@@ -185,6 +209,10 @@ EnchantConfig = {
 				["timestamp"] = 1527428691,
 				["market"] = 20000,
 			},
+			[39340] = {
+				["market"] = 30000,
+				["timestamp"] = 1527712978,
+			},
 			[20725] = {
 				["market"] = 15000,
 				["timestamp"] = 1527219834,
@@ -197,9 +225,9 @@ EnchantConfig = {
 				["timestamp"] = 1527428691,
 				["market"] = 20000,
 			},
-			[39340] = {
-				["market"] = 30000,
-				["timestamp"] = 1527712978,
+			[23112] = {
+				["market"] = 20000,
+				["timestamp"] = 1578541414,
 			},
 			[10938] = {
 				["market"] = 4000,
@@ -213,17 +241,17 @@ EnchantConfig = {
 				["market"] = 3000,
 				["timestamp"] = 1555298807,
 			},
-			[23112] = {
-				["market"] = 20000,
-				["timestamp"] = 1578541414,
+			[43105] = {
+				["market"] = 42500,
+				["timestamp"] = 1527712971,
 			},
 			[818] = {
 				["timestamp"] = 1556851735,
 				["market"] = 7500,
 			},
-			[39342] = {
-				["timestamp"] = 1527428691,
-				["market"] = 20000,
+			[36929] = {
+				["timestamp"] = 1532832915,
+				["market"] = 21200,
 			},
 			[36917] = {
 				["timestamp"] = 1532832915,
@@ -233,13 +261,13 @@ EnchantConfig = {
 				["timestamp"] = 1532832915,
 				["market"] = 270000,
 			},
-			[39338] = {
-				["market"] = 20000,
-				["timestamp"] = 1527131601,
+			[36925] = {
+				["market"] = 1600000,
+				["timestamp"] = 1607049804,
 			},
-			[36929] = {
-				["timestamp"] = 1532832915,
-				["market"] = 21200,
+			[39342] = {
+				["timestamp"] = 1527428691,
+				["market"] = 20000,
 			},
 			[36933] = {
 				["timestamp"] = 1532832915,
@@ -249,13 +277,13 @@ EnchantConfig = {
 				["timestamp"] = 1556920499,
 				["market"] = 190000,
 			},
-			[36926] = {
-				["timestamp"] = 1532832915,
-				["market"] = 10500,
+			[11137] = {
+				["timestamp"] = 1536529404,
+				["market"] = 11000,
 			},
-			[43105] = {
-				["market"] = 42500,
-				["timestamp"] = 1527712971,
+			[39338] = {
+				["market"] = 20000,
+				["timestamp"] = 1527131601,
 			},
 			[1529] = {
 				["timestamp"] = 1556920490,
@@ -265,29 +293,37 @@ EnchantConfig = {
 				["timestamp"] = 1556920499,
 				["market"] = 230000,
 			},
-			[23440] = {
-				["market"] = 45000,
-				["timestamp"] = 1581652087,
+			[34052] = {
+				["timestamp"] = 1526216182,
+				["market"] = 140000,
 			},
 			[11082] = {
 				["market"] = 6000,
 				["timestamp"] = 1555298813,
 			},
-			[23436] = {
-				["market"] = 45000,
-				["timestamp"] = 1581652087,
+			[11083] = {
+				["timestamp"] = 1553480880,
+				["market"] = 5000,
 			},
 			[11084] = {
 				["market"] = 6000,
 				["timestamp"] = 1555298813,
 			},
-			[34052] = {
-				["timestamp"] = 1526216182,
-				["market"] = 140000,
+			[23440] = {
+				["market"] = 45000,
+				["timestamp"] = 1581652087,
 			},
 			[34056] = {
 				["timestamp"] = 1527809538,
 				["market"] = 75000,
+			},
+			[23438] = {
+				["market"] = 45000,
+				["timestamp"] = 1581652087,
+			},
+			[23436] = {
+				["market"] = 45000,
+				["timestamp"] = 1581652087,
 			},
 			[1705] = {
 				["timestamp"] = 1556920490,
@@ -297,21 +333,13 @@ EnchantConfig = {
 				["market"] = 7500,
 				["timestamp"] = 1527131601,
 			},
-			[11083] = {
-				["timestamp"] = 1553480880,
-				["market"] = 5000,
-			},
-			[11137] = {
-				["timestamp"] = 1536529404,
-				["market"] = 11000,
-			},
 			[12361] = {
 				["timestamp"] = 1556920499,
 				["market"] = 110000,
 			},
-			[23438] = {
-				["market"] = 45000,
-				["timestamp"] = 1581652087,
+			[36926] = {
+				["timestamp"] = 1532832915,
+				["market"] = 10500,
 			},
 			[10978] = {
 				["timestamp"] = 1533867275,
@@ -375,18 +403,18 @@ EnchantConfig = {
 			[3356] = "Kingsblood#|cffffffff|Hitem:3356:0:0:0:0:0:0:0:70|h[Kingsblood]|h|r#1#24#0#Trade Goods#Herb#20##Interface\\Icons\\INV_Misc_Herb_03",
 			[18256] = "Imbued Vial#|cffffffff|Hitem:18256:0:0:0:0:0:0:0|h[Imbued Vial]|h|r#1#55#0#Trade Goods#Other#20##Interface\\Icons\\INV_Drink_06",
 			[36919] = "Cardinal Ruby#|cffa335ee|Hitem:36919:0:0:0:0:0:0:0:80|h[Cardinal Ruby]|h|r#4#85#0#Gem#Red#20##Interface\\Icons\\inv_jewelcrafting_gem_36",
-			[23117] = "Azure Moonstone#|cff1eff00|Hitem:23117:0:0:0:0:0:0:0:68|h[Azure Moonstone]|h|r#2#65#0#Gem#Blue#20##Interface\\Icons\\INV_Misc_Gem_AzureDraenite_03",
+			[23117] = "Azure Moonstone#|cff1eff00|Hitem:23117:0:0:0:0:0:0:0:74|h[Azure Moonstone]|h|r#2#65#0#Gem#Blue#20##Interface\\Icons\\INV_Misc_Gem_AzureDraenite_03",
 			[11082] = "Greater Astral Essence#|cff1eff00|Hitem:11082:0:0:0:0:0:0:0:59|h[Greater Astral Essence]|h|r#2#25#0#Trade Goods#Enchanting#10##Interface\\Icons\\INV_Enchant_EssenceAstralLarge",
 			[11084] = "Large Glimmering Shard#|cff0070dd|Hitem:11084:0:0:0:0:0:0:0:59|h[Large Glimmering Shard]|h|r#3#25#0#Trade Goods#Enchanting#20##Interface\\Icons\\INV_Enchant_ShardGlimmeringLarge",
 			[12361] = "Blue Sapphire#|cff1eff00|Hitem:12361:0:0:0:0:0:0:0:61|h[Blue Sapphire]|h|r#2#55#0#Gem#Simple#20##Interface\\Icons\\INV_Misc_Gem_Sapphire_02",
 			[43103] = "Verdant Pigment#|cff1eff00|Hitem:43103:0:0:0:0:0:0:0:61|h[Verdant Pigment]|h|r#2#20#0#Trade Goods#Other#20##Interface\\Icons\\INV_Inscription_Pigment_Verdant",
 			[16202] = "Lesser Eternal Essence#|cff1eff00|Hitem:16202:0:0:0:0:0:0:0:58|h[Lesser Eternal Essence]|h|r#2#50#0#Trade Goods#Enchanting#10##Interface\\Icons\\INV_Enchant_EssenceEternalSmall",
 			[16204] = "Illusion Dust#|cffffffff|Hitem:16204:0:0:0:0:0:0:0:68|h[Illusion Dust]|h|r#1#55#0#Trade Goods#Enchanting#20##Interface\\Icons\\INV_Enchant_DustIllusion",
-			[23424] = "Fel Iron Ore#|cffffffff|Hitem:23424:0:0:0:0:0:0:0:68|h[Fel Iron Ore]|h|r#1#60#0#Trade Goods#Metal & Stone#20##Interface\\Icons\\INV_Ore_FelIron",
+			[23424] = "Fel Iron Ore#|cffffffff|Hitem:23424:0:0:0:0:0:0:0:77|h[Fel Iron Ore]|h|r#1#60#0#Trade Goods#Metal & Stone#20##Interface\\Icons\\INV_Ore_FelIron",
 			[39334] = "Dusky Pigment#|cffffffff|Hitem:39334:0:0:0:0:0:0:0:61|h[Dusky Pigment]|h|r#1#10#0#Trade Goods#Other#20##Interface\\Icons\\INV_Inscription_Pigment_Grey",
 			[39342] = "Nether Pigment#|cffffffff|Hitem:39342:0:0:0:0:0:0:0:70|h[Nether Pigment]|h|r#1#60#0#Trade Goods#Other#20##Interface\\Icons\\INV_Inscription_Pigment_Nether",
-			[23436] = "Living Ruby#|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:68|h[Living Ruby]|h|r#3#70#0#Gem#Red#20##Interface\\Icons\\INV_Jewelcrafting_LivingRuby_02",
-			[23440] = "Dawnstone#|cff0070dd|Hitem:23440:0:0:0:0:0:0:0:68|h[Dawnstone]|h|r#3#70#0#Gem#Yellow#20##Interface\\Icons\\INV_Jewelcrafting_Dawnstone_02",
+			[23436] = "Living Ruby#|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:74|h[Living Ruby]|h|r#3#70#0#Gem#Red#20##Interface\\Icons\\INV_Jewelcrafting_LivingRuby_02",
+			[23440] = "Dawnstone#|cff0070dd|Hitem:23440:0:0:0:0:0:0:0:74|h[Dawnstone]|h|r#3#70#0#Gem#Yellow#20##Interface\\Icons\\INV_Jewelcrafting_Dawnstone_02",
 			[23448] = "Felsteel Bar#|cff1eff00|Hitem:23448:0:0:0:0:0:0:0|h[Felsteel Bar]|h|r#2#60#0#Trade Goods#Metal & Stone#20##Interface\\Icons\\INV_Ingot_Felsteel",
 			[39151] = "Alabaster Pigment#|cffffffff|Hitem:39151:0:0:0:0:0:0:0:61|h[Alabaster Pigment]|h|r#1#1#0#Trade Goods#Other#20##Interface\\Icons\\INV_Inscription_Pigment_White",
 			[6217] = "Copper Rod#|cffffffff|Hitem:6217:0:0:0:0:0:0:0|h[Copper Rod]|h|r#1#5#0#Trade Goods#Enchanting#1##Interface\\Icons\\INV_Misc_Flute_01",
@@ -418,8 +446,8 @@ EnchantConfig = {
 			[17034] = "Maple Seed#|cffffffff|Hitem:17034:0:0:0:0:0:0:0|h[Maple Seed]|h|r#1#20#0#Miscellaneous#Reagent#20##Interface\\Icons\\INV_Misc_Food_02",
 			[24186] = "Copper Powder#|cff9d9d9d|Hitem:24186:0:0:0:0:0:0:0:20|h[Copper Powder]|h|r#0#10#0#Miscellaneous#Junk#20##Interface\\Icons\\INV_Misc_Powder_Copper",
 			[24190] = "Iron Powder#|cff9d9d9d|Hitem:24190:0:0:0:0:0:0:0:20|h[Iron Powder]|h|r#0#30#0#Miscellaneous#Junk#20##Interface\\Icons\\INV_Misc_Powder_Iron",
-			[23437] = "Talasite#|cff0070dd|Hitem:23437:0:0:0:0:0:0:0:68|h[Talasite]|h|r#3#70#0#Gem#Green#20##Interface\\Icons\\INV_Jewelcrafting_Talasite_02",
-			[23441] = "Nightseye#|cff0070dd|Hitem:23441:0:0:0:0:0:0:0:68|h[Nightseye]|h|r#3#70#0#Gem#Purple#20##Interface\\Icons\\INV_Jewelcrafting_Nightseye_02",
+			[23437] = "Talasite#|cff0070dd|Hitem:23437:0:0:0:0:0:0:0:74|h[Talasite]|h|r#3#70#0#Gem#Green#20##Interface\\Icons\\INV_Jewelcrafting_Talasite_02",
+			[23441] = "Nightseye#|cff0070dd|Hitem:23441:0:0:0:0:0:0:0:74|h[Nightseye]|h|r#3#70#0#Gem#Purple#20##Interface\\Icons\\INV_Jewelcrafting_Nightseye_02",
 			[23445] = "Fel Iron Bar#|cffffffff|Hitem:23445:0:0:0:0:0:0:0|h[Fel Iron Bar]|h|r#1#60#0#Trade Goods#Metal & Stone#20##Interface\\Icons\\INV_Ingot_FelIron",
 			[23449] = "Khorium Bar#|cff1eff00|Hitem:23449:0:0:0:0:0:0:0|h[Khorium Bar]|h|r#2#70#0#Trade Goods#Metal & Stone#20##Interface\\Icons\\INV_Ingot_09",
 			[7972] = "Ichor of Undeath#|cffffffff|Hitem:7972:0:0:0:0:0:0:0:70|h[Ichor of Undeath]|h|r#1#45#0#Trade Goods#Elemental#10##Interface\\Icons\\INV_Misc_Slime_01",
@@ -429,7 +457,7 @@ EnchantConfig = {
 			[22457] = "Primal Mana#|cff1eff00|Hitem:22457:0:0:0:0:0:0:0:70|h[Primal Mana]|h|r#2#65#0#Trade Goods#Elemental#20##Interface\\Icons\\INV_Elemental_Primal_Mana",
 			[10620] = "Thorium Ore#|cffffffff|Hitem:10620:0:0:0:0:0:0:0:63|h[Thorium Ore]|h|r#1#40#0#Trade Goods#Metal & Stone#20##Interface\\Icons\\INV_Ore_Thorium_02",
 			[9224] = "Elixir of Demonslaying#|cffffffff|Hitem:9224:0:0:0:0:0:0:0:70|h[Elixir of Demonslaying]|h|r#1#50#40#Consumable#Elixir#20##Interface\\Icons\\INV_Potion_27",
-			[36927] = "Twilight Opal#|cff0070dd|Hitem:36927:0:0:0:0:0:0:0:80|h[Twilight Opal]|h|r#3#80#0#Gem#Purple#20##Interface\\Icons\\INV_Jewelcrafting_Gem_06",
+			[36927] = "Twilight Opal#|cff0070dd|Hitem:36927:0:0:0:0:0:0:0:74|h[Twilight Opal]|h|r#3#80#0#Gem#Purple#20##Interface\\Icons\\INV_Jewelcrafting_Gem_06",
 			[46849] = "Titanium Powder#|cff1eff00|Hitem:46849:0:0:0:0:0:0:0:80|h[Titanium Powder]|h|r#2#80#0#Trade Goods#Enchanting#20##Interface\\Icons\\INV_Misc_Dust_03",
 			[12800] = "Azerothian Diamond#|cff1eff00|Hitem:12800:0:0:0:0:0:0:0:61|h[Azerothian Diamond]|h|r#2#60#0#Gem#Simple#20##Interface\\Icons\\INV_Misc_Gem_Diamond_01",
 			[36930] = "Monarch Topaz#|cff0070dd|Hitem:36930:0:0:0:0:0:0:0:80|h[Monarch Topaz]|h|r#3#80#0#Gem#Orange#20##Interface\\Icons\\INV_Jewelcrafting_Gem_02",
@@ -444,9 +472,9 @@ EnchantConfig = {
 			[24188] = "Tin Powder#|cff9d9d9d|Hitem:24188:0:0:0:0:0:0:0:20|h[Tin Powder]|h|r#0#10#0#Miscellaneous#Junk#20##Interface\\Icons\\INV_Misc_Powder_Tin",
 			[11130] = "Runed Golden Rod#|cffffffff|Hitem:11130:0:0:0:0:0:0:0|h[Runed Golden Rod]|h|r#1#30#0#Trade Goods#Trade Goods#1##Interface\\Icons\\INV_Staff_10",
 			[7067] = "Elemental Earth#|cffffffff|Hitem:7067:0:0:0:0:0:0:0:70|h[Elemental Earth]|h|r#1#25#0#Trade Goods#Elemental#10##Interface\\Icons\\INV_Ore_Iron_01",
-			[7068] = "Elemental Fire#|cffffffff|Hitem:7068:0:0:0:0:0:0:0:70|h[Elemental Fire]|h|r#1#25#0#Trade Goods#Elemental#10##Interface\\Icons\\Spell_Fire_Fire",
+			[6048] = "Shadow Protection Potion#|cffffffff|Hitem:6048:0:0:0:0:0:0:0:70|h[Shadow Protection Potion]|h|r#1#27#17#Consumable#Potion#5##Interface\\Icons\\INV_Potion_44",
 			[30183] = "Nether Vortex#|cffa335ee|Hitem:30183:0:0:0:0:0:0:0|h[Nether Vortex]|h|r#4#75#0#Trade Goods#Materials#20##Interface\\Icons\\INV_Elemental_Mote_Nether",
-			[22792] = "Nightmare Vine#|cffffffff|Hitem:22792:0:0:0:0:0:0:0|h[Nightmare Vine]|h|r#1#73#0#Trade Goods#Herb#20##Interface\\Icons\\INV_Misc_Herb_Nightmarevine",
+			[7068] = "Elemental Fire#|cffffffff|Hitem:7068:0:0:0:0:0:0:0:70|h[Elemental Fire]|h|r#1#25#0#Trade Goods#Elemental#10##Interface\\Icons\\Spell_Fire_Fire",
 			[36922] = "King's Amber#|cffa335ee|Hitem:36922:0:0:0:0:0:0:0:80|h[King's Amber]|h|r#4#85#0#Gem#Yellow#20##Interface\\Icons\\inv_jewelcrafting_gem_36",
 			[7070] = "Elemental Water#|cffffffff|Hitem:7070:0:0:0:0:0:0:0|h[Elemental Water]|h|r#1#25#0#Reagent#Reagent#10##Interface\\Icons\\INV_Potion_03",
 			[39343] = "Azure Pigment#|cffffffff|Hitem:39343:0:0:0:0:0:0:0:70|h[Azure Pigment]|h|r#1#70#0#Trade Goods#Other#20##Interface\\Icons\\INV_Inscription_Pigment_Azure",
@@ -461,7 +489,7 @@ EnchantConfig = {
 			[7080] = "Essence of Water#|cff1eff00|Hitem:7080:0:0:0:0:0:0:0:70|h[Essence of Water]|h|r#2#55#0#Trade Goods#Elemental#10##Interface\\Icons\\Spell_Nature_Acid_01",
 			[7081] = "Breath of Wind#|cffffffff|Hitem:7081:0:0:0:0:0:0:0:70|h[Breath of Wind]|h|r#1#45#0#Trade Goods#Elemental#10##Interface\\Icons\\Spell_Nature_Cyclone",
 			[7082] = "Essence of Air#|cff1eff00|Hitem:7082:0:0:0:0:0:0:0:70|h[Essence of Air]|h|r#2#55#0#Trade Goods#Elemental#10##Interface\\Icons\\Spell_Nature_EarthBind",
-			[23107] = "Shadow Draenite#|cff1eff00|Hitem:23107:0:0:0:0:0:0:0:68|h[Shadow Draenite]|h|r#2#65#0#Gem#Purple#20##Interface\\Icons\\INV_Misc_Gem_EbonDraenite_03",
+			[23107] = "Shadow Draenite#|cff1eff00|Hitem:23107:0:0:0:0:0:0:0:74|h[Shadow Draenite]|h|r#2#65#0#Gem#Purple#20##Interface\\Icons\\INV_Misc_Gem_EbonDraenite_03",
 			[13467] = "Icecap#|cffffffff|Hitem:13467:0:0:0:0:0:0:0:70|h[Icecap]|h|r#1#58#0#Trade Goods#Herb#20##Interface\\Icons\\INV_Misc_Herb_IceCap",
 			[36923] = "Chalcedony#|cff1eff00|Hitem:36923:0:0:0:0:0:0:0:80|h[Chalcedony]|h|r#2#75#0#Gem#Blue#20##Interface\\Icons\\INV_Jewelcrafting_Gem_10",
 			[36931] = "Ametrine#|cffa335ee|Hitem:36931:0:0:0:0:0:0:0:80|h[Ametrine]|h|r#4#85#0#Gem#Orange#20##Interface\\Icons\\inv_jewelcrafting_gem_33",
@@ -497,7 +525,7 @@ EnchantConfig = {
 			[34054] = "Infinite Dust#|cffffffff|Hitem:34054:0:0:0:0:0:0:0:80|h[Infinite Dust]|h|r#1#70#0#Trade Goods#Enchanting#20##Interface\\Icons\\INV_Misc_Dust_Infinite",
 			[36924] = "Sky Sapphire#|cff0070dd|Hitem:36924:0:0:0:0:0:0:0:80|h[Sky Sapphire]|h|r#3#80#0#Gem#Blue#20##Interface\\Icons\\INV_Jewelcrafting_Gem_05",
 			[36932] = "Dark Jade#|cff1eff00|Hitem:36932:0:0:0:0:0:0:0:80|h[Dark Jade]|h|r#2#75#0#Gem#Green#20##Interface\\Icons\\INV_Jewelcrafting_Gem_07",
-			[23077] = "Blood Garnet#|cff1eff00|Hitem:23077:0:0:0:0:0:0:0:68|h[Blood Garnet]|h|r#2#65#0#Gem#Red#20##Interface\\Icons\\INV_Misc_Gem_BloodGem_03",
+			[23077] = "Blood Garnet#|cff1eff00|Hitem:23077:0:0:0:0:0:0:0:74|h[Blood Garnet]|h|r#2#65#0#Gem#Red#20##Interface\\Icons\\INV_Misc_Gem_BloodGem_03",
 			[24243] = "Adamantite Powder#|cffffffff|Hitem:24243:0:0:0:0:0:0:0:68|h[Adamantite Powder]|h|r#1#70#0#Trade Goods#Jewelcrafting#20##Interface\\Icons\\INV_Misc_Powder_Adamantite",
 			[13446] = "Major Healing Potion#|cffffffff|Hitem:13446:0:0:0:0:0:0:0:70|h[Major Healing Potion]|h|r#1#55#45#Consumable#Potion#5##Interface\\Icons\\INV_Potion_54",
 			[24242] = "Fel Iron Powder#|cff9d9d9d|Hitem:24242:0:0:0:0:0:0:0:20|h[Fel Iron Powder]|h|r#0#60#0#Miscellaneous#Junk#20##Interface\\Icons\\INV_Misc_Powder_Feliron",
@@ -506,12 +534,12 @@ EnchantConfig = {
 			[43108] = "Ebon Pigment#|cff1eff00|Hitem:43108:0:0:0:0:0:0:0:70|h[Ebon Pigment]|h|r#2#70#0#Trade Goods#Other#20##Interface\\Icons\\INV_Inscription_Pigment_Ebon",
 			[43116] = "Lion's Ink#|cffffffff|Hitem:43116:0:0:0:0:0:0:0:70|h[Lion's Ink]|h|r#1#20#0#Trade Goods#Parts#20##Interface\\Icons\\INV_Inscription_InkYellow02",
 			[23446] = "Adamantite Bar#|cffffffff|Hitem:23446:0:0:0:0:0:0:0|h[Adamantite Bar]|h|r#1#65#0#Trade Goods#Metal & Stone#20##Interface\\Icons\\INV_Ingot_10",
-			[11175] = "Greater Nether Essence#|cff1eff00|Hitem:11175:0:0:0:0:0:0:0:66|h[Greater Nether Essence]|h|r#2#45#0#Trade Goods#Enchanting#10##Interface\\Icons\\INV_Enchant_EssenceNetherLarge",
-			[22793] = "Mana Thistle#|cffffffff|Hitem:22793:0:0:0:0:0:0:0|h[Mana Thistle]|h|r#1#75#0#Trade Goods#Herb#20##Interface\\Icons\\INV_Misc_Herb_Manathistle",
 			[8153] = "Wildvine#|cffffffff|Hitem:8153:0:0:0:0:0:0:0|h[Wildvine]|h|r#1#40#0#Trade Goods#Herb#20##Interface\\Icons\\INV_Misc_Herb_03",
+			[22793] = "Mana Thistle#|cffffffff|Hitem:22793:0:0:0:0:0:0:0|h[Mana Thistle]|h|r#1#75#0#Trade Goods#Herb#20##Interface\\Icons\\INV_Misc_Herb_Manathistle",
+			[3829] = "Frost Oil#|cffffffff|Hitem:3829:0:0:0:0:0:0:0|h[Frost Oil]|h|r#1#40#30#Consumable#Other#5##Interface\\Icons\\INV_Potion_20",
 			[22789] = "Terocone#|cffffffff|Hitem:22789:0:0:0:0:0:0:0|h[Terocone]|h|r#1#60#0#Trade Goods#Herb#20##Interface\\Icons\\INV_Misc_Herb_Terrocone",
 			[39339] = "Emerald Pigment#|cffffffff|Hitem:39339:0:0:0:0:0:0:0:61|h[Emerald Pigment]|h|r#1#30#0#Trade Goods#Other#20##Interface\\Icons\\INV_Inscription_Pigment_Emerald",
-			[3829] = "Frost Oil#|cffffffff|Hitem:3829:0:0:0:0:0:0:0|h[Frost Oil]|h|r#1#40#30#Consumable#Other#5##Interface\\Icons\\INV_Potion_20",
+			[11175] = "Greater Nether Essence#|cff1eff00|Hitem:11175:0:0:0:0:0:0:0:66|h[Greater Nether Essence]|h|r#2#45#0#Trade Goods#Enchanting#10##Interface\\Icons\\INV_Enchant_EssenceNetherLarge",
 			[11177] = "Small Radiant Shard#|cff0070dd|Hitem:11177:0:0:0:0:0:0:0:68|h[Small Radiant Shard]|h|r#3#40#0#Trade Goods#Enchanting#20##Interface\\Icons\\INV_Enchant_ShardRadientSmall",
 			[6370] = "Blackmouth Oil#|cffffffff|Hitem:6370:0:0:0:0:0:0:0:70|h[Blackmouth Oil]|h|r#1#15#0#Trade Goods#Other#20##Interface\\Icons\\INV_Drink_12",
 			[6371] = "Fire Oil#|cffffffff|Hitem:6371:0:0:0:0:0:0:0:57|h[Fire Oil]|h|r#1#25#0#Trade Goods#Other#20##Interface\\Icons\\INV_Potion_38",
@@ -522,29 +550,29 @@ EnchantConfig = {
 			[34056] = "Lesser Cosmic Essence#|cff1eff00|Hitem:34056:0:0:0:0:0:0:0:80|h[Lesser Cosmic Essence]|h|r#2#70#0#Trade Goods#Enchanting#10##Interface\\Icons\\INV_Enchant_EssenceCosmicLesser",
 			[10938] = "Lesser Magic Essence#|cff1eff00|Hitem:10938:0:0:0:0:0:0:0:59|h[Lesser Magic Essence]|h|r#2#10#0#Trade Goods#Enchanting#10##Interface\\Icons\\INV_Enchant_EssenceMagicSmall",
 			[10940] = "Strange Dust#|cffffffff|Hitem:10940:0:0:0:0:0:0:0:58|h[Strange Dust]|h|r#1#10#0#Trade Goods#Enchanting#20##Interface\\Icons\\INV_Enchant_DustStrange",
-			[7909] = "Aquamarine#|cff1eff00|Hitem:7909:0:0:0:0:0:0:0:68|h[Aquamarine]|h|r#2#45#0#Gem#Simple#20##Interface\\Icons\\INV_Misc_Gem_Crystal_02",
-			[7910] = "Star Ruby#|cff1eff00|Hitem:7910:0:0:0:0:0:0:0:68|h[Star Ruby]|h|r#2#50#0#Gem#Simple#20##Interface\\Icons\\INV_Misc_Gem_Ruby_02",
+			[7909] = "Aquamarine#|cff1eff00|Hitem:7909:0:0:0:0:0:0:0:73|h[Aquamarine]|h|r#2#45#0#Gem#Simple#20##Interface\\Icons\\INV_Misc_Gem_Crystal_02",
+			[7910] = "Star Ruby#|cff1eff00|Hitem:7910:0:0:0:0:0:0:0:73|h[Star Ruby]|h|r#2#50#0#Gem#Simple#20##Interface\\Icons\\INV_Misc_Gem_Ruby_02",
 			[34052] = "Dream Shard#|cff0070dd|Hitem:34052:0:0:0:0:0:0:0:80|h[Dream Shard]|h|r#3#80#0#Trade Goods#Enchanting#20##Interface\\Icons\\INV_Enchant_DreamShard_02",
-			[36909] = "Cobalt Ore#|cffffffff|Hitem:36909:0:0:0:0:0:0:0:68|h[Cobalt Ore]|h|r#1#72#0#Trade Goods#Metal & Stone#20##Interface\\Icons\\INV_Ore_Cobalt",
-			[23112] = "Golden Draenite#|cff1eff00|Hitem:23112:0:0:0:0:0:0:0:68|h[Golden Draenite]|h|r#2#65#0#Gem#Yellow#20##Interface\\Icons\\INV_Misc_Gem_GoldenDraenite_03",
+			[36909] = "Cobalt Ore#|cffffffff|Hitem:36909:0:0:0:0:0:0:0:77|h[Cobalt Ore]|h|r#1#72#0#Trade Goods#Metal & Stone#20##Interface\\Icons\\INV_Ore_Cobalt",
+			[23112] = "Golden Draenite#|cff1eff00|Hitem:23112:0:0:0:0:0:0:0:74|h[Golden Draenite]|h|r#2#65#0#Gem#Yellow#20##Interface\\Icons\\INV_Misc_Gem_GoldenDraenite_03",
 			[36925] = "Majestic Zircon#|cffa335ee|Hitem:36925:0:0:0:0:0:0:0:80|h[Majestic Zircon]|h|r#4#85#0#Gem#Blue#20##Interface\\Icons\\inv_jewelcrafting_gem_35",
 			[36933] = "Forest Emerald#|cff0070dd|Hitem:36933:0:0:0:0:0:0:0:80|h[Forest Emerald]|h|r#3#80#0#Gem#Green#20##Interface\\Icons\\INV_Jewelcrafting_Gem_01",
 			[12364] = "Huge Emerald#|cff1eff00|Hitem:12364:0:0:0:0:0:0:0:61|h[Huge Emerald]|h|r#2#60#0#Gem#Simple#20##Interface\\Icons\\INV_Misc_Gem_Emerald_01",
 			[22449] = "Large Prismatic Shard#|cff0070dd|Hitem:22449:0:0:0:0:0:0:0:68|h[Large Prismatic Shard]|h|r#3#70#0#Trade Goods#Enchanting#20##Interface\\Icons\\INV_Enchant_ShardPrismaticLarge",
 			[22448] = "Small Prismatic Shard#|cff0070dd|Hitem:22448:0:0:0:0:0:0:0:68|h[Small Prismatic Shard]|h|r#3#65#0#Trade Goods#Enchanting#20##Interface\\Icons\\INV_Enchant_ShardPrismaticSmall",
-			[23079] = "Deep Peridot#|cff1eff00|Hitem:23079:0:0:0:0:0:0:0:68|h[Deep Peridot]|h|r#2#65#0#Gem#Green#20##Interface\\Icons\\INV_Misc_Gem_DeepPeridot_03",
-			[21929] = "Flame Spessarite#|cff1eff00|Hitem:21929:0:0:0:0:0:0:0:68|h[Flame Spessarite]|h|r#2#65#0#Gem#Orange#20##Interface\\Icons\\INV_Misc_Gem_FlameSpessarite_03",
+			[23079] = "Deep Peridot#|cff1eff00|Hitem:23079:0:0:0:0:0:0:0:74|h[Deep Peridot]|h|r#2#65#0#Gem#Green#20##Interface\\Icons\\INV_Misc_Gem_DeepPeridot_03",
+			[21929] = "Flame Spessarite#|cff1eff00|Hitem:21929:0:0:0:0:0:0:0:74|h[Flame Spessarite]|h|r#2#65#0#Gem#Orange#20##Interface\\Icons\\INV_Misc_Gem_FlameSpessarite_03",
 			[36918] = "Scarlet Ruby#|cff0070dd|Hitem:36918:0:0:0:0:0:0:0:80|h[Scarlet Ruby]|h|r#3#80#0#Gem#Red#20##Interface\\Icons\\INV_Jewelcrafting_Gem_04",
 			[43109] = "Icy Pigment#|cff1eff00|Hitem:43109:0:0:0:0:0:0:0:70|h[Icy Pigment]|h|r#2#80#0#Trade Goods#Other#20##Interface\\Icons\\INV_Inscription_Pigment_Icy",
 			[36934] = "Eye of Zul#|cffa335ee|Hitem:36934:0:0:0:0:0:0:0:80|h[Eye of Zul]|h|r#4#85#0#Gem#Green#20##Interface\\Icons\\inv_jewelcrafting_gem_34",
-			[6048] = "Shadow Protection Potion#|cffffffff|Hitem:6048:0:0:0:0:0:0:0:70|h[Shadow Protection Potion]|h|r#1#27#17#Consumable#Potion#5##Interface\\Icons\\INV_Potion_44",
+			[22792] = "Nightmare Vine#|cffffffff|Hitem:22792:0:0:0:0:0:0:0|h[Nightmare Vine]|h|r#1#73#0#Trade Goods#Herb#20##Interface\\Icons\\INV_Misc_Herb_Nightmarevine",
 			[21885] = "Primal Water#|cff1eff00|Hitem:21885:0:0:0:0:0:0:0:70|h[Primal Water]|h|r#2#65#0#Trade Goods#Elemental#20##Interface\\Icons\\INV_Elemental_Primal_Water",
 			[39469] = "Moonglow Ink#|cffffffff|Hitem:39469:0:0:0:0:0:0:0:70|h[Moonglow Ink]|h|r#1#1#0#Trade Goods#Parts#20##Interface\\Icons\\INV_Inscription_InkWhite02",
 			[10978] = "Small Glimmering Shard#|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:59|h[Small Glimmering Shard]|h|r#3#20#0#Trade Goods#Enchanting#20##Interface\\Icons\\INV_Enchant_ShardGlimmeringSmall",
 			[23427] = "Eternium Ore#|cff1eff00|Hitem:23427:0:0:0:0:0:0:0:70|h[Eternium Ore]|h|r#2#70#0#Trade Goods#Metal & Stone#20##Interface\\Icons\\INV_Ore_Eternium",
 			[39340] = "Violet Pigment#|cffffffff|Hitem:39340:0:0:0:0:0:0:0:68|h[Violet Pigment]|h|r#1#40#0#Trade Goods#Other#20##Interface\\Icons\\INV_Inscription_Pigment_Violet",
 			[39501] = "Heavy Parchment#|cffffffff|Hitem:39501:0:0:0:0:0:0:0:70|h[Heavy Parchment]|h|r#1#60#0#Trade Goods#Other#20##Interface\\Icons\\INV_Misc_Note_02",
-			[23439] = "Noble Topaz#|cff0070dd|Hitem:23439:0:0:0:0:0:0:0:68|h[Noble Topaz]|h|r#3#70#0#Gem#Orange#20##Interface\\Icons\\INV_Jewelcrafting_NobleTopaz_02",
+			[23439] = "Noble Topaz#|cff0070dd|Hitem:23439:0:0:0:0:0:0:0:74|h[Noble Topaz]|h|r#3#70#0#Gem#Orange#20##Interface\\Icons\\INV_Jewelcrafting_NobleTopaz_02",
 			[5637] = "Large Fang#|cffffffff|Hitem:5637:0:0:0:0:0:0:0|h[Large Fang]|h|r#1#30#0#Trade Goods#Trade Goods#5##Interface\\Icons\\INV_Misc_Bone_08",
 			[23447] = "Eternium Bar#|cff1eff00|Hitem:23447:0:0:0:0:0:0:0|h[Eternium Bar]|h|r#2#70#0#Trade Goods#Metal & Stone#20##Interface\\Icons\\INV_Ingot_11",
 			[34053] = "Small Dream Shard#|cff0070dd|Hitem:34053:0:0:0:0:0:0:0:80|h[Small Dream Shard]|h|r#3#80#0#Trade Goods#Enchanting#20##Interface\\Icons\\INV_Enchant_DreamShard_01",

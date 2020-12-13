@@ -3,3 +3,6 @@ MACRO 16777217 "Follow Ashia" Ability_SteelMelee
 /follow Resk
 /assist Resk
 END
+MACRO 16777218 "Start Attacj" Ability_DualWield
+/startattack
+END

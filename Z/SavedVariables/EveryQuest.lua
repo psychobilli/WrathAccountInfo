@@ -10,11 +10,9 @@ EQ2DB = {
 	["profiles"] = {
 		["global"] = {
 			["unknowns"] = {
-				[526] = "159||07/23/20||query",
-				[26012] = "159||07/23/20||query",
-				[10560] = "159||07/23/20||query",
+				[11452] = "159||11/26/20||The Slumbering King||Howling Fjord",
 			},
-			["querytime"] = 1595555285,
+			["querytime"] = 1606619010,
 		},
 	},
 }

@@ -1,2 +1,2 @@
 
-SlideBarConfig = "anchor=right;position=214.74407823659"
+SlideBarConfig = "anchor=right;position=187.89381513221"
