@@ -2,13 +2,13 @@
 AucAdvancedFilterBasic = {
 }
 AucAdvancedFilterBasic_IgnoreList = {
-	["Trinity_335"] = {
+	["Trinity"] = {
 		["Horde"] = {
 		},
 		["Alliance"] = {
 		},
 	},
-	["Trinity"] = {
+	["Trinity_335"] = {
 		["Horde"] = {
 		},
 		["Alliance"] = {

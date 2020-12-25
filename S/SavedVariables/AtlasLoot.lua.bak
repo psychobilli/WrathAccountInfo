@@ -1,0 +1,30 @@
+
+AtlasLootOptions = nil
+AtlasLootDB = {
+	["profileKeys"] = {
+		["Soonin - Trinity"] = "Soonin - Trinity",
+	},
+	["profiles"] = {
+		["Soonin - Trinity"] = {
+			["AtlasType"] = "Unknown",
+			["LastBoss"] = "REPMENU",
+		},
+	},
+}
+AtlasLootWishList = {
+	["Options"] = {
+		["Soonin"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
+		},
+	},
+	["Shared"] = {
+	},
+	["Own"] = {
+		["Soonin"] = {
+		},
+	},
+}

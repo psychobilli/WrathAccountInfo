@@ -1,7 +1,7 @@
 SET minimapZoom "0"
 SET minimapInsideZoom "0"
 SET questLogCollapseFilter "-1"
-SET trackedQuests "v"
+SET trackedQuests "v$Q("
 SET trackedAchievements "v"
 SET cameraSavedDistance "15.000000"
 SET cameraSavedVehicleDistance "49.998955"

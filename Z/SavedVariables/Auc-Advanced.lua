@@ -1,20 +1,22 @@
 
 AucAdvancedConfig = {
 	["profile.Default"] = {
-		["util.automagic.uierrormsg"] = 1,
+		["stat.sales.ignoredsigs"] = {
+		},
 		["matcherlist"] = {
 			"Undercut", -- [1]
 			"BeanCount", -- [2]
 		},
+		["util.automagic.uierrormsg"] = 1,
+		["configator.left"] = 358.5184987824678,
 		["util.mover.anchors"] = {
 			"LEFT", -- [1]
 			nil, -- [2]
 			"LEFT", -- [3]
-			10.27161893317138, -- [4]
-			79.02920429190108, -- [5]
+			10.27161674477971, -- [4]
+			68.96050178726631, -- [5]
 		},
-		["stat.sales.ignoredsigs"] = {
-		},
+		["configator.top"] = 651.6666923574729,
 	},
 }
 AucAdvancedData = {

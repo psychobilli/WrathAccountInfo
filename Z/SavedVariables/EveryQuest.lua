@@ -12,7 +12,7 @@ EQ2DB = {
 			["unknowns"] = {
 				[11452] = "159||11/26/20||The Slumbering King||Howling Fjord",
 			},
-			["querytime"] = 1606619010,
+			["querytime"] = 1608494941,
 		},
 	},
 }
