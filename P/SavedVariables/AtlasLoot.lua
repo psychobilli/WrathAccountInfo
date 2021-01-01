@@ -4,6 +4,7 @@ AtlasLootDB = {
 	["profileKeys"] = {
 		["Taktoo - Trinity"] = "Taktoo - Trinity",
 		["Achnar - Trinity"] = "Achnar - Trinity",
+		["Resk - Trinity"] = "Resk - Trinity",
 	},
 	["profiles"] = {
 		["Taktoo - Trinity"] = {
@@ -12,12 +13,22 @@ AtlasLootDB = {
 		["Achnar - Trinity"] = {
 			["AtlasType"] = "Unknown",
 		},
+		["Resk - Trinity"] = {
+			["AtlasType"] = "Unknown",
+		},
 	},
 }
 AtlasLootWishList = {
 	["Shared"] = {
 	},
 	["Options"] = {
+		["Taktoo"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["AllowShareWishlist"] = true,
+			["markInTable"] = "own",
+		},
 		["Achnar"] = {
 			["AllowShareWishlistInCombat"] = true,
 			["UseDefaultWishlist"] = false,
@@ -25,7 +36,7 @@ AtlasLootWishList = {
 			["AllowShareWishlist"] = true,
 			["markInTable"] = "own",
 		},
-		["Taktoo"] = {
+		["Resk"] = {
 			["AllowShareWishlistInCombat"] = true,
 			["UseDefaultWishlist"] = false,
 			["Mark"] = true,
@@ -34,9 +45,11 @@ AtlasLootWishList = {
 		},
 	},
 	["Own"] = {
+		["Taktoo"] = {
+		},
 		["Achnar"] = {
 		},
-		["Taktoo"] = {
+		["Resk"] = {
 		},
 	},
 }

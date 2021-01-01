@@ -3,10 +3,14 @@ AtlasLootOptions = nil
 AtlasLootDB = {
 	["profileKeys"] = {
 		["Ashia - Trinity"] = "Ashia - Trinity",
+		["Rokka - Trinity"] = "Rokka - Trinity",
 		["Irrae - Trinity"] = "Irrae - Trinity",
 	},
 	["profiles"] = {
 		["Ashia - Trinity"] = {
+			["AtlasType"] = "Unknown",
+		},
+		["Rokka - Trinity"] = {
 			["AtlasType"] = "Unknown",
 		},
 		["Irrae - Trinity"] = {
@@ -18,6 +22,13 @@ AtlasLootWishList = {
 	["Shared"] = {
 	},
 	["Options"] = {
+		["Ashia"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["AllowShareWishlist"] = true,
+			["markInTable"] = "own",
+		},
 		["Irrae"] = {
 			["AllowShareWishlistInCombat"] = true,
 			["UseDefaultWishlist"] = false,
@@ -25,7 +36,7 @@ AtlasLootWishList = {
 			["AllowShareWishlist"] = true,
 			["markInTable"] = "own",
 		},
-		["Ashia"] = {
+		["Rokka"] = {
 			["AllowShareWishlistInCombat"] = true,
 			["UseDefaultWishlist"] = false,
 			["Mark"] = true,
@@ -34,9 +45,11 @@ AtlasLootWishList = {
 		},
 	},
 	["Own"] = {
+		["Ashia"] = {
+		},
 		["Irrae"] = {
 		},
-		["Ashia"] = {
+		["Rokka"] = {
 		},
 	},
 }

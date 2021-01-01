@@ -3,13 +3,13 @@ EveryQuestDB = nil
 EQ2DB = {
 	["profileKeys"] = {
 		["Evette - Trinity"] = "global",
-		["Kuada - Trinity_335"] = "global",
 		["Ugrend - Trinity"] = "global",
+		["Kuada - Trinity_335"] = "global",
 		["Huanu - Trinity"] = "global",
-		["Soklek - Trinity"] = "global",
+		["Pipsqueak - Trinity"] = "global",
 		["Yanzi - Trinity"] = "global",
 		["Jann - Trinity"] = "global",
-		["Pipsqueak - Trinity"] = "global",
+		["Soklek - Trinity"] = "global",
 	},
 	["profiles"] = {
 		["global"] = {

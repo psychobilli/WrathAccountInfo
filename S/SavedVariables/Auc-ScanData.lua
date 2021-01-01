@@ -6,7 +6,6 @@ AucScanData = {
 			["Alliance"] = {
 				["scanstats"] = {
 					["ImageUpdated"] = 1526216165,
-					["LastScan"] = 1540656457,
 					[0] = {
 						["serverKey"] = "Trinity-Alliance",
 						["source"] = "scan",
@@ -18,11 +17,11 @@ AucScanData = {
 							["name"] = "damaged necklace",
 							["qryinfo"] = {
 								["serverKey"] = "Trinity-Alliance",
-								["id"] = 0,
+								["finished"] = true,
 								["sig"] = "damaged necklace#######",
 								["scanSize"] = "Partial",
 								["page"] = 0,
-								["finished"] = true,
+								["id"] = 0,
 							},
 						},
 						["startTime"] = 1540656453,
@@ -32,15 +31,16 @@ AucScanData = {
 						["endTime"] = 1540656457,
 						["filteredCount"] = 0,
 						["currentCount"] = 0,
-						["earlyDeleteCount"] = 0,
+						["elapsed"] = 3.952000000048429,
 						["newCount"] = 0,
 						["paused"] = 0,
 						["scanCount"] = 0,
 						["wasGetAll"] = false,
-						["wasIncomplete"] = true,
 						["ended"] = 1448666.909,
-						["elapsed"] = 3.952000000048429,
+						["wasIncomplete"] = true,
+						["earlyDeleteCount"] = 0,
 					},
+					["LastScan"] = 1540656457,
 				},
 				["image"] = "rope",
 				["ropes"] = {

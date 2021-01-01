@@ -358,7 +358,7 @@ EnchantConfig = {
 				["timestamp"] = 1578541414,
 			},
 			[43109] = {
-				["timestamp"] = 1608919096,
+				["timestamp"] = 1609078281,
 				["market"] = 230000,
 			},
 			[22446] = {
@@ -386,7 +386,7 @@ EnchantConfig = {
 				["timestamp"] = 1581652087,
 			},
 			[39343] = {
-				["timestamp"] = 1608919096,
+				["timestamp"] = 1609078281,
 				["market"] = 20000,
 			},
 		},
