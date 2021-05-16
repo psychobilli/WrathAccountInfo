@@ -11,6 +11,7 @@ AtlasLootDB = {
 			["AtlasType"] = "Unknown",
 		},
 		["Ninsa - Trinity"] = {
+			["ItemIDs"] = 1,
 			["AtlasType"] = "Unknown",
 		},
 		["Merton - Trinity"] = {
@@ -19,30 +20,30 @@ AtlasLootDB = {
 	},
 }
 AtlasLootWishList = {
-	["Shared"] = {
-	},
 	["Options"] = {
 		["Itirae"] = {
 			["AllowShareWishlistInCombat"] = true,
 			["UseDefaultWishlist"] = false,
 			["Mark"] = true,
-			["AllowShareWishlist"] = true,
 			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
 		},
 		["Merton"] = {
 			["AllowShareWishlistInCombat"] = true,
 			["UseDefaultWishlist"] = false,
 			["Mark"] = true,
-			["AllowShareWishlist"] = true,
 			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
 		},
 		["Ninsa"] = {
 			["AllowShareWishlistInCombat"] = true,
 			["UseDefaultWishlist"] = false,
 			["Mark"] = true,
-			["AllowShareWishlist"] = true,
 			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
 		},
+	},
+	["Shared"] = {
 	},
 	["Own"] = {
 		["Itirae"] = {

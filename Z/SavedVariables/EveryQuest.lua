@@ -2,8 +2,8 @@
 EveryQuestDB = nil
 EQ2DB = {
 	["profileKeys"] = {
-		["Merton - Trinity"] = "global",
 		["Itirae - Trinity"] = "global",
+		["Merton - Trinity"] = "global",
 		["Ninsa - Trinity"] = "global",
 		["Itirae - Single Player Project"] = "global",
 	},
@@ -12,7 +12,7 @@ EQ2DB = {
 			["unknowns"] = {
 				[11452] = "159||11/26/20||The Slumbering King||Howling Fjord",
 			},
-			["querytime"] = 1608494941,
+			["querytime"] = 1620096921,
 		},
 	},
 }

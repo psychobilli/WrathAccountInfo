@@ -203,5 +203,13 @@ SwatterData = {
 			["context"] = "Global",
 			["stack"] = "[C]: ?\nInterface\\FrameXML\\Cooldown.lua:3: in function `CooldownFrame_SetTimer'\nInterface\\FrameXML\\WatchFrame.lua:1194: in function `WatchFrameItem_UpdateCooldown'\nInterface\\FrameXML\\WatchFrame.lua:1210: in function `WatchFrameItem_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
 		}, -- [25]
+		{
+			["message"] = "...ns\\EveryQuest\\libs\\LibQuixote-2.0\\LibQuixote-2.0.lua:280: table index is nil",
+			["count"] = 1,
+			["addons"] = "  Swatter, v5.8.4723 (CreepyKangaroo)\n  AtlasLoot, vv5.11.04\n  AtlasLootFu, vv5.11.04\n  AucAdvanced, v5.8.4723 (CreepyKangaroo)\n  AucFilterBasic, v5.8.4723 (CreepyKangaroo)\n  AucFilterOutlier, v5.8.4723.2531\n  AucMatchUndercut, v5.8.4723.2531\n  AucScanData, v5.8.4723 (CreepyKangaroo)\n  AucStatHistogram, v5.8.4723 (CreepyKangaroo)\n  AucStatiLevel, v5.8.4723 (CreepyKangaroo)\n  AucStatPurchased, v5.8.4723 (CreepyKangaroo)\n  AucStatSales, v5.8.4723.2842\n  AucStatSimple, v5.8.4723 (CreepyKangaroo)\n  AucStatStdDev, v5.8.4723 (CreepyKangaroo)\n  AucStatWOWEcon, v5.8.4723.2530\n  AucUtilAHWindowControl, v5.8.4723.3311\n  AucUtilAppraiser, v5.8.4723.2530\n  AucUtilAskPrice, v5.8.4723.3175\n  AucUtilAutoMagic, v5.8.4723.3142\n  AucUtilCompactUI, v5.8.4723.2530\n  AucUtilEasyBuyout, v5.8.4723.3583\n  AucUtilFixAH, v5.8.4723 (CreepyKangaroo)\n  AucUtilGlypher, v5.8.4723.2545\n  AucUtilItemSuggest, v5.8.4723.3108\n  AucUtilPriceLevel, v5.8.4723.2545\n  AucUtilScanButton, v5.8.4723.2530\n  AucUtilScanFinish, v5.8.4723.3576\n  AucUtilScanProgress, v5.8.4723.2530\n  AucUtilScanStart, v5.8.4723.2530\n  AucUtilSearchUI, v5.8.4723.3655\n  AucUtilSimpleAuction, v5.8.4723.4546\n  AucUtilVendMarkup, v5.8.4723.2530\n  BeanCounter, v5.8.4723 (CreepyKangaroo)\n  Enchantrix, v5.8.4723 (CreepyKangaroo)\n  EnchantrixBarker, v5.8.4723 (CreepyKangaroo)\n  EveryQuest, v2.3r161-release\n  EveryQuestEasternKingdoms, vr161-release\n  EveryQuestKalimdor, vr161-release\n  Informant, v5.8.4723 (CreepyKangaroo)\n  QuestLevelPatch, v1.0\n  SlideBar, v5.8.4723 (CreepyKangaroo)\n  Stubby, v5.8.4723 (CreepyKangaroo)\n  BlizRuntimeLib_enUS v3.3.5.30300 <10.0.0.4:3724>\n  (ck=659)\n",
+			["timestamp"] = "2021-03-28 22:14:19",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n...ns\\EveryQuest\\libs\\LibQuixote-2.0\\LibQuixote-2.0.lua:280: in function `?'\n...ns\\EveryQuest\\libs\\LibQuixote-2.0\\LibQuixote-2.0.lua:115: in function <...ns\\EveryQuest\\libs\\LibQuixote-2.0\\LibQuixote-2.0.lua:114>\n",
+		}, -- [26]
 	},
 }

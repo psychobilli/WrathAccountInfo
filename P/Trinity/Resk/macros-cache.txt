@@ -3,5 +3,5 @@ MACRO 16777217 "Follow Ashia" Ability_SteelMelee
 /follow Rokka
 END
 MACRO 16777218 "spawn lockbox" Spell_Nature_MoonKey
-.add 31952
+.add 43575
 END

@@ -18,10 +18,10 @@ AucScanData = {
 							["qryinfo"] = {
 								["serverKey"] = "Trinity-Alliance",
 								["finished"] = true,
-								["sig"] = "damaged necklace#######",
+								["id"] = 0,
 								["scanSize"] = "Partial",
 								["page"] = 0,
-								["id"] = 0,
+								["sig"] = "damaged necklace#######",
 							},
 						},
 						["startTime"] = 1540656453,

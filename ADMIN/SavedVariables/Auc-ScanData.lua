@@ -2,26 +2,6 @@
 AucScanData = {
 	["Version"] = 1.3,
 	["scans"] = {
-		["Trinity_335"] = {
-			["Horde"] = {
-				["scanstats"] = {
-					["ImageUpdated"] = 1605658943,
-				},
-				["image"] = "rope",
-				["ropes"] = {
-					"return {}", -- [1]
-				},
-			},
-			["Alliance"] = {
-				["scanstats"] = {
-					["ImageUpdated"] = 1590111359,
-				},
-				["image"] = "rope",
-				["ropes"] = {
-					"return {}", -- [1]
-				},
-			},
-		},
 		["Trinity"] = {
 			["Horde"] = {
 				["scanstats"] = {
@@ -35,6 +15,26 @@ AucScanData = {
 			["Alliance"] = {
 				["scanstats"] = {
 					["ImageUpdated"] = 1528596157,
+				},
+				["image"] = "rope",
+				["ropes"] = {
+					"return {}", -- [1]
+				},
+			},
+		},
+		["Trinity_335"] = {
+			["Horde"] = {
+				["scanstats"] = {
+					["ImageUpdated"] = 1605658943,
+				},
+				["image"] = "rope",
+				["ropes"] = {
+					"return {}", -- [1]
+				},
+			},
+			["Alliance"] = {
+				["scanstats"] = {
+					["ImageUpdated"] = 1590111359,
 				},
 				["image"] = "rope",
 				["ropes"] = {

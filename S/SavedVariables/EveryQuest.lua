@@ -13,7 +13,7 @@ EQ2DB = {
 				[11452] = "159||11/26/20||The Slumbering King||Howling Fjord",
 				[10404] = "159||05/28/18||Against the Legion||Netherstorm",
 			},
-			["querytime"] = 1608494931,
+			["querytime"] = 1620438384,
 		},
 	},
 }

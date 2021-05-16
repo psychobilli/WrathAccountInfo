@@ -74,6 +74,26 @@ MACRO 23 "Kiss" Spell_Holy_Silence
 /target Sara
 /kiss
 END
+MACRO 26 "Pest Control" Spell_Lightning_LightningBolt01
+/tar Adder
+/tar Devouring Magg
+/tar Fjord Rat
+/tar Larva
+/tar Moccasin
+/tar Rat
+/tar Scorpion
+/tar Spider
+/tar Zul'Drak R
+/tar Crystal Spi
+/tar Fire Beetle
+/tar Gold Beet
+/tar Maggot
+/tar Mouse
+/tar Roach
+/tar Snake
+/tar Underbelly R
+/stopmacro [noexists]
+END
 MACRO 16 "Ring of Law Gate" Spell_Nature_MoonKey
 .gobject activate 18280
 .gobject activate 15332
@@ -106,6 +126,29 @@ MACRO 15 "Tnris Itm Quests" Ability_Spy
 .add 9251
 .add 9252
 .add 9253
+END
+MACRO 25 "To All Squirrels" Spell_BrokenHeart
+/tar Squirrel
+/tar Chicken
+/tar Rabbit
+/tar Prairie Dog
+/tar Cow
+/tar Deer
+/tar Small Frog
+/tar Ram
+/tar Cat
+/tar Sheep
+/tar Toad
+/tar Skunk
+/tar Shore Crab
+/tar Swine
+/tar Hare
+/tar Gazelle
+/tar Fawn
+/tar Parrot
+/tar Ewe
+/stopmacro [noexists]
+/love
 END
 MACRO 20 "UBRS Portcullis" Spell_Fire_SealOfFire
 .gobject activate 87844
