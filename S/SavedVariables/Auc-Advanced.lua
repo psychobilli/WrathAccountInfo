@@ -13,8 +13,8 @@ AucAdvancedConfig = {
 			"LEFT", -- [1]
 			nil, -- [2]
 			"LEFT", -- [3]
-			13.43213246936542, -- [4]
-			93.29334248172232, -- [5]
+			14.22224799661292, -- [4]
+			94.13238935235302, -- [5]
 		},
 		["configator.top"] = 651.6666923574729,
 	},
@@ -26,15 +26,15 @@ AucAdvancedData = {
 	["Stats"] = {
 	},
 	["UtilSearchUiData"] = {
-		["Global"] = {
-			["configator.left"] = 308.518546243212,
-			["configator.top"] = 676.6666686271009,
-		},
+		["Version"] = 1,
 		["Current"] = {
 			["snatch.itemsList"] = {
 			},
 		},
-		["Version"] = 1,
+		["Global"] = {
+			["configator.left"] = 308.518546243212,
+			["configator.top"] = 676.6666686271009,
+		},
 		["SavedSearches"] = {
 		},
 	},
