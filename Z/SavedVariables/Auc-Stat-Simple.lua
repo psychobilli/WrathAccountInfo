@@ -6,7 +6,7 @@ AucAdvancedStatSimpleData = {
 			["means"] = {
 			},
 			["daily"] = {
-				["created"] = 1621712610,
+				["created"] = 1622241732,
 			},
 		},
 	},

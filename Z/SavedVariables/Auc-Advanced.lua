@@ -10,11 +10,11 @@ AucAdvancedConfig = {
 		["util.automagic.uierrormsg"] = 1,
 		["configator.left"] = 358.5184987824678,
 		["util.mover.anchors"] = {
-			"LEFT", -- [1]
+			"TOPLEFT", -- [1]
 			nil, -- [2]
-			"LEFT", -- [3]
-			29.23461480306082, -- [4]
-			63.92617241886555, -- [5]
+			"TOPLEFT", -- [3]
+			23.69630977668762, -- [4]
+			-91.10474073337518, -- [5]
 		},
 		["configator.top"] = 651.6666923574729,
 	},

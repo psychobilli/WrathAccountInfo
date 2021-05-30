@@ -10,11 +10,11 @@ AucAdvancedConfig = {
 		["util.automagic.uierrormsg"] = 1,
 		["configator.left"] = 358.5184987824678,
 		["util.mover.anchors"] = {
-			"LEFT", -- [1]
+			"TOPLEFT", -- [1]
 			nil, -- [2]
-			"LEFT", -- [3]
-			14.22224799661292, -- [4]
-			94.13238935235302, -- [5]
+			"TOPLEFT", -- [3]
+			25.2931310283779, -- [4]
+			-92.25289354958564, -- [5]
 		},
 		["configator.top"] = 651.6666923574729,
 	},
@@ -26,15 +26,15 @@ AucAdvancedData = {
 	["Stats"] = {
 	},
 	["UtilSearchUiData"] = {
-		["Version"] = 1,
-		["Current"] = {
-			["snatch.itemsList"] = {
-			},
-		},
 		["Global"] = {
 			["configator.left"] = 308.518546243212,
 			["configator.top"] = 676.6666686271009,
 		},
+		["Current"] = {
+			["snatch.itemsList"] = {
+			},
+		},
+		["Version"] = 1,
 		["SavedSearches"] = {
 		},
 	},
