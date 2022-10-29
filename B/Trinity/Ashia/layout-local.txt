@@ -15,8 +15,8 @@ W: 1
 H: 1
 Frame: EveryQuestFrame
 FrameLevel: 8
-Anchor: LEFT
+Anchor: TOPLEFT
 X: 0
-Y: 66
+Y: -62
 W: 384
 H: 512

@@ -2,7 +2,7 @@ Version: 1
 Frame: LootFrame
 FrameLevel: 10
 Anchor: CENTER
-X: -45
-Y: 52
+X: 80
+Y: 12
 W: 256
 H: 256
